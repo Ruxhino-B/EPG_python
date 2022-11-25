@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="RTSH 1">
+    <event id="0" start_time="2022-09-06 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-06 14:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-06 16:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="RRUGËTIMI DREJT KATAR 2022  ">TELEREVISTA</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në episodin e katërt do të takojmë ish-kapitenin e Marokut Med'hi Benatia; do të kalojmë një ditë te garat për të parë devetë më të shpejta në tokë si dhe do të vrapojmë nëpër shkretëtirën e Katarit duke ndjekur një nga udhëtimet ekstremisht më të vështira në botë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-06 16:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Kompozitori qe ndezi flake ne debore">Koncert</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Radio Televizioni Shqiptar, sjell një Grand Gala, premierë, nga Teatri Kombëtar i Operës, Baletit dhe Ansamblit Popullor, dedikuar figurës së artistit të madh të muzikës shqiptare, Tish Daija. Një rizgjim i veprave më të bukura të repertorit, magjia e të cilave rrugëton brez pas brezi.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-06 18:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-06 18:35:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Bota eshte e jotja">Komedi, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2018. Regjisor: Romain Gavras. Aktorë: Karim Leklou, Isabelle Adjani, Vincent Cassel. Komedi, krim. François, një shpërndarës i vogël droge, ëndërron një jetë tjetër, por e ka të pamundur për ta përballuar. Pasi merr përsipër një punë në Spanjë, planet e tij do të prishen nga banda e tij e paaftë dhe problemet e nënës së tij, e cila i ka humbur të gjitha kursimet e tij në kumar. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-06 20:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-06 21:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Loje e rrezikshme">Aksion, Krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2014. Regjisor: Justin Steele. Aktorë: George Eads, AnnaLynne McCord, Steven Seagal. Aksion, krim, thriller. Jack është një lojtar profesionist pokeri, i cili përfshihet me botën e krimit pasi humbet një bast me një lojtar të mirënjohur, Duffy-in. Për të mbrojtur familjen dhe veten e tij, Jack duhet të mundë vëllain e Duffy-t dhe për këtë arsye kërkon ndihmë nga një huadhënës i rrezikshëm.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-06 22:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Turet e Medha te Skocise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me pamje të mrekullueshme do të njihemi me bregdetin skocez, një ndërthurje mahnitëse e kepave shkëmborë dhe plazheve mbresëlënëse.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-06 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Si nje familje">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historiku i frutit të 1001 mrekullive. Nutricionistja Anila Kalleshi na rrëfen vlerat e këtij fruti, teksa, agronomi Bajram Shera na mëson se si bëhet glikoja e portokallit. 2. Me shefen Helga Beja gatuajmë një recetë me portokall. 3. Sëmundja e veshkave te fëmijët. 4. Krijimi i bizhuterive me gurë dhe kristale të ndryshme. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-07 01:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-07 02:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Kompozitori qe ndezi flake ne debore">Koncert</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Radio Televizioni Shqiptar, sjell një Grand Gala, premierë, nga Teatri Kombëtar i Operës, Baletit dhe Ansamblit Popullor, dedikuar figurës së artistit të madh të muzikës shqiptare, Tish Daija. Një rizgjim i veprave më të bukura të repertorit, magjia e të cilave rrugëton brez pas brezi.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-07 03:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="FESTIVALI I 59-TË I KËNGËS NË RTSH ">Muzike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përmbledhje e këngëve pjesëmarrëse të Festivalit të 59-të të Këngës në RTSH, i cili, megjithëse i mbajtur në kushte të jashtëzakonshme nuk kurseu aspak emocionin dhe performancat e kuruara të gjithë artistëve në garë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-07 04:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Ndertimi i Australise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është historia e një ishulli gjigand, prej 4000 km nga lindja në perëndim dhe 3000 km nga veriu në jug. Njihuni me Australinë, kontinentin më të thatë të banuar në Tokë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-07 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Miremengjes Shqiperi">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirëmëngjes Shqipëri", emisioni i mëngjesit, në 3 orë transmetim të drejtpërdrejtë, me rubrika dinamike, lajmet më të fundit nga vendi dhe bota, shtypin e ditës, motin, trafikun rrugor, ekonominë e kulturën. Nën drejtimin e Matilda Mcini dhe Florian Agalliu.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-07 08:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-07 08:25:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Turet e Medha te Skocise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me pamje të mrekullueshme do të njihemi me bregdetin skocez, një ndërthurje mahnitëse e kepave shkëmborë dhe plazheve mbresëlënëse.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-07 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Si nje familje">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historiku i frutit të 1001 mrekullive. Nutricionistja Anila Kalleshi na rrëfen vlerat e këtij fruti, teksa, agronomi Bajram Shera na mëson se si bëhet glikoja e portokallit. 2. Me shefen Helga Beja gatuajmë një recetë me portokall. 3. Sëmundja e veshkave te fëmijët. 4. Krijimi i bizhuterive me gurë dhe kristale të ndryshme. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-07 11:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-07 11:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="E PAMPOSHTURA XHUDI ">FILM</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2018. Regjisor: Sean Hanish. Aktorë: Michelle Monaghan, Leem Lubany, Common. Biografi, dramë. Bazuar në një ngjarje të vërtetë. Historia e avokates së emigracionit Judy Wood dhe lufta që bëri ajo për ndryshimin e ligjit për emigrantët që kërkojnë azil në Shtetet e Bashkuara.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-07 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Zhdukur nga stuhia">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ciklonet, ose të ashtuquajturat shpërthimi dhe zemërimi i shpirtrave stërgjyshorë. Goditjet e stuhive, dëmet e pasojat që ato lënë pas në vite. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-07 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-07 14:35:00" duration="4500">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-07 15:50:00" duration="2100">
+      <short_event_descriptor lang="alb" name="AUTOR - GJOVALIN SHKURTAJ ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjuhëtari dhe studiuesi i devotshëm i arbërishtes, prof. Gjovalin Shkurtaj, sjell një rrëfim për jetën e tij dhe kontributin e madh për gjuhësinë shqiptare. Me respekt për punëtorët e shqipes dhe hapësirën e madhe të kontributit që i ka dhënë kjo disiplinë studimeve shqiptare, Shkurtaj shpjegon sfidat për të mbajtur standarde të larta por edhe mesazhet e mëdha të ruajtjes së shqipes.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-07 16:25:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ansambli i Këngëve dhe Valleve Popullore">Koncert</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një koncert me perlat e muzikës popullore shqiptare sjellë nga brezi i ri i artistëve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-07 17:25:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Margaritari i futbollit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kushtuar mjeshtrit të futbollit, Vasillaq Zëri, në 2-vjetorin e ndarjes nga jeta. Zëri, ishte dirigjenti i Dinamos së viteve '73-'83 dhe lojtar i ekipit tonë kombëtar. Stadiumi i ri, në njërën tribunë mban emrin e tij, teksa është dekoruar me titullin "Legjenda e futbollit". </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-07 18:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-07 18:20:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Prag ndeshje Champions League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Analiza dhe komente mbi sfidat e javës së parë të sezonit 2022-23, të kompeticionit më të rëndësishëm evropian për klube, në pritje të ndeshjes Inter - Bayern Munchen.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-07 18:55:00" duration="6900">
+      <short_event_descriptor lang="alb" name="- INTER - BAYERN MUNCHEN ">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liga e Kampionëve 2022-23 starton rrugëtimin e saj drejt finalës së Stambollit. Çdo të mërkurë vjen ndeshja më e mirë e javës në ekranin e RTSH. Java e parë nis me një nga supersfidat e grupit C, për një tjetër kapitull të sfidës së perjetshme Itali-Gjermani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-07 20:50:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Post ndeshje Champions League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Analiza dhe komente, në përfundim të ndeshjes Inter - Bayern Munchen.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-07 21:20:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-07 21:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="KËRCE PËR JETËN ">Komedi, familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2018. Regjisor: Fernando Colomo. Aktorë: Paco León, Carmen Machi, Maribel del Pino.  Pas një skandali shkaktuar nga dalja e një videoje intime, Fideli, shefi ekzekutiv i një korporate të madhe, humbet gjithçka. Momenti i vështirë e ribashkon me nënën e tij e cila i rikthen dashurinë për jetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-07 23:20:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Si nje familje">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historiku i frutit të 1001 mrekullive. Nutricionistja Anila Kalleshi na rrëfen vlerat e këtij fruti, teksa, agronomi Bajram Shera na mëson se si bëhet glikoja e portokallit. 2. Me shefen Helga Beja gatuajmë një recetë me portokall. 3. Sëmundja e veshkave te fëmijët. 4. Krijimi i bizhuterive me gurë dhe kristale të ndryshme. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-08 01:20:00" duration="4500">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-08 02:35:00" duration="2100">
+      <short_event_descriptor lang="alb" name="AUTOR - GJOVALIN SHKURTAJ ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjuhëtari dhe studiuesi i devotshëm i arbërishtes, prof. Gjovalin Shkurtaj, sjell një rrëfim për jetën e tij dhe kontributin e madh për gjuhësinë shqiptare. Me respekt për punëtorët e shqipes dhe hapësirën e madhe të kontributit që i ka dhënë kjo disiplinë studimeve shqiptare, Shkurtaj shpjegon sfidat për të mbajtur standarde të larta por edhe mesazhet e mëdha të ruajtjes së shqipes.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-08 03:10:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Margaritari i futbollit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kushtuar mjeshtrit të futbollit, Vasillaq Zëri, në 2-vjetorin e ndarjes nga jeta. Zëri, ishte dirigjenti i Dinamos së viteve '73-'83 dhe lojtar i ekipit tonë kombëtar. Stadiumi i ri, në njërën tribunë mban emrin e tij, teksa është dekoruar me titullin "Legjenda e futbollit". </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-08 03:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Ansambli i Këngëve dhe Valleve Popullore">Koncert</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një koncert me perlat e muzikës popullore shqiptare sjellë nga brezi i ri i artistëve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-08 04:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Ndertimi i Australise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është historia e një ishulli gjigand, prej 4000 km nga lindja në perëndim dhe 3000 km nga veriu në jug. Njihuni me Australinë, kontinentin më të thatë të banuar në Tokë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-08 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Miremengjes Shqiperi">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirëmëngjes Shqipëri", emisioni i mëngjesit, në 3 orë transmetim të drejtpërdrejtë, me rubrika dinamike, lajmet më të fundit nga vendi dhe bota, shtypin e ditës, motin, trafikun rrugor, ekonominë e kulturën. Nën drejtimin e Matilda Mcini dhe Florian Agalliu.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-08 08:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-08 08:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Turet e Medha te Skocise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me pamje të mrekullueshme do të njihemi me bregdetin skocez, një ndërthurje mahnitëse e kepave shkëmborë dhe plazheve mbresëlënëse.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-08 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Si nje familje">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historiku i frutit të 1001 mrekullive. Nutricionistja Anila Kalleshi na rrëfen vlerat e këtij fruti, teksa, agronomi Bajram Shera na mëson se si bëhet glikoja e portokallit. 2. Me shefen Helga Beja gatuajmë një recetë me portokall. 3. Sëmundja e veshkave te fëmijët. 4. Krijimi i bizhuterive me gurë dhe kristale të ndryshme. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-08 11:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-08 11:20:00" duration="6900">
+      <short_event_descriptor lang="alb" name="BARDHEZI">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2014. Regjisor: Mike Binder. Aktorë: Kevin Costner, Octavia Spencer, Gillian Jacobs. Dramë. Një burrë i ve, në kulmin e dëshpërimit të humbjes së madhe duhet të përballet dhe me sfidën për të fituar kujdestarinë e mbesës së tij, të cilën e ka rritur vetë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-08 13:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Kur flasin vlerat">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar kushtuar Parkut Kombëtar të Prespës, ruajtjes dhe menaxhimit të vlerave natyrore e historike, si dhe mundësisë për zhvillimin turistik të zonës. Pamje të rralla dhe intervista ekskluzive, mbi problematikat dhe projektet zhvillimore për perspektivën turistike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-08 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-08 14:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="KUSH DO E MBAJË QENIN? ">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2016. Regjisor:  Huck Botko. Aktorë: Ryan Kwanten, Alicia Silverstone, Randall Batinkoff. Komedi. Olive dhe Clay kanë vendosur të divorcohen pasi lidhja e tyre nuk po funksionon. Por problemet nisin kur ata duhet të vendosin për kujdestarinë e qenit të tyre. Lufta bëhet e ashpër dhe ata do të përdorin çdo armë për të marrë në ngarkim qenin e tyre të dashur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-08 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="NË TEMPULL ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision kulturor nga Anisa Ymeri, dedikuar trashëgimisë kulturore shqiptare dhe personazheve që kanë kontribuar në pasurimin e saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-08 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ju flet Bellova">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar kushtuar legjendës së mikrofonit sportiv në RTSH, Ismet Bellova, në 70-vjetorin e komentit të tij të parë në Radio Tirana. Një prodhim i RTSH Sport, realizuar nga gazetari Dëfrim Methasani.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-08 18:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-08 18:35:00" duration="6900">
+      <short_event_descriptor lang="alb" name="DASHURI ME SHIKIM TË DYTË ">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2019. Regjisor: Hugo Gélin. Aktorë: François Civil, Josepine Japy, Benjamin Lavenhe. Komedi, dramë, fantazi. Olivia dhe Rafael janë çift që prej gjimnazit. Ajo është një pianiste ndërsa ai një shkrimtar librash fantashkencorë. Por, një ditë, papritur Rafael zgjohet në një realitet të ri, ku nuk është më i martuar me Olivian. Tani atij i duhet ta rifitojë edhe një herë zemrën e saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-08 20:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-08 21:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Një koncert në Paris">Koncert</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nën hijen madhështorë të kullës Eiffel, rikthehet për të dhjetin vit radhazi, "Një koncert në Paris". Aty ku muzika bëhet njësh me historinë, lavdinë dhe guximin e popullit francez. Orkestra Kombëtare e Francës, kori i Radio Francës dhe solistë të skenave ndërkombëtare, ju mirëpresin në një festë të paharruar muzikore!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-08 22:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Mercenari">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2019. Regjisor: Jesse V. Johnson. Aktorë: Dominiquie Vandenberg, Louis Mandylor, Carmen Argenziano. Aksion. Maks është një legjionar i kthyer në mercenar. Pasi mbijeton për mrekulli nga një mision në Amerikën e Jugut, ai vendos të tërhiqet dhe të jetojë një jetë të qetë, deri në momentin kur e kaluara e tij e errët rikthehet dhe kërkon që ai të përdorë aftësitë e tij luftarake, për të shpëtuar veten dhe miqtë e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-09 00:15:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Turet e Medha te Skocise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me pamje të mrekullueshme do të njihemi me bregdetin skocez, një ndërthurje mahnitëse e kepave shkëmborë dhe plazheve mbresëlënëse.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-09 00:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Kur flasin vlerat">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar kushtuar Parkut Kombëtar të Prespës, ruajtjes dhe menaxhimit të vlerave natyrore e historike, si dhe mundësisë për zhvillimin turistik të zonës. Pamje të rralla dhe intervista ekskluzive, mbi problematikat dhe projektet zhvillimore për perspektivën turistike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-09 01:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="NË TEMPULL ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision kulturor nga Anisa Ymeri, dedikuar trashëgimisë kulturore shqiptare dhe personazheve që kanë kontribuar në pasurimin e saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-09 02:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="MESNATA">CIRKU I DIELLIT</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Magjia e Cirkut të Diellit: trupa shëtitëse e performuesve më të njohur në botë, me performanca të jashtëzakonshme të qiellit dhe tokës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-09 04:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="RRUGËTIMI DREJT KATAR 2022  ">TELEREVISTA</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në episodin e katërt do të takojmë ish-kapitenin e Marokut Med'hi Benatia; do të kalojmë një ditë te garat për të parë devetë më të shpejta në tokë si dhe do të vrapojmë nëpër shkretëtirën e Katarit duke ndjekur një nga udhëtimet ekstremisht më të vështira në botë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-09 04:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Ndertimi i Australise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është historia e një ishulli gjigand, prej 4000 km nga lindja në perëndim dhe 3000 km nga veriu në jug. Njihuni me Australinë, kontinentin më të thatë të banuar në Tokë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-09-09 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Miremengjes Shqiperi">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirëmëngjes Shqipëri", emisioni i mëngjesit, në 3 orë transmetim të drejtpërdrejtë, me rubrika dinamike, lajmet më të fundit nga vendi dhe bota, shtypin e ditës, motin, trafikun rrugor, ekonominë e kulturën. Nën drejtimin e Matilda Mcini dhe Florian Agalliu.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-09-09 08:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2022-09-09 08:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Turet e Medha te Skocise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me pamje të mrekullueshme do të njihemi me bregdetin skocez, një ndërthurje mahnitëse e kepave shkëmborë dhe plazheve mbresëlënëse.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2022-09-09 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Si nje familje">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historiku i frutit të 1001 mrekullive. Nutricionistja Anila Kalleshi na rrëfen vlerat e këtij fruti, teksa, agronomi Bajram Shera na mëson se si bëhet glikoja e portokallit. 2. Me shefen Helga Beja gatuajmë një recetë me portokall. 3. Sëmundja e veshkave te fëmijët. 4. Krijimi i bizhuterive me gurë dhe kristale të ndryshme. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2022-09-18 06:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2022-09-18 06:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Sanremo 2022">Kenget</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pas katër mbrëmjeve spektakolare, vjen nata finale e gjitha për t'u shijuar e për të mos u humbur. Nën drejtimin e Amadeus dhe Sabrina Ferilli, 25 këngëtarë në garë për çmimin e madh. Kush do të shpallet fitues?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2022-09-18 07:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Legjenda e Borebardhes">Vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjisor: Kunio Okhajima. Borëbardha është vajza e mbretit Conrad dhe Mbretëreshës Rosebud, si dhe mbesa e Mbretëreshës Chrystal. Pas vdekjes së nënës së saj dhe martesës së babait me njerkën e keqe, e cila dëshiron që ta vrasë, ajo largohet dhe takon 7 xhuxhët. Borëbardha jeton me ta, në pritje të princit Richard. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2022-09-18 08:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2022-09-18 08:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Cfare jane sekretet">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një program i ri, prodhim ekskluziv i kanalit RTSH Fëmijë, për fëmijët, por edhe për prindërit. Një bandë çamarroke vogëlushësh japin versionin e tyre për çështje të vogla e madhore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2022-09-18 08:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Patrulla e kafsheve te egra">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kafshët e egra janë në rrezik, si në det, tokë, madje dhe në ajër. Me qindra specie, rrezikohen përditë nga veprimtaritë e paligjshme por edhe pushtuesit e panjohur, kafshë të tjera, të cilat nuk i përkasin habitatit të tyre. Një mjek në bashkëpunim me policinë, grupe për mbrojtjen e kafshëve të egra dhe qytetarë të thjeshtë do të përbëjnë patrullën e kafshëve të egra. Në një luftë për të shpëtuar kafshët nga njerëzit, por edhe njerëzit nga kafshët.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2022-09-18 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Si nje familje">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historiku i frutit të 1001 mrekullive. Nutricionistja Anila Kalleshi na rrëfen vlerat e këtij fruti, teksa, agronomi Bajram Shera na mëson se si bëhet glikoja e portokallit. 2. Me shefen Helga Beja gatuajmë një recetë me portokall. 3. Sëmundja e veshkave te fëmijët. 4. Krijimi i bizhuterive me gurë dhe kristale të ndryshme. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2022-09-18 11:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2022-09-18 11:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Filly Brown">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2012. Regjisorë: Youssef Delara, Michael D. Olmos. Aktorë: Gina Rodriguez, Jenni Rivera, Lou Diamond Phillips. Majo Tonorio është një artiste e re dhe shumë e talentuar hip-hopi, nga Los Anxhelos. Një producent, i cili sheh të ajo një të ardhme premtuese dhe fitimprurëse, i propozon një marrëveshje duke e vënë përballë një dileme: në duhet të bëjë muzikë për t'u bërë e famshme dhe fituar para, apo duhet t'i qëndrojë besnike artit dhe vetes së saj?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2022-09-18 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Le te harrojme">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Beteja e Galipolit, e cila dëshmon për shpirtin e disa djelmoshave të guximshëm anzakë, që i dhanë jetë një kombi. Por, si është historia e vërtetë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2022-09-18 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2022-09-18 14:35:00" duration="4200">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2022-09-18 15:45:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Perandoret e futbollit">Brian Clough.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar mbi karrierën e trajnerit Brian Clough.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2022-09-18 16:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Vikena Kamenica ">Koncert</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përmbledhje muzikore nga koncerti "Nur i bukur të ka ra" i këngëtares së njohur Vikena Kamenica. Ritmet popullore shqiptare të riorkestruara në versionin jazz.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2022-09-18 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="BIBLIOTEKË -Fatos Lubonja">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për librin "Jetë burgu", në një këndvështrim të distancuar. Me Fatos Lubonjën, për vuajtjen dhe efektin te njeriu. Për dhunën dhe frikën. Për vetminë, si dritë dhe errësirë. Për shpresën, urrejtjen dhe ndrydhjen e emocioneve. Për kuptimin e ndryshuar të kohës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2022-09-18 18:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2022-09-18 18:35:00" duration="6900">
+      <short_event_descriptor lang="alb" name="PRITJA E GJATE ">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2009. Regjisor: David Hollander. Aktorë: Michele Pfeiffer, Ashton Kutcher, Kathy Bates. Dramë. Walter është një mundës i ri, i cili gjatë garës për të fituar një vend në ekipin kombëtar mëson për vdekjen brutale të motrës së tij. Ai kthehet në qytetin e lindjes për të ndihmuar nënën e tij dhe njihet me Lindën, një grua të ve që jeton me djalin e saj ka shurdh-memec.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2022-09-18 20:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2022-09-18 21:05:00" duration="7200">
+      <short_event_descriptor lang="alb" name="TË DUA BERLIN">FILM ARTISTIK </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2019. Regjisorë: Dianna Agron, Peter Chelsom, Claus Clausen. Aktore: Keira Knightley, Helen Mirren, Diego Luna. Romancë, dramë. Pjesë  e ciklit "Qytetet e dashurisë". Ky film artistik është një vepër kolektive që mban firmën e dhjetë regjisorëve të ndryshëm të cilët sjellin dhjetë histori dashurie nga kryeqyteti gjerman.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2022-09-18 23:05:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Patrulla e kafsheve te egra">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kafshët e egra janë në rrezik, si në det, tokë, madje dhe në ajër. Me qindra specie, rrezikohen përditë nga veprimtaritë e paligjshme por edhe pushtuesit e panjohur, kafshë të tjera, të cilat nuk i përkasin habitatit të tyre. Një mjek në bashkëpunim me policinë, grupe për mbrojtjen e kafshëve të egra dhe qytetarë të thjeshtë do të përbëjnë patrullën e kafshëve të egra. Në një luftë për të shpëtuar kafshët nga njerëzit, por edhe njerëzit nga kafshët.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2022-09-18 23:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="PAKTI ">FILM</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2015. Regjisor: Leslye Headland. Aktorë: Jason Sudeikis, Allison Brie, Jordan Carlos. Komedi, dramë, romancë. Një Don Zhuan i palodhur dhe një mashtruese seriale lidhjesh bëhen pjesë e një dashurie platonike. Raporti mes tyre ka nevojë të reformohet e megjithëse ata pëlqehen shumë, duhet të heqin dorë nga veset e së kaluarës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2022-09-19 01:10:00" duration="4500">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2022-09-19 02:25:00" duration="3300">
+      <short_event_descriptor lang="alb" name="BIBLIOTEKË -Fatos Lubonja">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për librin "Jetë burgu", në një këndvështrim të distancuar. Me Fatos Lubonjën, për vuajtjen dhe efektin te njeriu. Për dhunën dhe frikën. Për vetminë, si dritë dhe errësirë. Për shpresën, urrejtjen dhe ndrydhjen e emocioneve. Për kuptimin e ndryshuar të kohës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2022-09-19 03:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Vikena Kamenica ">Koncert</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përmbledhje muzikore nga koncerti "Nur i bukur të ka ra" i këngëtares së njohur Vikena Kamenica. Ritmet popullore shqiptare të riorkestruara në versionin jazz.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2022-09-19 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Le te harrojme">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Beteja e Galipolit, e cila dëshmon për shpirtin e disa djelmoshave të guximshëm anzakë, që i dhanë jetë një kombi. Por, si është historia e vërtetë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2022-09-19 05:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Perandoret e futbollit">Brian Clough.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar mbi karrierën e trajnerit Brian Clough.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2022-09-19 05:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rilindja e shtepise se madhe">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në vitin 2012, National Trust në Irlandën e Veriut, filloi projektin më ambicioz të restaurimit së një prej ndërtesave më madhështore të vendit "Mount Stewart". Plot 8 vite punë dhe një fond prej 8 milionë sterlinash, do të ringjallnin historinë Mount Stewart-it, duke zbuluar sekretet që qëndrojnë nën arkitekturën e saj marramendëse. </text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

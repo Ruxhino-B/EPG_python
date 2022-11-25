@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="T7">
+    <event id="49051236" start_time="2022-09-20 22:00:00" duration="25200">
+      <short_event_descriptor lang="alb" name="Programi i T7">Programi i T7</short_event_descriptor>
+    </event>
+    <event id="49051237" start_time="2022-09-21 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="#Gjesi">#Gjesi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051238" start_time="2022-09-21 08:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing &amp; Promo">Marketing &amp; Promo</short_event_descriptor>
+    </event>
+    <event id="49051239" start_time="2022-09-21 08:10:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Frontal intervista">Frontal intervista</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051240" start_time="2022-09-21 08:40:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+    </event>
+    <event id="49051241" start_time="2022-09-21 08:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051242" start_time="2022-09-21 09:30:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051243" start_time="2022-09-21 09:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pressing">Pressing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051244" start_time="2022-09-21 11:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051245" start_time="2022-09-21 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="DPT te Fidani">DPT te Fidani</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051246" start_time="2022-09-21 13:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="49051247" start_time="2022-09-21 13:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051248" start_time="2022-09-21 13:30:00" duration="900">
+      <short_event_descriptor lang="alb" name="T7 Story">T7 Story</short_event_descriptor>
+    </event>
+    <event id="49051249" start_time="2022-09-21 13:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Muzikë">Muzikë</short_event_descriptor>
+    </event>
+    <event id="49051250" start_time="2022-09-21 14:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Prizma">Prizma</short_event_descriptor>
+    </event>
+    <event id="49051251" start_time="2022-09-21 14:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051252" start_time="2022-09-21 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Frontal">Frontal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051253" start_time="2022-09-21 16:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051254" start_time="2022-09-21 16:10:00" duration="300">
+      <short_event_descriptor lang="alb" name="Mendimi për motin">Mendimi për motin</short_event_descriptor>
+    </event>
+    <event id="49051255" start_time="2022-09-21 16:15:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+    </event>
+    <event id="49051256" start_time="2022-09-21 16:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051257" start_time="2022-09-21 17:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051258" start_time="2022-09-21 17:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="N'Fokus">N'Fokus</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051259" start_time="2022-09-21 18:15:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051260" start_time="2022-09-21 18:25:00" duration="600">
+      <short_event_descriptor lang="alb" name="T7 Story">T7 Story</short_event_descriptor>
+    </event>
+    <event id="49051261" start_time="2022-09-21 18:35:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051262" start_time="2022-09-21 18:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pressing">Pressing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051263" start_time="2022-09-21 20:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051264" start_time="2022-09-21 20:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="DPT te Fidani">DPT te Fidani</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051265" start_time="2022-09-21 21:55:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051266" start_time="2022-09-21 22:00:00" duration="25200">
+      <short_event_descriptor lang="alb" name="Programi i T7">Programi i T7</short_event_descriptor>
+    </event>
+    <event id="49051267" start_time="2022-09-22 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="#Gjesi">#Gjesi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051268" start_time="2022-09-22 08:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing &amp; Promo">Marketing &amp; Promo</short_event_descriptor>
+    </event>
+    <event id="49051269" start_time="2022-09-22 08:10:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Frontal intervista">Frontal intervista</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051270" start_time="2022-09-22 08:40:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+    </event>
+    <event id="49051271" start_time="2022-09-22 08:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051272" start_time="2022-09-22 09:30:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051273" start_time="2022-09-22 09:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pressing">Pressing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051274" start_time="2022-09-22 11:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051275" start_time="2022-09-22 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="DPT te Fidani">DPT te Fidani</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051276" start_time="2022-09-22 13:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="49051277" start_time="2022-09-22 13:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051278" start_time="2022-09-22 13:30:00" duration="1500">
+      <short_event_descriptor lang="alb" name="T7 Story">T7 Story</short_event_descriptor>
+    </event>
+    <event id="49051279" start_time="2022-09-22 13:55:00" duration="900">
+      <short_event_descriptor lang="alb" name="Muzikë">Muzikë</short_event_descriptor>
+    </event>
+    <event id="49051280" start_time="2022-09-22 14:10:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Shneta">Shneta</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051281" start_time="2022-09-22 14:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051282" start_time="2022-09-22 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Frontal">Frontal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051283" start_time="2022-09-22 16:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051284" start_time="2022-09-22 16:10:00" duration="300">
+      <short_event_descriptor lang="alb" name="Mendimi për motin">Mendimi për motin</short_event_descriptor>
+    </event>
+    <event id="49051285" start_time="2022-09-22 16:15:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+    </event>
+    <event id="49051286" start_time="2022-09-22 16:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051287" start_time="2022-09-22 17:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051288" start_time="2022-09-22 17:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="N'Fokus">N'Fokus</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051289" start_time="2022-09-22 18:15:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051290" start_time="2022-09-22 18:25:00" duration="600">
+      <short_event_descriptor lang="alb" name="T7 Story">T7 Story</short_event_descriptor>
+    </event>
+    <event id="49051291" start_time="2022-09-22 18:35:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051292" start_time="2022-09-22 18:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pressing">Pressing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051293" start_time="2022-09-22 20:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051294" start_time="2022-09-22 20:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="DPT te Fidani">DPT te Fidani</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051295" start_time="2022-09-22 21:55:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051296" start_time="2022-09-22 22:00:00" duration="25200">
+      <short_event_descriptor lang="alb" name="Programi i T7">Programi i T7</short_event_descriptor>
+    </event>
+    <event id="49051297" start_time="2022-09-23 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="#Gjesi">#Gjesi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051298" start_time="2022-09-23 08:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing &amp; Promo">Marketing &amp; Promo</short_event_descriptor>
+    </event>
+    <event id="49051299" start_time="2022-09-23 08:10:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Frontal intervista">Frontal intervista</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051300" start_time="2022-09-23 08:40:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+    </event>
+    <event id="49051301" start_time="2022-09-23 08:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051302" start_time="2022-09-23 09:30:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051303" start_time="2022-09-23 09:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pressing">Pressing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051304" start_time="2022-09-23 11:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051305" start_time="2022-09-23 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="DPT te Fidani">DPT te Fidani</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051306" start_time="2022-09-23 13:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="49051307" start_time="2022-09-23 13:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051308" start_time="2022-09-23 13:30:00" duration="900">
+      <short_event_descriptor lang="alb" name="T7 Story">T7 Story</short_event_descriptor>
+    </event>
+    <event id="49051309" start_time="2022-09-23 13:45:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+    </event>
+    <event id="49051310" start_time="2022-09-23 13:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Doktor Plastik">Doktor Plastik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051311" start_time="2022-09-23 14:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051312" start_time="2022-09-23 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Frontal">Frontal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051313" start_time="2022-09-23 16:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051314" start_time="2022-09-23 16:10:00" duration="300">
+      <short_event_descriptor lang="alb" name="Mendimi për motin">Mendimi për motin</short_event_descriptor>
+    </event>
+    <event id="49051315" start_time="2022-09-23 16:15:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+    </event>
+    <event id="49051316" start_time="2022-09-23 16:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051317" start_time="2022-09-23 17:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051318" start_time="2022-09-23 17:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="N'Fokus">N'Fokus</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051319" start_time="2022-09-23 18:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051320" start_time="2022-09-23 18:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051321" start_time="2022-09-23 19:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051322" start_time="2022-09-23 19:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051323" start_time="2022-09-23 20:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051324" start_time="2022-09-23 20:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="DPT te Fidani">DPT te Fidani</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051325" start_time="2022-09-23 21:55:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051326" start_time="2022-09-23 22:00:00" duration="25200">
+      <short_event_descriptor lang="alb" name="Programi i T7">Programi i T7</short_event_descriptor>
+    </event>
+    <event id="49051327" start_time="2022-09-24 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="#Gjesi">#Gjesi</short_event_descriptor>
+    </event>
+    <event id="49051328" start_time="2022-09-24 08:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing &amp; Promo">Marketing &amp; Promo</short_event_descriptor>
+    </event>
+    <event id="49051329" start_time="2022-09-24 08:10:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Frontal Intervista">Frontal Intervista</short_event_descriptor>
+    </event>
+    <event id="49051330" start_time="2022-09-24 08:40:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+    </event>
+    <event id="49051331" start_time="2022-09-24 08:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="T7 Story">T7 Story</short_event_descriptor>
+    </event>
+    <event id="49051332" start_time="2022-09-24 09:15:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Shneta">Shneta</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051333" start_time="2022-09-24 09:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051334" start_time="2022-09-24 10:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051335" start_time="2022-09-24 11:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051336" start_time="2022-09-24 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="DPT te Fidani">DPT te Fidani</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051337" start_time="2022-09-24 13:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="49051338" start_time="2022-09-24 13:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051339" start_time="2022-09-24 13:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051340" start_time="2022-09-24 14:15:00" duration="1800">
+      <short_event_descriptor lang="alb" name="T7 Story">T7 Story</short_event_descriptor>
+    </event>
+    <event id="49051341" start_time="2022-09-24 14:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051342" start_time="2022-09-24 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="7 në 7">7 në 7</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051343" start_time="2022-09-24 16:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Shneta">Shneta</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051344" start_time="2022-09-24 16:30:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051345" start_time="2022-09-24 16:40:00" duration="2100">
+      <short_event_descriptor lang="alb" name="DPT te Fidani javore">DPT te Fidani javore</short_event_descriptor>
+    </event>
+    <event id="49051346" start_time="2022-09-24 17:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051347" start_time="2022-09-24 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajmet Qendrore">Lajmet Qendrore</short_event_descriptor>
+    </event>
+    <event id="49051348" start_time="2022-09-24 18:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051349" start_time="2022-09-24 18:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Prizma">Prizma</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051350" start_time="2022-09-24 19:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051351" start_time="2022-09-24 19:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Top Model Week">Top Model Week</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051352" start_time="2022-09-24 20:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051353" start_time="2022-09-24 20:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="7 në 7">7 në 7</short_event_descriptor>
+    </event>
+    <event id="49051354" start_time="2022-09-24 21:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051355" start_time="2022-09-24 21:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051356" start_time="2022-09-24 22:00:00" duration="25200">
+      <short_event_descriptor lang="alb" name="Programi i T7">Programi i T7</short_event_descriptor>
+    </event>
+    <event id="49051357" start_time="2022-09-25 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="#Gjesi">#Gjesi</short_event_descriptor>
+    </event>
+    <event id="49051358" start_time="2022-09-25 08:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing &amp; Promo">Marketing &amp; Promo</short_event_descriptor>
+    </event>
+    <event id="49051359" start_time="2022-09-25 08:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051360" start_time="2022-09-25 09:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="7 në 7">7 në 7</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051361" start_time="2022-09-25 09:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051362" start_time="2022-09-25 10:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051363" start_time="2022-09-25 11:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Top Model Week">Top Model Week</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051364" start_time="2022-09-25 11:50:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051365" start_time="2022-09-25 12:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="DPT te Fidani javore">DPT te Fidani javore</short_event_descriptor>
+    </event>
+    <event id="49051366" start_time="2022-09-25 13:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="49051367" start_time="2022-09-25 13:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051368" start_time="2022-09-25 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="T7 Story">T7 Story</short_event_descriptor>
+    </event>
+    <event id="49051369" start_time="2022-09-25 14:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Prizma">Prizma</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051370" start_time="2022-09-25 14:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051371" start_time="2022-09-25 15:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051372" start_time="2022-09-25 15:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051373" start_time="2022-09-25 16:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Frontal intervista javore">Frontal intervista javore</short_event_descriptor>
+    </event>
+    <event id="49051374" start_time="2022-09-25 16:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="T7 Story">T7 Story</short_event_descriptor>
+    </event>
+    <event id="49051375" start_time="2022-09-25 17:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051376" start_time="2022-09-25 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="N'fokus">N'fokus</short_event_descriptor>
+    </event>
+    <event id="49051377" start_time="2022-09-25 18:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051378" start_time="2022-09-25 18:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051379" start_time="2022-09-25 19:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051380" start_time="2022-09-25 19:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Doktor Plastik">Doktor Plastik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051381" start_time="2022-09-25 20:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051382" start_time="2022-09-25 20:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="7 në 7">7 në 7</short_event_descriptor>
+    </event>
+    <event id="49051383" start_time="2022-09-25 21:15:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051384" start_time="2022-09-25 22:00:00" duration="25200">
+      <short_event_descriptor lang="alb" name="Programi i T7">Programi i T7</short_event_descriptor>
+    </event>
+    <event id="49051385" start_time="2022-09-26 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="#Gjesi">#Gjesi</short_event_descriptor>
+    </event>
+    <event id="49051386" start_time="2022-09-26 08:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing &amp; Promo">Marketing &amp; Promo</short_event_descriptor>
+    </event>
+    <event id="49051387" start_time="2022-09-26 08:10:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Shneta">Shneta</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051388" start_time="2022-09-26 08:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="T7 Story">T7 Story</short_event_descriptor>
+    </event>
+    <event id="49051389" start_time="2022-09-26 09:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051390" start_time="2022-09-26 09:30:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051391" start_time="2022-09-26 09:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Muzikë">Muzikë</short_event_descriptor>
+    </event>
+    <event id="49051392" start_time="2022-09-26 10:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Prizma">Prizma</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051393" start_time="2022-09-26 11:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Doktor Plastik">Doktor Plastik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051394" start_time="2022-09-26 11:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051395" start_time="2022-09-26 12:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051396" start_time="2022-09-26 13:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="49051397" start_time="2022-09-26 13:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051398" start_time="2022-09-26 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="T7 Story">T7 Story</short_event_descriptor>
+    </event>
+    <event id="49051399" start_time="2022-09-26 14:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051400" start_time="2022-09-26 14:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051401" start_time="2022-09-26 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Frontal">Frontal</short_event_descriptor>
+    </event>
+    <event id="49051402" start_time="2022-09-26 16:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051403" start_time="2022-09-26 16:10:00" duration="300">
+      <short_event_descriptor lang="alb" name="Mendimi për motin">Mendimi për motin</short_event_descriptor>
+    </event>
+    <event id="49051404" start_time="2022-09-26 16:15:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+    </event>
+    <event id="49051405" start_time="2022-09-26 16:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="49051406" start_time="2022-09-26 17:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051407" start_time="2022-09-26 17:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="N'Fokus">N'Fokus</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051408" start_time="2022-09-26 18:15:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051409" start_time="2022-09-26 18:25:00" duration="600">
+      <short_event_descriptor lang="alb" name="T7 Story">T7 Story</short_event_descriptor>
+    </event>
+    <event id="49051410" start_time="2022-09-26 18:35:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051411" start_time="2022-09-26 18:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pressing">Pressing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051412" start_time="2022-09-26 20:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="49051413" start_time="2022-09-26 20:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="DPT te Fidani">DPT te Fidani</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49051414" start_time="2022-09-26 21:55:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

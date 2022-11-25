@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="STINET">
+		<Event id="0" start_time="2022-08-31 06:20:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Toka e nderit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tierra de Reyes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tre vëllezër kërkojnë të hakmarren kundër një familjeje të pasur për vrasjen e motrës së tyre. Por në vend të hakmarrjes ata do të gjejnë dashurinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-08-31 07:10:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Elif"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elif"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta e një vajze të vogël zemërmire ndryshon rrënjësisht pasi e ëma e dërgon të jetojë në fshehtësi në një shtëpi të pasurish. Kur familjarët mësojnë sekretin e saj, vogëlushja e gjen veten mes një beteje për pushtet familjar</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-08-31 08:05:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Chicago Fire"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Chicago Fire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Serial fitues i 3 çmimeve televizive dhe kandidat për 6 të tjerë. Në qytetin e Çikagos, zjarrfikësit, skuadrat e shpëtimit dhe mjekët, vënë në rrezik jetët e tyre për të shpëtuar njerëzit e përfshirë në aksidente dhe fatkeqësi të ndryshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-08-31 08:55:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Life"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Life"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Damian Lewis, Sarah Shahi. I sapo liruar nga burgu pas 12 vitesh për një vrasje që nuk e ka kryer, një ish polic zgjedh të kthehet ne profesionin e tij, më i motivuar se më parë që të marrë drejtësi për të pafajshmit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-08-31 09:45:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Sleepy Hollow"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sleepy Hollow"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për çmimin Emmy dhe 30 çmime të tjera. Ichabod Crane ringjallet dhe iu deshën 250 vjet në të ardhmen për të zbuluar një mister që daton që në 1700-ën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-08-31 10:35:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Elementary"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elementary "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sherlock Holmes, detektivi hero në librat e Sir Arthur Conan Doyle, i riimagjinuar në Nju Jorkun e ditëve të sotme si një polic problematik, i cili i ndihmuar edhe nga një doktoreshë bukuroshe, zgjidh çështjet kriminale më të vështira...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-08-31 11:30:00" duration="3000">
+			<short_event_descriptor lang="alb" name="SEAL Team"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="SEAL Team "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta profesionale dhe personale e ekipit "SEAL", stërvitja e tyre, planifikimi dhe ekzekutimi i misioneve më të rrezikshme që ju kërkohen nga vendi i tyre</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-08-31 12:20:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Bull"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bull"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dr. Jason Bull, i cili është psikolog dhe ekspert i shkencës së proves drejton një firmë këshillimi. Ai përdor aftësitë e tij dhe të ekipit të tij për të zgjedhur juristët e duhur si dhe për të ndihmuar avokatët e klientëve të tij të vendosin se cili lloj argumenti do të fitojë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-08-31 13:15:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Elif"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elif"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta e një vajze të vogël zemërmire ndryshon rrënjësisht pasi e ëma e dërgon të jetojë në fshehtësi në një shtëpi të pasurish. Kur familjarët mësojnë sekretin e saj, vogëlushja e gjen veten mes një beteje për pushtet familjar</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-08-31 14:10:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Toka e nderit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tierra de Reyes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tre vëllezër kërkojnë të hakmarren kundër një familjeje të pasur për vrasjen e motrës së tyre. Por në vend të hakmarrjes ata do të gjejnë dashurinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-08-31 15:05:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Life"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Life"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Damian Lewis, Sarah Shahi. I sapo liruar nga burgu pas 12 vitesh për një vrasje që nuk e ka kryer, një ish polic zgjedh të kthehet ne profesionin e tij, më i motivuar se më parë që të marrë drejtësi për të pafajshmit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-08-31 15:55:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Sleepy Hollow"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sleepy Hollow"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për çmimin Emmy dhe 30 çmime të tjera. Ichabod Crane ringjallet dhe iu deshën 250 vjet në të ardhmen për të zbuluar një mister që daton që në 1700-ën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-08-31 16:45:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Chicago Fire"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Chicago Fire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Serial fitues i 3 çmimeve televizive dhe kandidat për 6 të tjerë. Në qytetin e Çikagos, zjarrfikësit, skuadrat e shpëtimit dhe mjekët, vënë në rrezik jetët e tyre për të shpëtuar njerëzit e përfshirë në aksidente dhe fatkeqësi të ndryshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-08-31 17:30:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Under The Dome"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Under the Dome"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një forcë e padukshme e misterioze, "kubeja", zbret mbi nje qytezë në Amerikë, duke i zënë banorët e tij brenda. Banorët duhet të zbulojnë sekretet dhe qëllimin e "kubesë", ndërsa zbulojnë më shumë nga ç'mund të imagjinonin për njëri-tjetrin.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-08-31 18:15:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Elementary"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elementary "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sherlock Holmes, detektivi hero në librat e Sir Arthur Conan Doyle, i riimagjinuar në Nju Jorkun e ditëve të sotme si një polic problematik, i cili i ndihmuar edhe nga një doktoreshë bukuroshe, zgjidh çështjet kriminale më të vështira...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-08-31 19:00:00" duration="2700">
+			<short_event_descriptor lang="alb" name="SEAL Team"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="SEAL Team "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta profesionale dhe personale e ekipit "SEAL", stërvitja e tyre, planifikimi dhe ekzekutimi i misioneve më të rrezikshme që ju kërkohen nga vendi i tyre</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-08-31 19:45:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Bull"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bull"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dr. Jason Bull, i cili është psikolog dhe ekspert i shkencës së proves drejton një firmë këshillimi. Ai përdor aftësitë e tij dhe të ekipit të tij për të zgjedhur juristët e duhur si dhe për të ndihmuar avokatët e klientëve të tij të vendosin se cili lloj argumenti do të fitojë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-08-31 20:30:00" duration="3600">
+			<short_event_descriptor lang="alb" name="The Serpent"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Serpent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në ngjarje të vërteta tronditëse. Në vitet 1970, vrasësi i pamëshirshëm Charles Sobhraj pret udhëtarët që eksplorojnë "shtegun e hipive" të Azisë Jugore duke i droguar, grabitur dhe vrarë në fund. Ky vrasës gjakftohtë nuk do të ndalet derisa te kapet.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-08-31 21:30:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Orphan Black"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Orphan Black"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Paqja dhe qetësia nuk zgjasin shumë sepse Sara merr një telefonatë nga një aleat misterioz i lidhur me Beth-in. Të bashkuara në misionin e tyre për t'i dhënë fund një herë e mirë kërcënimeve, motrat po i marrin gjërat në duart e tyre. E vetmja rrugë përpara është të kthehesh pas...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-08-31 22:15:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Elementary"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elementary "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sherlock Holmes, detektivi hero në librat e Sir Arthur Conan Doyle, i riimagjinuar në Nju Jorkun e ditëve të sotme si një polic problematik, i cili i ndihmuar edhe nga një doktoreshë bukuroshe, zgjidh çështjet kriminale më të vështira...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-08-31 23:00:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Toka e nderit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tierra de Reyes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tre vëllezër kërkojnë të hakmarren kundër një familjeje të pasur për vrasjen e motrës së tyre. Por në vend të hakmarrjes ata do të gjejnë dashurinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-08-31 23:50:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Elif"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elif"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta e një vajze të vogël zemërmire ndryshon rrënjësisht pasi e ëma e dërgon të jetojë në fshehtësi në një shtëpi të pasurish. Kur familjarët mësojnë sekretin e saj, vogëlushja e gjen veten mes një beteje për pushtet familjar</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-01 00:45:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Life"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Life"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Damian Lewis, Sarah Shahi. I sapo liruar nga burgu pas 12 vitesh për një vrasje që nuk e ka kryer, një ish polic zgjedh të kthehet ne profesionin e tij, më i motivuar se më parë që të marrë drejtësi për të pafajshmit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-01 01:35:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Sleepy Hollow"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sleepy Hollow"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për çmimin Emmy dhe 30 çmime të tjera. Ichabod Crane ringjallet dhe iu deshën 250 vjet në të ardhmen për të zbuluar një mister që daton që në 1700-ën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-01 02:25:00" duration="2700">
+			<short_event_descriptor lang="alb" name="SEAL Team"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="SEAL Team "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta profesionale dhe personale e ekipit "SEAL", stërvitja e tyre, planifikimi dhe ekzekutimi i misioneve më të rrezikshme që ju kërkohen nga vendi i tyre</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-01 03:10:00" duration="3900">
+			<short_event_descriptor lang="alb" name="The Serpent"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Serpent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në ngjarje të vërteta tronditëse. Në vitet 1970, vrasësi i pamëshirshëm Charles Sobhraj pret udhëtarët që eksplorojnë "shtegun e hipive" të Azisë Jugore duke i droguar, grabitur dhe vrarë në fund. Ky vrasës gjakftohtë nuk do të ndalet derisa te kapet.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-01 04:15:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Orphan Black"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Orphan Black"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Paqja dhe qetësia nuk zgjasin shumë sepse Sara merr një telefonatë nga një aleat misterioz i lidhur me Beth-in. Të bashkuara në misionin e tyre për t'i dhënë fund një herë e mirë kërcënimeve, motrat po i marrin gjërat në duart e tyre. E vetmja rrugë përpara është të kthehesh pas...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-01 05:05:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Chicago Fire"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Chicago Fire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Serial fitues i 3 çmimeve televizive dhe kandidat për 6 të tjerë. Në qytetin e Çikagos, zjarrfikësit, skuadrat e shpëtimit dhe mjekët, vënë në rrezik jetët e tyre për të shpëtuar njerëzit e përfshirë në aksidente dhe fatkeqësi të ndryshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-01 05:55:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Under The Dome"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Under the Dome"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një forcë e padukshme e misterioze, "kubeja", zbret mbi nje qytezë në Amerikë, duke i zënë banorët e tij brenda. Banorët duhet të zbulojnë sekretet dhe qëllimin e "kubesë", ndërsa zbulojnë më shumë nga ç'mund të imagjinonin për njëri-tjetrin.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-01 06:45:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Toka e nderit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tierra de Reyes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tre vëllezër kërkojnë të hakmarren kundër një familjeje të pasur për vrasjen e motrës së tyre. Por në vend të hakmarrjes ata do të gjejnë dashurinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-01 07:35:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Elif"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elif"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta e një vajze të vogël zemërmire ndryshon rrënjësisht pasi e ëma e dërgon të jetojë në fshehtësi në një shtëpi të pasurish. Kur familjarët mësojnë sekretin e saj, vogëlushja e gjen veten mes një beteje për pushtet familjar</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-01 08:30:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Chicago Fire"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Chicago Fire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Serial fitues i 3 çmimeve televizive dhe kandidat për 6 të tjerë. Në qytetin e Çikagos, zjarrfikësit, skuadrat e shpëtimit dhe mjekët, vënë në rrezik jetët e tyre për të shpëtuar njerëzit e përfshirë në aksidente dhe fatkeqësi të ndryshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-01 09:15:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Life"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Life"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Damian Lewis, Sarah Shahi. I sapo liruar nga burgu pas 12 vitesh për një vrasje që nuk e ka kryer, një ish polic zgjedh të kthehet ne profesionin e tij, më i motivuar se më parë që të marrë drejtësi për të pafajshmit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-01 10:05:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Sleepy Hollow"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sleepy Hollow"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për çmimin Emmy dhe 30 çmime të tjera. Ichabod Crane ringjallet dhe iu deshën 250 vjet në të ardhmen për të zbuluar një mister që daton që në 1700-ën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-01 10:55:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Elementary"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elementary "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sherlock Holmes, detektivi hero në librat e Sir Arthur Conan Doyle, i riimagjinuar në Nju Jorkun e ditëve të sotme si një polic problematik, i cili i ndihmuar edhe nga një doktoreshë bukuroshe, zgjidh çështjet kriminale më të vështira...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-01 11:45:00" duration="2700">
+			<short_event_descriptor lang="alb" name="SEAL Team"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="SEAL Team "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta profesionale dhe personale e ekipit "SEAL", stërvitja e tyre, planifikimi dhe ekzekutimi i misioneve më të rrezikshme që ju kërkohen nga vendi i tyre</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-01 12:30:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Bull"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bull"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dr. Jason Bull, i cili është psikolog dhe ekspert i shkencës së proves drejton një firmë këshillimi. Ai përdor aftësitë e tij dhe të ekipit të tij për të zgjedhur juristët e duhur si dhe për të ndihmuar avokatët e klientëve të tij të vendosin se cili lloj argumenti do të fitojë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-01 13:20:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Elif"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elif"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta e një vajze të vogël zemërmire ndryshon rrënjësisht pasi e ëma e dërgon të jetojë në fshehtësi në një shtëpi të pasurish. Kur familjarët mësojnë sekretin e saj, vogëlushja e gjen veten mes një beteje për pushtet familjar</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-01 14:10:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Toka e nderit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tierra de Reyes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tre vëllezër kërkojnë të hakmarren kundër një familjeje të pasur për vrasjen e motrës së tyre. Por në vend të hakmarrjes ata do të gjejnë dashurinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-01 15:00:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Life"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Life"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Damian Lewis, Sarah Shahi. I sapo liruar nga burgu pas 12 vitesh për një vrasje që nuk e ka kryer, një ish polic zgjedh të kthehet ne profesionin e tij, më i motivuar se më parë që të marrë drejtësi për të pafajshmit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-01 15:50:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Sleepy Hollow"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sleepy Hollow"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për çmimin Emmy dhe 30 çmime të tjera. Ichabod Crane ringjallet dhe iu deshën 250 vjet në të ardhmen për të zbuluar një mister që daton që në 1700-ën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="41" start_time="2022-09-01 16:40:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Chicago Fire"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Chicago Fire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Serial fitues i 3 çmimeve televizive dhe kandidat për 6 të tjerë. Në qytetin e Çikagos, zjarrfikësit, skuadrat e shpëtimit dhe mjekët, vënë në rrezik jetët e tyre për të shpëtuar njerëzit e përfshirë në aksidente dhe fatkeqësi të ndryshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="42" start_time="2022-09-01 17:25:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Under The Dome"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Under the Dome"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një forcë e padukshme e misterioze, "kubeja", zbret mbi nje qytezë në Amerikë, duke i zënë banorët e tij brenda. Banorët duhet të zbulojnë sekretet dhe qëllimin e "kubesë", ndërsa zbulojnë më shumë nga ç'mund të imagjinonin për njëri-tjetrin.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="43" start_time="2022-09-01 18:10:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Elementary"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elementary "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sherlock Holmes, detektivi hero në librat e Sir Arthur Conan Doyle, i riimagjinuar në Nju Jorkun e ditëve të sotme si një polic problematik, i cili i ndihmuar edhe nga një doktoreshë bukuroshe, zgjidh çështjet kriminale më të vështira...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="44" start_time="2022-09-01 19:00:00" duration="2700">
+			<short_event_descriptor lang="alb" name="SEAL Team"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="SEAL Team "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta profesionale dhe personale e ekipit "SEAL", stërvitja e tyre, planifikimi dhe ekzekutimi i misioneve më të rrezikshme që ju kërkohen nga vendi i tyre</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="45" start_time="2022-09-01 19:45:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Bull"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bull"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dr. Jason Bull, i cili është psikolog dhe ekspert i shkencës së proves drejton një firmë këshillimi. Ai përdor aftësitë e tij dhe të ekipit të tij për të zgjedhur juristët e duhur si dhe për të ndihmuar avokatët e klientëve të tij të vendosin se cili lloj argumenti do të fitojë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="46" start_time="2022-09-01 20:30:00" duration="3600">
+			<short_event_descriptor lang="alb" name="The Serpent"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Serpent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në ngjarje të vërteta tronditëse. Në vitet 1970, vrasësi i pamëshirshëm Charles Sobhraj pret udhëtarët që eksplorojnë "shtegun e hipive" të Azisë Jugore duke i droguar, grabitur dhe vrarë në fund. Ky vrasës gjakftohtë nuk do të ndalet derisa te kapet.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="47" start_time="2022-09-01 21:30:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Orphan Black"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Orphan Black"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Paqja dhe qetësia nuk zgjasin shumë sepse Sara merr një telefonatë nga një aleat misterioz i lidhur me Beth-in. Të bashkuara në misionin e tyre për t'i dhënë fund një herë e mirë kërcënimeve, motrat po i marrin gjërat në duart e tyre. E vetmja rrugë përpara është të kthehesh pas...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="48" start_time="2022-09-01 22:15:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Elementary"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elementary "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sherlock Holmes, detektivi hero në librat e Sir Arthur Conan Doyle, i riimagjinuar në Nju Jorkun e ditëve të sotme si një polic problematik, i cili i ndihmuar edhe nga një doktoreshë bukuroshe, zgjidh çështjet kriminale më të vështira...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="49" start_time="2022-09-01 23:05:00" duration="3060">
+			<short_event_descriptor lang="alb" name="Toka e nderit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tierra de Reyes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tre vëllezër kërkojnë të hakmarren kundër një familjeje të pasur për vrasjen e motrës së tyre. Por në vend të hakmarrjes ata do të gjejnë dashurinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="50" start_time="2022-09-01 23:56:00" duration="2940">
+			<short_event_descriptor lang="alb" name="Elif"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elif"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta e një vajze të vogël zemërmire ndryshon rrënjësisht pasi e ëma e dërgon të jetojë në fshehtësi në një shtëpi të pasurish. Kur familjarët mësojnë sekretin e saj, vogëlushja e gjen veten mes një beteje për pushtet familjar</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="51" start_time="2022-09-02 00:45:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Life"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Life"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Damian Lewis, Sarah Shahi. I sapo liruar nga burgu pas 12 vitesh për një vrasje që nuk e ka kryer, një ish polic zgjedh të kthehet ne profesionin e tij, më i motivuar se më parë që të marrë drejtësi për të pafajshmit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="52" start_time="2022-09-02 01:35:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Sleepy Hollow"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sleepy Hollow"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për çmimin Emmy dhe 30 çmime të tjera. Ichabod Crane ringjallet dhe iu deshën 250 vjet në të ardhmen për të zbuluar një mister që daton që në 1700-ën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="53" start_time="2022-09-02 02:20:00" duration="3000">
+			<short_event_descriptor lang="alb" name="SEAL Team"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="SEAL Team "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta profesionale dhe personale e ekipit "SEAL", stërvitja e tyre, planifikimi dhe ekzekutimi i misioneve më të rrezikshme që ju kërkohen nga vendi i tyre</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="54" start_time="2022-09-02 03:10:00" duration="3900">
+			<short_event_descriptor lang="alb" name="The Serpent"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Serpent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në ngjarje të vërteta tronditëse. Në vitet 1970, vrasësi i pamëshirshëm Charles Sobhraj pret udhëtarët që eksplorojnë "shtegun e hipive" të Azisë Jugore duke i droguar, grabitur dhe vrarë në fund. Ky vrasës gjakftohtë nuk do të ndalet derisa te kapet.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="55" start_time="2022-09-02 04:15:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Orphan Black"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Orphan Black"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Paqja dhe qetësia nuk zgjasin shumë sepse Sara merr një telefonatë nga një aleat misterioz i lidhur me Beth-in. Të bashkuara në misionin e tyre për t'i dhënë fund një herë e mirë kërcënimeve, motrat po i marrin gjërat në duart e tyre. E vetmja rrugë përpara është të kthehesh pas...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="56" start_time="2022-09-02 05:05:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Chicago Fire"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Chicago Fire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Serial fitues i 3 çmimeve televizive dhe kandidat për 6 të tjerë. Në qytetin e Çikagos, zjarrfikësit, skuadrat e shpëtimit dhe mjekët, vënë në rrezik jetët e tyre për të shpëtuar njerëzit e përfshirë në aksidente dhe fatkeqësi të ndryshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="57" start_time="2022-09-02 05:50:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Under The Dome"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Under the Dome"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një forcë e padukshme e misterioze, "kubeja", zbret mbi nje qytezë në Amerikë, duke i zënë banorët e tij brenda. Banorët duhet të zbulojnë sekretet dhe qëllimin e "kubesë", ndërsa zbulojnë më shumë nga ç'mund të imagjinonin për njëri-tjetrin.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="58" start_time="2022-09-02 06:40:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Toka e nderit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tierra de Reyes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tre vëllezër kërkojnë të hakmarren kundër një familjeje të pasur për vrasjen e motrës së tyre. Por në vend të hakmarrjes ata do të gjejnë dashurinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="59" start_time="2022-09-02 07:35:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Elif"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elif"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta e një vajze të vogël zemërmire ndryshon rrënjësisht pasi e ëma e dërgon të jetojë në fshehtësi në një shtëpi të pasurish. Kur familjarët mësojnë sekretin e saj, vogëlushja e gjen veten mes një beteje për pushtet familjar</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="60" start_time="2022-09-02 08:25:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Chicago Fire"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Chicago Fire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Serial fitues i 3 çmimeve televizive dhe kandidat për 6 të tjerë. Në qytetin e Çikagos, zjarrfikësit, skuadrat e shpëtimit dhe mjekët, vënë në rrezik jetët e tyre për të shpëtuar njerëzit e përfshirë në aksidente dhe fatkeqësi të ndryshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="61" start_time="2022-09-02 09:15:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Life"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Life"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Damian Lewis, Sarah Shahi. I sapo liruar nga burgu pas 12 vitesh për një vrasje që nuk e ka kryer, një ish polic zgjedh të kthehet ne profesionin e tij, më i motivuar se më parë që të marrë drejtësi për të pafajshmit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="62" start_time="2022-09-02 10:05:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Sleepy Hollow"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sleepy Hollow"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për çmimin Emmy dhe 30 çmime të tjera. Ichabod Crane ringjallet dhe iu deshën 250 vjet në të ardhmen për të zbuluar një mister që daton që në 1700-ën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="63" start_time="2022-09-02 10:50:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Elementary"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elementary "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sherlock Holmes, detektivi hero në librat e Sir Arthur Conan Doyle, i riimagjinuar në Nju Jorkun e ditëve të sotme si një polic problematik, i cili i ndihmuar edhe nga një doktoreshë bukuroshe, zgjidh çështjet kriminale më të vështira...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="64" start_time="2022-09-02 11:40:00" duration="3000">
+			<short_event_descriptor lang="alb" name="SEAL Team"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="SEAL Team "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta profesionale dhe personale e ekipit "SEAL", stërvitja e tyre, planifikimi dhe ekzekutimi i misioneve më të rrezikshme që ju kërkohen nga vendi i tyre</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="65" start_time="2022-09-02 12:30:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Bull"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bull"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dr. Jason Bull, i cili është psikolog dhe ekspert i shkencës së proves drejton një firmë këshillimi. Ai përdor aftësitë e tij dhe të ekipit të tij për të zgjedhur juristët e duhur si dhe për të ndihmuar avokatët e klientëve të tij të vendosin se cili lloj argumenti do të fitojë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="66" start_time="2022-09-02 13:20:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Elif"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elif"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta e një vajze të vogël zemërmire ndryshon rrënjësisht pasi e ëma e dërgon të jetojë në fshehtësi në një shtëpi të pasurish. Kur familjarët mësojnë sekretin e saj, vogëlushja e gjen veten mes një beteje për pushtet familjar</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="67" start_time="2022-09-02 14:10:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Toka e nderit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tierra de Reyes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tre vëllezër kërkojnë të hakmarren kundër një familjeje të pasur për vrasjen e motrës së tyre. Por në vend të hakmarrjes ata do të gjejnë dashurinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="68" start_time="2022-09-02 15:00:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Life"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Life"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Damian Lewis, Sarah Shahi. I sapo liruar nga burgu pas 12 vitesh për një vrasje që nuk e ka kryer, një ish polic zgjedh të kthehet ne profesionin e tij, më i motivuar se më parë që të marrë drejtësi për të pafajshmit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="69" start_time="2022-09-02 15:50:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Sleepy Hollow"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sleepy Hollow"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për çmimin Emmy dhe 30 çmime të tjera. Ichabod Crane ringjallet dhe iu deshën 250 vjet në të ardhmen për të zbuluar një mister që daton që në 1700-ën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="70" start_time="2022-09-02 16:35:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Chicago Fire"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Chicago Fire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Serial fitues i 3 çmimeve televizive dhe kandidat për 6 të tjerë. Në qytetin e Çikagos, zjarrfikësit, skuadrat e shpëtimit dhe mjekët, vënë në rrezik jetët e tyre për të shpëtuar njerëzit e përfshirë në aksidente dhe fatkeqësi të ndryshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="71" start_time="2022-09-02 17:25:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Under The Dome"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Under the Dome"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një forcë e padukshme e misterioze, "kubeja", zbret mbi nje qytezë në Amerikë, duke i zënë banorët e tij brenda. Banorët duhet të zbulojnë sekretet dhe qëllimin e "kubesë", ndërsa zbulojnë më shumë nga ç'mund të imagjinonin për njëri-tjetrin.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="72" start_time="2022-09-02 18:10:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Elementary"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elementary "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sherlock Holmes, detektivi hero në librat e Sir Arthur Conan Doyle, i riimagjinuar në Nju Jorkun e ditëve të sotme si një polic problematik, i cili i ndihmuar edhe nga një doktoreshë bukuroshe, zgjidh çështjet kriminale më të vështira...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="73" start_time="2022-09-02 19:00:00" duration="2700">
+			<short_event_descriptor lang="alb" name="SEAL Team"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="SEAL Team "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta profesionale dhe personale e ekipit "SEAL", stërvitja e tyre, planifikimi dhe ekzekutimi i misioneve më të rrezikshme që ju kërkohen nga vendi i tyre</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="74" start_time="2022-09-02 19:45:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Bull"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bull"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dr. Jason Bull, i cili është psikolog dhe ekspert i shkencës së proves drejton një firmë këshillimi. Ai përdor aftësitë e tij dhe të ekipit të tij për të zgjedhur juristët e duhur si dhe për të ndihmuar avokatët e klientëve të tij të vendosin se cili lloj argumenti do të fitojë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="75" start_time="2022-09-02 20:30:00" duration="3600">
+			<short_event_descriptor lang="alb" name="The Serpent"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Serpent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në ngjarje të vërteta tronditëse. Në vitet 1970, vrasësi i pamëshirshëm Charles Sobhraj pret udhëtarët që eksplorojnë "shtegun e hipive" të Azisë Jugore duke i droguar, grabitur dhe vrarë në fund. Ky vrasës gjakftohtë nuk do të ndalet derisa te kapet.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="76" start_time="2022-09-02 21:30:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Orphan Black"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Orphan Black"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Paqja dhe qetësia nuk zgjasin shumë sepse Sara merr një telefonatë nga një aleat misterioz i lidhur me Beth-in. Të bashkuara në misionin e tyre për t'i dhënë fund një herë e mirë kërcënimeve, motrat po i marrin gjërat në duart e tyre. E vetmja rrugë përpara është të kthehesh pas...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="77" start_time="2022-09-02 22:20:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Elementary"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elementary "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sherlock Holmes, detektivi hero në librat e Sir Arthur Conan Doyle, i riimagjinuar në Nju Jorkun e ditëve të sotme si një polic problematik, i cili i ndihmuar edhe nga një doktoreshë bukuroshe, zgjidh çështjet kriminale më të vështira...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="78" start_time="2022-09-02 23:10:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Toka e nderit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tierra de Reyes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tre vëllezër kërkojnë të hakmarren kundër një familjeje të pasur për vrasjen e motrës së tyre. Por në vend të hakmarrjes ata do të gjejnë dashurinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="79" start_time="2022-09-03 00:00:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Elif"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elif"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta e një vajze të vogël zemërmire ndryshon rrënjësisht pasi e ëma e dërgon të jetojë në fshehtësi në një shtëpi të pasurish. Kur familjarët mësojnë sekretin e saj, vogëlushja e gjen veten mes një beteje për pushtet familjar</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="80" start_time="2022-09-03 00:50:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Life"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Life"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Damian Lewis, Sarah Shahi. I sapo liruar nga burgu pas 12 vitesh për një vrasje që nuk e ka kryer, një ish polic zgjedh të kthehet ne profesionin e tij, më i motivuar se më parë që të marrë drejtësi për të pafajshmit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="81" start_time="2022-09-03 01:40:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Sleepy Hollow"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sleepy Hollow"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për çmimin Emmy dhe 30 çmime të tjera. Ichabod Crane ringjallet dhe iu deshën 250 vjet në të ardhmen për të zbuluar një mister që daton që në 1700-ën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="82" start_time="2022-09-03 02:25:00" duration="3000">
+			<short_event_descriptor lang="alb" name="SEAL Team"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="SEAL Team "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta profesionale dhe personale e ekipit "SEAL", stërvitja e tyre, planifikimi dhe ekzekutimi i misioneve më të rrezikshme që ju kërkohen nga vendi i tyre</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="83" start_time="2022-09-03 03:15:00" duration="3900">
+			<short_event_descriptor lang="alb" name="The Serpent"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Serpent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në ngjarje të vërteta tronditëse. Në vitet 1970, vrasësi i pamëshirshëm Charles Sobhraj pret udhëtarët që eksplorojnë "shtegun e hipive" të Azisë Jugore duke i droguar, grabitur dhe vrarë në fund. Ky vrasës gjakftohtë nuk do të ndalet derisa te kapet.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="84" start_time="2022-09-03 04:20:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Orphan Black"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Orphan Black"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Paqja dhe qetësia nuk zgjasin shumë sepse Sara merr një telefonatë nga një aleat misterioz i lidhur me Beth-in. Të bashkuara në misionin e tyre për t'i dhënë fund një herë e mirë kërcënimeve, motrat po i marrin gjërat në duart e tyre. E vetmja rrugë përpara është të kthehesh pas...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="85" start_time="2022-09-03 05:10:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Chicago Fire"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Chicago Fire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Serial fitues i 3 çmimeve televizive dhe kandidat për 6 të tjerë. Në qytetin e Çikagos, zjarrfikësit, skuadrat e shpëtimit dhe mjekët, vënë në rrezik jetët e tyre për të shpëtuar njerëzit e përfshirë në aksidente dhe fatkeqësi të ndryshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="86" start_time="2022-09-03 05:55:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Under The Dome"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Under the Dome"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një forcë e padukshme e misterioze, "kubeja", zbret mbi nje qytezë në Amerikë, duke i zënë banorët e tij brenda. Banorët duhet të zbulojnë sekretet dhe qëllimin e "kubesë", ndërsa zbulojnë më shumë nga ç'mund të imagjinonin për njëri-tjetrin.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="87" start_time="2022-09-03 06:40:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Toka e nderit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tierra de Reyes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tre vëllezër kërkojnë të hakmarren kundër një familjeje të pasur për vrasjen e motrës së tyre. Por në vend të hakmarrjes ata do të gjejnë dashurinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="88" start_time="2022-09-03 07:25:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Elif"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elif"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta e një vajze të vogël zemërmire ndryshon rrënjësisht pasi e ëma e dërgon të jetojë në fshehtësi në një shtëpi të pasurish. Kur familjarët mësojnë sekretin e saj, vogëlushja e gjen veten mes një beteje për pushtet familjar</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="89" start_time="2022-09-03 08:15:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Chicago Fire"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Chicago Fire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Serial fitues i 3 çmimeve televizive dhe kandidat për 6 të tjerë. Në qytetin e Çikagos, zjarrfikësit, skuadrat e shpëtimit dhe mjekët, vënë në rrezik jetët e tyre për të shpëtuar njerëzit e përfshirë në aksidente dhe fatkeqësi të ndryshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="90" start_time="2022-09-03 09:00:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Life"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Life"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Damian Lewis, Sarah Shahi. I sapo liruar nga burgu pas 12 vitesh për një vrasje që nuk e ka kryer, një ish polic zgjedh të kthehet ne profesionin e tij, më i motivuar se më parë që të marrë drejtësi për të pafajshmit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="91" start_time="2022-09-03 09:45:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Elementary"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elementary "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sherlock Holmes, detektivi hero në librat e Sir Arthur Conan Doyle, i riimagjinuar në Nju Jorkun e ditëve të sotme si një polic problematik, i cili i ndihmuar edhe nga një doktoreshë bukuroshe, zgjidh çështjet kriminale më të vështira...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="92" start_time="2022-09-03 10:30:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Sleepy Hollow"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sleepy Hollow"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për çmimin Emmy dhe 30 çmime të tjera. Ichabod Crane ringjallet dhe iu deshën 250 vjet në të ardhmen për të zbuluar një mister që daton që në 1700-ën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="93" start_time="2022-09-03 11:15:00" duration="2700">
+			<short_event_descriptor lang="alb" name="SEAL Team"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="SEAL Team "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta profesionale dhe personale e ekipit "SEAL", stërvitja e tyre, planifikimi dhe ekzekutimi i misioneve më të rrezikshme që ju kërkohen nga vendi i tyre</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="94" start_time="2022-09-03 12:00:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Bull"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bull"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dr. Jason Bull, i cili është psikolog dhe ekspert i shkencës së proves drejton një firmë këshillimi. Ai përdor aftësitë e tij dhe të ekipit të tij për të zgjedhur juristët e duhur si dhe për të ndihmuar avokatët e klientëve të tij të vendosin se cili lloj argumenti do të fitojë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="95" start_time="2022-09-03 12:45:00" duration="2400">
+			<short_event_descriptor lang="alb" name="Under The Dome"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Under the Dome"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një forcë e padukshme e misterioze, "kubeja", zbret mbi nje qytezë në Amerikë, duke i zënë banorët e tij brenda. Banorët duhet të zbulojnë sekretet dhe qëllimin e "kubesë", ndërsa zbulojnë më shumë nga ç'mund të imagjinonin për njëri-tjetrin.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="96" start_time="2022-09-03 13:25:00" duration="2640">
+			<short_event_descriptor lang="alb" name="Perandoria"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Imperio "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nga telenovelat më të kushtueshme dhe më të pëlqyera Braziliane! Historia e një njeriu, që nga hiçi krijoi një perandori të gurëve të çmuar, vajzës së tij të përkushtuar dhe përpjekjet e paskrupullta të një gruaje të fiksuar pas tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="97" start_time="2022-09-03 14:09:00" duration="3060">
+			<short_event_descriptor lang="alb" name="Perandoria"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Imperio "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nga telenovelat më të kushtueshme dhe më të pëlqyera Braziliane! Historia e një njeriu, që nga hiçi krijoi një perandori të gurëve të çmuar, vajzës së tij të përkushtuar dhe përpjekjet e paskrupullta të një gruaje të fiksuar pas tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="98" start_time="2022-09-03 15:00:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Terra Nova"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Terra Nova"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Shenons, një familje e zakonshme e vitit 2149, teksa planeti po vdes, janë transportuar 85 milionë vjet mbrapa në tokën parahistorike ku bashkohen me Terra Novan, një koloni njerëzish që kanë një mundësi të dytë për të ndërtuar qytetërim.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="99" start_time="2022-09-03 15:45:00" duration="1800">
+			<short_event_descriptor lang="alb" name="The Big C"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Big C"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Laura Linney, Oliver Platt. Fitues i Globit të Artë dhe kandidat për 12 çmime të tjera televizive. Një nënë e re, e diagnostikuar me një sëmundje të rëndë, përpiqet të shohë anën pozitive për gjithçka që po i ndodh...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="100" start_time="2022-09-03 16:15:00" duration="3900">
+			<short_event_descriptor lang="alb" name="The Missing"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Missing"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për dy çmime "Globi i Artë". Tchéky Karyo. Zhdukja e mistershme e Oliverit 5-vjeçar, i jep nismë një hetimi disavjeçar nga një detektiv brilant francez dhe luftës obsesive të babait të tij, që refuzon të pranojë më të keqen</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="101" start_time="2022-09-03 17:20:00" duration="3300">
+			<short_event_descriptor lang="alb" name="The Bible"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Bible"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për 4 çmime Emmy. Ngjarjet më të njohura nga libri më i rëndësishëm në historinë e njerëzimit, Bibla. Një ritregim mahnitës dhe frymëzues, që nga historia e Arkës së Noas, e deri tek kryqëzimi i Jezusit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="102" start_time="2022-09-03 18:15:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Wayward Pines"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Wayward Pines"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me producent ekzekutiv M. Night Shyamalan, vjen një histori e frikshme, për një sherif që shkon në një qytezë në kërkim të 2 kolegëve të tij të zhdukur dhe zbulon se ndoshta nuk do të dalë kurrë prej aty...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="103" start_time="2022-09-03 19:00:00" duration="1920">
+			<short_event_descriptor lang="alb" name="Modern Love"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Modern Love"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Anne Hathaway, Tina Fey, Dev Patel. Serial antologjik që eksploron dashurinë në format e saj të shumta, përfshirë atë seksuale, romantike, familjare, platonike dhe dashurinë për veten. Bazuar në rubrikën me të njëjtin titull të "New York Times".</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="104" start_time="2022-09-03 19:32:00" duration="1680">
+			<short_event_descriptor lang="alb" name="Modern Love"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Modern Love"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Anne Hathaway, Tina Fey, Dev Patel. Serial antologjik që eksploron dashurinë në format e saj të shumta, përfshirë atë seksuale, romantike, familjare, platonike dhe dashurinë për veten. Bazuar në rubrikën me të njëjtin titull të "New York Times".</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="105" start_time="2022-09-03 20:00:00" duration="2400">
+			<short_event_descriptor lang="alb" name="Jack Ryan"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tom Clancy's Jack Ryan"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>John Krasinski. Pasi gjurmoi një dërgesë të dyshimtë të armëve të paligjshme në xhunglën e Venezuelës, oficeri i CIA-s Jack Ryan shkon në Amerikën e Jugut për të hetuar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="106" start_time="2022-09-03 20:40:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Tyrant"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tyrant"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për dy çmime Emmy. Një familje e thjeshtë amerikane përfshihet në vorbullën e turbullt të politikës së një kombi në Lindjen e Mesme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="107" start_time="2022-09-03 21:35:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Sons of Anarchy"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sons of Anarchy"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Charlie Hunnam. Dilema e pjestarit të një bande motoristësh midis jetës si kriminel dhe përpjekjeve për të rritur ashtu si duhet djalin e sapolindur. Çdo gjë komplikohet nga nëna e tij dhe njerku që drejton gjithë organizatën...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="108" start_time="2022-09-03 22:25:00" duration="3900">
+			<short_event_descriptor lang="alb" name="The Missing"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Missing"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për dy çmime "Globi i Artë". Tchéky Karyo. Zhdukja e mistershme e Oliverit 5-vjeçar, i jep nismë një hetimi disavjeçar nga një detektiv brilant francez dhe luftës obsesive të babait të tij, që refuzon të pranojë më të keqen</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="109" start_time="2022-09-03 23:30:00" duration="2640">
+			<short_event_descriptor lang="alb" name="Perandoria"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Imperio "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nga telenovelat më të kushtueshme dhe më të pëlqyera Braziliane! Historia e një njeriu, që nga hiçi krijoi një perandori të gurëve të çmuar, vajzës së tij të përkushtuar dhe përpjekjet e paskrupullta të një gruaje të fiksuar pas tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="110" start_time="2022-09-04 00:14:00" duration="3360">
+			<short_event_descriptor lang="alb" name="Perandoria"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Imperio "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nga telenovelat më të kushtueshme dhe më të pëlqyera Braziliane! Historia e një njeriu, që nga hiçi krijoi një perandori të gurëve të çmuar, vajzës së tij të përkushtuar dhe përpjekjet e paskrupullta të një gruaje të fiksuar pas tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="111" start_time="2022-09-04 01:10:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Terra Nova"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Terra Nova"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Shenons, një familje e zakonshme e vitit 2149, teksa planeti po vdes, janë transportuar 85 milionë vjet mbrapa në tokën parahistorike ku bashkohen me Terra Novan, një koloni njerëzish që kanë një mundësi të dytë për të ndërtuar qytetërim.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="112" start_time="2022-09-04 02:00:00" duration="1800">
+			<short_event_descriptor lang="alb" name="The Big C"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Big C"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Laura Linney, Oliver Platt. Fitues i Globit të Artë dhe kandidat për 12 çmime të tjera televizive. Një nënë e re, e diagnostikuar me një sëmundje të rëndë, përpiqet të shohë anën pozitive për gjithçka që po i ndodh...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="113" start_time="2022-09-04 02:30:00" duration="3300">
+			<short_event_descriptor lang="alb" name="The Bible"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Bible"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për 4 çmime Emmy. Ngjarjet më të njohura nga libri më i rëndësishëm në historinë e njerëzimit, Bibla. Një ritregim mahnitës dhe frymëzues, që nga historia e Arkës së Noas, e deri tek kryqëzimi i Jezusit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="114" start_time="2022-09-04 03:25:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Jack Ryan"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tom Clancy's Jack Ryan"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>John Krasinski. Pasi gjurmoi një dërgesë të dyshimtë të armëve të paligjshme në xhunglën e Venezuelës, oficeri i CIA-s Jack Ryan shkon në Amerikën e Jugut për të hetuar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="115" start_time="2022-09-04 04:15:00" duration="2552">
+			<short_event_descriptor lang="alb" name="Sons of Anarchy"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sons of Anarchy"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Charlie Hunnam. Dilema e pjestarit të një bande motoristësh midis jetës si kriminel dhe përpjekjeve për të rritur ashtu si duhet djalin e sapolindur. Çdo gjë komplikohet nga nëna e tij dhe njerku që drejton gjithë organizatën...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>

@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="FILM THRILLER">
+		<Event id="0" start_time="2022-09-07 02:40:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Droni">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Drone"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sean Bean. Një njeri familjar punon në fshehtësi si pilot droni, duke kyer misione vdekjeprurëse nga rehatia e qytezës së tij. Kur një biznesmen pakistanez i shfaqet në derën e shtëpisë, ai detyrohet të përballë pasojat e veprimeve të tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text>Ideologies collide with fatal results when a military drone contractor meets an enigmatic Pakistani businessman.</text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-09-07 04:10:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Një plan i rrezikshëm">Krim</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Man on a Ledge"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>S.Worthington. Në katin e fundit të një hoteli, një ish polic, i arratisur nga burgu këmbëngul në pafajsinë e tij dhe kërcënon se do të hidhet. Ndërkohë që një negociatore përpiqet ta ndalojë, një plan i rrezikshëm është vënë në lëvizje.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-09-07 05:45:00" duration="6600">
+			<short_event_descriptor lang="alb" name="I harruari"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Forgotten "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kur vëllai i tij i rrëmbyer kthehet një njeri plotësisht i ndryshuar dhe pa asnjë kujtesë për 19 ditët që ka qënë zhdukur, Jin-seok vendos të gjejë të vërtetën pas rrëmbimit të tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-09-07 07:35:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Asistenti i vampirit">Aventurë, Fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Cirque Du Freak The Vampires Assistant "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Darren, një djalë i apasionuar pas merimangave, kur merr vesh se ne qytet do të vijë një cirk vërtet i frikshëm, vendos të mos e humbasë shfaqjen e tyre. Një shfaqje, e cila do t'i ndryshojë jetën përgjithmonë..</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-09-07 09:20:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Kronika">Fantashkencë, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Chronicle"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dane DeHaan. Tre studentë, bëjnë nje zbulim të jashtëzakonshëm, që do t'ju japë superfuqi të paimagjinueshme. Por ndërkohë që secili përpiqet të mësohet me aftësitë e reja, jetët e tyre do të marrin një kthesë të tmerrshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-09-07 10:45:00" duration="5640">
+			<short_event_descriptor lang="alb" name="Vendi i hijeve">Fantazi, mister</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Odd Thomas "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me regji të Stephen Sommers. Ne një qytet të vogël kalifornian, një kuzhinier me aftësi paranormale, takon një burrë misterioz që mbart një lidhje të rrezikshme me forca të errëta dhe kërcënuese.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-09-07 12:19:00" duration="6660">
+			<short_event_descriptor lang="alb" name="I padukshëm">Krim, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Invisible"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nga regjisori i 'Shqisa e gjashtë' dhe skenaristi i 'Batman Zanafilla' vjen një bashkëpunim i mbushur me mister, krim dhe fantazi. Një adoleshent që vritet brutalisht, duhet të zgjidhë vrasjen e  tij para se shpirti ta lërë përgjithmonë</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-09-07 14:10:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Vrasësi">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Clovehitch Killer "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Djali i një familjeje të përkryer bën një zbulim të papritur, që i zgjon dyshme se njeriu tek i cili beson më shumë, mund të jetë vrasësi serial që ka torturuar dhjetra gra dhe se inati i tij vdekjeprurës mund të mos jetë shuar ende.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-09-07 16:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Anestezia">Thriller, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Anesthesia"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sam Waterston, Kristen Stewart, Glenn Close, Corey Stoll. Jetët e disa personave ndërthuren me njëra-tjetrën pasi një profesor i Univeristetit të Kolumbias, grabitet dhunshëm nga disa të panjohur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-09-07 17:30:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Pika e vdekur">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Standoff "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Laurence Fishburne. Një vogëlushe bëhet dëshmitare e vrasjeve brutale dhe strehohet tek një ish-ushtarak. Me vetëm 1 fishek në armë, ai përfshihet në një luftë fizike e psikologjike me vrasësin, në përpjekje për t'i shpëtuar asaj jetën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-09-07 18:55:00" duration="9000">
+			<short_event_descriptor lang="alb" name="Të  burgosur">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Prisoners"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Hugh Jackman, Jake Gyllenhaal. Pasi vajza e tij e vogël dhe shoqja e saj rrëmbehen, dhe me ditët që kalojnë pa asnjë sukses nga ana e policisë, një baba i dëshpëruar për të gjetur të bijën, do ta marrë ligjin në duart e veta.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-09-07 21:25:00" duration="5160">
+			<short_event_descriptor lang="alb" name="Tatuisti">Horror, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Tattooist"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jason Behr, Mia Blake. Përpjekjet e nje të riu për të mësuar artin e tatuazheve Samoa, çlirojnë një shpirt vdekjeprurës. Ndërkohë që klientët e tij po vdesin një e nga një, ai duhet të gjejë një zgjidhje për të shpëtuar të dashurën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-09-07 22:51:00" duration="6480">
+			<short_event_descriptor lang="alb" name="Qyteti kufitar">Krim, mister</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bordertown"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jennifer Lopez, Antonio Banderas, Martin Sheen. Një gazetare, heton vdekjen e qindra grave në një qyetezë meksikane pranë kufirit me Amerikën, ku ndodhet një fabrikë amerikane...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-09-08 00:39:00" duration="5760">
+			<short_event_descriptor lang="alb" name="Grushti i ekstazës">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Donkey punch"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një grup të rinjsh dalin në det të hapur me një jaht luksoz për një festë të paharrueshme. Atmosfera tejet e nxehtë, ftohet papritur nga një vrasje aksidentale. Festa do të kthehet në një luftë të vërtetë për mbijetesë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-09-08 02:15:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Lartësia">Horror</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Altitude "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një njeri që i shpëton masakrës së një vrasësi serial, detyrohet të kthehet në shtëpinë e tmerrit të mbushur plot me kurthe vdekjeprurëse, për të shpëtuar një vajzë të re ende gjallë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-09-08 03:40:00" duration="9000">
+			<short_event_descriptor lang="alb" name="Vajtimi">Horror</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Wailing"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pas mbërritjes së një njeriu misterioz në fshatin e tyre, papritur fillojnë të ndodhin vrasje makabre dhe dyshimet shumë shpejt kthehen në histeri</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-09-08 06:10:00" duration="7800">
+			<short_event_descriptor lang="alb" name="Aureola">Thriller psikologjik</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Aura"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ricardo Darín. Një grabitje e përkryer, e planifikuar me përpikmëri dhe me një arratisje brilante. I vetmi problem: Gjithçka ishte fantazi e Estebanit. Por, një tragjedi e kthen planin në mendjen e tij, në një realitet të rrezikshëm.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-09-08 08:20:00" duration="7260">
+			<short_event_descriptor lang="alb" name="Faza e lojës">Thriller politik</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="State of Play"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>R.Crowe, B.Affleck. Stiven Kollins është një kongresmen i suksesshëm, karriera e të cilit do të rrezikohet pas vrasjes së assitentes së tij. Një gazetar investigativ, njohje e tij e vjeter, do të vihet në kërkim të së vërtetës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-09-08 10:21:00" duration="5940">
+			<short_event_descriptor lang="alb" name="Lloji i katërt">Mister, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The fourth kind"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Milla Jovovic, Elias Koteas. Një qytezë në Alaskë, ka përjetuar 40 vjet zhdukjesh misterioze, që as qeveria s'mund t'ju japë përgjigje. Por një psikologe fillon të zbulojë të vërtetën përmes intervistave me dëshmitarë të tmerreve...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-09-08 12:00:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Vëllezërit Grim">Aventurë, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Brothers Grimm "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Matt Damon, Health Ledger, Monica Bellucci. Gjatë perandorisë Napoleoniane vëllezërit Grim jetonin duke mashtruar e praktikuar formula magjike. Kur autoritetet franceze i zbulojnë, ata për të shpëtuar fshihen në një pyll të magjepsur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-09-08 13:55:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Ne vdesim të rinj">Krim, aksion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="We Die Young "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jean Claude Van Damme. Një 14-vjeçar i përfshirë në bandën më të rrezikshme latine në Uashington, është i vendosur që vëllai i tij i vogël të mos ndjekë të njëjtën rrugë. Kur një veteran lufte vjen në lagjen e tyre, një mundësi lind për ta.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-09-08 15:30:00" duration="6240">
+			<short_event_descriptor lang="alb" name="Përroi i ndryshkur">Thriller, krim</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rust Creek"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një studente e shkëlqyer dhe ambicioze që ngatërron rrugën ndërsa po shkon në një intervistë pune, humbet në pyjet e Kentakit, ku duhet të bëjë aleancë me një burrë misteroz për të mbijetuar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-08 17:14:00" duration="6660">
+			<short_event_descriptor lang="alb" name="Rruga e mëndafshit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Silk Road "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jason Clarke, Nick Robinson. Bazuar në histori të vërtetë. I ri dhe i vendosur për sukses, Ross Ulbricht krijon një platformë e fshehtë për shitjen e narkotikëve në web. Ndërsa marrëveshjet kapin shpejt miliona dollarë, një agjent i DEA-s, do të përdorë çdo mjet për ta kapur atë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-08 19:05:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Dy fytyrat e Janusit">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Two Faces of January "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Viggo Mortensen, Kirsten Dunst, Oscar Isaac. Pasi vret një detektv, një artist mashtrues dhe gruaja e tij detyrohen t'i varin shpresat tek një i panjohur potencialisht i rrezikshëm, për t'i ndihmuar ata të largohen nga Greqia</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-08 20:40:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Rënia e Grejsit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="A Fall from Grace"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një grua e divocruar, në dëshpërim që prej tradhtisë të ish-bashkëshortit, ndihet e rilindur nga një romancë e re. Por euforia nuk zgjat shumë, pasi sekretet e errëta të partnerit të ri, do t'ia ndryshojnë jetën siç nuk e kishte imagjinuar kurrë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-08 22:35:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Fqinjësi e mirë">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Good Neighbors aka Good Neighbours"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jay Baruchel, Scott Speedman. Ndërkohë që qyteti po terrorizohet nga një vrasës serial, 3 fqinjë përpiqen të kuptojnë se kush mund të jetë fajtori. Por sa më shumë  kohë kalojnë bashkë, aq më shumë kuptojnë se rreziku mund të jetë mes tyre.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-09 00:15:00" duration="7500">
+			<short_event_descriptor lang="alb" name="Natë ujqërish">Thriller, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Hold the Dark"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeffrey Wright, Alexander Skarsgård. Në Alaskën e egër, një specialist ujqërish në pension vihet në kërkim të kafshëve që dyshohen për vrasjen e një djali të vogël, por shpejt do të përballet me një mister drithërues.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-09 02:20:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Elefanti">Krim</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elephant"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Eshtë një ditë e zakonshme në një shkollë të mesme amerikane. Një ditë e mbushur me garniturën e zakonshme, detyra klase, futboll, dhunë dhe befas një vajze qellohet për vdekje. Perse? S'ka pergjigje.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-09 03:50:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Marinsat">Luftë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Jarhead"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Anthony Swofford, marins 20 vjeçar, dërgohet për të luftuar në Luften e I të Gjirit. Edhe në këtë mjedis ferri zhvillohet miqësia e fortë mes ushtarëve. Të rinj dhe papërvoje ata katapultohen në një territor armiqësor për ta.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-09 05:50:00" duration="4800">
+			<short_event_descriptor lang="alb" name="I paftuari">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="No Good Deed"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Taraji P. Henson, Idris Elba. Teri, nënë e dy fëmijëve dhe grua e devotshme, i hap derën e shtëpisë nje njeriu që thotë se ka pësuar një aksident me makinë. Pa e ditur se ka futur brenda një kriminel të dhunshëm të arratisur nga burgu...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-09 07:10:00" duration="6060">
+			<short_event_descriptor lang="alb" name="Në labirintin e mendjes">Thriller, mister</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Stay"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ewan McGregor, Naomi Watts. Kur një pacient i rrëfen dëshirën për të kryer vetëvrasje në vigjilje të ditëlindjes së tij të 21-të, psikiatri Sem Foster nis me të një terapi gjatë së cilë djaloshi fillon të ketë parandjenja të tmerrshme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-09 08:51:00" duration="5640">
+			<short_event_descriptor lang="alb" name="Doktori gjerman">Thriller, histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Wakolda aka The German Doctor "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në historinë e vërtetë të një familjeje argjentinase, e cila në vitet 1960, pa e ditur strehoi një nga doktorët gjermanë më të kërkuar për krimet e tij në Aushvitz...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-09 10:25:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Dritarja e fshehtë">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Secret window"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pas ndarjes me të shoqen, shkrimtari i famshëm Mort Rainey, përballet papritur, në shtëpinë e tij të vetmuar buzë liqenit me një te panjohur të rrezikshëm. Quhet John Shooter dhe pretendon se Ranye i ka kopjuar tregimin e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-09 12:05:00" duration="6960">
+			<short_event_descriptor lang="alb" name="Tarraca në Leikvju">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lakeview Terrace"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Samuel L. Jackson. Një çift ndër-racial shpërngulet në shtëpinë e ëndrrave, por gjendet vazhdimisht nën shënjestrën e sulmeve dhe ngacmimeve të fqinjit të tyre, një oficer policie me ngjyrë që është vetëquajtur 'sherifi i lagjes'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-09 14:01:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Sinjali">Fantashkencë, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Signal "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Niku dhe dy miqtë e tij futen në një vend të izoluar, të joshur nga një gjeni kompjuterash. Kur papritur errësohet gjithçka, Niku zgjohet dhe e gjen veten në një makth të gjallë nga i cili duhet të shpëtojë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-09 15:41:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Luce">Thriller, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Luce"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Naomi Watts, Octavia Spencer. Reputacioni i një djali të birësuar, student dhe atlet i shkëlqyer, vihet në diskutim kur mësuesja e tij bën një zbulim alarmues në dollapin e tij në shkollës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-09 17:31:00" duration="5940">
+			<short_event_descriptor lang="alb" name="Telefonuesja">Mister</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Caller"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Rachelle Lefevre, Stephen Moyer, Luis Guzmán. Një vajzë që sapo është shpërngulur në një shtëpi të re për t'ju larguar jetës së mëparshme, përjeton një makth të tmerrshëm kur përpiqet t'i japë fund telefonatave të një gruaje misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-09 19:10:00" duration="6960">
+			<short_event_descriptor lang="alb" name="Lufta e botëve">Fantashkencë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="War of the Worlds"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tom Cruise, Dakota Fanning. Ndërkohë qe Toka sulmohet nga një racë jashtëtokësore që shfaros gjithçka i del përpara, një njeri përpiqet të mbijetojë dhe të mbrojë fëmijët e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-09 21:06:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Duhet të kishit ikur">Horror psikologjik</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="You Should Have Left">Psychological horror</short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kevin Bacon, Amanda Seyfried. Pushimet e përkryera të një çifti me probleme, shndërrohen në një makth të tmerrshëm kur ngjarje të së kaluarës dalin në sipërfaqe dhe një forcë e keqe në shtëpinë e pushimit nuk pranon t'i lërë ata të largohen.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-09 22:36:00" duration="7800">
+			<short_event_descriptor lang="alb" name="Fëmija nr 44">Mister, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Child 44"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tom Hardy, Gary Oldman. Kur Leo Demidov, një pjestar i çnderuar i policisë sekrete, zbulon prova për një vrasës serial, ai duhet të përballet me idetë e çmendura të një drejtuesi të Bashkimit Sovjetik, që thotë se në 'parajsë' krimi nuk ekziston.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-10 00:46:00" duration="5896">
+			<short_event_descriptor lang="alb" name="E paimagjinueshme">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Inconceivable"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nicolas Cage, Gina Gershon, Nicky Whelan. Një çift strehon një nënë të re, e cila po përpiqet t'i shpëtojë të kaluarës së saj, pa e ditur se ajo fsheh një sekret të rrezikshëm.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text>A wealthy couple shelters a young runaway mother, dangerously unaware of the woman's dark past.</text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>

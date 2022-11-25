@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport HD 2ott">
+    <event id="0" start_time="2022-08-30 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Premier League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe momenteve me te mira te javes se 4-t ne kampionatin anglez. Premier League, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-08-30 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Eredivisie">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te javes se 4-t ne kampionatin holandez. Eredivisie, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-08-30 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Arsenal-Fulham ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League, sezoni 2022-2023. Sfide e vlefshme per javen e 4-t nga stadiumi "Emirates" ne Londer. Komenti: Glenti Nallbani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-08-30 17:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Dokumentar: Venus dhe Serena	">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje dokumentar qe ndjek dy motrat kampione te tenisit, Venus dhe Serena Williams, brenda dhe jashte fushes se tenisit, nderkohe qe perballen me probleme shendetesore dhe polemika mediatike.	</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-08-30 18:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Southampton-Chelsea  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te nga stadiumi "St. Mary's" ne Hampshire. Komenti: Ylli Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-08-30 20:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Dokumentar: Van Basten dhe karriera">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ne moshen 28 vjec ishte ne majen e botes, dy vjet me vone la futbollin. Historia tragjike e legjendes se Holandes dhe Milanit Marco Van Basten, 3 here fitues i Topit te Arte dhe thuajse cdo trofeu te mundshem ne futboll.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-08-30 21:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Highlights La Liga">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te javes se 3-te ne kampionatin spanjoll. La Liga, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-08-30 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Bundesliga">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhja e golave dhe e momenteve me te mira te ndeshjeve te javes se 4-t ne kampionatin gjerman. Bundesliga 1, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-08-30 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Ligue 1">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te javes se 4-t ne kampionatin francez. Ligue 1, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-08-31 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Premier League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe momenteve me te mira te javes se 4-t ne kampionatin anglez. Premier League, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-08-31 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Eredivisie">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te javes se 4-t ne kampionatin holandez. Eredivisie, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-08-31 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Valencia-Atl Madrid">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 3-te nga stadiumi "Mestalla" ne Valencia. Komenti: Elvis Rexha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-08-31 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="PSG-Monaco">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2022-2023. Sfide e vlefshme per javen e 4-t nga stadiumi "Parc des Princes" ne Paris. Komenti: Andi Decka.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-08-31 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Bayern-Gladbach ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bundesliga 1, sezoni 2022-2023. Sfide e vlefshme per javen e 4-t nga stadiumi "Allianz Arena" ne Munchen. Komenti: Andi Decka.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-08-31 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Bundesliga">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhja e golave dhe e momenteve me te mira te ndeshjeve te javes se 4-t ne kampionatin gjerman. Bundesliga 1, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-08-31 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Liverpool-Bournemouth  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League, sezoni 2022-2023. Sfide e vlefshme per javen e 4-t nga stadiumi "Anfield" ne Liverpool. Komenti: Elvis Rexha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-08-31 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Valencia-Atl Madrid">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 3-te nga stadiumi "Mestalla" ne Valencia. Komenti: Elvis Rexha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-08-31 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Man City-C Palace  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League, sezoni 2022-2023. Sfide e vlefshme per javen e 4-t nga stadiumi "Etihad" ne Manchester. Komenti: Sokol Xhihani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-08-31 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Ligue 1">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te javes se 4-t ne kampionatin francez. Ligue 1, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-08-31 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Barcelona-Valladolid">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 3-te nga stadiumi "Spotify Camp Nou" ne Barcelone. Komenti: Sokol Xhihani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-08-31 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Premier League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe momenteve me te mira te javes se 4-t ne kampionatin anglez. Premier League, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-08-31 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Liverpool-Newcastle  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te nga stadiumi "Anfield" ne Liverpool. Komenti: Glenti Nallbani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-08-31 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Espanyol-Real Madrid  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 3-te nga stadiumi "RCDE Stadium" ne Cornella. Komenti: Glenti Nallbani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-08-31 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="PSV-Volendam">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eredivisie, sezoni 2022-2023. Sfide e vlefshme per javen e 3-te nga stadiumi "Philips Stadion" ne Eindhoven. Komenti: Alban Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-01 01:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Toulouse-PSG">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te, nga stadiumi "Stadio de Toulouse" ne Toulouse. Komenti: Anarildo Alia.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-01 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Ligue 1">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te javes se 4-t ne kampionatin francez. Ligue 1, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-01 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Barcelona-Valladolid">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 3-te nga stadiumi "Spotify Camp Nou" ne Barcelone. Komenti: Sokol Xhihani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-01 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Southampton-Man Utd  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League, sezoni 2022-2023. Sfide e vlefshme per javen e 4-t nga stadiumi "St. Mary's" ne Hampshire. Komenti: Ermal Toti.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-01 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Espanyol-Real Madrid  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 3-te nga stadiumi "RCDE Stadium" ne Cornella. Komenti: Glenti Nallbani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-01 10:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Highlights La Liga">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe momenteve me te mira te fundjaves se shkuar ne kampionatin spanjoll. La Liga, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-01 10:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Dokumentar: Argjentine-Angli 1998">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>France 1998. Nje sfide emocionuese e boterorit francez ishte dhe perballja mes skuadres celeste dhe asaj ishullore. Gjithcka ndodhi ne ate perballje mund ta ndiqni ne kete dokumentar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-01 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Southampton-Chelsea  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te nga stadiumi "St. Mary's" ne Hampshire. Komenti: Ylli Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-01 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dokumentar: Andy Murray, Ringjallja">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje dokumetar per Andy Murray.  Historia e tenistit skocez qe tregon kalvarin e gjate te vuajtjeve pas demtimit ne vitin 2017, qe e la per 2 vjet jashte fushave te tenisit.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-01 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Premier League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe momenteve me te mira te javes se 4-t ne kampionatin anglez. Premier League, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-01 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Liverpool-Newcastle">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te nga stadiumi "Anfield" ne Liverpool. Komenti: Glenti Nallbani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-01 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar: Real M, Legjenda e Bardhe ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Real Madrid eshte nje klub me histori fantastike qe ka prodhuar nje ekip fitues ne cdo epoke. Asnje klub tjeter nuk e ka pasur kete nivel suksesi si kampionet e perjetshem. Episodi 1-re. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-01 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Leicester-Man Utd  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te nga stadiumi "King Power" ne Leicester. Komenti: Ylli Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-01 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Valencia-Atl Madrid">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 3-te nga stadiumi "Mestalla" ne Valencia. Komenti: Elvis Rexha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-01 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Utrecht-Ajax">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eredivisie, sezoni 2022-2023. Sfide e vlefshme per javen e 4-t nga stadiumi "Galgenwaard" ne Utrecht. Komenti: Erdi Kerciku.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-02 01:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lille-Nice  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te, nga stadiumi "Pierre-Mauroy" ne Lille. Komenti: Andi Decka. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-02 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Eredivisie">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te javes se 4-t ne kampionatin holandez. Eredivisie, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-02 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lyon-Auxerre  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te nga stadiumi "Groupama Stadium" ne Lyon. Komenti: Erdi Kerciku.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-02 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Hertha-Dortmund ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bundesliga 1, sezoni 2022-2023. Sfide e vlefshme per javen e 4-t nga stadiumi "Olympiastadion" ne Berlin. Komenti: Blendi Resnja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-02 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Celta-Real Madrid ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 2-te nga stadiumi "Abanca-Balaidos" ne Vigo. Komenti: Glenti Nallbani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-02 10:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Eredivisie">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te javes se 4-t ne kampionatin holandez. Eredivisie, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-02 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dokumentar: Andy Murray, Ringjallja">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje dokumetar per Andy Murray.  Historia e tenistit skocez qe tregon kalvarin e gjate te vuajtjeve pas demtimit ne vitin 2017, qe e la per 2 vjet jashte fushave te tenisit.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-02 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Arsenal-Aston Villa ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te nga stadiumi "Emirates" ne Londer. Komenti: Elvis Rexha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-02 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Ligue 1">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te javes se 4-t ne kampionatin francez. Ligue 1, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-02 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Toulouse-PSG  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te, nga stadiumi "Stadio de Toulouse" ne Toulouse. Komenti: Anarildo Alia.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-02 18:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Shkenca e gjuajtjes se penalltive">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lotaria e penalltive ne nje Kupe BOte: testi me i madh per nervat dhe aftesite e lojtareve, ndersa tifozet shohin te stresuar dhe luten. Pse eshte kaq e veshtire per nje futbollist elite te shenoje nga 11 metra? Gazetare, psikologe, lojtare dhe portiere mundohen te na shpjegojne gjithcka ndodh gjate gjuajtjes se penalltive.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-02 18:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dortmund-Hoffenheim  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bundesliga 1, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te nga stadiumi "Signal Iduna Park" ne Dortmund. Komenti: Blendi Resnja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-02 20:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Steven Gerrard: Make us dream ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar per jeten dhe karrieren e nje legjende futbolli si Steven Gerrad. Nje lider ne fushe e jashte saj per skuadren e famshme te Liverpool.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-02 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lyon-Auxerre  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te nga stadiumi "Groupama Stadium" ne Lyon. Komenti: Erdi Kerciku.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-03 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dortmund-Hoffenheim  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bundesliga 1, sezoni 2022-2023. Sfide e vlefshme per javen e 5-te nga stadiumi "Signal Iduna Park" ne Dortmund. Komenti: Blendi Resnja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-03 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Barcelona-Valladolid">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 3-te nga stadiumi "Spotify Camp Nou" ne Barcelone. Komenti: Sokol Xhihani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-03 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="PSV-Volendam">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eredivisie, sezoni 2022-2023. Sfide e vlefshme per javen e 3-te nga stadiumi "Philips Stadion" ne Eindhoven. Komenti: Alban Aga.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

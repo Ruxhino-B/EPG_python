@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="ALSAT M">
+    <event id="47889512" start_time="2022-09-06 22:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Familja e madhe">Familja e madhe</short_event_descriptor>
+    </event>
+    <event id="47889513" start_time="2022-09-06 23:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Lotët e nënës">Lotët e nënës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889514" start_time="2022-09-07 00:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Më fal">Më fal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889515" start_time="2022-09-07 00:50:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Pasdite ne Alsat">Pasdite ne Alsat</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889516" start_time="2022-09-07 01:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889517" start_time="2022-09-07 02:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gurmania">Gurmania</short_event_descriptor>
+    </event>
+    <event id="47889518" start_time="2022-09-07 03:15:00" duration="1800">
+      <short_event_descriptor lang="alb" name="1001 Ushqime">1001 Ushqime</short_event_descriptor>
+    </event>
+    <event id="47889519" start_time="2022-09-07 03:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Muzikë Zbavitëse">Muzikë Zbavitëse</short_event_descriptor>
+    </event>
+    <event id="47889520" start_time="2022-09-07 05:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="47889521" start_time="2022-09-07 05:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+    </event>
+    <event id="47889522" start_time="2022-09-07 07:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dita e re - Emision Mëngjesi">Dita e re - Emision Mëngjesi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Best of)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889523" start_time="2022-09-07 08:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889524" start_time="2022-09-07 08:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lotët e nënës">Lotët e nënës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889525" start_time="2022-09-07 09:15:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Gurmania">Gurmania</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision gatimi</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889526" start_time="2022-09-07 09:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Muzikë Popullore">Muzikë Popullore</short_event_descriptor>
+    </event>
+    <event id="47889527" start_time="2022-09-07 10:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889528" start_time="2022-09-07 10:25:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Mos më braktis">Mos më braktis</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889529" start_time="2022-09-07 11:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Kurth dashurie">Kurth dashurie</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889530" start_time="2022-09-07 12:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889531" start_time="2022-09-07 12:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Familja e madhe">Familja e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889532" start_time="2022-09-07 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gurmania">Gurmania</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emision gatimi</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889533" start_time="2022-09-07 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="47889534" start_time="2022-09-07 14:40:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Pasdite në Alsat">Pasdite në Alsat</short_event_descriptor>
+    </event>
+    <event id="47889535" start_time="2022-09-07 15:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Mos më braktis">Mos më braktis</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889536" start_time="2022-09-07 17:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="47889537" start_time="2022-09-07 17:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Familja e madhe">Familja e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889538" start_time="2022-09-07 18:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Lotët e nënës">Lotët e nënës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889539" start_time="2022-09-07 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Më fal">Më fal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889540" start_time="2022-09-07 21:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme MK">Lajme MK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889541" start_time="2022-09-07 21:40:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mos më braktis">Mos më braktis</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889542" start_time="2022-09-07 22:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Familja e madhe">Familja e madhe</short_event_descriptor>
+    </event>
+    <event id="47889543" start_time="2022-09-07 23:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Lotët e nënës">Lotët e nënës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889544" start_time="2022-09-08 00:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Më fal">Më fal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889545" start_time="2022-09-08 00:50:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Pasdite ne Alsat">Pasdite ne Alsat</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889546" start_time="2022-09-08 01:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+    </event>
+    <event id="47889547" start_time="2022-09-08 02:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gurmania">Gurmania</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889548" start_time="2022-09-08 03:15:00" duration="1800">
+      <short_event_descriptor lang="alb" name="1001 Ushqime">1001 Ushqime</short_event_descriptor>
+    </event>
+    <event id="47889549" start_time="2022-09-08 03:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Muzikë Popullore">Muzikë Popullore</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889550" start_time="2022-09-08 05:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="47889551" start_time="2022-09-08 05:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+    </event>
+    <event id="47889552" start_time="2022-09-08 07:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dita e re - Emision Mëngjesi">Dita e re - Emision Mëngjesi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Best of)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889553" start_time="2022-09-08 08:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889554" start_time="2022-09-08 08:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lotët e nënës">Lotët e nënës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889555" start_time="2022-09-08 09:15:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Gurmania">Gurmania</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision gatimi</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889556" start_time="2022-09-08 09:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Muzikë Zbavitëse">Muzikë Zbavitëse</short_event_descriptor>
+    </event>
+    <event id="47889557" start_time="2022-09-08 10:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889558" start_time="2022-09-08 10:25:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Mos më braktis">Mos më braktis</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889559" start_time="2022-09-08 11:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Kurth dashurie">Kurth dashurie</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889560" start_time="2022-09-08 12:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889561" start_time="2022-09-08 12:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Familja e madhe">Familja e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889562" start_time="2022-09-08 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gurmania">Gurmania</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emision gatimi</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889563" start_time="2022-09-08 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="47889564" start_time="2022-09-08 14:40:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Pasdite në Alsat">Pasdite në Alsat</short_event_descriptor>
+    </event>
+    <event id="47889565" start_time="2022-09-08 15:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Mos më braktis">Mos më braktis</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889566" start_time="2022-09-08 17:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="47889567" start_time="2022-09-08 17:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Familje e madhe">Familje e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889568" start_time="2022-09-08 18:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Lotët e nënës">Lotët e nënës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889569" start_time="2022-09-08 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Më fal">Më fal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889570" start_time="2022-09-08 21:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme MK">Lajme MK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889571" start_time="2022-09-08 21:40:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mos më braktis">Mos më braktis</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889572" start_time="2022-09-08 22:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Familja e madhe">Familja e madhe</short_event_descriptor>
+    </event>
+    <event id="47889573" start_time="2022-09-08 23:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Lotët e nënës">Lotët e nënës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889574" start_time="2022-09-09 00:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Më fal">Më fal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889575" start_time="2022-09-09 00:50:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Pasdite ne Alsat">Pasdite ne Alsat</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889576" start_time="2022-09-09 01:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+    </event>
+    <event id="47889577" start_time="2022-09-09 02:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gurmania">Gurmania</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889578" start_time="2022-09-09 03:15:00" duration="1800">
+      <short_event_descriptor lang="alb" name="1001 Ushqime">1001 Ushqime</short_event_descriptor>
+    </event>
+    <event id="47889579" start_time="2022-09-09 03:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Muzikë Zbavitëse">Muzikë Zbavitëse</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889580" start_time="2022-09-09 04:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="47889581" start_time="2022-09-09 05:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="47889582" start_time="2022-09-09 05:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+    </event>
+    <event id="47889583" start_time="2022-09-09 07:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dita e re - Emision Mëngjesi">Dita e re - Emision Mëngjesi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Best of)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889584" start_time="2022-09-09 08:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889585" start_time="2022-09-09 08:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lotët e nënës">Lotët e nënës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial, Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889586" start_time="2022-09-09 09:15:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Gurmania">Gurmania</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision gatimi</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889587" start_time="2022-09-09 09:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Muzikë Popullore">Muzikë Popullore</short_event_descriptor>
+    </event>
+    <event id="47889588" start_time="2022-09-09 10:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889589" start_time="2022-09-09 10:25:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Mos më braktis">Mos më braktis</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889590" start_time="2022-09-09 11:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Kurth dashurie">Kurth dashurie</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889591" start_time="2022-09-09 12:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889592" start_time="2022-09-09 12:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Familja e madhe">Familja e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial, Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889593" start_time="2022-09-09 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gurmania">Gurmania</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emision gatimi</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889594" start_time="2022-09-09 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="47889595" start_time="2022-09-09 14:40:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Pasdite në Alsat">Pasdite në Alsat</short_event_descriptor>
+    </event>
+    <event id="47889596" start_time="2022-09-09 15:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Mos më braktis">Mos më braktis</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889597" start_time="2022-09-09 17:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="47889598" start_time="2022-09-09 17:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Familja e madhe">Familja e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889599" start_time="2022-09-09 18:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Lotët e nënës">Lotët e nënës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889600" start_time="2022-09-09 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Më fal">Më fal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889601" start_time="2022-09-09 21:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme MK">Lajme MK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889602" start_time="2022-09-09 21:40:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mos më braktis">Mos më braktis</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial, Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889603" start_time="2022-09-09 22:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Familja e madhe">Familja e madhe</short_event_descriptor>
+    </event>
+    <event id="47889604" start_time="2022-09-09 23:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Lotët e nënës">Lotët e nënës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial, Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889605" start_time="2022-09-10 00:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Më fal">Më fal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889606" start_time="2022-09-10 00:50:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Pasdite ne Alsat">Pasdite ne Alsat</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889607" start_time="2022-09-10 01:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+    </event>
+    <event id="47889608" start_time="2022-09-10 02:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gurmania">Gurmania</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889609" start_time="2022-09-10 03:15:00" duration="1800">
+      <short_event_descriptor lang="alb" name="1001 Ushqime">1001 Ushqime</short_event_descriptor>
+    </event>
+    <event id="47889610" start_time="2022-09-10 03:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Muzikë Popullore">Muzikë Popullore</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889611" start_time="2022-09-10 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="47889612" start_time="2022-09-10 06:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ditë e re - Përmbledhje">Ditë e re - Përmbledhje</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889613" start_time="2022-09-10 07:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gurmania">Gurmania</short_event_descriptor>
+    </event>
+    <event id="47889614" start_time="2022-09-10 08:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889615" start_time="2022-09-10 08:15:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Mos më braktis">Mos më braktis</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889616" start_time="2022-09-10 08:55:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Dashuri dhe sekret">Dashuri dhe sekret</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889617" start_time="2022-09-10 09:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="O sa mire kids">O sa mire kids</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889618" start_time="2022-09-10 10:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889619" start_time="2022-09-10 10:25:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Vendi im">Vendi im</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Dokumentar)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889620" start_time="2022-09-10 11:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Familje e madhe">Familje e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889621" start_time="2022-09-10 12:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889622" start_time="2022-09-10 12:25:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Muzikë Zbavitëse">Muzikë Zbavitëse</short_event_descriptor>
+    </event>
+    <event id="47889623" start_time="2022-09-10 13:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="1001 Ushqime">1001 Ushqime</short_event_descriptor>
+    </event>
+    <event id="47889624" start_time="2022-09-10 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="47889625" start_time="2022-09-10 14:40:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Pasqyra e shëndetit">Pasqyra e shëndetit</short_event_descriptor>
+    </event>
+    <event id="47889626" start_time="2022-09-10 15:20:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Auto Magazina">Auto Magazina</short_event_descriptor>
+    </event>
+    <event id="47889627" start_time="2022-09-10 15:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Lotët e nënës">Lotët e nënës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889628" start_time="2022-09-10 17:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="47889629" start_time="2022-09-10 17:40:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dashuri dhe sekret">Dashuri dhe sekret</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889630" start_time="2022-09-10 18:40:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Familje e madhe">Familje e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889631" start_time="2022-09-10 21:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme MK">Lajme MK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889632" start_time="2022-09-10 21:40:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+    </event>
+    <event id="47889633" start_time="2022-09-10 23:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Dashuri dhe sekret">Dashuri dhe sekret</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889634" start_time="2022-09-11 00:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Familja e madhe">Familja e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889635" start_time="2022-09-11 01:05:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Pasqyra e shëndetit">Pasqyra e shëndetit</short_event_descriptor>
+    </event>
+    <event id="47889636" start_time="2022-09-11 01:55:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Auto Magazinë">Auto Magazinë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889637" start_time="2022-09-11 02:25:00" duration="3900">
+      <short_event_descriptor lang="alb" name="1001 Ushqime">1001 Ushqime</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889638" start_time="2022-09-11 03:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Vendi im">Vendi im</short_event_descriptor>
+    </event>
+    <event id="47889639" start_time="2022-09-11 04:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="O sa mire kids">O sa mire kids</short_event_descriptor>
+    </event>
+    <event id="47889640" start_time="2022-09-11 04:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="47889641" start_time="2022-09-11 05:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="47889642" start_time="2022-09-11 06:05:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Auto Magazinë">Auto Magazinë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889643" start_time="2022-09-11 06:40:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Pasqyra e shëndetit">Pasqyra e shëndetit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889644" start_time="2022-09-11 07:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="1001 Ushqime">1001 Ushqime</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889645" start_time="2022-09-11 08:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889646" start_time="2022-09-11 08:15:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Mos më braktis">Mos më braktis</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889647" start_time="2022-09-11 08:55:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Dashuri dhe sekret">Dashuri dhe sekret</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889648" start_time="2022-09-11 09:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="O sa mire kids">O sa mire kids</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889649" start_time="2022-09-11 10:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889650" start_time="2022-09-11 10:25:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Përmbledhje &quot;Pasdite me Alsat&quot;">Përmbledhje "Pasdite me Alsat"</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889651" start_time="2022-09-11 11:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Familja e madhe">Familja e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889652" start_time="2022-09-11 12:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Top shop">Top shop</short_event_descriptor>
+    </event>
+    <event id="47889653" start_time="2022-09-11 12:20:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Muzikë Popullore">Muzikë Popullore</short_event_descriptor>
+    </event>
+    <event id="47889654" start_time="2022-09-11 13:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="1001 Ushqime">1001 Ushqime</short_event_descriptor>
+    </event>
+    <event id="47889655" start_time="2022-09-11 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="47889656" start_time="2022-09-11 14:40:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Pasqyra e shëndetit">Pasqyra e shëndetit</short_event_descriptor>
+    </event>
+    <event id="47889657" start_time="2022-09-11 15:15:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Shpuza Show">Shpuza Show</short_event_descriptor>
+    </event>
+    <event id="47889658" start_time="2022-09-11 15:45:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Vendi im">Vendi im</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Dokumentar)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889659" start_time="2022-09-11 16:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Deti i zi">Deti i zi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889660" start_time="2022-09-11 17:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="47889661" start_time="2022-09-11 17:40:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dashuri dhe sekret">Dashuri dhe sekret</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889662" start_time="2022-09-11 18:40:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Familja e madhe">Familja e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889663" start_time="2022-09-11 21:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme MK">Lajme MK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47889664" start_time="2022-09-11 21:40:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="MTV Live HD">
+    <event id="0" start_time="2022-09-07 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Beyonce X Rihanna">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Join us as we play all the hits from your fave music icons, Beyonce and Rihanna!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-07 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-07 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-07 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2018">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2018 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-07 14:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Beyonce X Rihanna">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Join us as we play all the hits from your fave music icons, Beyonce and Rihanna!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-07 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-07 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-07 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-07 18:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="James Arthur: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>James Arthur comes in to MTV HQ to talk about the music videos that have made him into the successful artist he is today! What was the first video he ever saw on MTV? Who's his biggest inspiration?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-07 18:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Bastille, I Want my MTV">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text> Bastille answers the best ones right here We asked Bastille fans around the globe to send in their questions for their favourite band, and they!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-07 19:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-07 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2018">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2018 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-07 22:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Beyonce X Rihanna">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Join us as we play all the hits from your fave music icons, Beyonce and Rihanna!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-07 23:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-08 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-08 01:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Alicia Keys: World Stage">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>MTV is breaking down the walls and giving fans an all access pass to the world's most explosive musical showcase ever. Up now, Alicia Keys!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-08 01:25:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Diary: Alicia Keys">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The first invitation into the life of an artist. From their homes and personal lives, to on the road experiences </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-08 01:45:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Justin Timberlake X Jennifer Lopez">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Check out some of the biggest hits from Justin Timberlake and Jennifer Lopez right here on MTV!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-08 02:10:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Craig David: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Craig David comes in to MTV HQ to talk about the music videos that have made him into the successful artist he is today! What was the first video he ever saw on MTV and who's his biggest inspiration?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-08 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-08 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-08 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2019">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2019 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-08 06:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="20 Hottest Rap Records">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We're counting down 20 of the hottest Rap records just for you! Will your favourite make the top spot? Tune in to find out!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-08 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-08 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-08 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-08 10:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="James Arthur: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>James Arthur comes in to MTV HQ to talk about the music videos that have made him into the successful artist he is today! What was the first video he ever saw on MTV? Who's his biggest inspiration?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-08 10:20:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Bastille, I Want my MTV">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text> Bastille answers the best ones right here We asked Bastille fans around the globe to send in their questions for their favourite band, and they!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-08 10:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="MTV Unplugged: Bastille">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>British rock band Bastille takes to the MTV Unplugged stage for a spine-tingling re-imagined performance of their most loved tracks. Featuring 'Pompeii', 'Good Grief', and 'Happier'</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-08 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-08 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2019">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2019 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-08 14:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="20 Hottest Rap Records">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We're counting down 20 of the hottest Rap records just for you! Will your favourite make the top spot? Tune in to find out!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-08 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-08 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-08 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-08 18:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="MTV World Stage - Alicia Keys">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The multi-award winning R&amp;B singer-songwriter performs live for MTV World Stage.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-08 18:25:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Diary: Alicia Keys">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The first invitation into the life of an artist. From their homes and personal lives, to on the road experiences </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-08 18:45:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Justin Timberlake X Jennifer Lopez">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Check out some of the biggest hits from Justin Timberlake and Jennifer Lopez right here on MTV!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-08 19:10:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Craig David: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Craig David comes in to MTV HQ to talk about the music videos that have made him into the successful artist he is today! What was the first video he ever saw on MTV and who's his biggest inspiration?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-08 19:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-08 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2019">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2019 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-08 22:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="20 Hottest Rap Records">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We're counting down 20 of the hottest Rap records just for you! Will your favourite make the top spot? Tune in to find out!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-08 23:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-09 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-09 01:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="MTV World Stage: Ultimate Pop...">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... Playlist. World Stage presents some of the best pop performances from MTV events and festivals around the globe. Packed with powerful pop performances including Nick Jonas and Little Mix.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-09 01:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="MTV Unplugged: Twenty One Pilots">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>MTV's acclaimed acoustic music series showcases the work of today's top artist and introduces the stars of tomorrow</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-09 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-09 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-09 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2020">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2020 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-09 06:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Non-Stop R&amp;B Anthems!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got some of the best R&amp;B anthems to play for you right now and guess what, they don't stop!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-09 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-09 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-09 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-09 10:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="MTV World Stage - Alicia Keys">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The multi-award winning R&amp;B singer-songwriter performs live for MTV World Stage.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-09 10:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Diary: Alicia Keys">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The first invitation into the life of an artist. From their homes and personal lives, to on the road experiences </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-09 10:50:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Justin Timberlake X Jennifer Lopez">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Check out some of the biggest hits from Justin Timberlake and Jennifer Lopez right here on MTV!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-09 11:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Craig David: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Craig David comes in to MTV HQ to talk about the music videos that have made him into the successful artist he is today! What was the first video he ever saw on MTV and who's his biggest inspiration?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-09 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-09 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2020">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2020 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-09 14:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Non-Stop R&amp;B Anthems!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got some of the best R&amp;B anthems to play for you right now and guess what, they don't stop!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-09-09 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-09-09 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2022-09-09 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2022-09-09 18:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="World Stage">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Join us for some of the biggest performances from around the world. Up now, Snoop Lion!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2022-09-09 18:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="MTV Unplugged: Twenty One Pilots">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>MTV's acclaimed acoustic music series showcases the work of today's top artist and introduces the stars of tomorrow</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2022-09-09 19:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2022-09-09 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2020">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2020 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2022-09-09 22:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Non-Stop R&amp;B Anthems!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got some of the best R&amp;B anthems to play for you right now and guess what, they don't stop!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2022-09-09 23:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2022-09-10 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2022-09-10 01:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="World Stage">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Join us for some of the biggest performances from around the world. Up now, Snoop Lion!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2022-09-10 01:45:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Justin Timberlake X Jennifer Lopez">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Check out some of the biggest hits from Justin Timberlake and Jennifer Lopez right here on MTV!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2022-09-10 02:10:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Craig David: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Craig David comes in to MTV HQ to talk about the music videos that have made him into the successful artist he is today! What was the first video he ever saw on MTV and who's his biggest inspiration?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2022-09-10 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2022-09-10 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2022-09-10 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2021">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2021 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2022-09-10 06:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="R&amp;B Royalty Of The 10s! Top 20">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We're counting down 20 of the biggest hits from the R&amp;B Kings and Queens from the 10s! But who will claim the throne? Tune in </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2022-09-10 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2022-09-10 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2022-09-10 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2022-09-10 10:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Yo! MTV Raps Presents AJ Tracey...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>1 On 1. Snoochie Shy chats to rap superstar AJ Tracey about new music, future plans, and his mum! Plus he answers questions sent in by fans, and goes 1 To 1 with Snoochie in a game of basketball!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2022-09-10 10:45:00" duration="1200">
+      <short_event_descriptor lang="alb" name="MTV Asks: Doja Cat">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>MTV get to know rapidly rising rapstress, Doja Cat. Hear about what inspires her, see her in action, and understand how she made the transition from internet sensation to bona fide global superstar!
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2022-09-10 11:05:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Diary: Eve">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The first invitation into the life of an artist. From their homes and personal lives, to on the road experiences attesting to an uncensored reality, we see the moments of their life as it happens.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2022-09-10 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2022-09-10 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2021">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2021 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2022-09-10 14:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="R&amp;B Royalty Of The 10s! Top 20">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We're counting down 20 of the biggest hits from the R&amp;B Kings and Queens from the 10s! But who will claim the throne? Tune in </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2022-09-10 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2022-09-10 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2022-09-10 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2022-09-10 18:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="My Life On MTV: Katy Perry &amp;...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nicki Minaj. Two words: Boss Ladies. Grab the karaoke machine and re-live some of the most iconic performances and moments that happened only on MTV. (S1, ep5)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2022-09-10 18:20:00" duration="1200">
+      <short_event_descriptor lang="alb" name="My Life On MTV: Jonas Brothers...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Usher. There are teen idols...and then there are Jobros and Usher. Both have been in the music biz for decades, and we have the footage to prove it! (S1, ep6</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2022-09-10 18:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Isle Of MTV: Malta 2022">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>All the highlights from sunny Malta where the summer crowds flocked to enjoy one of MTV's biggest music events of the summer</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2022-09-10 19:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2022-09-10 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2021">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2021 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2022-09-10 22:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="R&amp;B Royalty Of The 10s! Top 20">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We're counting down 20 of the biggest hits from the R&amp;B Kings and Queens from the 10s! But who will claim the throne? Tune in </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2022-09-10 23:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2022-09-11 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2022-09-11 01:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="World Stage: Alessia Cara">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... Alessia Cara. This is your chance to see the biggest artists live in concert without leaving the comfort of your sofa. Up now, some big performances from Canadian singer-songwriter Alessia </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2022-09-11 01:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="MTV Push Presents: Olivia Rodrigo">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>In between scoring number 1 hits and smashing global steaming records, this year's biggest breakthrough artist, Olivia Rodrigo, chats to MTV about her unstoppable rise to pop superstardom!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2022-09-11 01:50:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Mabel: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mabel comes in to MTV HQ to talk about the music videos that have made her into the successful artist she is today! What was the first video she ever saw on MTV and who's her biggest inspiration?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2022-09-11 02:10:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Mabel: MTV Live From Fusion...">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Festival 2019. Check out Mabel live from Fusion Festival </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2022-09-11 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2022-09-11 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2022-09-11 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2010">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2010 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2022-09-11 06:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Drake X Post Malone X Kendrick...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... Lamar. We're bringing you back to back hits from Drake, Post Malone and Kendrick Lamar all in one ultimate playlist</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2022-09-11 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2022-09-11 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2022-09-11 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2022-09-11 10:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="My Life On MTV: Katy Perry &amp;...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nicki Minaj. Two words: Boss Ladies. Grab the karaoke machine and re-live some of the most iconic performances and moments that happened only on MTV. (S1, ep5)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="109" start_time="2022-09-11 10:20:00" duration="1500">
+      <short_event_descriptor lang="alb" name="My Life On MTV: Jonas Brothers...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Usher. There are teen idols...and then there are Jobros and Usher. Both have been in the music biz for decades, and we have the footage to prove it! (S1, ep6</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="110" start_time="2022-09-11 10:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Isle Of MTV: Malta 2022">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>All the highlights from sunny Malta where the summer crowds flocked to enjoy one of MTV's biggest music events of the summer</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="111" start_time="2022-09-11 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="112" start_time="2022-09-11 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2010">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2010 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="113" start_time="2022-09-11 14:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Drake X Post Malone X Kendrick...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text> Lamar. We're bringing you back to back hits from Drake, Post Malone and Kendrick Lamar all in one ultimate playlist</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="114" start_time="2022-09-11 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="115" start_time="2022-09-11 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="116" start_time="2022-09-11 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="117" start_time="2022-09-11 18:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="World Stage: Alessia Cara">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... Alessia Cara. This is your chance to see the biggest artists live in concert without leaving the comfort of your sofa. Up now, some big performances from Canadian singer-songwriter Alessia </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="118" start_time="2022-09-11 18:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="MTV Push Presents: Olivia Rodrigo">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>In between scoring number 1 hits and smashing global steaming records, this year's biggest breakthrough artist, Olivia Rodrigo, chats to MTV about her unstoppable rise to pop superstardom!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="119" start_time="2022-09-11 18:50:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Mabel: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mabel comes in to MTV HQ to talk about the music videos that have made her into the successful artist she is today! What was the first video she ever saw on MTV and who's her biggest inspiration?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="120" start_time="2022-09-11 19:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Mabel: MTV Live From Fusion...">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Festival 2019. Check out Mabel live from Fusion Festival </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="121" start_time="2022-09-11 19:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="122" start_time="2022-09-11 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2010">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2010 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="123" start_time="2022-09-11 22:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Drake X Post Malone X Kendrick...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... Lamar. We're bringing you back to back hits from Drake, Post Malone and Kendrick Lamar all in one ultimate playlist</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="124" start_time="2022-09-11 23:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="125" start_time="2022-09-12 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="126" start_time="2022-09-12 01:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Yo! MTV Raps Presents AJ Tracey...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>1 On 1. Snoochie Shy chats to rap superstar AJ Tracey about new music, future plans, and his mum! Plus he answers questions sent in by fans, and goes 1 To 1 with Snoochie in a game of basketball!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="127" start_time="2022-09-12 01:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="MTV Asks: Doja Cat">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>MTV get to know rapidly rising rapstress, Doja Cat. Hear about what inspires her, see her in action, and understand how she made the transition from internet sensation to bona fide global superstar!
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="128" start_time="2022-09-12 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="129" start_time="2022-09-12 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="130" start_time="2022-09-12 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2011">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2011 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="131" start_time="2022-09-12 06:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Non-Stop Hip-Hop Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got some of the hottest Hip-Hop hits to play for you right now and guess </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="132" start_time="2022-09-12 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="133" start_time="2022-09-12 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="134" start_time="2022-09-12 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="135" start_time="2022-09-12 10:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="World Stage: Alessia Cara">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... Alessia Cara. This is your chance to see the biggest artists live in concert without leaving the comfort of your sofa. Up now, some big performances from Canadian singer-songwriter Alessia </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="136" start_time="2022-09-12 10:25:00" duration="1200">
+      <short_event_descriptor lang="alb" name="MTV Push Presents: Olivia Rodrigo">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>In between scoring number 1 hits and smashing global steaming records, this year's biggest breakthrough artist, Olivia Rodrigo, chats to MTV about her unstoppable rise to pop superstardom!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="137" start_time="2022-09-12 10:45:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Mabel: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mabel comes in to MTV HQ to talk about the music videos that have made her into the successful artist she is today! What was the first video she ever saw on MTV and who's her biggest inspiration?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="138" start_time="2022-09-12 11:10:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Mabel: MTV Live From Fusion...">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Festival 2019. Check out Mabel live from Fusion Festival </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="139" start_time="2022-09-12 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="140" start_time="2022-09-12 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2011">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2011 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="141" start_time="2022-09-12 14:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Non-Stop Hip-Hop Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got some of the hottest Hip-Hop hits to play for you right now and guess </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="142" start_time="2022-09-12 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="143" start_time="2022-09-12 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="144" start_time="2022-09-12 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="145" start_time="2022-09-12 18:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Yo! MTV Raps Presents AJ Tracey...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... 1 On 1. Snoochie Shy chats to rap superstar AJ Tracey about new music, future plans, and his mum! Plus </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="146" start_time="2022-09-12 18:45:00" duration="1200">
+      <short_event_descriptor lang="alb" name="MTV Asks: Doja Cat">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>MTV get to know rapidly rising rapstress, Doja Cat. Hear about what inspires her, see her in action, and understand how she made the transition from internet sensation to bona fide global superstar!
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="147" start_time="2022-09-12 19:05:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Diary: Eve">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The first invitation into the life of an artist. From their homes and personal lives, to on the road experiences attesting to an uncensored reality, we see the moments of their life as it happens.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="148" start_time="2022-09-12 19:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="149" start_time="2022-09-12 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2011">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2011 to check out what tracks were stealing our hearts and ruling the charts</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="150" start_time="2022-09-12 22:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Non-Stop Hip-Hop Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got some of the hottest Hip-Hop hits to play for you right now and guess </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="151" start_time="2022-09-12 23:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="152" start_time="2022-09-13 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="153" start_time="2022-09-13 01:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="My Life On MTV: Katy Perry &amp;...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nicki Minaj. Two words: Boss Ladies. Grab the karaoke machine and re-live some of the most iconic performances and moments that happened only on MTV. (S1, ep5)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="154" start_time="2022-09-13 01:20:00" duration="1200">
+      <short_event_descriptor lang="alb" name="My Life On MTV: Jonas Brothers...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Usher. There are teen idols...and then there are Jobros and Usher. Both have been in the music biz for decades, and we have the footage to prove it! (S1, ep6</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="155" start_time="2022-09-13 01:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Isle Of MTV: Malta 2022">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>All the highlights from sunny Malta where the summer crowds flocked to enjoy one of MTV's biggest music events of the summer</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="156" start_time="2022-09-13 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="157" start_time="2022-09-13 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="158" start_time="2022-09-13 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2012">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2012 to check out what tracks were stealing our hearts and ruling the charts!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="159" start_time="2022-09-13 06:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="R&amp;B Royalty Of The 10s! Top 20">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We're counting down 20 of the biggest hits from the R&amp;B Kings and Queens from the 10s! But who will claim the throne? Tune in </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="160" start_time="2022-09-13 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="161" start_time="2022-09-13 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="162" start_time="2022-09-13 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="163" start_time="2022-09-13 10:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Yo! MTV Raps Presents AJ Tracey...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>1 On 1. Snoochie Shy chats to rap superstar AJ Tracey about new music, future plans, and his mum! Plus he answers questions sent in by fans, and goes 1 To 1 with Snoochie in a game of basketball!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="164" start_time="2022-09-13 10:45:00" duration="1200">
+      <short_event_descriptor lang="alb" name="MTV Asks: Doja Cat">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>MTV get to know rapidly rising rapstress, Doja Cat. Hear about what inspires her, see her in action, and understand how she made the transition from internet sensation to bona fide global superstar!
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="165" start_time="2022-09-13 11:05:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Diary: Eve">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The first invitation into the life of an artist. From their homes and personal lives, to on the road experiences attesting to an uncensored reality, we see the moments of their life as it happens.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="166" start_time="2022-09-13 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="167" start_time="2022-09-13 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2012">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2012 to check out what tracks were stealing our hearts and ruling the charts!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="168" start_time="2022-09-13 14:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="R&amp;B Royalty Of The 10s! Top 20">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We're counting down 20 of the biggest hits from the R&amp;B Kings and Queens from the 10s! But who will claim the throne? Tune in </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="169" start_time="2022-09-13 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="170" start_time="2022-09-13 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="171" start_time="2022-09-13 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="172" start_time="2022-09-13 18:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="My Life On MTV: Katy Perry &amp;...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nicki Minaj. Two words: Boss Ladies. Grab the karaoke machine and re-live some of the most iconic performances and moments that happened only on MTV. (S1, ep5)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="173" start_time="2022-09-13 18:20:00" duration="1500">
+      <short_event_descriptor lang="alb" name="My Life On MTV: Jonas Brothers...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Usher. There are teen idols...and then there are Jobros and Usher. Both have been in the music biz for decades, and we have the footage to prove it! (S1, ep6</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="174" start_time="2022-09-13 18:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Isle Of MTV: Malta 2022">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>All the highlights from sunny Malta where the summer crowds flocked to enjoy one of MTV's biggest music events of the summer</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="175" start_time="2022-09-13 19:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="176" start_time="2022-09-13 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2012">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2012 to check out what tracks were stealing our hearts and ruling the charts!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="177" start_time="2022-09-13 22:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="R&amp;B Royalty Of The 10s! Top 20">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We're counting down 20 of the biggest hits from the R&amp;B Kings and Queens from the 10s! But who will claim the throne? Tune in </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="178" start_time="2022-09-13 23:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="179" start_time="2022-09-14 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="180" start_time="2022-09-14 01:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="World Stage: Alessia Cara">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... Alessia Cara. This is your chance to see the biggest artists live in concert without leaving the comfort of your sofa. Up now, some big performances from Canadian singer-songwriter Alessia </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="181" start_time="2022-09-14 01:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="MTV Push Presents: Olivia Rodrigo">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>In between scoring number 1 hits and smashing global steaming records, this year's biggest breakthrough artist, Olivia Rodrigo, chats to MTV about her unstoppable rise to pop superstardom!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="182" start_time="2022-09-14 01:50:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Mabel: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mabel comes in to MTV HQ to talk about the music videos that have made her into the successful artist she is today! What was the first video she ever saw on MTV and who's her biggest inspiration?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="183" start_time="2022-09-14 02:10:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Mabel: MTV Live From Fusion...">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Festival 2019. Check out Mabel live from Fusion Festival </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="184" start_time="2022-09-14 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="185" start_time="2022-09-14 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="186" start_time="2022-09-14 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2013">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2013 to check out what tracks were stealing our hearts and ruling the charts!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="187" start_time="2022-09-14 06:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Drake X Post Malone X Kendrick...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... Lamar. We're bringing you back to back hits from Drake, Post Malone and Kendrick Lamar all in one ultimate playlist</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="188" start_time="2022-09-14 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="189" start_time="2022-09-14 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="190" start_time="2022-09-14 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="191" start_time="2022-09-14 10:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="My Life On MTV: Katy Perry &amp;...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nicki Minaj. Two words: Boss Ladies. Grab the karaoke machine and re-live some of the most iconic performances and moments that happened only on MTV. (S1, ep5)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="192" start_time="2022-09-14 10:20:00" duration="1500">
+      <short_event_descriptor lang="alb" name="My Life On MTV: Jonas Brothers...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Usher. There are teen idols...and then there are Jobros and Usher. Both have been in the music biz for decades, and we have the footage to prove it! (S1, ep6</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="193" start_time="2022-09-14 10:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Isle Of MTV: Malta 2022">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>All the highlights from sunny Malta where the summer crowds flocked to enjoy one of MTV's biggest music events of the summer</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="194" start_time="2022-09-14 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="195" start_time="2022-09-14 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2013">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2013 to check out what tracks were stealing our hearts and ruling the charts!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="196" start_time="2022-09-14 14:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Drake X Post Malone X Kendrick...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text> Lamar. We're bringing you back to back hits from Drake, Post Malone and Kendrick Lamar all in one ultimate playlist</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="197" start_time="2022-09-14 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="198" start_time="2022-09-14 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="199" start_time="2022-09-14 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="200" start_time="2022-09-14 18:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="World Stage: Alessia Cara">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... Alessia Cara. This is your chance to see the biggest artists live in concert without leaving the comfort of your sofa. Up now, some big performances from Canadian singer-songwriter Alessia </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="201" start_time="2022-09-14 18:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Olivia Rodrigo X BTS X Ed Sheeran">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in as we bring some of the biggest hits from Olivia Rodrigo, BTS and Ed Sheeran straight to your television screens!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="202" start_time="2022-09-14 18:50:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Mabel: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mabel comes in to MTV HQ to talk about the music videos that have made her into the successful artist she is today! What was the first video she ever saw on MTV and who's her biggest inspiration?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="203" start_time="2022-09-14 19:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Mabel: MTV Live From Fusion...">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Festival 2019. Check out Mabel live from Fusion Festival </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="204" start_time="2022-09-14 19:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="205" start_time="2022-09-14 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2013">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2013 to check out what tracks were stealing our hearts and ruling the charts!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="206" start_time="2022-09-14 22:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Drake X Post Malone X Kendrick...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... Lamar. We're bringing you back to back hits from Drake, Post Malone and Kendrick Lamar all in one ultimate playlist</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="207" start_time="2022-09-14 23:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="208" start_time="2022-09-15 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="209" start_time="2022-09-15 01:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Yo! MTV Raps Presents AJ Tracey...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>1 On 1. Snoochie Shy chats to rap superstar AJ Tracey about new music, future plans, and his mum! Plus he answers questions sent in by fans, and goes 1 To 1 with Snoochie in a game of basketball!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="210" start_time="2022-09-15 01:45:00" duration="1200">
+      <short_event_descriptor lang="alb" name="MTV Asks: Doja Cat">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>MTV get to know rapidly rising rapstress, Doja Cat. Hear about what inspires her, see her in action, and understand how she made the transition from internet sensation to bona fide global superstar!
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="211" start_time="2022-09-15 02:05:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Diary: Eve">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The first invitation into the life of an artist. From their homes and personal lives, to on the road experiences attesting to an uncensored reality, we see the moments of their life as it happens.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="212" start_time="2022-09-15 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="213" start_time="2022-09-15 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="214" start_time="2022-09-15 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2014">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2014 to check out what tracks were stealing our hearts and ruling the charts!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="215" start_time="2022-09-15 06:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Non-Stop Hip-Hop Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got some of the hottest Hip-Hop hits to play for you right now and guess </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="216" start_time="2022-09-15 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="217" start_time="2022-09-15 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="218" start_time="2022-09-15 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="219" start_time="2022-09-15 10:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="World Stage: Alessia Cara">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... Alessia Cara. This is your chance to see the biggest artists live in concert without leaving the comfort of your sofa. Up now, some big performances from Canadian singer-songwriter Alessia </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="220" start_time="2022-09-15 10:25:00" duration="1200">
+      <short_event_descriptor lang="alb" name="MTV Push Presents: Olivia Rodrigo">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>In between scoring number 1 hits and smashing global steaming records, this year's biggest breakthrough artist, Olivia Rodrigo, chats to MTV about her unstoppable rise to pop superstardom!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="221" start_time="2022-09-15 10:45:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Mabel: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mabel comes in to MTV HQ to talk about the music videos that have made her into the successful artist she is today! What was the first video she ever saw on MTV and who's her biggest inspiration?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="222" start_time="2022-09-15 11:05:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Mabel: MTV Live From Fusion...">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Festival 2019. Check out Mabel live from Fusion Festival </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="223" start_time="2022-09-15 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="224" start_time="2022-09-15 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2014">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2014 to check out what tracks were stealing our hearts and ruling the charts!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="225" start_time="2022-09-15 14:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Non-Stop Hip-Hop Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got some of the hottest Hip-Hop hits to play for you right now and guess </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="226" start_time="2022-09-15 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="227" start_time="2022-09-15 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="228" start_time="2022-09-15 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="229" start_time="2022-09-15 18:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Yo! MTV Raps Presents AJ Tracey...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... 1 On 1. Snoochie Shy chats to rap superstar AJ Tracey about new music, future plans, and his mum! Plus </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="230" start_time="2022-09-15 18:45:00" duration="1200">
+      <short_event_descriptor lang="alb" name="MTV Asks: Doja Cat">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>MTV get to know rapidly rising rapstress, Doja Cat. Hear about what inspires her, see her in action, and understand how she made the transition from internet sensation to bona fide global superstar!
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="231" start_time="2022-09-15 19:05:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Diary: Eve">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The first invitation into the life of an artist. From their homes and personal lives, to on the road experiences attesting to an uncensored reality, we see the moments of their life as it happens.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="232" start_time="2022-09-15 19:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="233" start_time="2022-09-15 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2014">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2014 to check out what tracks were stealing our hearts and ruling the charts!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="234" start_time="2022-09-15 22:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Non-Stop Hip-Hop Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got some of the hottest Hip-Hop hits to play for you right now and guess </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="235" start_time="2022-09-15 23:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="236" start_time="2022-09-16 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="237" start_time="2022-09-16 01:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="World Stage: Alessia Cara">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>... Alessia Cara. This is your chance to see the biggest artists live in concert without leaving the comfort of your sofa. Up now, some big performances from Canadian singer-songwriter Alessia </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="238" start_time="2022-09-16 01:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="MTV Push Presents: Olivia Rodrigo">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>In between scoring number 1 hits and smashing global steaming records, this year's biggest breakthrough artist, Olivia Rodrigo, chats to MTV about her unstoppable rise to pop superstardom!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="239" start_time="2022-09-16 01:50:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Mabel: I Want My MTV">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mabel comes in to MTV HQ to talk about the music videos that have made her into the successful artist she is today! What was the first video she ever saw on MTV and who's her biggest inspiration?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="240" start_time="2022-09-16 02:10:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Mabel: MTV Live From Fusion...">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Festival 2019. Check out Mabel live from Fusion Festival </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="241" start_time="2022-09-16 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="HD Hits!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We've got big hits and they're even bigger in high def baby!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="242" start_time="2022-09-16 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="243" start_time="2022-09-16 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="MTV Rewind: 2015">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Step into the MTV Time Machine and travel back to 2015 to check out what tracks were stealing our hearts and ruling the charts!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="244" start_time="2022-09-16 06:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="R&amp;B Royalty Of The 10s! Top 20">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We're counting down 20 of the biggest hits from the R&amp;B Kings and Queens from the 10s! But who will claim the throne? Tune in </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="245" start_time="2022-09-16 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hot Right Now!">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>We bring you the very hottest music videos in the world right now, alongside some scorching live performances!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="246" start_time="2022-09-16 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Global Beats!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tune in for a selection of the biggest beats that are taking over the world!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="247" start_time="2022-09-16 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Rock Zone!">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>You are now entering the rock zone! Expect nothing but the biggest, loudest, hottest rock tunes to ever exist!
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="248" start_time="2022-09-16 10:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Yo! MTV Raps Presents AJ Tracey...">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>1 On 1. Snoochie Shy chats to rap superstar AJ Tracey about new music, future plans, and his mum! Plus he answers questions sent in by fans, and goes 1 To 1 with Snoochie in a game of basketball!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="249" start_time="2022-09-16 10:45:00" duration="1200">
+      <short_event_descriptor lang="alb" name="MTV Asks: Doja Cat">MTV Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>MTV get to know rapidly rising rapstress, Doja Cat. Hear about what inspires her, see her in action, and understand how she made the transition from internet sensation to bona fide global superstar!
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="250" start_time="2022-09-16 11:05:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Diary: Eve">Mtv live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The first invitation into the life of an artist. From their homes and personal lives, to on the road experiences attesting to an uncensored reality, we see the moments of their life as it happens.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

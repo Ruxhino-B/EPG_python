@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="KANAL 10">
+    <event id="48134927" start_time="2022-09-06 22:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134928" start_time="2022-09-06 22:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Mengjesi me Arben Ahmetin,">Mengjesi me Arben Ahmetin,</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Reprizë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134929" start_time="2022-09-07 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Politiko,">Politiko,</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Reprizë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134930" start_time="2022-09-07 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mr Robot">Mr Robot</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Reprizë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134931" start_time="2022-09-07 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Reprizë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134932" start_time="2022-09-07 05:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134933" start_time="2022-09-07 05:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Mëngjesi me Arben Ahmetin">Mëngjesi me Arben Ahmetin</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134934" start_time="2022-09-07 07:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134935" start_time="2022-09-07 07:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Top10shop">Top10shop</short_event_descriptor>
+    </event>
+    <event id="48134936" start_time="2022-09-07 07:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Promo &amp; Marketing">Promo &amp; Marketing</short_event_descriptor>
+    </event>
+    <event id="48134937" start_time="2022-09-07 08:10:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48134938" start_time="2022-09-07 08:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134939" start_time="2022-09-07 09:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="48134940" start_time="2022-09-07 09:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Prime Time &#8211; Intervista">Prime Time &#8211; Intervista</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134941" start_time="2022-09-07 10:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134942" start_time="2022-09-07 10:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48134943" start_time="2022-09-07 11:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134944" start_time="2022-09-07 11:15:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Politiko">Politiko</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134945" start_time="2022-09-07 12:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134946" start_time="2022-09-07 13:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="48134947" start_time="2022-09-07 13:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="10 Bizz">10 Bizz</short_event_descriptor>
+    </event>
+    <event id="48134948" start_time="2022-09-07 14:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134949" start_time="2022-09-07 14:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48134950" start_time="2022-09-07 15:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Info 10">Info 10</short_event_descriptor>
+    </event>
+    <event id="48134951" start_time="2022-09-07 16:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134952" start_time="2022-09-07 16:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajmet">Lajmet</short_event_descriptor>
+    </event>
+    <event id="48134953" start_time="2022-09-07 17:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134954" start_time="2022-09-07 17:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mr. Robot">Mr. Robot</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134955" start_time="2022-09-07 18:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134956" start_time="2022-09-07 18:20:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Politiko">Politiko</short_event_descriptor>
+    </event>
+    <event id="48134957" start_time="2022-09-07 20:10:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134958" start_time="2022-09-07 20:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Prime Time">Prime Time</short_event_descriptor>
+    </event>
+    <event id="48134959" start_time="2022-09-07 22:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134960" start_time="2022-09-07 22:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Mengjesi me Arben Ahmetin">Mengjesi me Arben Ahmetin</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Reprizë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134961" start_time="2022-09-08 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Politiko">Politiko</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Reprizë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134962" start_time="2022-09-08 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Prime Time">Prime Time</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Reprizë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134963" start_time="2022-09-08 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Reprizë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134964" start_time="2022-09-08 05:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134965" start_time="2022-09-08 05:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Mëngjesi me Arben Ahmetin">Mëngjesi me Arben Ahmetin</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134966" start_time="2022-09-08 07:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134967" start_time="2022-09-08 07:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Top10shop">Top10shop</short_event_descriptor>
+    </event>
+    <event id="48134968" start_time="2022-09-08 07:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Promo &amp; Marketing">Promo &amp; Marketing</short_event_descriptor>
+    </event>
+    <event id="48134969" start_time="2022-09-08 08:10:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48134970" start_time="2022-09-08 08:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134971" start_time="2022-09-08 09:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="48134972" start_time="2022-09-08 09:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Prime Time &#8211; Intervista">Prime Time &#8211; Intervista</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134973" start_time="2022-09-08 10:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo &amp; Marketing">Promo &amp; Marketing</short_event_descriptor>
+    </event>
+    <event id="48134974" start_time="2022-09-08 10:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48134975" start_time="2022-09-08 11:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134976" start_time="2022-09-08 11:10:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Politiko">Politiko</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134977" start_time="2022-09-08 12:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134978" start_time="2022-09-08 13:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="48134979" start_time="2022-09-08 13:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="10 Bizz">10 Bizz</short_event_descriptor>
+    </event>
+    <event id="48134980" start_time="2022-09-08 14:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134981" start_time="2022-09-08 14:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48134982" start_time="2022-09-08 15:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Info 10">Info 10</short_event_descriptor>
+    </event>
+    <event id="48134983" start_time="2022-09-08 16:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134984" start_time="2022-09-08 16:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajmet">Lajmet</short_event_descriptor>
+    </event>
+    <event id="48134985" start_time="2022-09-08 17:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134986" start_time="2022-09-08 17:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mr. Robot">Mr. Robot</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134987" start_time="2022-09-08 18:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134988" start_time="2022-09-08 18:20:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Politiko">Politiko</short_event_descriptor>
+    </event>
+    <event id="48134989" start_time="2022-09-08 20:10:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134990" start_time="2022-09-08 20:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Prime Time">Prime Time</short_event_descriptor>
+    </event>
+    <event id="48134991" start_time="2022-09-08 22:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134992" start_time="2022-09-08 22:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Mengjesi me Arben Ahmetin">Mengjesi me Arben Ahmetin</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Reprizë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134993" start_time="2022-09-09 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Politiko">Politiko</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Reprizë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134994" start_time="2022-09-09 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mr Robot">Mr Robot</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Reprizë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134995" start_time="2022-09-09 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Reprizë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134996" start_time="2022-09-09 05:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134997" start_time="2022-09-09 05:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Mëngjesi me Arben Ahmetin">Mëngjesi me Arben Ahmetin</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48134998" start_time="2022-09-09 07:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48134999" start_time="2022-09-09 07:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Top10shop">Top10shop</short_event_descriptor>
+    </event>
+    <event id="48135000" start_time="2022-09-09 07:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Promo &amp; Marketing">Promo &amp; Marketing</short_event_descriptor>
+    </event>
+    <event id="48135001" start_time="2022-09-09 08:10:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135002" start_time="2022-09-09 08:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135003" start_time="2022-09-09 09:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="48135004" start_time="2022-09-09 09:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Prime Time &#8211; Intervista">Prime Time &#8211; Intervista</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135005" start_time="2022-09-09 10:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo &amp; Marketing">Promo &amp; Marketing</short_event_descriptor>
+    </event>
+    <event id="48135006" start_time="2022-09-09 10:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135007" start_time="2022-09-09 11:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135008" start_time="2022-09-09 11:10:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Politiko">Politiko</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135009" start_time="2022-09-09 12:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135010" start_time="2022-09-09 13:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+    </event>
+    <event id="48135011" start_time="2022-09-09 13:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="10 Bizz">10 Bizz</short_event_descriptor>
+    </event>
+    <event id="48135012" start_time="2022-09-09 14:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135013" start_time="2022-09-09 14:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135014" start_time="2022-09-09 15:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Info 10">Info 10</short_event_descriptor>
+    </event>
+    <event id="48135015" start_time="2022-09-09 16:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135016" start_time="2022-09-09 16:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajmet">Lajmet</short_event_descriptor>
+    </event>
+    <event id="48135017" start_time="2022-09-09 17:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135018" start_time="2022-09-09 17:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mr. Robot">Mr. Robot</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135019" start_time="2022-09-09 18:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135020" start_time="2022-09-09 18:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135021" start_time="2022-09-09 19:00:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+    </event>
+    <event id="48135022" start_time="2022-09-09 21:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135023" start_time="2022-09-09 22:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Mengjesi me Arbenin">Mengjesi me Arbenin</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135024" start_time="2022-09-10 00:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Mr Robot">Mr Robot</short_event_descriptor>
+    </event>
+    <event id="48135025" start_time="2022-09-10 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+    </event>
+    <event id="48135026" start_time="2022-09-10 05:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135027" start_time="2022-09-10 05:10:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135028" start_time="2022-09-10 06:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135029" start_time="2022-09-10 06:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135030" start_time="2022-09-10 07:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Top10shop">Top10shop</short_event_descriptor>
+    </event>
+    <event id="48135031" start_time="2022-09-10 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+    </event>
+    <event id="48135032" start_time="2022-09-10 08:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135033" start_time="2022-09-10 08:10:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Familja jonë">Familja jonë</short_event_descriptor>
+    </event>
+    <event id="48135034" start_time="2022-09-10 09:30:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Dokumentar)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135035" start_time="2022-09-10 10:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135036" start_time="2022-09-10 11:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mimoza">Mimoza</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135037" start_time="2022-09-10 12:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135038" start_time="2022-09-10 13:50:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135039" start_time="2022-09-10 14:10:00" duration="600">
+      <short_event_descriptor lang="alb" name="Lajmet 16:10">Lajmet 16:10</short_event_descriptor>
+    </event>
+    <event id="48135040" start_time="2022-09-10 14:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="10 Bizz - Muzikë Shqip">10 Bizz - Muzikë Shqip</short_event_descriptor>
+    </event>
+    <event id="48135041" start_time="2022-09-10 15:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Demos">Demos</short_event_descriptor>
+    </event>
+    <event id="48135042" start_time="2022-09-10 16:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135043" start_time="2022-09-10 16:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajmet">Lajmet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135044" start_time="2022-09-10 17:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135045" start_time="2022-09-10 17:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135046" start_time="2022-09-10 18:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135047" start_time="2022-09-10 18:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Pertej Tregimit">Pertej Tregimit</short_event_descriptor>
+    </event>
+    <event id="48135048" start_time="2022-09-10 19:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+    </event>
+    <event id="48135049" start_time="2022-09-10 20:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135050" start_time="2022-09-10 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Film Artistik">Film Artistik</short_event_descriptor>
+    </event>
+    <event id="48135051" start_time="2022-09-10 23:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135052" start_time="2022-09-10 23:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Përtej tregimit">Përtej tregimit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135053" start_time="2022-09-11 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Familja jonë">Familja jonë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135054" start_time="2022-09-11 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135055" start_time="2022-09-11 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mimoza">Mimoza</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135056" start_time="2022-09-11 05:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135057" start_time="2022-09-11 05:10:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135058" start_time="2022-09-11 06:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135059" start_time="2022-09-11 07:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135060" start_time="2022-09-11 07:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Top10shop">Top10shop</short_event_descriptor>
+    </event>
+    <event id="48135061" start_time="2022-09-11 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="InfoMix">InfoMix</short_event_descriptor>
+    </event>
+    <event id="48135062" start_time="2022-09-11 08:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135063" start_time="2022-09-11 08:10:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Familja jonë">Familja jonë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135064" start_time="2022-09-11 09:30:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135065" start_time="2022-09-11 09:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Përtej tregimit">Përtej tregimit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135066" start_time="2022-09-11 11:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Demos">Demos</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135067" start_time="2022-09-11 12:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="10 Bizz - International Tunes">10 Bizz - International Tunes</short_event_descriptor>
+    </event>
+    <event id="48135068" start_time="2022-09-11 12:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135069" start_time="2022-09-11 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135070" start_time="2022-09-11 14:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135071" start_time="2022-09-11 14:10:00" duration="600">
+      <short_event_descriptor lang="alb" name="Lajmet 16:10">Lajmet 16:10</short_event_descriptor>
+    </event>
+    <event id="48135072" start_time="2022-09-11 14:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Dokumentar)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135073" start_time="2022-09-11 15:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Familja jonë">Familja jonë</short_event_descriptor>
+    </event>
+    <event id="48135074" start_time="2022-09-11 16:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135075" start_time="2022-09-11 16:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajmet 19:10">Lajmet 19:10</short_event_descriptor>
+    </event>
+    <event id="48135076" start_time="2022-09-11 17:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135077" start_time="2022-09-11 17:10:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Rrëfim Suksesi">Rrëfim Suksesi</short_event_descriptor>
+    </event>
+    <event id="48135078" start_time="2022-09-11 17:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135079" start_time="2022-09-11 18:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="InDoks">InDoks</short_event_descriptor>
+    </event>
+    <event id="48135080" start_time="2022-09-11 18:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135081" start_time="2022-09-11 19:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135082" start_time="2022-09-11 19:50:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135083" start_time="2022-09-11 20:10:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kampionët">Kampionët</short_event_descriptor>
+    </event>
+    <event id="48135084" start_time="2022-09-11 22:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135085" start_time="2022-09-11 22:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Familja jonë">Familja jonë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135086" start_time="2022-09-12 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Dokumentar)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135087" start_time="2022-09-12 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mimoza">Mimoza</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135088" start_time="2022-09-12 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="In Doks">In Doks</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135089" start_time="2022-09-12 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135090" start_time="2022-09-12 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135091" start_time="2022-09-12 05:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135092" start_time="2022-09-12 05:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Mëngjesi me Arben Ahmetin">Mëngjesi me Arben Ahmetin</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135093" start_time="2022-09-12 07:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135094" start_time="2022-09-12 07:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Top10shop">Top10shop</short_event_descriptor>
+    </event>
+    <event id="48135095" start_time="2022-09-12 07:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Promo &amp; Marketing">Promo &amp; Marketing</short_event_descriptor>
+    </event>
+    <event id="48135096" start_time="2022-09-12 08:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+    </event>
+    <event id="48135097" start_time="2022-09-12 09:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135098" start_time="2022-09-12 09:10:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135099" start_time="2022-09-12 10:50:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Promo &amp; Marketing">Promo &amp; Marketing</short_event_descriptor>
+    </event>
+    <event id="48135100" start_time="2022-09-12 11:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Indoks">Indoks</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135101" start_time="2022-09-12 12:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135102" start_time="2022-09-12 12:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Expose">Expose</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135103" start_time="2022-09-12 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="10Bizz">10Bizz</short_event_descriptor>
+    </event>
+    <event id="48135104" start_time="2022-09-12 14:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+    </event>
+    <event id="48135105" start_time="2022-09-12 14:10:00" duration="600">
+      <short_event_descriptor lang="alb" name="Lajmet">Lajmet</short_event_descriptor>
+    </event>
+    <event id="48135106" start_time="2022-09-12 14:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135107" start_time="2022-09-12 14:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Dokumentar)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48135108" start_time="2022-09-12 15:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Info 10">Info 10</short_event_descriptor>
+    </event>
+    <event id="48135109" start_time="2022-09-12 16:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135110" start_time="2022-09-12 16:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajmet">Lajmet</short_event_descriptor>
+    </event>
+    <event id="48135111" start_time="2022-09-12 17:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mr. Robot">Mr. Robot</short_event_descriptor>
+    </event>
+    <event id="48135112" start_time="2022-09-12 18:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135113" start_time="2022-09-12 18:20:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Politiko">Politiko</short_event_descriptor>
+    </event>
+    <event id="48135114" start_time="2022-09-12 20:10:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Marketing">Marketing</short_event_descriptor>
+    </event>
+    <event id="48135115" start_time="2022-09-12 20:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Prime Time">Prime Time</short_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

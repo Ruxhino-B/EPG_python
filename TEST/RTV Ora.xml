@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="RTV Ora">
+    <event id="0" start_time="2022-09-20 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="DREJT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni Drejt në RTV Ora, një program nga Luan Rama. Një program çdo të hënë dhe të enjte në prime time, ku diskutohen temat më të nxehta të politikës, analizë, debate dhe komente, intervista me personalitetet më të rëndësishme të politikës, ekonomisë, historisë, kulturës etj.  Emisioni Drejt sjell të gjitha këndvështrimet e ngjarjeve në vend, rajon dhe më gjerë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-20 13:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Tomorrow Today ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikël dokumentarësh ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-20 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Show Bizz">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rubrikë argëtuese dhe informative e cila transmetohet çdo ditë nga e hëna në të premte ora 15:30 e drejtuar nga moderatorja Livia Kasemi.  Kultur, art dhe lajmet më të fundit nga bota e  showbizit të përmbledhura në pak minuta vetëm në "Showbiz"</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-20 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-20 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Fushëbetejat e Frontit Perëndimor ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-20 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sport Fokus">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sport Focus" Çdo ditë nga e hëna në të Shtunë. Emocionet dhe zhvillimet më të fundit ne fushen e sportit, futboll, tenis, formula Uno, etj! Transmetohen me profesionalizem ne ekranin e RTV Ora!fundit ne fushen e sportit, futboll, tenis, formula Uno, etj! Transmetohen me profesionalizem ne ekranin e RTV Ora!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-20 16:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me oren">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-20 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Jashtë Matriksit">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision aktual, historik, investigativ, kulturor që më shumë se vetë ngjarjet në miniaturë studion shkaqet e padukshme themelore të ngjarjeve të mëdha botërore dhe atyre shqiptare. Një emision nga Alfred Cako</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-20 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-20 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="ORA E BETIT ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision nga gazetarja Beti Njuma. Transmetohet çdo të marte dhe të mërkurë ora 20:45 në RTV Ora. Një emision i aktualitetit i fokusuar tek Shqipëria dhe Kosova, duke i parë ato si një hapësirë e vetme, pranë dhe larg njëra tjetrës. Të ftuarit dhe debati do na ndihmojnë me refleksionet e tyre, për të kuptuar dritëhijet e një vendi kontradiktor, në zgrip dhe prej 31 vitesh me sytë nga Europa.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-20 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="D-Night Show">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni "D-Night Show", nga Dajana Shabani, rikthehet edhe këtë sezon! Argëtues, satirik, një show i vërtetë kur protagonistë bëhen dhe vetë shqiptarët me komentet e tyre. Kësaj here me një tjetër personazh. "D-Night" sjell realitetin shqiptar në formë ironike. Të ftuar në studio, histori të jetuara, lidhje skype, kohë viralësh e shumë të tjera në shoën që argëton shqiptarët</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-20 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Wing and a prayer">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësh ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-20 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-21 00:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me oren">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-21 01:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Fushëbetejat e Frontit Perëndimor ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-21 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="ORA E BETIT ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision nga gazetarja Beti Njuma. Transmetohet çdo të marte dhe të mërkurë ora 20:45 në RTV Ora. Një emision i aktualitetit i fokusuar tek Shqipëria dhe Kosova, duke i parë ato si një hapësirë e vetme, pranë dhe larg njëra tjetrës. Të ftuarit dhe debati do na ndihmojnë me refleksionet e tyre, për të kuptuar dritëhijet e një vendi kontradiktor, në zgrip dhe prej 31 vitesh me sytë nga Europa.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-21 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Epoka e Roboteve ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësh ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-21 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Ditë e re">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një hapsirë nën moderimin e Arjola Shehut dhe Arjon Muçës, e fokusuar tek aktualiteti, kultura, show bizi etj. Në 180 minuta dita juaj do të nis ndryshe dhe me një panoramë të qartë te asaj çfarë ndodh rreth jush! Një emision plot ngjyra e emocione, me personazhe të njohur e të pa zbuluar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-21 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-21 08:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-21 10:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-21 10:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Jashtë Matriksit">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision aktual, historik, investigativ, kulturor që më shumë se vetë ngjarjet në miniaturë studion shkaqet e padukshme themelore të ngjarjeve të mëdha botërore dhe atyre shqiptare. Një emision nga Alfred Cako</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-21 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="ORA E BETIT ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision nga gazetarja Beti Njuma. Transmetohet çdo të marte dhe të mërkurë ora 20:45 në RTV Ora. Një emision i aktualitetit i fokusuar tek Shqipëria dhe Kosova, duke i parë ato si një hapësirë e vetme, pranë dhe larg njëra tjetrës. Të ftuarit dhe debati do na ndihmojnë me refleksionet e tyre, për të kuptuar dritëhijet e një vendi kontradiktor, në zgrip dhe prej 31 vitesh me sytë nga Europa.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-21 13:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Para dhe pasuri">Rubrike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision ekonomik mbi shanset për të fituar, për t'u punësuar apo shtuar pasurinë e vënë, por edhe mbi rreziqet për ta pakësuar apo humbur këtë pasuri. Platformë prezantimi e sektorëve më premtues të ekonomisë, e inovacionit teknologjik dhe mundësive për punësim, por edhe tribunë denoncimi ndaj politikave të gabuara ekonomike, varfërimit masiv nga inflacioni dhe masave të pamjaftueshme sociale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-21 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Show Bizz">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rubrikë argëtuese dhe informative e cila transmetohet çdo ditë nga e hëna në të premte ora 15:30 e drejtuar nga moderatorja Livia Kasemi.  Kultur, art dhe lajmet më të fundit nga bota e  showbizit të përmbledhura në pak minuta vetëm në "Showbiz"</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-21 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-21 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Turet e Medha te Skocise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar  me pamje të mrekullueshme nga  bregdetin skocez.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-21 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sport Fokus">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sport Focus" Çdo ditë nga e hëna në të Shtunë. Emocionet dhe zhvillimet më të fundit ne fushen e sportit, futboll, tenis, formula Uno, etj! Transmetohen me profesionalizem ne ekranin e RTV Ora!fundit ne fushen e sportit, futboll, tenis, formula Uno, etj! Transmetohen me profesionalizem ne ekranin e RTV Ora!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-21 16:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me oren">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-21 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Jashtë Matriksit">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision aktual, historik, investigativ, kulturor që më shumë se vetë ngjarjet në miniaturë studion shkaqet e padukshme themelore të ngjarjeve të mëdha botërore dhe atyre shqiptare. Një emision nga Alfred Cako</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-21 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-21 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="ORA E BETIT ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision nga gazetarja Beti Njuma. Transmetohet çdo të marte dhe të mërkurë ora 20:45 në RTV Ora. Një emision i aktualitetit i fokusuar tek Shqipëria dhe Kosova, duke i parë ato si një hapësirë e vetme, pranë dhe larg njëra tjetrës. Të ftuarit dhe debati do na ndihmojnë me refleksionet e tyre, për të kuptuar dritëhijet e një vendi kontradiktor, në zgrip dhe prej 31 vitesh me sytë nga Europa.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-21 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="D-Night Show">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni "D-Night Show", nga Dajana Shabani, rikthehet edhe këtë sezon! Argëtues, satirik, një show i vërtetë kur protagonistë bëhen dhe vetë shqiptarët me komentet e tyre. Kësaj here me një tjetër personazh. "D-Night" sjell realitetin shqiptar në formë ironike. Të ftuar në studio, histori të jetuara, lidhje skype, kohë viralësh e shumë të tjera në shoën që argëton shqiptarët</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-21 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Island Project">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-21 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-22 00:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me oren">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-22 01:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Para dhe pasuri">Rubrike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision ekonomik mbi shanset për të fituar, për t'u punësuar apo shtuar pasurinë e vënë, por edhe mbi rreziqet për ta pakësuar apo humbur këtë pasuri. Platformë prezantimi e sektorëve më premtues të ekonomisë, e inovacionit teknologjik dhe mundësive për punësim, por edhe tribunë denoncimi ndaj politikave të gabuara ekonomike, varfërimit masiv nga inflacioni dhe masave të pamjaftueshme sociale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-22 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="ORA E BETIT ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision nga gazetarja Beti Njuma. Transmetohet çdo të marte dhe të mërkurë ora 20:45 në RTV Ora. Një emision i aktualitetit i fokusuar tek Shqipëria dhe Kosova, duke i parë ato si një hapësirë e vetme, pranë dhe larg njëra tjetrës. Të ftuarit dhe debati do na ndihmojnë me refleksionet e tyre, për të kuptuar dritëhijet e një vendi kontradiktor, në zgrip dhe prej 31 vitesh me sytë nga Europa.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-22 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rrugëtim historik ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-22 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Ditë e re">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një hapsirë nën moderimin e Arjola Shehut dhe Arjon Muçës, e fokusuar tek aktualiteti, kultura, show bizi etj. Në 180 minuta dita juaj do të nis ndryshe dhe me një panoramë të qartë te asaj çfarë ndodh rreth jush! Një emision plot ngjyra e emocione, me personazhe të njohur e të pa zbuluar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-22 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-22 08:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="A Cinderella Story">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-22 10:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-22 10:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Jashtë Matriksit">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision aktual, historik, investigativ, kulturor që më shumë se vetë ngjarjet në miniaturë studion shkaqet e padukshme themelore të ngjarjeve të mëdha botërore dhe atyre shqiptare. Një emision nga Alfred Cako</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-22 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="ORA E BETIT ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision nga gazetarja Beti Njuma. Transmetohet çdo të marte dhe të mërkurë ora 20:45 në RTV Ora. Një emision i aktualitetit i fokusuar tek Shqipëria dhe Kosova, duke i parë ato si një hapësirë e vetme, pranë dhe larg njëra tjetrës. Të ftuarit dhe debati do na ndihmojnë me refleksionet e tyre, për të kuptuar dritëhijet e një vendi kontradiktor, në zgrip dhe prej 31 vitesh me sytë nga Europa.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-22 13:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Tomorrow Today ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikël dokumentarësh ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-22 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Show Bizz">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rubrikë argëtuese dhe informative e cila transmetohet çdo ditë nga e hëna në të premte ora 15:30 e drejtuar nga moderatorja Livia Kasemi.  Kultur, art dhe lajmet më të fundit nga bota e  showbizit të përmbledhura në pak minuta vetëm në "Showbiz"</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-22 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-22 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="GLOBAL 3000 ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-22 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sport Fokus">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sport Focus" Çdo ditë nga e hëna në të Shtunë. Emocionet dhe zhvillimet më të fundit ne fushen e sportit, futboll, tenis, formula Uno, etj! Transmetohen me profesionalizem ne ekranin e RTV Ora!fundit ne fushen e sportit, futboll, tenis, formula Uno, etj! Transmetohen me profesionalizem ne ekranin e RTV Ora!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-22 16:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me orën">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-22 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Jashtë Matriksit">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision aktual, historik, investigativ, kulturor që më shumë se vetë ngjarjet në miniaturë studion shkaqet e padukshme themelore të ngjarjeve të mëdha botërore dhe atyre shqiptare. Një emision nga Alfred Cako</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-22 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-22 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="DREJT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni Drejt në RTV Ora, një program nga Luan Rama. Një program çdo të hënë dhe të enjte në prime time, ku diskutohen temat më të nxehta të politikës, analizë, debate dhe komente, intervista me personalitetet më të rëndësishme të politikës, ekonomisë, historisë, kulturës etj.  Emisioni Drejt sjell të gjitha këndvështrimet e ngjarjeve në vend, rajon dhe më gjerë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-22 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="D-Night Show">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni "D-Night Show", nga Dajana Shabani, rikthehet edhe këtë sezon! Argëtues, satirik, një show i vërtetë kur protagonistë bëhen dhe vetë shqiptarët me komentet e tyre. Kësaj here me një tjetër personazh. "D-Night" sjell realitetin shqiptar në formë ironike. Të ftuar në studio, histori të jetuara, lidhje skype, kohë viralësh e shumë të tjera në shoën që argëton shqiptarët</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-22 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Dalfram Dispute">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cështja e anijes Dalfram në Portin Kembla të Uellsit jugor bëri bujë. Në qendër të konfliktit ishte eksporti i gizës nga Australia drejt Japonisë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-22 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-23 00:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me orën">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-23 01:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Ishulli i endrrave ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-23 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="DREJT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni Drejt në RTV Ora, një program nga Luan Rama. Një program çdo të hënë dhe të enjte në prime time, ku diskutohen temat më të nxehta të politikës, analizë, debate dhe komente, intervista me personalitetet më të rëndësishme të politikës, ekonomisë, historisë, kulturës etj.  Emisioni Drejt sjell të gjitha këndvështrimet e ngjarjeve në vend, rajon dhe më gjerë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-09-23 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Penguin Island">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ishulli i pinguinëve  banohet nga rreth 1200 pinguinë të vegjël, me jetën dhe rutinën e të cilëve ju njeh ky dokumentar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-09-23 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Ditë e re">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një hapsirë nën moderimin e Arjola Shehut dhe Arjon Muçës, e fokusuar tek aktualiteti, kultura, show bizi etj. Në 180 minuta dita juaj do të nis ndryshe dhe me një panoramë të qartë te asaj çfarë ndodh rreth jush! Një emision plot ngjyra e emocione, me personazhe të njohur e të pa zbuluar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2022-09-23 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2022-09-23 08:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="The Kings of summer">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2022-09-23 10:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2022-09-23 10:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Jashtë Matriksit">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision aktual, historik, investigativ, kulturor që më shumë se vetë ngjarjet në miniaturë studion shkaqet e padukshme themelore të ngjarjeve të mëdha botërore dhe atyre shqiptare. Një emision nga Alfred Cako</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2022-09-23 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="DREJT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni Drejt në RTV Ora, një program nga Luan Rama. Një program çdo të hënë dhe të enjte në prime time, ku diskutohen temat më të nxehta të politikës, analizë, debate dhe komente, intervista me personalitetet më të rëndësishme të politikës, ekonomisë, historisë, kulturës etj.  Emisioni Drejt sjell të gjitha këndvështrimet e ngjarjeve në vend, rajon dhe më gjerë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2022-09-23 13:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="GLOBAL 3000 ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2022-09-23 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Show Bizz">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rubrikë argëtuese dhe informative e cila transmetohet çdo ditë nga e hëna në të premte ora 15:30 e drejtuar nga moderatorja Livia Kasemi.  Kultur, art dhe lajmet më të fundit nga bota e  showbizit të përmbledhura në pak minuta vetëm në "Showbiz"</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2022-09-23 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2022-09-23 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Tomorrow Today ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikël dokumentarësh ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2022-09-23 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sport Fokus">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sport Focus" Çdo ditë nga e hëna në të Shtunë. Emocionet dhe zhvillimet më të fundit ne fushen e sportit, futboll, tenis, formula Uno, etj! Transmetohen me profesionalizem ne ekranin e RTV Ora!fundit ne fushen e sportit, futboll, tenis, formula Uno, etj! Transmetohen me profesionalizem ne ekranin e RTV Ora!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2022-09-23 16:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me orën">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2022-09-23 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Jashtë Matriksit">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision aktual, historik, investigativ, kulturor që më shumë se vetë ngjarjet në miniaturë studion shkaqet e padukshme themelore të ngjarjeve të mëdha botërore dhe atyre shqiptare. Një emision nga Alfred Cako</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2022-09-23 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2022-09-23 19:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Ekopolitike">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni ekonomik më i ndjekur që nga viti 2015 kur u krijua. Forumi dhe platforma kryesore televizive e ekonomisë shqiptare. Debat, mendim dhe këndvështrim analitik mbi ngjarjet kryesore ekonomike të ditës dhe javës, mbi klimën dhe problemet e biznesit dhe mbrojtjen e qytetarit-konsumator. Një emision nga Fatos Cocoli</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2022-09-23 20:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Glamour zone">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një program rinor me të ftuar VIP nga fusha të ndryshme. E veçanta e këtij emisioni është se xhirohet në limuzinë. Personazhet tregojnë të pathënat nga jeta e tyre, momentet më kritike të karrierës, si dhe shumë ekskluzivitete të tjera.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2022-09-23 21:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="My Family's Secret ">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2022-09-23 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2022-09-24 00:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me orën">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2022-09-24 01:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Tomorrow Today ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikël dokumentarësh ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2022-09-24 02:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Ekopolitike">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni ekonomik më i ndjekur që nga viti 2015 kur u krijua. Forumi dhe platforma kryesore televizive e ekonomisë shqiptare. Debat, mendim dhe këndvështrim analitik mbi ngjarjet kryesore ekonomike të ditës dhe javës, mbi klimën dhe problemet e biznesit dhe mbrojtjen e qytetarit-konsumator. Një emision nga Fatos Cocoli</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2022-09-24 03:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Tomorrow Today ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikël dokumentarësh ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2022-09-24 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Glamour zone">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një program rinor me të ftuar VIP nga fusha të ndryshme. E veçanta e këtij emisioni është se xhirohet në limuzinë. Personazhet tregojnë të pathënat nga jeta e tyre, momentet më kritike të karrierës, si dhe shumë ekskluzivitete të tjera.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2022-09-24 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ditë e re">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një hapsirë nën moderimin e Arjola Shehut dhe Arjon Muçës, e fokusuar tek aktualiteti, kultura, show bizi etj. Në 180 minuta dita juaj do të nis ndryshe dhe me një panoramë të qartë te asaj çfarë ndodh rreth jush! Një emision plot ngjyra e emocione, me personazhe të njohur e të pa zbuluar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2022-09-24 07:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Glamour zone">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një program rinor me të ftuar VIP nga fusha të ndryshme. E veçanta e këtij emisioni është se xhirohet në limuzinë. Personazhet tregojnë të pathënat nga jeta e tyre, momentet më kritike të karrierës, si dhe shumë ekskluzivitete të tjera.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2022-09-24 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2022-09-24 08:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="The Stray">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2022-09-24 10:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2022-09-24 10:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Jashtë Matriksit">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision aktual, historik, investigativ, kulturor që më shumë se vetë ngjarjet në miniaturë studion shkaqet e padukshme themelore të ngjarjeve të mëdha botërore dhe atyre shqiptare. Një emision nga Alfred Cako</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2022-09-24 11:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Ekopolitike">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni ekonomik më i ndjekur që nga viti 2015 kur u krijua. Forumi dhe platforma kryesore televizive e ekonomisë shqiptare. Debat, mendim dhe këndvështrim analitik mbi ngjarjet kryesore ekonomike të ditës dhe javës, mbi klimën dhe problemet e biznesit dhe mbrojtjen e qytetarit-konsumator. Një emision nga Fatos Cocoli</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2022-09-24 12:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Një luftë shumë e shkurtër">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2022-09-24 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Show Bizz">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rubrikë argëtuese dhe informative e cila transmetohet çdo ditë nga e hëna në të premte ora 15:30 e drejtuar nga moderatorja Livia Kasemi.  Kultur, art dhe lajmet më të fundit nga bota e  showbizit të përmbledhura në pak minuta vetëm në "Showbiz"</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2022-09-24 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2022-09-24 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Tomorrow Today ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësh ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2022-09-24 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sport Fokus">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sport Focus" Çdo ditë nga e hëna në të Shtunë. Emocionet dhe zhvillimet më të fundit ne fushen e sportit, futboll, tenis, formula Uno, etj! Transmetohen me profesionalizem ne ekranin e RTV Ora!fundit ne fushen e sportit, futboll, tenis, formula Uno, etj! Transmetohen me profesionalizem ne ekranin e RTV Ora!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2022-09-24 16:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me oren">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2022-09-24 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Tomorrow Today ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësh ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2022-09-24 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2022-09-24 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="The Verdict">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2022-09-24 21:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="GLOBAL 3000 ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2022-09-24 21:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Red Hill ">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2022-09-24 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2022-09-25 00:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me orën">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2022-09-25 01:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="GLOBAL 3000 ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2022-09-25 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Trade">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2022-09-25 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2022-09-25 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Ditë e re">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një hapsirë nën moderimin e Arjola Shehut dhe Arjon Muçës, e fokusuar tek aktualiteti, kultura, show bizi etj. Në 180 minuta dita juaj do të nis ndryshe dhe me një panoramë të qartë te asaj çfarë ndodh rreth jush! Një emision plot ngjyra e emocione, me personazhe të njohur e të pa zbuluar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2022-09-25 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Let's We Forget What">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Beteja e Galipolit, e cila dëshmon për shpirtin e disa djelmoshave të guximshëm anzakë, që i dhanë jetë një kombi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="109" start_time="2022-09-25 08:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Birds of America ">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="110" start_time="2022-09-25 10:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="111" start_time="2022-09-25 10:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Where The Red Fern Grows">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="112" start_time="2022-09-25 12:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="GLOBAL 3000 ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="113" start_time="2022-09-25 12:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Coach">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="114" start_time="2022-09-25 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="115" start_time="2022-09-25 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Bernie The Dolphin">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="116" start_time="2022-09-25 16:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me orën">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="117" start_time="2022-09-25 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Ndertimi i Australise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është historia e një ishulli gjigand, prej 4000 km nga lindja në perëndim dhe 3000 km nga veriu në jug. Njihuni me Australinë, kontinentin me të thatë të banuar në Tokë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="118" start_time="2022-09-25 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="119" start_time="2022-09-25 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ora Sport ">Emision sportiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni sportiv i përjavshëm "Ora Sport" është një ndër programet më të ndjekura në Shqipëri dhe transmetohet çdo të diel në televizionin RTV ORA duke filluar nga ora 21:00 deri në 23:00 I drejtuar nga moderatorët Altin Sulçe dhe Dorisa Keçani, programi sjell "pjatancën" e jetës sportive me profesionalizëm dhe objektivitet. Eventet sportive, analizat e detajuara, por edhe shpejtësia e informacionit, mbeten kritere konstante të punës sonë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="120" start_time="2022-09-25 21:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="GLOBAL 3000 ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="121" start_time="2022-09-25 21:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="The Thompsons ">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="122" start_time="2022-09-25 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="123" start_time="2022-09-26 00:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me orën">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="124" start_time="2022-09-26 01:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="GLOBAL 3000 ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="125" start_time="2022-09-26 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ora Sport ">Emision sportiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni sportiv i përjavshëm "Ora Sport" është një ndër programet më të ndjekura në Shqipëri dhe transmetohet çdo të diel në televizionin RTV ORA duke filluar nga ora 21:00 deri në 23:00 I drejtuar nga moderatorët Altin Sulçe dhe Dorisa Keçani, programi sjell "pjatancën" e jetës sportive me profesionalizëm dhe objektivitet. Eventet sportive, analizat e detajuara, por edhe shpejtësia e informacionit, mbeten kritere konstante të punës sonë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="126" start_time="2022-09-26 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="History of Tanks">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="127" start_time="2022-09-26 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Ditë e re">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një hapsirë nën moderimin e Arjola Shehut dhe Arjon Muçës, e fokusuar tek aktualiteti, kultura, show bizi etj. Në 180 minuta dita juaj do të nis ndryshe dhe me një panoramë të qartë te asaj çfarë ndodh rreth jush! Një emision plot ngjyra e emocione, me personazhe të njohur e të pa zbuluar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="128" start_time="2022-09-26 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="129" start_time="2022-09-26 08:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="130" start_time="2022-09-26 10:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="131" start_time="2022-09-26 10:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="GLOBAL 3000 ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="132" start_time="2022-09-26 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ora Sport ">Emision sportiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni sportiv i përjavshëm "Ora Sport" është një ndër programet më të ndjekura në Shqipëri dhe transmetohet çdo të diel në televizionin RTV ORA duke filluar nga ora 21:00 deri në 23:00 I drejtuar nga moderatorët Altin Sulçe dhe Dorisa Keçani, programi sjell "pjatancën" e jetës sportive me profesionalizëm dhe objektivitet. Eventet sportive, analizat e detajuara, por edhe shpejtësia e informacionit, mbeten kritere konstante të punës sonë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="133" start_time="2022-09-26 13:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Tomorrow Today ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikël dokumentarësh ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="134" start_time="2022-09-26 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Show Bizz">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rubrikë argëtuese dhe informative e cila transmetohet çdo ditë nga e hëna në të premte ora 15:30 e drejtuar nga moderatorja Livia Kasemi.  Kultur, art dhe lajmet më të fundit nga bota e  showbizit të përmbledhura në pak minuta vetëm në "Showbiz"</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="135" start_time="2022-09-26 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="136" start_time="2022-09-26 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Turet e Medha te Skocise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentarësh me pamje të mrekullueshme te bregdetin skocez</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="137" start_time="2022-09-26 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sport Fokus">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sport Focus" Çdo ditë nga e hëna në të Shtunë. Emocionet dhe zhvillimet më të fundit ne fushen e sportit, futboll, tenis, formula Uno, etj! Transmetohen me profesionalizem ne ekranin e RTV Ora!fundit ne fushen e sportit, futboll, tenis, formula Uno, etj! Transmetohen me profesionalizem ne ekranin e RTV Ora!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="138" start_time="2022-09-26 16:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me orën">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="139" start_time="2022-09-26 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Jashtë Matriksit">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision aktual, historik, investigativ, kulturor që më shumë se vetë ngjarjet në miniaturë studion shkaqet e padukshme themelore të ngjarjeve të mëdha botërore dhe atyre shqiptare. Një emision nga Alfred Cako</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="140" start_time="2022-09-26 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="141" start_time="2022-09-26 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="DREJT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni Drejt në RTV Ora, një program nga Luan Rama. Një program çdo të hënë dhe të enjte në prime time, ku diskutohen temat më të nxehta të politikës, analizë, debate dhe komente, intervista me personalitetet më të rëndësishme të politikës, ekonomisë, historisë, kulturës etj.  Emisioni Drejt sjell të gjitha këndvështrimet e ngjarjeve në vend, rajon dhe më gjerë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="142" start_time="2022-09-26 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="D-Night Show">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni "D-Night Show", nga Dajana Shabani, rikthehet edhe këtë sezon! Argëtues, satirik, një show i vërtetë kur protagonistë bëhen dhe vetë shqiptarët me komentet e tyre. Kësaj here me një tjetër personazh. "D-Night" sjell realitetin shqiptar në formë ironike. Të ftuar në studio, histori të jetuara, lidhje skype, kohë viralësh e shumë të tjera në shoën që argëton shqiptarët</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="143" start_time="2022-09-26 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="144" start_time="2022-09-26 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="145" start_time="2022-09-27 00:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me orën">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeto me Orën" program kulturor dhe social, nën moderimin e Ana Kallakut, për të gjithë familjen. Të ftuar nga bota e artit, aktualitetit dhe show-bizz. Me ngjarjet që prekin çdo target group dhe histori njerëzore. Nga e hëna në të premte Live në oran 18.00 deri në 19.30</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="146" start_time="2022-09-27 01:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Bota sekrete e pemeve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Malet, lumenjtë, liqenet janë gjithçka që e bën të mahnitshme natyrën dhe peizazhet që ajo na ofron. Pemët janë elementi i natyrës që ndryshon bashkë me stinët e vitit. Kjo është historia e magjishme e pemëve të Irlandës.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="147" start_time="2022-09-27 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="DREJT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni Drejt në RTV Ora, një program nga Luan Rama. Një program çdo të hënë dhe të enjte në prime time, ku diskutohen temat më të nxehta të politikës, analizë, debate dhe komente, intervista me personalitetet më të rëndësishme të politikës, ekonomisë, historisë, kulturës etj.  Emisioni Drejt sjell të gjitha këndvështrimet e ngjarjeve në vend, rajon dhe më gjerë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="148" start_time="2022-09-27 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

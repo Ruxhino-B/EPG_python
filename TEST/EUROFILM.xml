@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="EUROFILM">
+		<Event id="0" start_time="2022-09-20 03:42:00" duration="5460">
+			<short_event_descriptor lang="alb" name="Zhan Filipi">Komedi, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Jean Philippe"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Fabrice Luchini, Johnny Hallyday. Një punëtor i thjeshtë, papritur zgjohet dhe zbulon se këngëtari i tij i preferuar nuk njihet nga askush dhe bën të pamundurën për ta gjetur  dhe për ta bërë të famshëm.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-09-20 05:13:00" duration="5640">
+			<short_event_descriptor lang="alb" name="Të llastuarit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Spoiled Brats aka Pourris gates"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Një biznesmen i pasuruar me mund, vendos t'u japë një mësim tre fëmijëve të tij të llastuar, duke u hequr sikur ka mbetur trokë dhe duke i detyruar ata të bëjnë të paimagjinueshmen: të gjejnë punë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-09-20 06:47:00" duration="6060">
+			<short_event_descriptor lang="alb" name="Një dalje e mirë">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="La Buona Uscita"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. E tmerruar nga pleqëria dhe vetmia, një grua vendos t'i japë fund jetës së shfrenuar dhe të martohet me një djalë më të ri se ajo. Takimi i fundit me "mikun e shtratit", do ta detyrojë atë të përballet dhunshëm me frikërat e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-09-20 08:28:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Dy nën burkë">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Cherchez la femme aka Some Like It Veil"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Kur vëllai i saj kthehet nga Jemeni dhe kërkon të ndryshojë jetën e "e pahijshme" të Lejlës, ajo dhe i dashuri i saj do të gjejnë një tjetër mënyrë për të ndejtur bashkë, pikërisht duke ndjekur rregullat strikte të vëllait...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-09-20 09:58:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Kampioni dhe misi eps 1">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tiberio Mitri Il Campione e La Miss 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. Luca Argentero, Martina Stell. Historia e mitit të boksit Tiberio Mitri dhe e bashkëshortes së tij, Miss Italisë, Fulvia Franco, ndërsa luftojnë me mjerimin dhe dëshirën për sukses në italinë e pasluftës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-09-20 11:43:00" duration="6840">
+			<short_event_descriptor lang="alb" name="Kampioni dhe misi eps 2">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tiberio Mitri Il Campione e La Miss 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. Luca Argentero, Martina Stell. Historia e mitit të boksit Tiberio Mitri dhe e bashkëshortes së tij, Miss Italisë, Fulvia Franco, ndërsa luftojnë me mjerimin dhe dëshirën për sukses në italinë e pasluftës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-09-20 13:37:00" duration="6660">
+			<short_event_descriptor lang="alb" name="Dy nënat e mia">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Aideista Parhain aka Mother Of Mine"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi finlandez. Lufta II Botërore. Pas vdekjes së babait në front, e ëma shkatërruar nga lajmi, i përgatit valixhet 9-vjeçarit Ero për udhëtimin që do ta çojë drejt një vendi të ri dhe një nëne tjetër...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-09-20 15:28:00" duration="6540">
+			<short_event_descriptor lang="alb" name="Musketieret e mbretit, misioni i parafundit">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Moschettieri del re La penultima missione"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. Pierfrancesco Favino, Rocco Papaleo. 30 vjet nga aventura e tyre e fundit, katër musketierët, që tashmë janë kthyer në burra cinikë, të zhgënjyer dhe në moshë, thirren në një mision për të shpëtuar mbretin e ri, Lugji XIV.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-09-20 17:17:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Testi">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Test aka Ispytanie"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një baba i përkushtuar, jeton me të bijën në një  rrafshinë magjepsëse dhe të qetë, derisa dy të rinj bien në dashuri me vajzën. Një trekëndësh dashurie që ndryshon gjithçka dhe ndërthur bukurinë e jashtëzakonshme me një mesazh social të fortë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-09-20 18:57:00" duration="6900">
+			<short_event_descriptor lang="alb" name="I panjohuri perfekt">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Un illustre inconnu aka Nobody from Now"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mathieu Kassovitz, Marie-Josée Croze. Filmi francez, rreth një njeriu që gjithmonë ka ëndërruar të jetë dikush tjetër dhe fillon të maskohet si njerëzit që takon në jetën e përditshme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-09-20 20:52:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Ditën e hënë"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Monday"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi grek. Dy amerikanë beqarë tek të 30-tat që jetojnë në Athinë, takohen një të premte të nxehtë vere. Kimia e tyre e menjëhershme çon në një fundjavë të paharrueshme dhe ngre pikëpyetje mbi të ardhmen e tyre, kur ata zgjohen ditën e hënë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-09-20 22:47:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Merilend">Film Autor</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Disorder"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mathias Schoenaerts, Dianne Kruger. Një ish ushtarak me probleme, paguhet për të mbrojtur familjen e një biznesmeni dhe megjithë ambjentin e sigurt, fillon të dallojë kërcënime për të cilat nuk është i sigurt nëse janë reale apo jo.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-09-21 00:27:00" duration="8100">
+			<short_event_descriptor lang="alb" name="Violeta">Dramë, Familjar, Music</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Violette"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi Franko - Belg. Marrëdhënia intensive mes Violette Leduc dhe Simone de Beauvoir. Një raport bazuar në kërkimin për liri përmes shkrimeve të Violetës dhe për Simone, bindja se ajo kishte në duar fatin e një shkrimtareje të jashtëzakonshme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-09-21 02:42:00" duration="6600">
+			<short_event_descriptor lang="alb" name="MekVikar, armiku publik">Dramë, krim</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="McVicar 1980"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi britanik. Roger Daltrey. Bazuar në jetën e kriminelit Xhon MekVikar, i cili, gjatë viteve '70, pas një grabitjeje me armë dhe arratisjes spektakolare nga burgu i sigurisë së lartë, bëhet armiku numër një në Britaninë e madhe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-09-21 04:32:00" duration="9240">
+			<short_event_descriptor lang="alb" name="Territori">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Territory aka Territoriya"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në vitet 1960, kur Rusisë i duhej ar më shumë se kurrë, një inxhinier rrezikon gjithçka dhe fillon kërkimet në një territor të izoluar ku çdo kërkim i mëparshëm ka dështuar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-09-21 07:06:00" duration="5760">
+			<short_event_descriptor lang="alb" name="Në timon">Thriller, krim</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Am Ruder aka At The Helm"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Biznesi i Majkëllit është drejt falimentimit, bashkëshortja e pasur e tradhton pa u shqetësuar, dhe kur merret peng nga një grua po aq pa fat sa ai, Majkëlli ka një ide se nga kush mund të marrin më shumë para...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-09-21 08:42:00" duration="6240">
+			<short_event_descriptor lang="alb" name="Verë në Provansë">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Avis de mistral"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Jean Reno. Tre fëmijët e një çifti në prag divorci dërgohen për verim tek gjyshi, të cilin nuk e kanë takuar kurrë për shkak të një grindjeje familjare. Shumë shpejt përplasja mes brezave do të trazojë verën e tyre...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-09-21 10:26:00" duration="5820">
+			<short_event_descriptor lang="alb" name="Emrat e dashurisë">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Le nom des gens aka The Names of Love "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Një aktiviste e re fle me kundërshtarët e saj politikë për t'i kthyer pro kauzës së saj. Ajo arrin rezultate të mira deri kur takon Arthur Martin! Nga emri, i duket tip i vështirë por, emrat dhe paraqitjet ndonjëherë mashtrojnë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-09-21 12:03:00" duration="5940">
+			<short_event_descriptor lang="alb" name="Sekreti i madh">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Oorlogsgeheimen aka Secrets Of War"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi polak. Gjatë Luftës së Dytë Botërore, miqësia e ngushtë midis dy djemve kërcënohet, kur një vajzë i tregon një sekret vetëm njërit prej tyre...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-09-21 13:42:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Agimet këtu janë të qeta">Luftë, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="A zori zdes tikhie aka The Dawns Here Are Quiet"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi rus. Lufta II Botërore. Pasi kërkon ushtarë që nuk pijnë alkool dhe nuk përzien me gra, Majorit Vaskov i caktohet të drejtojë një gurp vajzash. Edhe pse nuk merrej vesh me gratë, kur armiku afrohet, ato bëhen mbështetja e tij më e mirë</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-09-21 15:42:00" duration="5760">
+			<short_event_descriptor lang="alb" name="Çaste të pavlerësuara lumturie">Komedi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ordinary Happiness "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. Pasi një aksident i paparashikuar i merr jetën, Paolos i lejohet të rikthehet në tokë për 92 minuta, për të rregulluar gjërat e lëna pezull. Por si do t'i shpenzojë ai minutat e vyera?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-09-21 17:18:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Mision të çmendurish"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Le lion"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Dany Boon, Philippe Katerine. Pasi e fejuara e tij rrëmbehet, një mjek psikiatër në panik, ndihmon të arratiset nga spitali një nga pacientët e tij, i cili betohet se është një agjent sekret shumë i trajnuar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-21 18:58:00" duration="5940">
+			<short_event_descriptor lang="alb" name="Djali i padukshëm">Aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Il Ragazzo Invisibile"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mikele është 13 vjec. Ai është i turpshëm, në shkollë rri gjithmonë vetëm dhe ka rënë në dashuri me Stelën.  Pas një feste me kostume për Halloween, ai zbulon që kostumi i tij ka aftësinë ta bëjë të padukshëm...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-21 20:37:00" duration="6060">
+			<short_event_descriptor lang="alb" name="Ekzistencë e kërcënuar">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Survivalist"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Martin McCann, Mia Goth, Olwen Fouere. Në një kohë kur e gjithë bota vuan nga uria, një njeri mbijeton falë një copë toke të fshehur në pyll. Por kur dy femra në kërkim të ushqimit dhe strehimit e zbulojnë, e gjithë ekzistenca e tij kërcënohet.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-21 22:18:00" duration="8100">
+			<short_event_descriptor lang="alb" name="Zgjedhja e mbretit">Dramë, luftë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Kongens Nei aka The King's Choice"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi norvegjezo-irlandez. Bazuar në histori të vërtetë. Prill 1940. Pasi pushtuan vendin, forcat e armatosura gjermane i paraqitën një ultimatum të paimagjinueshëm mbretit norvegjez: të dorëzohet ose do të vdesë!</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-22 00:33:00" duration="7440">
+			<short_event_descriptor lang="alb" name="Mbreteresha e Spanjës">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="La reina de Espana aka The Queen of Spa"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi spanjoll. Penélope Cruz. Madrid  1956. Ylli i kinemasë amerikane me origjinë Spanjolle, kthehet në atdheun e saj për të mishëruar mbretëreshën Isabel la Católica, por një seri ngjarjesh do të sprovojnë xhirimin e filmit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-22 02:37:00" duration="5640">
+			<short_event_descriptor lang="alb" name="Të jetë dashuri?">Romancë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Je crois que je l'aime aka Could This B"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Një biznesmen i pasur 43-vjeçar, i sprovuar me zhgënjimet e dashurisë, i kërkon një detektivi privat të zbulojë pse gruaja e bukur pas të cilës ai tëhiqet fatalisht, është akoma beqare...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-22 04:11:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Arventur">Fantazi, Mister</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Arventur"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi rus i animuar, bazuar në filozofinë Taoiste. I rritur me pikturat e artistëve më të mirë, një perandor fillon të kuptojë se jeta e vërtetë nuk është aspak aq e bukur dhe harmonike sa ç'pasqyrohet në art.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-22 05:26:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Romantike anonime">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Les Emotifs Anonymes aka Romantics Anon"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Benoît Poelvoorde, Isabelle Carré. Ç'ndodh kur dy njerëz ndajnë të njëjtin pasion, por s'arrijnë të shprehin ndjenjat e tyre? Ata bien në dashuri... Pikërisht kjo ndodh midis një prodhuesi çokollatash dhe punëtores së tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-22 06:46:00" duration="5940">
+			<short_event_descriptor lang="alb" name="Ime motër">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="L'enfant d'en haut aka Sister"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi suedez. Léa Seydoux. 12-vjeçari Sajmon bën ç'të mundet për t'u kujdesur për të motrën e madhe, e papunë dhe e papërgjegjshme. Marrëdhënia e tyre kriset kur ata përballen me të vërtetën që e kanë mbajtur gjithmonë të fshehur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-22 08:25:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Pa gjumë në Stamboll">Komedi, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Schlaflos in Istanbul aka Sweet Like Ba"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Stilistja turke Didem dhe i dashuri i saj gjerman Jakobi janë një cift i çuditshëm, por i lumtur. Disa ngjarje lëkundin lidhjen e tyre dhe Didem kthehet në Stamboll, ku prindërit përpiqen t'i gjejnë një burrë tjetër...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-22 10:00:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Tris femrash dhe fustani i dasmës">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tris Di Donne E Abiti Nuziali"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sergio Castellitto, Martina Gedeck. Një kumarxhi, përpiqet të futet në rrugë të drejtë përpara se vajza e tij të martohet.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-22 11:40:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Buzë të vulosura">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sealed Lips"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Antonia arrin në Gjermaninë Lindore pasi vuajti me vite një dënim të padrejtë si spiune në kampet Ruse. Ajo pritet me nderime dhe dhurata nga udhëheqja, por duhet të paguajë një çmim: të heshtë për kohën e saj në Bashkimin Sovjetik.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-22 13:30:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Familja Tush 4"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Les Tuche 4"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Pas dorëheqjes nga posti i President i Republikës, Jeff dhe familja e tij i kthehen jetës së zakonshme në fshat. Por sado që ata përpiqen të qëndrojnë larg situatave absurde, një sherr familjar mes Xhefit dhe kunatit të tij, që urrehen reciprocikisht, merr përmasa shumë më të mëdha...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-22 15:15:00" duration="5700">
+			<short_event_descriptor lang="alb" name="T-34, misioni drejt Moskës"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tanks For Stalin aka Tanki"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi rus. Kur Rusia bëhet gati të luftojë kundër Gjermanisë naziste, një ekip inxhinierësh dhe metalurgësh transportojnë fshehurazi nga Kharkivi prototipin e një tanku të ri të avancuar, për t'ia treguar Stalinit, por rruga drejt Moskës kthehet në një garë të pamëshirshme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-22 16:50:00" duration="7800">
+			<short_event_descriptor lang="alb" name="Mbretëria">Dramë, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="El Reino"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi spanjoll, fitues i 32 çmimeve kinematografike. Një politikan me ndikim, jeta luksoze e të cilit ushqehet nga biznesi i tij i mbrapshtë dhe i paligjshmëm, fillon një luftë për mbijetesë pasi një gazetë e ekspozon atë në sytë e publikut.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-22 19:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Çështjet e pazgjidhura: Vrasja e binjakëve"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Department Q: The Absent One aka Fasand"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi danez, i dyti i një serie filmash mbi çështjet e pazgjidhura. Detektivi Morok rihap çështjen e vrasjes së binjakëve në 1 shkollë të pasurish. Gjatë hetimit, Morok zbulon 1 dëshmitare të re, që njerëz të fuqishëm duan që të heshtë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-22 21:00:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Bukuroshet">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Cuties"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. 11- vjeçarja senegaleze Ami, fillon të sillet si një grup moshataresh që adhuron, me shpresën për t'u bërë një prej tyre. Por gjithçka që ajo kërkon të ndryshojë, bie ndesh me familjen dhe kulturën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-22 22:35:00" duration="7440">
+			<short_event_descriptor lang="alb" name="Para errësirës"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Prima che la notte "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. Historia e vërtetë e Xhuzepe Favës, gazetar dhe intelektual siçilian, i cili u përpoq të luftonte mafian me gazetën e tij "I Siçiliani", në fillim të viteve '80. Një nismë, që do të vuloste fatin e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-23 00:39:00" duration="5760">
+			<short_event_descriptor lang="alb" name="Bonjour Paris">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Montparnasse Bienvenue "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Një grua tek të tridhjetat, e sapo kthyer në Paris pas vitesh që jeton jashtë vendit, detyrohet të ndërtojë një jetë të re për veten e saj pasi braktiset papritmas nga i dashuri i pasur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-23 02:15:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Aritmia">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Arrhythmia"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi rus. Oleg është mjek urgjence i përkushtuar. Por sa i përgjegjshëm është në punë, aq neglizhent është në jetën personale, duke e çuar martesën e tij drejt divorcit. A mundet që një person i cili shpëton jetë çdo ditë, të shpëtojë veten e tij?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="41" start_time="2022-09-23 04:10:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Guxo e më duaj">Dramë romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Jeux d'enfants aka Love Me If You Dare"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Guillaume Canet, Marion Cotillard. Miq që në fëmijëri, Xhulien dhe Sofi luajnë një lojë, ku sfidojnë njëri tjetrin për të bërë gjëra nga më të pazakontat. Por mos ndoshta kjo lojë, është thjesht një maskim i ndjenjave të tyre të vërteta?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="42" start_time="2022-09-23 05:45:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Trazira dashurie">Romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Amour And Turbulences"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ludivine Sagnier, Nicolas Bedos. Në udhëtim drejt Francës për disa intervista pune, një avokat zbulon se është ulur përkrah ish të dashurës së tij dhe përgjatë orëve në vazhdim, duan apo s'duan ata duhet të flasin me njëri-tjetrin.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="43" start_time="2022-09-23 07:15:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Dita e parë në detyrë">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Il primo incarico"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. Isabella Ragonese. Një mësuese e re lë nënën, motrën dhe të fejuarin për të dhënë mësim në një fshat të vogël. Armiqësitë e vendit dhe të papriturat nga vendlindja, nuk do ta dekurajojnë në detyrën e saj e parë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="44" start_time="2022-09-23 08:50:00" duration="5760">
+			<short_event_descriptor lang="alb" name="E imja Angli">Biografi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="England Is Mine"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jack Lowden. Filmi britanik. Një portretizim i jetës së hershme të këngëtarit Steven Patrick Morrissey, përpara se të bëhej lideri vokalist dhe tekstshkruesi i një prej grupeve muzikore alternative më të famshme të viteve '80, The Smiths.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="45" start_time="2022-09-23 10:26:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Endacake në Paris">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Paris pieds nus aka Lost in Paris "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi franko-belg. Fiona, një bibliotekare Kanadeze, arrin në Paris për të ndihmuar hallën e moshuar. Ndërsa ajo humb rrugën dhe halla e saj zhduket pa gjurmë, një i pastrehë futet në lojë, i cili duket po aq joshës sa edhe ngjitës...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="46" start_time="2022-09-23 11:51:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Trautmann">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Trautmann aka The keeper"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjermano-anglez. Historia e vërtetë e jashtëzakonshme e Bert Trautmann-it, ushtar gjerman dhe i burgosur lufte në Britani. Mes paragjykimeve dhe protestave të pasluftës, ai bëhet portier i ekpit të Mançesterit, e më pas një ikonë futbolli</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="47" start_time="2022-09-23 13:46:00" duration="5940">
+			<short_event_descriptor lang="alb" name="Fajkonjte"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Falchi aka Falchi - Falcons Special Squad 2017"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. Dy policë të një ekipi special të Napolit, me metoda jo të zakonshme për të përcjellë ligjin në rrugicat famëkeqe të qytetit, do të kërkojnë shpengim pasi prekin fundin.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="48" start_time="2022-09-23 15:25:00" duration="6960">
+			<short_event_descriptor lang="alb" name="Aq sa di për të">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Midwife "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Catherine Frot, Catherine Deneuve. Dy gra me karaktere krejt të kundërta, mbështeten tek njëra - tjetra ndërsa përballen me rrethanat e pazakonta që i ribashkuan pas shumë vitesh.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="49" start_time="2022-09-23 17:21:00" duration="5940">
+			<short_event_descriptor lang="alb" name="Lolo">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lolo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Julie Delpy, Dany Boon. Sado e pamundur mund të dukej në fillim, 45-vjeçarja Violeta dhe Zhan Rene bien ne dashuri. Gjithçka mes tyre shkon për mrekulli, deri kur ai takohet me djalin e saj dhe kupton se lumturia mes tyre ndodhet plotësisht në duart e tij...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="50" start_time="2022-09-23 19:00:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Kushërira ime Rakela">Romancë, dramë, mister</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My Cousin Rachel"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi britanik. Rachel Weisz, Sam Claflin. Një i ri planifikon të hakmerret ndaj gruas së kushëririt, duke menduar se ajo është përgjegjëse për vdekjen e tij. Por ndjenjat e tij fillojnë të ndryshojnë, kur ai takohet dhe bie menjëherë në dashuri me të.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text>A young Englishman plots revenge against his late cousin's mysterious, beautiful wife, believing her responsible for his death. But his feelings become complicated .......</text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="51" start_time="2022-09-23 20:45:00" duration="5460">
+			<short_event_descriptor lang="alb" name="E re dhe e bukur">Dramë erotike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Jeune And Jolie"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Marine Vacth, Géraldine Pailhas. Filmi francez, me në qendër historinë e një vajze, e cila pasi humbet virgjërinë e saj fillon një jetë sekrete si prostitutë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="52" start_time="2022-09-23 22:16:00" duration="6540">
+			<short_event_descriptor lang="alb" name="Fletorja e shenimeve">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="A nagy füzet aka The Notebook"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi hungarez. Lufta II Botërore. Për t'i mbijetuar ambientit të ashpërsuar nga lufta, dy vëllezër binjakë nisin ta jetojnë jetën e tyre në një regjim të rreptë fizik dhe psikologjik dhe mbajnë shënim gjithçka që u ndodh në një fletore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="53" start_time="2022-09-24 00:05:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Dashuri e errët">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="L'amore buio"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. Pas një dite argëtuese, 4 adoleshentë abuzojnë me Irenën, moshataren e tyre. Të nesërmen, Çiro denoncon në polici veten dhe miqtë. Të gjithë burgosen, por edhe pse në largësi, botët e Irenës dhe Çiros do të afrohen pa kthim.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="54" start_time="2022-09-24 01:50:00" duration="7086">
+			<short_event_descriptor lang="alb" name="Mëngjesi në Pluton">Dramë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Breakfast on Pluton"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi britanik. Cillian Murphy. I braktisur që foshnjë dhe i vetëdijshëm se është ndryshe nga djemtë e tjerë, Patriku mbijeton në një mjedis të ashpër falë zgjuarsisë, sharmit dhe vendosmërisë për të mos lejuar askënd ta ndryshojë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>

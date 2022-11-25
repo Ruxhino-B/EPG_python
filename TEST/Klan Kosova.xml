@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="KLAN KOSOVA">
+    <event id="48803874" start_time="2022-09-20 22:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="New Amsterdam">New Amsterdam</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial, Ritransmetim) S1, Ep 22- I shkëlqyeshëm dhe simpatik Maks Good Goodwin, drejtori më i ri mjekësor i institucionit, i cili vendos të shkatërrojë burokracinë dhe të ofrojë një kujdes të jashtëzakonshëm. Duke mos marrë "jo" për një përgjigje, Dr. Goodwin synon të ndryshoj sistemin ekzistues deri sa t'i jap jetë të re këtij spitali me personel të pamjaftueshëm dhe të nënvlerësuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803875" start_time="2022-09-20 23:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Tradhëtia">Tradhëtia</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial) S1, Ep 44- Seriali më i vlerësuar turk Tradhëtia ndjek ndryshimet dramatike në jetët e familjes Akarsu, pas lidhjes jashtëmartesore të patriarkut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803876" start_time="2022-09-21 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kiks Kosova">Kiks Kosova</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) S2, Ep 2- "Mirë se vjen në Republikën e Kiksit!&#13;
+Aty ku gërshetohen hulumtimi, satira dhe humori.&#13;
+I pari show hulumtues në Kosovë, paraqet pa filtra secilën dukuri negative që ndodh në Kosovë dhe jashtë saj. Hulumtimet dhe gjetjet në terren ndeshen në studio me provokimin satirik, i cili vihet në funksion të të parit në një tjetër këndvështrim të ngjarjeve politike, korruptive e sociale.   "</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803877" start_time="2022-09-21 01:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 20/00">Lajme 20/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Edicioni qendror informativ. Kronika mbi aktualitetet dhe lidhje direkte.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803878" start_time="2022-09-21 01:30:00" duration="300">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+    </event>
+    <event id="48803879" start_time="2022-09-21 01:35:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Rubikon">Rubikon</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Rubikon me Adriatik Kelmendin është emisioni më jetëgjatë i debatit dhe intervistave në televizionet kosovare.&#13;
+Fitues i disa shpërblimeve, Rubikon ka mbajtur në vazhdimësi primatin e emisionit më me shumë ndikim në proceset politike, sociale e kulturore në Kosovë dhe më gjerë, me një konstante shikueshmërie ndër më të lartat në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803880" start_time="2022-09-21 02:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Hallakama">Hallakama</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Edicioni veror</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803914" start_time="2022-09-21 03:15:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Ora e Pasdites">Ora e Pasdites</short_event_descriptor>
+    </event>
+    <event id="48803881" start_time="2022-09-21 04:55:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803882" start_time="2022-09-21 05:00:00" duration="13800">
+      <short_event_descriptor lang="alb" name="Ora Shtatë">Ora Shtatë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Emisioni i mëngjesit i cili sjell storie unike dhe kuriozitete për vendin dhe personazhe shqiptare. Të ftuar në studio për të promovuar vepra kulturore por edhe për të diskutuar mbi ngjarjet aktuale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803883" start_time="2022-09-21 08:50:00" duration="300">
+      <short_event_descriptor lang="alb" name="Comodita TV Shop">Comodita TV Shop</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për teleshoping nga kompania Comodita.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803884" start_time="2022-09-21 08:55:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803885" start_time="2022-09-21 09:00:00" duration="780">
+      <short_event_descriptor lang="alb" name="Flash">Flash</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Edicion i shkurter informativ i lajmeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803886" start_time="2022-09-21 09:13:00" duration="120">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit në Kosovë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803887" start_time="2022-09-21 09:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="New Amsterdam">New Amsterdam</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial, Ritransmetim) S1, Ep 22- I shkëlqyeshëm dhe simpatik Maks Good Goodwin, drejtori më i ri mjekësor i institucionit, i cili vendos të shkatërrojë burokracinë dhe të ofrojë një kujdes të jashtëzakonshëm. Duke mos marrë "jo" për një përgjigje, Dr. Goodwin synon të ndryshoj sistemin ekzistues deri sa t'i jap jetë të re këtij spitali me personel të pamjaftueshëm dhe të nënvlerësuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803888" start_time="2022-09-21 10:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Kiks Kosova">Kiks Kosova</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) S2, Ep 2- "Mirë se vjen në Republikën e Kiksit!&#13;
+Aty ku gërshetohen hulumtimi, satira dhe humori.&#13;
+I pari show hulumtues në Kosovë, paraqet pa filtra secilën dukuri negative që ndodh në Kosovë dhe jashtë saj. Hulumtimet dhe gjetjet në terren ndeshen në studio me provokimin satirik, i cili vihet në funksion të të parit në një tjetër këndvështrim të ngjarjeve politike, korruptive e sociale.   "</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803889" start_time="2022-09-21 10:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Comodita TV Shop">Comodita TV Shop</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për teleshoping nga kompania Comodita.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803890" start_time="2022-09-21 11:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Flash">Flash</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicion i shkurter informativ i lajmeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803891" start_time="2022-09-21 11:15:00" duration="300">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit në Kosovë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803892" start_time="2022-09-21 11:20:00" duration="300">
+      <short_event_descriptor lang="alb" name="Comodita TV Shop">Comodita TV Shop</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për teleshoping nga kompania Comodita.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803893" start_time="2022-09-21 11:25:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo &amp; Publicitet">Promo &amp; Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803894" start_time="2022-09-21 11:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Tradhëtia">Tradhëtia</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë, Serial) S1, Ep 45- Seriali më i vlerësuar turk Tradhëtia ndjek ndryshimet dramatike në jetët e familjes Akarsu, pas lidhjes jashtëmartesore të patriarkut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803895" start_time="2022-09-21 12:20:00" duration="1320">
+      <short_event_descriptor lang="alb" name="Hollywood News Feed">Hollywood News Feed</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ecni me yjet në tapetin e kuq çdo javë pasi që Hollywood News Feed ju dërgon në qendrën e botës së shkëlqimit, famës dhe argëtimit! News Feed paraqet pamje ekskluzive me vlera të mëdha nga arkiva dhe paparacët  e cila i mbanë shikuesit të të ndezur dhe për të kërkuar më shumë!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803896" start_time="2022-09-21 12:42:00" duration="1080">
+      <short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për teleshoping nga kompania Comodita.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803897" start_time="2022-09-21 13:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Lajme 15/00">Lajme 15/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ i ores 15:00. Kronika mbi aktualitetet dhe lidhje direkte.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803898" start_time="2022-09-21 13:15:00" duration="120">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit në Kosovë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803899" start_time="2022-09-21 13:17:00" duration="960">
+      <short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për teleshoping nga kompania Comodita.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803900" start_time="2022-09-21 13:33:00" duration="420">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803901" start_time="2022-09-21 13:40:00" duration="3120">
+      <short_event_descriptor lang="alb" name="Hallakama">Hallakama</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803915" start_time="2022-09-21 14:32:00" duration="180">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803916" start_time="2022-09-21 14:35:00" duration="2820">
+      <short_event_descriptor lang="alb" name="Ora e Pasdites">Ora e Pasdites</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Emisioni i pasdites me unik ne vend ku ju sjell kronika mbi te rejat inovative, krijimet e te rinjeve, te arriturat kulturore, kuriozitete, te ftuar e receta ditore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803902" start_time="2022-09-21 15:22:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803903" start_time="2022-09-21 15:30:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Info Magazine">Info Magazine</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Emisioni informativ mbi aktualitetin ne vend, ku pasqyron ngjarjet kryesore te dites permes kronikave por edhe debatit ne studio, duke dhene I pari ekskluzivitetin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803904" start_time="2022-09-21 16:35:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803905" start_time="2022-09-21 16:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Pri Fest Live">Pri Fest Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803906" start_time="2022-09-21 17:30:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803907" start_time="2022-09-21 17:35:00" duration="720">
+      <short_event_descriptor lang="alb" name="Minuta e fundit">Minuta e fundit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Edicion informativ i sportit. Ngjarjet ditore qe shenuan sportin ne vend dhe ne bote.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803908" start_time="2022-09-21 17:47:00" duration="780">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803909" start_time="2022-09-21 18:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 20/00">Lajme 20/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni qendror informativ. Kronika mbi aktualitetet dhe lidhje direkte.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803910" start_time="2022-09-21 18:30:00" duration="180">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803911" start_time="2022-09-21 18:33:00" duration="180">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit në Kosovë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803912" start_time="2022-09-21 18:36:00" duration="540">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803913" start_time="2022-09-21 18:45:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Rubikon">Rubikon</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Rubikon me Adriatik Kelmendin është emisioni më jetëgjatë i debatit dhe intervistave në televizionet kosovare.&#13;
+Fitues i disa shpërblimeve, Rubikon ka mbajtur në vazhdimësi primatin e emisionit më me shumë ndikim në proceset politike, sociale e kulturore në Kosovë dhe më gjerë, me një konstante shikueshmërie ndër më të lartat në vend."</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803917" start_time="2022-09-21 19:55:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803918" start_time="2022-09-21 20:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Kiks Kosova">Kiks Kosova</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) S2, Ep 3- "Mirë se vjen në Republikën e Kiksit!&#13;
+Aty ku gërshetohen hulumtimi, satira dhe humori.&#13;
+I pari show hulumtues në Kosovë, paraqet pa filtra secilën dukuri negative që ndodh në Kosovë dhe jashtë saj. Hulumtimet dhe gjetjet në terren ndeshen në studio me provokimin satirik, i cili vihet në funksion të të parit në një tjetër këndvështrim të ngjarjeve politike, korruptive e sociale.   "</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803919" start_time="2022-09-21 20:55:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803920" start_time="2022-09-21 21:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Edicioni Special">Edicioni Special</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Programi special informativ në Klan Kosova.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803921" start_time="2022-09-21 22:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Pri Fest">Pri Fest</short_event_descriptor>
+    </event>
+    <event id="48803922" start_time="2022-09-21 23:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Tradhëtia">Tradhëtia</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial) S1, Ep 45- Seriali më i vlerësuar turk Tradhëtia ndjek ndryshimet dramatike në jetët e familjes Akarsu, pas lidhjes jashtëmartesore të patriarkut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803923" start_time="2022-09-22 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kiks Kosova">Kiks Kosova</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803924" start_time="2022-09-22 01:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Fara e Flliqt">Fara e Flliqt</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803925" start_time="2022-09-22 01:35:00" duration="300">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit në Kosovë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803960" start_time="2022-09-22 01:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Rubikon">Rubikon</short_event_descriptor>
+    </event>
+    <event id="48803926" start_time="2022-09-22 03:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Hallakama">Hallakama</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803927" start_time="2022-09-22 03:50:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Ora e Pasdites">Ora e Pasdites</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803928" start_time="2022-09-22 04:30:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Hollywood News Feed">Hollywood News Feed</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Ecni me yjet në tapetin e kuq çdo javë pasi që Hollywood News Feed ju dërgon në qendrën e botës së shkëlqimit, famës dhe argëtimit! News Feed paraqet pamje ekskluzive me vlera të mëdha nga arkiva dhe paparacët  e cila i mbanë shikuesit të të ndezur dhe për të kërkuar më shumë!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803929" start_time="2022-09-22 04:55:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803930" start_time="2022-09-22 05:00:00" duration="13800">
+      <short_event_descriptor lang="alb" name="Ora Shtatë">Ora Shtatë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Emisioni i mëngjesit i cili sjell storie unike dhe kuriozitete për vendin dhe personazhe shqiptare. Të ftuar në studio për të promovuar vepra kulturore por edhe për të diskutuar mbi ngjarjet aktuale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803931" start_time="2022-09-22 08:50:00" duration="300">
+      <short_event_descriptor lang="alb" name="Comodita TV Shop">Comodita TV Shop</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803932" start_time="2022-09-22 08:55:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803933" start_time="2022-09-22 09:00:00" duration="780">
+      <short_event_descriptor lang="alb" name="Flash">Flash</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicion i shkurter informativ i lajmeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803934" start_time="2022-09-22 09:13:00" duration="120">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit ne Kosove	.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803935" start_time="2022-09-22 09:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Pasion dhe Profesion">Pasion dhe Profesion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803936" start_time="2022-09-22 10:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Kiks Kosova">Kiks Kosova</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) S2, Ep 3- "Mirë se vjen në Republikën e Kiksit!&#13;
+Aty ku gërshetohen hulumtimi, satira dhe humori.&#13;
+I pari show hulumtues në Kosovë, paraqet pa filtra secilën dukuri negative që ndodh në Kosovë dhe jashtë saj. Hulumtimet dhe gjetjet në terren ndeshen në studio me provokimin satirik, i cili vihet në funksion të të parit në një tjetër këndvështrim të ngjarjeve politike, korruptive e sociale.   "</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803937" start_time="2022-09-22 10:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Comodita TV Shop">Comodita TV Shop</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për teleshoping nga kompania Comodita.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803938" start_time="2022-09-22 11:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Flash">Flash</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicion i shkurter informativ i lajmeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803939" start_time="2022-09-22 11:15:00" duration="300">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit në Kosovë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803940" start_time="2022-09-22 11:20:00" duration="300">
+      <short_event_descriptor lang="alb" name="Comodita TV Shop">Comodita TV Shop</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803941" start_time="2022-09-22 11:25:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo &amp; Publicitet">Promo &amp; Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803942" start_time="2022-09-22 11:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Tradhëtia">Tradhëtia</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial) S1, Ep 46- Seriali më i vlerësuar turk Tradhëtia ndjek ndryshimet dramatike në jetët e familjes Akarsu, pas lidhjes jashtëmartesore të patriarkut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803943" start_time="2022-09-22 12:20:00" duration="1320">
+      <short_event_descriptor lang="alb" name="Hollywood News Feed">Hollywood News Feed</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ecni me yjet në tapetin e kuq çdo javë pasi që Hollywood News Feed ju dërgon në qendrën e botës së shkëlqimit, famës dhe argëtimit! News Feed paraqet pamje ekskluzive me vlera të mëdha nga arkiva dhe paparacët  e cila i mbanë shikuesit të të ndezur dhe për të kërkuar më shumë!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803944" start_time="2022-09-22 12:42:00" duration="1080">
+      <short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për teleshoping nga kompania Comodita.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803945" start_time="2022-09-22 13:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Lajme 15/00">Lajme 15/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ i ores 15:00. Kronika mbi aktualitetet dhe lidhje direkte.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803946" start_time="2022-09-22 13:15:00" duration="120">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit në Kosovë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803947" start_time="2022-09-22 13:17:00" duration="960">
+      <short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për teleshoping nga kompania Comodita.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803948" start_time="2022-09-22 13:33:00" duration="420">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803949" start_time="2022-09-22 13:40:00" duration="3120">
+      <short_event_descriptor lang="alb" name="Hallakama">Hallakama</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803961" start_time="2022-09-22 14:32:00" duration="180">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803962" start_time="2022-09-22 14:35:00" duration="2820">
+      <short_event_descriptor lang="alb" name="Ora e Pasdites">Ora e Pasdites</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni i pasdites me unik ne vend ku ju sjell kronika mbi te rejat inovative, krijimet e te rinjeve, te arriturat kulturore, kuriozitete, te ftuar e receta ditore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803950" start_time="2022-09-22 15:22:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803951" start_time="2022-09-22 15:30:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Info Magazine">Info Magazine</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Emisioni informativ mbi aktualitetin ne vend, ku pasqyron ngjarjet kryesore te dites permes kronikave por edhe debatit ne studio, duke dhene I pari ekskluzivitetin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803952" start_time="2022-09-22 16:35:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803953" start_time="2022-09-22 16:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Pri Fest Live">Pri Fest Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803963" start_time="2022-09-22 17:30:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803964" start_time="2022-09-22 17:35:00" duration="720">
+      <short_event_descriptor lang="alb" name="Minuta e fundit">Minuta e fundit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Edicion informativ i sportit. Ngjarjet ditore qe shenuan sportin ne vend dhe ne bote</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803965" start_time="2022-09-22 17:47:00" duration="780">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803966" start_time="2022-09-22 18:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 20/00">Lajme 20/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni qendror informativ. Kronika mbi aktualitetet dhe lidhje direkte.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803967" start_time="2022-09-22 18:30:00" duration="180">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803968" start_time="2022-09-22 18:33:00" duration="180">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit ne Kosove	.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803954" start_time="2022-09-22 18:36:00" duration="540">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803955" start_time="2022-09-22 18:45:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Rubikon">Rubikon</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Rubikon me Adriatik Kelmendin është emisioni më jetëgjatë i debatit dhe intervistave në televizionet kosovare. Fitues i disa shpërblimeve, Rubikon ka mbajtur në vazhdimësi primatin e emisionit më me shumë ndikim në proceset politike, sociale e kulturore në Kosovë dhe më gjerë, me një konstante shikueshmërie ndër më të lartat në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803956" start_time="2022-09-22 20:10:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803957" start_time="2022-09-22 20:15:00" duration="2400">
+      <short_event_descriptor lang="alb" name="FC Latta">FC Latta</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial) S2, Ep 3- Serial humoristik, ku ngjarja zhvillohet me një klub futbolli që quhet Fc Latta. Fc Latta menaxhohet nga një person që është pronar, drejtor dhe trajner i klubit. Luajnë aktorët: Arjanit Hoti, Fisnik Ademi, Edlir Gashi, Bashkim Ramadani, Gani Morina etj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803958" start_time="2022-09-22 20:55:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803959" start_time="2022-09-22 21:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Edicioni Special">Edicioni Special</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Programi special informativ në Klan Kosova.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803969" start_time="2022-09-22 22:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Pri Fest">Pri Fest</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803970" start_time="2022-09-22 23:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Tradhëtia">Tradhëtia</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial) S1, Ep 46- Seriali më i vlerësuar turk Tradhëtia ndjek ndryshimet dramatike në jetët e familjes Akarsu, pas lidhjes jashtëmartesore të patriarkut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803971" start_time="2022-09-23 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="FC Latta">FC Latta</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) S2, Ep 2- Serial humoristik, ku ngjarja zhvillohet me një klub futbolli që quhet Fc Latta. Fc Latta menaxhohet nga një person që është pronar, drejtor dhe trajner i klubit. Luajnë aktorët: Arjanit Hoti, Fisnik Ademi, Edlir Gashi, Bashkim Ramadani, Gani Morina etj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803972" start_time="2022-09-23 01:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme 20/00">Lajme 20/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edicioni qendror informativ. Kronika mbi aktualitetet dhe lidhje direkte.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803973" start_time="2022-09-23 01:35:00" duration="300">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi I motit ne Kosove</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803974" start_time="2022-09-23 01:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Rubikon">Rubikon</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Rubikon me Adriatik Kelmendin është emisioni më jetëgjatë i debatit dhe intervistave në televizionet kosovare. Fitues i disa shpërblimeve, Rubikon ka mbajtur në vazhdimësi primatin e emisionit më me shumë ndikim në proceset politike, sociale e kulturore në Kosovë dhe më gjerë, me një konstante shikueshmërie ndër më të lartat në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803975" start_time="2022-09-23 03:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Hallakama">Hallakama</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804015" start_time="2022-09-23 03:50:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Ora e Pasdites">Ora e Pasdites</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804016" start_time="2022-09-23 04:30:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Hollywood News Feed">Hollywood News Feed</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803976" start_time="2022-09-23 04:55:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803977" start_time="2022-09-23 05:00:00" duration="13800">
+      <short_event_descriptor lang="alb" name="Ora Shtatë">Ora Shtatë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Emisioni i mëngjesit i cili sjell storie unike dhe kuriozitete për vendin dhe personazhe shqiptare. Të ftuar në studio për të promovuar vepra kulturore por edhe për të diskutuar mbi ngjarjet aktuale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803978" start_time="2022-09-23 08:50:00" duration="300">
+      <short_event_descriptor lang="alb" name="Comodita TV Shop">Comodita TV Shop</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapesire e rezervuar per teleshoping nga kompania Comodita</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803979" start_time="2022-09-23 08:55:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803980" start_time="2022-09-23 09:00:00" duration="780">
+      <short_event_descriptor lang="alb" name="Flash">Flash</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicion i shkurter informativ i lajmeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803981" start_time="2022-09-23 09:13:00" duration="120">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit ne Kosove	.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803982" start_time="2022-09-23 09:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="The story of God">The story of God</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Dokumentar) S3, Ep 2</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803983" start_time="2022-09-23 10:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="FC Latta">FC Latta</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) S2, Ep 3- Serial humoristik, ku ngjarja zhvillohet me një klub futbolli që quhet Fc Latta. Fc Latta menaxhohet nga një person që është pronar, drejtor dhe trajner i klubit. Luajnë aktorët: Arjanit Hoti, Fisnik Ademi, Edlir Gashi, Bashkim Ramadani, Gani Morina etj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803984" start_time="2022-09-23 10:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Comodita TV Shop">Comodita TV Shop</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për teleshoping nga kompania Comodita.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803985" start_time="2022-09-23 11:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Flash">Flash</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicion i shkurter informativ i lajmeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803986" start_time="2022-09-23 11:15:00" duration="300">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit në Kosovë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803987" start_time="2022-09-23 11:20:00" duration="300">
+      <short_event_descriptor lang="alb" name="Comodita TV Shop">Comodita TV Shop</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapesire e rezervuar per teleshoping nga kompania Comodita</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803988" start_time="2022-09-23 11:25:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo &amp; Publicitet">Promo &amp; Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803989" start_time="2022-09-23 11:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Tradhëtia">Tradhëtia</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial) S1, Ep 47- Seriali më i vlerësuar turk Tradhëtia ndjek ndryshimet dramatike në jetët e familjes Akarsu, pas lidhjes jashtëmartesore të patriarkut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803990" start_time="2022-09-23 12:20:00" duration="1320">
+      <short_event_descriptor lang="alb" name="Hollywood News Feed">Hollywood News Feed</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ecni me yjet në tapetin e kuq çdo javë pasi që Hollywood News Feed ju dërgon në qendrën e botës së shkëlqimit, famës dhe argëtimit! News Feed paraqet pamje ekskluzive me vlera të mëdha nga arkiva dhe paparacët  e cila i mbanë shikuesit të të ndezur dhe për të kërkuar më shumë!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803991" start_time="2022-09-23 12:42:00" duration="1080">
+      <short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për teleshoping nga kompania Comodita.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803992" start_time="2022-09-23 13:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Lajme 15/00">Lajme 15/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ i ores 15:00. Kronika mbi aktualitetet dhe lidhje direkte.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803993" start_time="2022-09-23 13:15:00" duration="120">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit në Kosovë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803994" start_time="2022-09-23 13:17:00" duration="960">
+      <short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar për teleshoping nga kompania Comodita.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803995" start_time="2022-09-23 13:33:00" duration="420">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803996" start_time="2022-09-23 13:40:00" duration="3120">
+      <short_event_descriptor lang="alb" name="Hallakama">Hallakama</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804017" start_time="2022-09-23 14:32:00" duration="180">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804018" start_time="2022-09-23 14:35:00" duration="2820">
+      <short_event_descriptor lang="alb" name="Ora e Pasdites">Ora e Pasdites</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Emisioni i pasdites me unik ne vend ku ju sjell kronika mbi te rejat inovative, krijimet e te rinjeve, te arriturat kulturore, kuriozitete, te ftuar e receta ditore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803997" start_time="2022-09-23 15:22:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803998" start_time="2022-09-23 15:30:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Info Magazine">Info Magazine</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Emisioni informativ mbi aktualitetin ne vend, ku pasqyron ngjarjet kryesore te dites permes kronikave por edhe debatit ne studio, duke dhene I pari ekskluzivitetin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803999" start_time="2022-09-23 16:35:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804000" start_time="2022-09-23 16:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Pri Fest Live">Pri Fest Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804001" start_time="2022-09-23 17:30:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804002" start_time="2022-09-23 17:35:00" duration="720">
+      <short_event_descriptor lang="alb" name="Minuta e fundit">Minuta e fundit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Edicion informativ i sportit. Ngjarjet ditore qe shenuan sportin ne vend dhe ne bote.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804003" start_time="2022-09-23 17:47:00" duration="780">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804004" start_time="2022-09-23 18:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 20/00">Lajme 20/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni qendror informativ. Kronika mbi aktualitetet dhe lidhje direkte.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804005" start_time="2022-09-23 18:30:00" duration="180">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804006" start_time="2022-09-23 18:33:00" duration="180">
+      <short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi I motit ne Kosove</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804007" start_time="2022-09-23 18:36:00" duration="540">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804008" start_time="2022-09-23 18:45:00" duration="2520">
+      <short_event_descriptor lang="alb" name="7 ditë me Panxhën">7 ditë me Panxhën</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) S3, Ep 3- Emision televiziv që trajton tema që ndërlidhen me biznesin dhe ekonominë në trevat shqiptare dhe diasporë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804009" start_time="2022-09-23 19:27:00" duration="180">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804010" start_time="2022-09-23 19:30:00" duration="1620">
+      <short_event_descriptor lang="alb" name="Fara e flliqt">Fara e flliqt</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial, Premierë) S6, Ep 3</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804011" start_time="2022-09-23 19:57:00" duration="180">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804012" start_time="2022-09-23 20:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="A po m'njeh zemër?!">A po m'njeh zemër?!</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) S2, Ep 2- Tre çifte sfidohen ne gare mes vete me nje qellim - te kuptohet permes pyetjeve te lojes se sa mire e njohin njeri-tjetrin pergjste viteve te kaluara bashke. Emision me Enur Pakashticen</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804013" start_time="2022-09-23 20:55:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë e rezervuar per promovimin e bizneseve që operojnë në vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48804014" start_time="2022-09-23 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Edicioni Special">Edicioni Special</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Programi special informativ në Klan Kosova.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

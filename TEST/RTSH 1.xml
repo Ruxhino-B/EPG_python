@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="RTSH 1">
+    <event id="0" start_time="2022-09-20 12:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Ushtari qe fotografoi luften">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ai bëri atë që u quajt më pas "zbulimi fotografik i shekullit". Ky dokumentar ju njeh me historinë e pabesueshme të ushtarit nga Belfasti që me aparatin e tij fotografik në vitin 1915 fiksoi në foto eksperiencat dramatike të luftës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-20 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-20 14:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Ditë pas dite">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe te ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-20 16:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="THYEJE ERRËSIRËN - EUGENT BUSHPEPA ">Koncert</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përmbledhje muzikore nga recitali i këngëtarit të njohur të muzikës rock, Eugent Bushpepa. Muzikë shpërthyese, rock dhe të ftuar specialë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-20 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="RRUGËTIMI DREJT KATAR 2022  ">TELEREVISTA</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në episodin e katërt do të takojmë ish-kapitenin e Marokut Med'hi Benatia; do të kalojmë një ditë te garat për të parë devetë më të shpejta në tokë si dhe do të vrapojmë nëpër shkretëtirën e Katarit duke ndjekur një nga udhëtimet ekstremisht më të vështira në botë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-20 18:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-20 18:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Aladro, mëtonjësi i fronit ">Reportazh</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e njërit prej pretendentëve kryesorë të fronit të Shqipërisë. Kush ishte diplomati që pretendonte edhe prejardhjen nga dera e Kastriotëve, që mendohet të këtë dhuruar dhe flamurin e valëvitur në shpalljen e pavarësisë në Vlorë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-20 19:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Publikisht">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në fushën politike çdo lëvizje është e studiuar, çdo betejë e ka një qëllim! Pyetje, debat, lëvizje, sepse e vërteta nuk është pronë e askujt. Me Blerta Tafanin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-20 20:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-20 21:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Mire se erdhet ne shtepi">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2018. Regjisor: George Ratliff. Aktorë: Emily Ratajkowski, Aaron Paul, Riccardo Scamarcio. Thriller. Bryan dhe Cassie, një çift i ri, të dëshpëruar për të ringjallur shkëndijën në marrëdhënien e tyre, vendosin të kalojnë disa ditë pushimi në një vilë të bukur dhe romantike në një fshat italian. Por, Cassie do të miqësohet me Federico-n, fqinjin e pashëm, i cili do të kthehet në një rrezik për lumturinë e çiftit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-20 22:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Turet e Medha te Skocise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me pamje të mrekullueshme do të njihemi me bregdetin skocez, një ndërthurje mahnitëse e kepave shkëmborë dhe plazheve mbresëlënëse.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-20 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Si një familje">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>FIKU - 1. Historiku i fikut. 2. Me Chef Mimoza Balla, gatuajmë fik të karamelizuar, kek të përmbysur me fik dhe sallatë me rukola dhe fik. 3. Vlerat ushqyese të fikut, me nustricionisten Anila Kalleshi. 4. Me pastiçieren Nexhmie Meço, gatuajmë tortë me reçel dhe fiq të freskët. 5. Kushtet e mbjelljes së fikut, me Prof. Ass. Zef Gjeta. 6. Dhuratat e personalizuara një "trend në rritje", me artizanin Jurgen Jazaj. 7. Permanenti korrektiv, me sipërmarrësen Arta Janushaj.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-21 01:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-21 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="THYEJE ERRËSIRËN - EUGENT BUSHPEPA ">Koncert</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përmbledhje muzikore nga recitali i këngëtarit të njohur të muzikës rock, Eugent Bushpepa. Muzikë shpërthyese, rock dhe të ftuar specialë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-21 04:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="RRUGËTIMI DREJT KATAR 2022  ">TELEREVISTA</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në episodin e katërt do të takojmë ish-kapitenin e Marokut Med'hi Benatia; do të kalojmë një ditë te garat për të parë devetë më të shpejta në tokë si dhe do të vrapojmë nëpër shkretëtirën e Katarit duke ndjekur një nga udhëtimet ekstremisht më të vështira në botë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-21 04:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Motociklistet flokegjate">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Motoçiklistët me flokë të gjatë, marrin të gjithë sharmin dhe humorin e tyre në një udhëtim, në të gjithë Britaninë, teksa ndeshen me njerëz brilantë dhe magjepsës, jeta e të cilëve rrethon klubet e vendit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-21 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Mirëmëngjes Shqipëri">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirëmëngjes Shqipëri", emisioni i mëngjesit, në 3 orë transmetim të drejtpërdrejtë, me rubrika dinamike, lajmet më të fundit nga vendi dhe bota, shtypin e ditës, motin, trafikun rrugor, ekonominë e kulturën. Nën drejtimin e Matilda Mcini dhe Florian Agalliu.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-21 08:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-21 08:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Turet e Medha te Skocise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me pamje të mrekullueshme do të njihemi me bregdetin skocez, një ndërthurje mahnitëse e kepave shkëmborë dhe plazheve mbresëlënëse.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-21 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Si një familje">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>PJEPRI - 1. Historiku i pjeprit. 2. Me Chef Mimoza Balla, gatuajmë tortë, antipastë dhe sallatë me pjepër. 3. Rritja dhe kultivimi i pjeprit, me agronomin Hajdar Duro. 4. Vlerat ushqyese të pjeprit, me nustricionisten Anila Kalleshi. 5. Kirurgjia maxillofaciale, me Dr. Renato Isufi. 6. Krijimi i parukeve, me sipërmarrësen Ujvara Cali. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-21 11:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-21 11:20:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Publikisht">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në fushën politike çdo lëvizje është e studiuar, çdo betejë e ka një qëllim! Pyetje, debat, lëvizje, sepse e vërteta nuk është pronë e askujt. Me Blerta Tafanin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-21 12:50:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Festivali i 60-të i këngës në Rtsh">Kenget</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përmbledhje muzikore me këngët e natës së tretë nga "Festivali i 60-të i Këngës" në Radio Televizionin Shqiptar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-21 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-21 14:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-21 16:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Autor - Abaz Hoxha">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historiani i njohur i kinematografisë shqiptare dhe themeluesi i Arkivit të Filmit, një nga personazhet më të njohura të filmit dhe dokumentimit të tij, vjen me një rrëfim të veçantë për filmin kombëtar dhe periudhat e formimit të tij, pas viteve të Luftës së Dytë Botërore. Si arriti të punonte në kohët tona dhe sfidat më të mëdha me të cilat është përballur filmi shqiptar dhe ai personalisht.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-21 16:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Konflikti i Dalframit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>- Ishte viti 1938. Nga 15 nëntori deri më 21 janar të vitit 1939, çështja e anijes Dalfram në Portin Kembla të Uellsit jugor bëri jo pak bujë. Në qendër të konfliktit ishte eksporti i gizës nga Australia drejt Japonisë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-21 18:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-21 18:35:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Tre çifte në udhëkryq">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Álvaro Fernández Armero. Aktorë: Raúl ArévaloInma, CuestaAlberto, San Juan. Komedi. Vendi: Spanjë. Viti: 2014. Tre çifte rreth të dyzetave përpiqen të kapërcejnë problemet në marrëdhëniet e tyre, duke u përballur me sfidat e përditshme në kërkim të dashurisë dhe një të ardhmeje më të mirë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-21 20:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-21 21:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Kjo nuk eshte loje">Aventure, Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2020. Regjisor: Will Wernick. Aktorë: Keegan Allen, Holland Roden, Denzel Whitaker. Aventurë, horror, mister. Një personazh i njohur i mediave sociale dhe miqtë e tij, nisen drejt Moskës për të grumbulluar materiale të reja për publikimet e tyre. Në kërkim të gjërave dhe vendeve të pazakonta, ata nuk e dinë se aty i pret një botë e nëndheshme, e mbushur me rreziqe të paimagjinueshme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-21 22:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Turet e Medha te Skocise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me pamje të mrekullueshme do të njihemi me bregdetin skocez, një ndërthurje mahnitëse e kepave shkëmborë dhe plazheve mbresëlënëse.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-21 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Si një familje">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>PJEPRI - 1. Historiku i pjeprit. 2. Me Chef Mimoza Balla, gatuajmë tortë, antipastë dhe sallatë me pjepër. 3. Rritja dhe kultivimi i pjeprit, me agronomin Hajdar Duro. 4. Vlerat ushqyese të pjeprit, me nustricionisten Anila Kalleshi. 5. Kirurgjia maxillofaciale, me Dr. Renato Isufi. 6. Krijimi i parukeve, me sipërmarrësen Ujvara Cali. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-22 01:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-22 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Konflikti i Dalframit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>- Ishte viti 1938. Nga 15 nëntori deri më 21 janar të vitit 1939, çështja e anijes Dalfram në Portin Kembla të Uellsit jugor bëri jo pak bujë. Në qendër të konfliktit ishte eksporti i gizës nga Australia drejt Japonisë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-22 04:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Festivali i 60-të i këngës në Rtsh">Kenget</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përmbledhje muzikore me këngët e natës së tretë nga "Festivali i 60-të i Këngës" në Radio Televizionin Shqiptar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-22 04:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Motociklistet flokegjate">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Motoçiklistët me flokë të gjatë, marrin të gjithë sharmin dhe humorin e tyre në një udhëtim, në të gjithë Britaninë, teksa ndeshen me njerëz brilantë dhe magjepsës, jeta e të cilëve rrethon klubet e vendit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-22 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Mirëmëngjes Shqipëri">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirëmëngjes Shqipëri", emisioni i mëngjesit, në 3 orë transmetim të drejtpërdrejtë, me rubrika dinamike, lajmet më të fundit nga vendi dhe bota, shtypin e ditës, motin, trafikun rrugor, ekonominë e kulturën. Nën drejtimin e Matilda Mcini dhe Florian Agalliu.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-22 08:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-22 08:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Turet e Medha te Skocise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me pamje të mrekullueshme do të njihemi me bregdetin skocez, një ndërthurje mahnitëse e kepave shkëmborë dhe plazheve mbresëlënëse.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-22 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Si një familje">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>PRESHI - 1. Historiku i preshit. 2. Me Chef Mimoza Balla, gatuajmë presh të zier me salcë "Vinaigrette" dhe presh me djathë. 3. Kultivimi dhe rritja e preshit, me Sokol Sinani. 5. Vlerat ushqyese të preshit, me Anila Kalleshi. 6. Me Chef Shpresa Hoda, gatuajmë byrek me presh. 7. Përdorimi i alkolit, shkaqet dhe simptomat, me mjeken toksikologe Shpresa Hoda. 8. Kanceri i qafës së mitrës, me mjeken gjinekologe Uarda Ismaili.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-22 11:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-22 11:20:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Tre martesa me shume">Komedi, Romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2013. Regjisor: Javier Ruiz Caldera. Aktorë: Inma Cuesta, Martiño Rivas, Quim Gutiérrez. Komedi, romancë. Ruth, një studiuese e re, nuk ka aspak fat në dashuri. Në përpjeke për të ruajtur raporte të mira me ish-të dashurit e saj, ajo ftohet në dasmat e secilit prej tyre. I vetmi problem është se duhet të gjejë në kohë reale shpirtin e saj binjak që ta shoqërojë në të tri dasmat ku do të shkojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-22 12:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="SPEKTAKLI MË I MADH AJROR NË BOTË ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shfaqjet ajrore janë ndër eventimentet më të parapëlqyera në botë. Fluturimet ajrore nuk rreeshtin kurrë së dhuruari pamje mbresëlënëse. Le të njihemi me disa ndër më spektakolaret në botë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-22 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-22 14:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Ditë pas dite">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe te ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-22 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Në tempull">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë episod të "Në tempull" do të flasim për letërsinë britanike në Tiranë, me aktorin Adam Cunis, aktor i "Shakespeare's Globe", nga Londra dhe Prof. John Bowen nga "University of York".</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-22 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="ALBANIAN POP ROCK LOVE SONGS ">Kolazh muzikor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kolazh muzikor që përcjell muzikën shqiptare që bashkon gjeneratat. Një udhëtim mes këngëve më të bukura të dashurisë në vite, të sjella mes interpretimeve të yjeve të muzikës shqiptare.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-22 18:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-22 18:35:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Latin Lover">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2015. Regjisore: Cristina Comencini. Aktorë: Virna Lisi, Marisa Paredes, Angela Finocchiaro. Komedi, dramë. Pesë vajza të një aktori të famshëm janë bija të nënave të ndryshme dhe kombësive të ndryshme. Ato bëhen bashkë në përkujtimoren e vdekjes të babait të tyre, 10 vjet pas ndarjes së tij nga jeta.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-22 20:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-22 21:05:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Piranjat e Napolit">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2019. Regjisor: Claudio Giovannesi. Aktorë: Francesco Di Napoli, Viviana Aprea, Mattia Piano Del Balzo. Krim, dramë. Në qendër të filmit është jeta e gjashtë djemve në Napolin e sotëm. Dëshira e tyre e vetme është të kenë para dhe të pushtojnë rrugët e Napolit duke ngarë motoçikleta e duke luajtur me armë. Ata nuk i frikësohen burgut apo vdekjes dhe pa e kuptuar jeta kriminale do t'i bëjë të sakrifikojnë gjithçka. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-22 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Si një familje">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>PRESHI - 1. Historiku i preshit. 2. Me Chef Mimoza Balla, gatuajmë presh të zier me salcë "Vinaigrette" dhe presh me djathë. 3. Kultivimi dhe rritja e preshit, me Sokol Sinani. 5. Vlerat ushqyese të preshit, me Anila Kalleshi. 6. Me Chef Shpresa Hoda, gatuajmë byrek me presh. 7. Përdorimi i alkolit, shkaqet dhe simptomat, me mjeken toksikologe Shpresa Hoda. 8. Kanceri i qafës së mitrës, me mjeken gjinekologe Uarda Ismaili.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-23 01:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-23 02:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Në tempull">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë episod të "Në tempull" do të flasim për letërsinë britanike në Tiranë, me aktorin Adam Cunis, aktor i "Shakespeare's Globe", nga Londra dhe Prof. John Bowen nga "University of York".</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-23 03:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="ALBANIAN POP ROCK LOVE SONGS ">Kolazh muzikor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kolazh muzikor që përcjell muzikën shqiptare që bashkon gjeneratat. Një udhëtim mes këngëve më të bukura të dashurisë në vite, të sjella mes interpretimeve të yjeve të muzikës shqiptare.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-23 04:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Motociklistet flokegjate">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Motoçiklistët me flokë të gjatë, marrin të gjithë sharmin dhe humorin e tyre në një udhëtim, në të gjithë Britaninë, teksa ndeshen me njerëz brilantë dhe magjepsës, jeta e të cilëve rrethon klubet e vendit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-23 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Mirëmëngjes Shqipëri">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirëmëngjes Shqipëri", emisioni i mëngjesit, në 3 orë transmetim të drejtpërdrejtë, me rubrika dinamike, lajmet më të fundit nga vendi dhe bota, shtypin e ditës, motin, trafikun rrugor, ekonominë e kulturën. Nën drejtimin e Matilda Mcini dhe Florian Agalliu.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-23 08:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-23 08:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Turet e Medha te Skocise">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me pamje të mrekullueshme do të njihemi me bregdetin skocez, një ndërthurje mahnitëse e kepave shkëmborë dhe plazheve mbresëlënëse.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

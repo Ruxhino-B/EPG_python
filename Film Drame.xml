@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="FILM DRAME">
+		<Event id="0" start_time="2022-09-07 03:05:00" duration="11700">
+			<short_event_descriptor lang="alb" name="Nesër mund të jetë vonë">Një histori Indie</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Kal Ho Naa Ho"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Shah Rukh Khan, Preity Zinta, Saif Ali Khan. Jeta e një vajze të mbyllur në vetvete nga problemet në familje, do të ndryshojë përgjithmonë nga ardhja e fqinjit të saj të ri, i cili i mëson të shijojë çdo moment të jetës...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-09-07 06:20:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Luftë për mbijetesë">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="All In "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Keema (Lil mama) është vetëm 26 vjeç dhe një nënë beqare. Ajo do të futet në botën e rrezikshme të krimit dhe drogës për t'ju siguruar një jetesë më të mirë tre femijëve të saj.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-09-07 07:55:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Dashuria ime, mallkimi im">Dramë romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Heart of Me "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në Londrën e viteve 1930, një grua (Helena Bonham Carter) bie në dashuri me burrin (Paul Bettany) e së motrës (Olivia Williams), duke filluar kështu një sagë mashtrimi, pasioni dhe rivaliteti që do të sjellë pasoja të pakthyeshme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-09-07 09:30:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Buzëkuqi nën perçe">Dramë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lipstick Under My Burkha "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Katër gra shpirtlira nga një qytet i vogël i Indisë, ndjekin në fshehtësi ëndrrat e tyre. Me vepra të vogla, por të guximshme, ato rebelohen kundër ligjeve dhe traditave që diktojnë jetët e tyre.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-09-07 11:25:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Zgjedhja">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Choice "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>2016. Benjamin Walker, Teresa Palmer. Nga Nicholas Sparks, shkrimtari bestseller i 'Ditari' dhe 'Pranë teje', vjen një histori e bukur romantike sesa larg mund të shkojnë dy njerëz për të mbajtur gjallë shpresën e dashurisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-09-07 13:15:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Shoferi i mesnatës">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Midnight Driver "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pasi shpëton një vajzë nga i dashuri i saj i dhunshëm, një shofer zbulon se ajo është viktimë e trafikut të qenieve njerëzore. Por kur dashurohet me të dhe përpiqet ta largojë përfundimisht nga ajo botë, ai vihet përpara një zgjedhjeje të vështirë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-09-07 14:45:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Biseda jonë e fundit">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="When We Last Spoke "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pasi braktisen nga e ëma, dy motra përjetojnë emocionet e forta të jetës, ditë të vështira, humbje, dashuri dhe lumturi, ndërsa rriten nga gjyshërit e tyre në një qytet të vogël të Teksasit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-09-07 16:35:00" duration="6960">
+			<short_event_descriptor lang="alb" name="Roje në Guantanamo">Dramë, luftë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Camp X-Ray "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia dhe skenari: Peter Sattler. Aktorë: Kristen Stewart, Peyman Moaadi. Një gardiane e re në burgun Guantanamo, formon një miqësi të pazakontë me një nga të burgosurit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-09-07 18:31:00" duration="5340">
+			<short_event_descriptor lang="alb" name="Mashtrimi">Dramë, thriller, luftë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Beguiled "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>2017. Colin Farrell, Nicole Kidman. Thirller nga S. Coppola. Gjatë Luftës Civile, vajzat e një konvikti  në Virxhinia, strehojnë një armik të plagosur. Ndërsa  kujdesen për të, në shtëpi lindin tërheqje seksuale dhe rivalitete te rrezikshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-09-07 20:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Ëndrrat e një çifti">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="A Boy A Girl A Dream"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në natën e zgjedhjeve presidenciale 2016, një promovues eventesh në Los Anxheles nis një udhëtim emocionues pasi takohet me turisten Frida. Ajo e sfidon atë të rimendojë ëndrrat e tij të shkatërruara, ndërsa ai e nxit atë të zbulojë të sajat.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-09-07 21:30:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Katër në lojë">Komedi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fourplay "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një e diel paradite që po kalohet qetësisht në një apartamet mes dy çifteve miqsh, do të nxjerrë në sipërfaqe sekretesh dhe gënjeshtra, të cilat do të ndryshojë jetët e tyre përgjithmonë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-09-07 22:50:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Rendi imagjinar">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Blush aka Imaginary Order "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Duke u përpjekur të rikthejë përsëri jetën e saj si më parë pasi mendon se i shoqi e tradhëton, Cathy ( kethi ) shkon të jetojë tek motra e saj për pak kohë. Aty njeh njerëz të çuditshëm dhe një adoleshent që arrin të nxjerrë ne pah pasiguritë e saj.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-09-08 00:35:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Rruga 81">Komedi, dramë, muzikë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Downtown 81"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pasi del nga spitali, artisti legjendar, Jean Michel Basquiat, endet nëpër Manhatan duke u përpjekur të shesë një pikturë të tijën, për të fituar ca para dhe për të gjetur një vend për të fjetur. Një vështrim mbi botën shpërthyese të artit në Nju Jorkun e viteve '80.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-09-08 02:05:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Pleasantville, qyteti imagjinar">Komedi, dramë, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pleasantville"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tobey Maguire, Reese Witherspoon. Film kandidat për trofeun Oskar. Një adoleshent dhe motra e tij, transportohen pas në kohë nga vitet 1990 në një program televiziv të viteve 1950, ku gjithçka është perfekte..</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-09-08 04:05:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Mbahu te Piti">Aventurë, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lean on Pete 2017 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>15-vjeçari Çarli punon ne nje piste garash per kuaj.Kur meson se kali per te cilin kujdeset nuk garon dot me, ndaj do theret, e rremben per ta shpetuar.Disa kuaj nuk jane per t'u kaleruar!</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text>A teenager gets a summer job working for a horse trainer and befriends the fading racehorse, Lean on Pete.</text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-09-08 06:05:00" duration="9900">
+			<short_event_descriptor lang="alb" name="Pothuajse të famshem">Aventurë, komedi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Almost Famous "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nje djale 15 vjeçar fanatik i muzikes arrin te behet reporter i njeres prej revistave me ne mode te kohes, Rolling Stone. Ai shkon te intervistoje grupin e famshem Stillwater, qellim i cili kthehet ne nje mesim te vlefshem per jeten.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-09-08 08:50:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Rikthim ne të tashmen">Komedi, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Long Weekend"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kur shkrimtari i pafat, Bart takohet rastësisht me enigmatiken, Viena, ata dashurohen shpejt dhe çmendurisht. Por sekretet që ata ruajnë, mund të bëhen shkas për ndarjen e tyre, ose arsye për një fillim të ri.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-09-08 10:25:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Patsi dhe Loreta">Biografi, dramë, muzikë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Patsy and Loretta "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Historia e vërtetë dhe e patreguar e miqësisë së dy këngëtareve ikona, Patsy Cline and Loretta Lynn, të cilat ndryshuan përgjithmonë muzikën kauntri. Me Megan Hilty, kandidate për çmim "Tony" dhe Jessie Mueller, fituese e çmimit "Grammy".</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-09-08 11:55:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Familja Hollar">Aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Hollars  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Maksi është pjestari më i ri i familjes misterioze Hanter. Ai duhet të bashëpunojë me vëllezërit e motrat e tij Anika, Sal, Tess dhe Daniel,  për të gjetur prindërit e tyre që janë zhdukur papritur...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-09-08 13:25:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Baroni i druvarëve">Drame, histori, mister</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Lumber Baron "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në një kohë kur tregtia e drurit ishte një industri në lulëzim, një burrë kthehet në shtëpi për të shpëtuar biznesin e lakmuar të familjes, të zbulojë me tepër për vdekjen e papritur të babait të tij dhe të shmangë rrëninim financiar të familjes</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-09-08 15:15:00" duration="5160">
+			<short_event_descriptor lang="alb" name="Pasione të papritura">Romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Romance Retreat "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një gazetare ambicioze që po heton një skandal, e gjen veten në një dileme të madhe kur fillon të ketë ndjenja për djalin e pashëm, me të cilin u afrua vetëm sepse e sheh si të dyshuarin kryesor të çështjes.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-09-08 16:41:00" duration="5940">
+			<short_event_descriptor lang="alb" name="Mësuesi">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Teacher "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Për të mbrojtur nxënësin e tij të preferuar nga sulmet ngacmuese, një mësues letërsie në gjimnaz që ka patur vetë një fëmijëri të vështirë, detyrohet të përdorë masa gjithnjë e më shqetësuese për t'i dhënë një mësim një nxënësi bullizues.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-08 18:20:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Çështje besimi">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="A Question of Faith"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>2017. Tri familje goditen nga tragjedi që lëkundin besimin e tyre në një fuqi më të madhe. Por, një seri ngjarjesh i afron ata me njëri-tjetrin dhe së bashku duhet të vendosin nëse do të udhëhiqen nga dhimbja dhe pasiguria, apo shpresa dhe shpengimi?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-08 20:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Receta e shpirtrave të lumtur">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Baking Spirits Bright"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mira krenohet me biznesin e familjes së saj të ëmbëlsirave tradicionale të frutave, pavarësisht rënies së popullaritetit. Kur prindërit e saj kërkojnë të nxisin rritjen e shitjeve gjatë festeve, ajo detyrohet të bashkëpunojë me një specialit marketingu me metoda jo dhe aq tradicionale...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-08 21:30:00" duration="6060">
+			<short_event_descriptor lang="alb" name="Ndeshja më e madhe e Muhamed Aliut">Biografi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Muhammad Alis Greatest Fight "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në vitin 1967, kampioni i boksit, Muhammed Ali refuzoi të luftonte në Vietnam, bazuar në bindjet e tij fetare. Çështja e tij do të shqyrtohet nga Gjykata e Lartë dhe përballja e tij më e madhe do të jetë me qeverinë amerikane.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-08 23:11:00" duration="4740">
+			<short_event_descriptor lang="alb" name="6 Vjet">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="6 Years "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa i afrohen diplomimit, një çift i ri, i bashkuar prej 6 vitesh nga një dashuri idealiste, fillon të përçahet kur mundësi të reja karriere shfaqen papriur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-09 00:30:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Shokë të ngushtë">Dramë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Climb"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kajëll dhe Majk kanë patur gjithmonë një lidhje të fortë shoqërore, deri kur e fejuara e Kajëllit e tradhton atë me Majkun. A mundet që miqësia shumëvjeçare mes dy djemve t'i rezistojë një sprove kaq të vështirë?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-09 02:10:00" duration="6660">
+			<short_event_descriptor lang="alb" name="Vajza që shpiku puthjen">Dramë, familje, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Girl Who Invented Kissing"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një vajzë misterioze dhe joshëse zbret nga autobusi dhe hyn në lokalin e dy vëllezërve në moshë të mesme. E reja pa emër trondit shpejt ekuilibrat delikatë të jetës së të dyve, duke sjellë telashe dhe ndryshime në botën dhe qytetin e tyre të dorëzuar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-09 04:01:00" duration="7140">
+			<short_event_descriptor lang="alb" name="Dashuria e Silvit">Dramë, muzikë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sylvie's Love"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kur një grua e re takon një saksofonist në dyqanin e disqeve të babait të saj, në Nju Jorkun e viteve 1950, dashuria e tyre ndez një romancë gjithëpërfshirëse që kapërcen ndryshimin e kohëve, gjeografinë dhe suksesin profesional.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-09 06:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Mirë se vini në Maruen">Biografi, komedi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Welcome to Marwen 2018"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Steve Carell, Leslie Mann, Diane Kruger. Historia e vërtetë e Mark Hogancamp-it, një artist që vuan nga stresi posttraumatik, i cili pasi u sulmua dhunshëm fizikisht, krijoi një botë imagjinare për të lehtësuar traumën e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-09 08:00:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Djali nga Jugu">Biografi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Son of the South "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Histori e vërtetë. Bob Zellner sfidon familjen dhe normat e shoqërisë në jug ku ai u rrit. Ai i bashkohet luftës civile kundër padrejtësisë sociale, represionit dhe dhunës për të ndryshuar botën në të cilën ka lindur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-09 09:50:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Propozim në një ditë dimri">Komedi, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="One Winter Proposal"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kera dhe Ben kthehen në resortin ku u dashuruan një vit më parë. Por fundjava romantike dhe njëkohësisht rasti i përkryer për Benin që t'i kërkojë Kerës të martohej me të, merr një rrjedhë të paparashikuar...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-09 11:25:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Tesla">Biografi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tesla "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ethan Hawke. Shpikësi brilliant, vizionar, Nikola Tesla në luftën e tij të ashpër për të realizuar sistemin e tij revolucionar elektrik. Marrëdhënia me rivalin Tomas Edison, me përkrahësit e tij dhe takimi fatal me Anën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-09 13:05:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Pesë provokimet">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Five Provocations "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jetët e katër njerëzve krejt të ndryshëm nga njëri tjetri, do të ndërthuren çuditshëm me historitë e tyre të dashurisë. Me hidhërimet, uljet dhe ngritjet, ato do të përballojnë dhe provokimet e pesë grave, të cilat nuk mund të injorohen.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-09 14:45:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Ethet e Tulipanit">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tulip Fever "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>2017. Alicia Vikander, Dane DeHaan. Në Amsterdamin e shekullit të 17-të, gjatë etheve të tulipanit, një grua aristokrate e martuar bie në dashuri me një artist që po realizon portretin e saj.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-09 16:40:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Treni i Krishtlindjeve">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Christmas Train "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dermot Mulroney, Kimberly Williams-Paisley, Danny Glover. Një gazetar cinik që duhet të arrijë në Los Anxhelos në kohë për Krishtlindje, detyrohet të udhëtojë me tren. Ai nuk mund të imagjinonte që në bordin e tij do të përballej me ish të dashurën, më të cilën nuk flasin prej vitesh...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-09 18:25:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Pemët e paqes">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Trees of Peace"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në ngjarje të vërtetë. Prill, 1994. Katër gra me prejardhje dhe besime të ndryshme, fshihen në një bodrum të vogël në kulmin e gjenocidit në Ruanda. Lufta e tyre për mbijetesë tejkalon mosmarrëveshjet dhe i bashkon gratë në një lidhje të pathyeshme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-09 20:00:00" duration="6960">
+			<short_event_descriptor lang="alb" name="Historitë e familjes Mejerouic">Komedi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Meyerowitz Stories "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Adam Sandler, Ben Stiller, Dustin Hoffman. Me rastin e celebrimit të punës artistike të babait të tyre, tre fëmijët e tij të rritur mblidhen për t'i dhënë mbështetjen, por shpejt xhelozitë dhe pakënaqësitë dalin në sipërfaqe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-09 21:56:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Trëndafili i verdhë">Dramë, muzikë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Yellow Rose "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një adoleshente filipinase nga Teksasi, në ndjekje të ëndrrës për t'u bërë këngetare e muzikës kauntri, vihet para një udhëkryqi: të qëndrojë pranë familjes apo të largohet nga e vetmja shtëpi që ka njohur?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-09 23:36:00" duration="6240">
+			<short_event_descriptor lang="alb" name="Fate të kryqëzuara">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="2 Hearts"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në histori të vërtetë. Fatet e dy çifteve të dashuruarish që bëjnë jetë të ndryshme, ndërthuren në mënyrë misterioze dhe pasojat do të jenë të vështira për t'u parashikuar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-10 01:20:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Për ty me dashuri">Komedi, dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Made for You with Love"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Amanda ka një dyqan me fustane nusesh të përdorura, që vajzat të duken bukur në ditën e tyre të shënuar të dashurisë. Por, kur ajo vetë ka frikë të dashurohet me bashkëpunëtorin e saj më të ri, i cili duket se është një djalë i përsosur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="41" start_time="2022-09-10 02:50:00" duration="10800">
+			<short_event_descriptor lang="alb" name="Vrarë nga dashuria">Një histori Indie</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fanaa"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një vajzë e verbër, bie në dashuri me një djalë që punon si guidë turistike dhe duket sikur përmes tij, ajo mund të shohë botën. Por asgjë nuk është si duket dhe ai fsheh një sekret të errët, që mund t'i ndajë përgjithmonë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="42" start_time="2022-09-10 05:50:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Rrugët e shpresës">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Love Finds A Home"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kur mikesha e saj sëmuret, Belinda lufton t'i shpëtojë jetën, por pa sukses. Tani, lufta e saj e re është që familja e saj në zi, edhe pse me nje humbje të pazëvendësueshme, të rizbulojnë shpresën dhe dashurinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="43" start_time="2022-09-10 07:25:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Rikthim në Kinë">Komedi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Go Back To China"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kur Sasha Li, një vajzë e pasur dhe e llastuar, shpërdoron pjesën më të madhe të llogarisë së saj bankare, ajo detyrohet nga i ati të lërë Amerikën dhe të kthehet në Kinë, që të punojë për biznesin e lodrave të familjes.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="44" start_time="2022-09-10 09:05:00" duration="6000">
+			<short_event_descriptor lang="alb" name="52 fjalë për dashurinë">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="52 Words For Love "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa po kalon një sfidë personale, një grua e bindur që ka pak dashuri në jetën e saj, pyet miqtë, familjarët, çiftet e divorcuara dhe njerëzit në një marrëdhënie se si do ta përshkruanin ata dashurinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="45" start_time="2022-09-10 10:45:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Lidhja e Tyre">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="What They Had"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Hilary Swank, Michael Shannon. Brixhet kthehet ne Çikago pas këmbënguljes së vëllait për të gjetur një zgjidhje për mamanë e tyre të sëmurë me Alzhaimer dhe për babain, i cili refuzon të pranojë se jeta e tyre së bashku nuk është më e njëjta.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text>Bridget returns home at her brother's urging to deal with her ailing mother and her father's reluctance to let go of their life together.</text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="46" start_time="2022-09-10 12:30:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Një teze heroinë">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sweet Carolina"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pasi mëson për humbjen e të motrës, një menaxhere marketingu kthehet në vendlindje pranë prindërve. Por jeta e saj do të marrë një drejtim të ri kur ajo njoftohet për amanetin e së motrës dhe kur ritakohet me ish te dashurin e gjimanzit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="47" start_time="2022-09-10 14:00:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Stuhi e pafund">Dramë, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Infinite Storm"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në histori të vërtetë. Një alpiniste me përvojë (Naomi Watts), vendos të ngjitet e vetme në malin Uashington, por detyrohet të kthehet për shkak të një stuhie bore. Rrugës ndihmon një burrë që ka mbetur i bllokuar, por gjatë zbritjes ata do të hasin shumë pengesa, ndërkohë që nata po afron.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="48" start_time="2022-09-10 15:40:00" duration="7800">
+			<short_event_descriptor lang="alb" name="Buzë detit">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="By the Sea"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Brad Pitt, Angelina Jolie Pitt. Ndërkohë që po pushojnë disa ditë në një qytezë buzë detit në rivierën Franceze, një çift që po kalon probleme të mëdha, miqësohet me banorët e zonës dhe bashkëudhëtarë të tjerë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="49" start_time="2022-09-10 17:50:00" duration="7860">
+			<short_event_descriptor lang="alb" name="Kasollja">Dramë, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Shack "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin bestseller të New York Times. Pas një tragjedie familjare, një njeri merr një letër misterioze që e fton të vizitojë një kasolle. Atje takon 3 të panjohur, të cilët e ndihmojnë të kuptojë më mirë dhimbjen e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text>A grieving father receives a mysterious letter to go to an abandoned shack, where he meets three strangers that will transform his understanding of his tragedy and change his life forever.</text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="50" start_time="2022-09-10 20:01:00" duration="5640">
+			<short_event_descriptor lang="alb" name="Përtej fjalëve">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="What We Don't Say"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një karikaturist i lënduar nga ndarja, bie në dashuri me një vajzë shpirtlirë që po bëhet gati të largohet. Ndërsa ndjenjat për njëri-tjetrin shtohen dhe koha për të qëndruar bashkë zvogëlohet, ata duhet të përballen me faktin që ndoshta, dashuria s'është arsye e mjaftueshme që ajo të qëndrojë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="51" start_time="2022-09-10 21:35:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Pallati i bardhë">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="White Palace"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Susan Sarandon dhe James Spader interpretues te denje te nje historie te zjarrte dashurie, te vleresuar nga kritika. Nje djale i ri i ve dhe nje grua e guximshme do te jetojne nje pasion nga ato qe te ndryshojne jeten.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="52" start_time="2022-09-10 23:20:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Zënka mes femrash">Aksion, komedi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Catfight"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sandra Oh, Anne Heche, Alicia Silverstone. Dy ish mikesha kolegji, jetët e të cilave nuk shkuan siç ato kishin shpresuar, takohen rastësisht pas dekadash. Ndërsa dy gratë afrohen përsëri, armiqësitë e varrosura prej kohësh dhe xhelozia e vjetër shpërthejnë në një luftë të egër.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="53" start_time="2022-09-11 01:00:00" duration="6377">
+			<short_event_descriptor lang="alb" name="Të shfrenuarit">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Unbridled"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në histori të vërtetë. Sarah, një 16-vjeçare e keqtrajtuar, dërgohet në një fermë për të mbijetuarit e abuzimit. Takimi me një kalë që ka patur një udhëtim të ngjashëm me të premton shërim, deri kur keqtrajtuesi i saj lirohet nga burgu...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>

@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="FILM AUTOR">
+		<Event id="0" start_time="2022-09-07 00:30:00" duration="8400">
+			<short_event_descriptor lang="alb" name="Puthme serish">Kinemaja Italiane</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Baciami ancora"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një film nga Gabriele Muccino. Me Stefano Accorsi, Vittoria Puccini, Pierfrancesco Favino. 10 vite pas filmit 'Puthja e fundit', personazhet do të ballafaqohen me një realitet të ri. Akuza, diskutime, ndarje por nuk do të mungojnë edhe puthje...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-09-07 02:50:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Kafsha">Classic Collection</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="L'animal (1977)"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jean-Paul Belmondo, Raquel Welch. Martesa mes dy aktorëve dublantë, do të vihet në rrezik, pasi gabimet e tij nuk kanë të sosur...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-09-07 04:30:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Verë në Florida">Elvis Presley</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Follow that Dream "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin e Richard P. Powell, vjen një film muzikor për të gjithë adhuruesit e Elvis Preslit..  Aventura e një familje, e cila mbetet në një rrugë të shkretë për ditë me radhë..</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-09-07 06:20:00" duration="10800">
+			<short_event_descriptor lang="alb" name="El Cid">Classic Collection</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="El Cid"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>S.Loren, C.Heston. Kandidat për 3 çmime Oskar. Historia epike e heroit legjendar spanjoll Rodrigo Diaz i njohur si El Cid i cili luftoi për lirinë e popullit të tij dhe për dashurinë dhe përkushtimin e Kimenës, gruas që donte.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-09-07 09:20:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Ditari i Brixhet Xhons">Renée Zellweger</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bridget Jones`s Diary"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Colin Firth. Nje femer Britanike e vendosur te permiresoje vetveten teksa eshte ne kerkim te dashurise ne nje vit kur ajo ka filluar te mbaje nje ditar personal.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-09-07 10:55:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Romeo+Zhulieta">Leonardo di Caprio</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Romeo+Juliet  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia: Baz Luhrman. Historia klasike e dashurisë tragjike shekspiriane të Romeos dhe Zhulietës, tashmë vjen nga plazhi i Veronës në Los Anxhelos, nën dritën e yjeve modernë. Kandidat për çmimin Oskar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-09-07 12:55:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Beteja e Harruar"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Forgotten Battle aka De slag om de Schelde"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>'1944. Në ishullin e përmbytur të Valheren, Zelandë, mijëra ushtarë të aleancës po luftojnë forcat naziste.Papritmas 3 jetë njerëzish do të ndërthuren.Në djalosh Hollandez që lufton në anën e nazistëve, një pilot anglez dhe një vajzë zelandeze që është e lidhur me rezistencën kundër dëshirës. Ata detyrohen të marrin vendime kritike, që do ndikojnë jo vetëm mbi lirinë e tyre por edhe të të tjerëve.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-09-07 14:55:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Maria, Mbreteresha e Skocise">Dramë, histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mary Queen of Scots"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Film kanditat për dy çmime Oskar. Saoirse Ronan, Margot Robbie. Jeta e trazuar e Maria Stjuartit, e cila kthehet në Skoci për të kërkuar të drejtat si trashëgimtare e fronit, duke kërcënuar sovranitetin e Elizabetës I, Mbretëreshës së Anglisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-09-07 16:55:00" duration="7500">
+			<short_event_descriptor lang="alb" name="Terminali">Profil: Steven Spielberg</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Terminal"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me Tom Hanks, Catherine Zeta-Jones, Stanley Tucci . Bazuar në historinë e vërtetë të një njeriu, që jetoi për 18 vjet i bllokuar në terminalin nr 1, të aeroportit të Parisit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-09-07 19:00:00" duration="11400">
+			<short_event_descriptor lang="alb" name="Titaniku">Regjia: James Cameron</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Titanic (1997)"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e kryqëzorit më të madh të kohës që pati fund tragjik në udhetimin e tij te pare. Kete here gjithçka vjen e pare nga syte e dy te dashuruarve ne bord. Kate Winslet dhe Leonardo di Caprio.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-09-07 22:10:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Delikatesa">Cikli 'Letërsia në Ekran'...</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Delicacy "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një prej autorëve më të shitur në Francë në vitin 2011, fitues i 10 çmimeve letrare, përkthyer në 30 gjuhë të botë.... Një romancë prekëse me skenar të vetë autorit David Foinkinos, nën interpretimin e Audrey Tautou...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-09-07 23:55:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Mamuthi">Film Festival</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mammoth (2009)"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia: Lukas Moodysson. Gael Garcia Bernal, Michelle Williams. Një sagë mbi jetën moderne ku një çift i suksesshëm profesionalisht vuan pasojat e globalizimit dhe sakrificave që bëhen për hir të suksesit.  Kandiat për Ariun e Artë, Berlin.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-09-08 01:55:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Hoteli Marigold 2">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Second Best Exotic Marigold Hotel "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Judi Dench, Maggie Smith, Bill Nighy. Aventurat e Hotelit Marigold vazhdojnë por këtë herë situata bëhet më e ndërlikuar pasi ka vetëm një vend të lirë ndërkohë që ka dy kërkesa për t'u akomoduar në parajsën e pensionistëve.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-09-08 03:55:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Bijte e Shkretetires">Classic Collection</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sons of the Desert"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Oliver Hardy, Stan Laurel. Dyshja klasike e aktorëve të humorit vjen me situatat komike dhe rolet e tyre e tyre më të mira që nga filmat pa zë deri tek realizimet e metrazhit të gjatë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-09-08 05:00:00" duration="10500">
+			<short_event_descriptor lang="alb" name="Renia e Perandorise Romake">Classic Collection</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Fall of the Roman Empire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me regji të Anthony Mann. Me Sophia Loren, Stephen Boyd ... Vdekja e Mark Aurelit çon në një krizë trashëgimie ku djali i perandorit të vdekur tregon se nuk ka ndërmend të lejojë njeri që t'i uzurpojë fronin e Perandorisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-09-08 07:55:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Gra pa burra">Kinemaja Iraniane</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Women Without Men"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një film nga Shirin Neshat. Bazuar në romanin e Shahrnush Parsipur. Fitues i 'Luanit të Argjendtë', në Festivalin e 66-të të Venezias. Në kujtim të atyre që humbën jetën, duke luftuar për lirinë dhe demokracinë e Iranit, nga 1906 - 2009.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-09-08 09:35:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Historia e një murgeshe">Franco Zeffirelli</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Storia di una capinera (1993)"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin me të njëjtin titull të Xhovani Vergas. Në Siçilinë e shekullit të XIX, një vajzë në pritje të dorëzimit si murgeshë, kupton se liria vlen shumë kur ke diçka për të humbur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-09-08 11:20:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Komplotistja">Dramë historike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Conspirator"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dramë historike me regji të Robert Redford. Historia e Mary Surratt (Robin Wright), e vetmja komplotiste femër, e akuzuar dhe ekzekutuar  nga qeveria federale e Shteteve të Bashkuara për vrasjen Abraham Lincoln...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-09-08 13:15:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Silvia">Sylvia Plath</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sylvia"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në një histori të vërtetë, 'Silvia' është rrëfenja e dashurisë së zjarrtë dhe të trazuar mes dy poetëve më të mëdhenj të shekullit XX, Silvia Plath dhe Ted Hughes.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-09-08 15:05:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Operacioni perfundimtar"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Operation Finale"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Oscar Isaac, Ben Kingsley. Bazuar në histori të vërtetë. Në vitin 1960, agjenti i Inteligjencës Izraelite, Peter Malkin, nis një mision në Argjentinë për të kapur Adolf Eichmann-in, oficerin nazist i cili ideoi planin që shfarosi miliona hebrenj.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-09-08 17:05:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Emigrantja">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Immigrant (2013)"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Marion Cotillard, Joaquin Phoenix, Jeremy Renner. Një emigrante polake, e sapoardhur në Nju Jorkun e viteve 1920, bie pre e një tutori prostitutash nga i cili mund ta shpëtojë vetëm një magjistar. Kandidat për Palmën e Artë, 2013.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-09-08 19:00:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Shpresat e medha">Cikli: Letërsia Në Ekran</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Great Expetations"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Rruga e një djaloshi drejt pjekurisë... dhe dashuria e tij e përjetshme për një grua të paarritshme... Bazuar në një nga romanet më të famshëm e të sofistikuar të Charles Dickens... Me Ethan Hawke, Gwyneth Paltrow, Robert De Niro.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-08 20:45:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Në kohë lufte"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="While at War aka Mientras dure la guerra"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Prezantuar në Festivalin e Filmit të Torontos 2019. Një film nga regjisori Spanjoll, fitues i 9 çmimeve "Goya", Alejandro Amenábar. Historia e vërtetë e filozofit dhe shkrimtarit Miguel de Unamuno (Karra Elejalde). , Në Salamankën e 1936-ës, gjatë shpërthimit të luftës civile spanjolle. ai rrezikoi gjithçka për të mbrojtur idalet e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-08 22:30:00" duration="8100">
+			<short_event_descriptor lang="alb" name="Mosha e pafajesise">Martin Scorsese</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Age of Innocence"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Film fitues i çmimit Oskar. Një avokat aristokrat (Daniel Day-Lewis) do të bjerë në dashuri me kushërirën mendjehapur (Michelle Pfeiffer) të fejuarës së tij (Winona Ryder), në New York-un e viteve 1870-të.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-09 00:45:00" duration="7500">
+			<short_event_descriptor lang="alb" name="Margarita">Biografi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Marguerite"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Frymëzuar nga historia e vërtetë e Florens Foster Xhenkinsit, një grua e pasur në Parisin e viteve 1920' është e bindur se ka zë të mrekullueshëm duhet të këndojë në opera. Fitues i katër çmimeve Cezar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-09 02:50:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Kuja">Biografi, eksperimental</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Howl"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>James Franco në rolin e poetit Allen Ginsberg, një nga liderët e "Beat Generation". Origjina, kuptimi dhe ndikimi i fuqishëm i poemës së tij të famshme, "Kujës", dhe gjyqit si 'vepër e turpshme' që pasoi pas publikimit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-09 04:10:00" duration="4200">
+			<short_event_descriptor lang="alb" name="Lamtumire telashe">Classic Collection</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pack up your troubles"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Oliver Hardy, Stan Laurel. Dyshja klasike e aktorëve të humorit vjen me situatat komike dhe rolet e tyre e tyre më të mira që nga filmat pa zë deri tek realizimet e metrazhit të gjatë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-09 05:20:00" duration="8100">
+			<short_event_descriptor lang="alb" name="Jankite">Richard Gere</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Yanks"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia John Schlesinger. Gjatë luftës së II Botërore, u dërguan në Angli mbi 1 milion ushtarë amerikanë.  Prania e tyre ndikoi shumë në jetën e vendasve. Kjo është historia e dashurisë mes një ushtari amerikan dhe një vajze angleze...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-09 07:35:00" duration="7800">
+			<short_event_descriptor lang="alb" name="Udhëtim në fund të botës">Classic collection</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Journey to the Center of the Earth"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin e Zhyl Vernit. Me James Mason, Pat Boone, Arlene Dahl. Një profesor nga Edinburgu, për të zbuluar origjinën e një guri të çuditshëm, nis një udhëtim të rrezikshëm, nga i cili mund të mos kthehet më kurrë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-09 09:45:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Kartushi">Classic Collection</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Cartouche"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kartushi, një hajdut me famë (Jean-Paul Belmondo), bashkë me ndihmën e bukuroshes Venus (Claudia Cardinale), grabisin të pasurit, për të ndihmuar njerëzit e varfër, në Parisin e 1700-tës...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-09 11:40:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Grejsi, Princesha e Monakos">Biografi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Grace of Monaco"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nicole Kidman, Tim Roth. Jeta e Grejs Kellit, aktores që u bë princesha e Monakos, gjatë kohës kur martesa e saj me princin Ranieri përjetonte momente krize, ndërsa pavarësia e principatës kërcënohej nga Franca e De Golit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-09 13:20:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Boksieri">Daniel Day-Lewis.</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Boxer (1997)"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Deni Flin, lirohet nga burgu pas 14 vitesh pasi nuk spiunoi IRA-n, dhe përpiqet t'i rikthehet jetës normale, mision i pamundur ky në Belfastin e ndarë nga dhuna sektariane mes katolikëve e protestantëve. Kandidat për tre çmime Globi i Artë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-09 15:15:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Ali baba dhe 40 hajdutet">Classic collection</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ali Baba and the Forty Thieves"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një komedi franceze me regji të Jacques Becker. Me aktorët Fernandel, Samia Gamal dhe Dieter Borsche. Ali Baba, një shërbëtor, bie në dashuri me Morganën, valltaren e zotërisë së tij Kasim. Që të mund ta bëj të tijën Morganën, ai duhet t'i paguajë një shumë të majme Kasimit. Për të gjetur paratë, Ali Baba do të bashkëpunoj me 40 hajdutët...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-09 16:50:00" duration="7800">
+			<short_event_descriptor lang="alb" name="Shkëlqim në errësirë">Michael Douglas</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Shining Through"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia: David Seltzer. Aktorë: Melanie Griffith, Liam Neeson. Kur Linda Voss, një amerikano-hebrehe, zbulon se avokati për të cilin ajo punon është një agjent sekret, i lutet të bashkëpunojnë, me qëllim që të shkojë në Berlin dhe të ndihmojë të afërmin e saj.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-09 19:00:00" duration="8700">
+			<short_event_descriptor lang="alb" name="I kthyeri">Kinemaja italiane</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Revenant"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia: Marco Bellocchio. Alba Rohrwacher. Dy njerëz në epoka të ndryshme, gjenden përballë të njëjtës hipokrizi të pandryshuar për shekuj në një qytezë të vogël italiane. Fituesi i çmimit të kritikës në Festivalin e Venecias 2015.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-09 21:25:00" duration="7800">
+			<short_event_descriptor lang="alb" name="Historia e një martese">Fitues i Çmimit Oskar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Marriage Story "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Adam Driver dhe Scarlett Johansson në rolet e tyre më të mira, si një çift që përpiqet të divorcohet miqësisht, por sistemi i vendos kundër njëri-tjetrit. Laura Dern merr trofeun si aktorja më e mirë joprotagoniste, nga 6 kandidaturat për Oskar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-09 23:35:00" duration="8700">
+			<short_event_descriptor lang="alb" name="Saint Laurent">Biografi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Saint Laurent (2014)"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dekadë nga jeta e ikonës së modës, Yves Saint Laurent, në kohën kur karriera e tij si stilist arriti kulmin.  Kandidat për Palmën e Artë, 2014.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-10 02:00:00" duration="7800">
+			<short_event_descriptor lang="alb" name="I pafajshmi">Luchino Visconti</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="L'innocente"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Giancarlo Giannini, Laura Antonelli. Bazuar në novelën me të njëjtin titull të Gabriele D'Anuncios, kjo është historia e një aristokrati italian që tradhëton vazhdimisht të shoqen dhe kur ajo e tradhëton, bie sërish në dashuri me të.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-10 04:10:00" duration="1800">
+			<short_event_descriptor lang="alb" name="Legjenda e Lapotit">Goran Paskaljeviç</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Legenda o Lapotu aka The Legend of Lapot 1972"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pas një korrjeje të dobët, një i moshuar përgatitet për ritualin malësor serb, ku anëtari më i vjetër vritet me gurë nga familjarët dhe i gjithë fshati, pasi bëhet barrë financiare për njerëzit e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-10 04:40:00" duration="1800">
+			<short_event_descriptor lang="alb" name="Tape">Classic Collection</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Blotto"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Oliver Hardy, Stan Laurel. Dyshja klasike e aktorëve të humorit vjen me situatat komike dhe rolet e tyre e tyre më të mira që nga filmat pa zë deri tek realizimet e metrazhit të gjatë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-10 05:10:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Mbreteresha afrikane">Classic collection</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The African Queen"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin e C. S. Forester. Regjia John Huston. Me Katharine Hepburn, Humphrey Bogart, në rolin që i dhuroi çmimin Oscar. Një grua autoritare, bind kapitenin e një varke, të luftojnë Gjermanët gjatë Luftës së I Botërore në Kongo.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="41" start_time="2022-09-10 06:55:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Njeriu që qan">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Man who Cried"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Saga e një vajze ruse me origjinë hebreje që pasi ndahet nga i ati që emigron në Amerikë, arrin të bëhet pjesë e një trupe të suksesshme baleti në Paris, por pushtimi nazist e detyron që të largohet në kërkim të të atit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="42" start_time="2022-09-10 08:35:00" duration="7500">
+			<short_event_descriptor lang="alb" name="Të gjithë janë mirë">Giuseppe Tornatore</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Stanno tutti bene (1990)"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Marcello Mastroianni. Një baba siçilian i dalë në pension, niset për t'iu bërë një surprizë pesë fëmijëve të tij të cilit jetojnë të gjithë larg në qytetet e mëdha të Italisë. Kandidat për Palmën e Artë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="43" start_time="2022-09-10 10:40:00" duration="7800">
+			<short_event_descriptor lang="alb" name="Hajdutja e librave">Letërsia në ekran</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The book thief"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sophie Nelisee, Geofry Rush. Frymëzuar nga best-selleri me të njëjtin titull. Në Gjermaninë naziste, një vajzë gjen paqen brenda vetes duke vjedhur libra që janë për t'u djegur dhe duke i ndarë ata me të tjerët. Kandidat për Palmën e Artë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="44" start_time="2022-09-10 12:50:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Tre burra dhe një vejushe">Classic Collection</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Charade (1963)"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Cary Grant, Audrey Hepburn.  Një vejushë amerikane në Paris, bëhet objektiv i tre burrave të cilët duan me çdo kusht të shtien në dorë thesarin që dyshohet se grabiti bashkëshorti i saj.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="45" start_time="2022-09-10 14:45:00" duration="7500">
+			<short_event_descriptor lang="alb" name="Ana Karenina">Cikli: Letërsia Në Ekran</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Anna Karenina "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në kryeveprën e Tolstoit, vjen tragjedia e Ana Kareninës, bashkëshorte e aristokratit rus Aleksei Karenin dhe dashuria e saj pasionante për oficerin e pashëm, Kontin Vronski. Keira Knightley, Jude Law, Aaron Taylor-Johnson.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="46" start_time="2022-09-10 16:50:00" duration="7800">
+			<short_event_descriptor lang="alb" name="Njeriu në hije">Fitues i Çmimit Oskar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Vice 2018"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia: Adam McKay. Kandidat për çmim Oskar: Christian Bale, Amy Adams. Historia e patreguar e Dick Cheney, i cili nga një burokrat modest, pa zhurmë, u bë një nga burrat më të fuqishëm në botë si zëvendësi i Presidentit amerikan George W. Bush</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="47" start_time="2022-09-10 19:00:00" duration="8100">
+			<short_event_descriptor lang="alb" name="I talentuari z. Ripli">Regjia: Anthony Minghella</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Talented Mr.Ripley "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Matt Damon, Gwyneth Paltrow, Jude Law. Vitet 50-të , New York. Z.Riplei, dërgohet drejt Italisë për të bindur djalin e një njeriu të fuqishem të kthehet në Atdhe. Kur plani i tij dështon, ai merr masa ekstreme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="48" start_time="2022-09-10 21:15:00" duration="7500">
+			<short_event_descriptor lang="alb" name="Parazitë">Fitues i Çmimit Oskar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Parasite"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Fitues i 4 çmimeve Oskar 2020. Filmi i parë joanglishtfolës që fiton kategorinë Filmi më i Mirë i Vitit. Anëtarët e një familjeje të varfër koreane hiqen si të panjohur dhe rekomandojnë njëri-tjetrin që të punësohen nga një familje e pasur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="49" start_time="2022-09-10 23:20:00" duration="5498">
+			<short_event_descriptor lang="alb" name="Një metodë e rrezikshme">David Cronenberg</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="A Dangerous Method"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dy nga mendjet më të ndritura në botë dhe historia e vërtetë e bashkëpunimit të tyre. Marrëdhënia e trazuar mes Frojdit, Jungut dhe pacientes së tij Sabina Spielrein. Me Viggo Mortensen, Michael Fassbender,  Keira Knightley ...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>

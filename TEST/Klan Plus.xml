@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Klan Plus">
+    <event id="0" start_time="2022-09-20 09:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-20 10:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një e show argëtues dhe informativ nga Rudina Magjistari, që e shoqeron çdo pasdite familjet shqiptare me të e ftuar të e shumtë e VIP, por dhe njerez të e thjeshte me historitë e e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-20 11:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-20 12:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Opinion">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni politik më i ndjekur dhe më i preferuar në ekranet shqiptare nga Blendi Fevziu. Arena e politikës shqiptare që prej 31 gushtit 1997. Komente, analiza, debate, personazhe, dëshmi dhe fakte konkrete. Ngjarjet më të fundit dhe më të rëndësishme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-20 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-20 14:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-20 15:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-20 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-20 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-20 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-20 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rrahje zemre">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse bota është një vend "I tmerrshëm", ka gjithmonë njerëz, të cilët vërtetojnë se njerëzit e mirë, në fund janë gjithmonë fitues. Dy të dashuruar, po, edhe pse ata përpiqen t'a mohojnë. Rrahjet e zemrës nuk i fshehin dot. Një histori e sfidave jetësore të një doktoreshe të suksesshme, e cila e nisi gjithçka nga zero dhe me shumë guxim për tu bërë dikush në jetë. Një mashkull që do ti japë asaj kurajo dhe më pas do ta dojë pafundësisht...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-20 20:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-20 20:50:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Pro Business">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision nga Oljana Maloku. Promovimi  i çfarëdolloj biznesi  brenda dhe jashtë vendit. Fillimet e nje biznesi, mbijetesa ne treg, ngritjet dhe sukseset, pikat e forta qe e bejne te vecante ne treg, te ardhurat dhe shpenzimet, detyrimet dhe taksat</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-20 21:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-20 22:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dr.House">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>'E keqja' është një sëmundje, ndërsa heroi - është një doktor I pandryshueshëm dhe kundërshtues, i cili nuk i beson njeriu, të pakten pacienteve të tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-20 22:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-20 23:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rrahje zemre">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse bota është një vend "I tmerrshëm", ka gjithmonë njerëz, të cilët vërtetojnë se njerëzit e mirë, në fund janë gjithmonë fitues. Dy të dashuruar, po, edhe pse ata përpiqen t'a mohojnë. Rrahjet e zemrës nuk i fshehin dot. Një histori e sfidave jetësore të një doktoreshe të suksesshme, e cila e nisi gjithçka nga zero dhe me shumë guxim për tu bërë dikush në jetë. Një mashkull që do ti japë asaj kurajo dhe më pas do ta dojë pafundësisht...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-21 00:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-21 02:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-21 02:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dr.House">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>'E keqja' eshte nje semundje, ndersa heroi - eshte nje doktor I pandryshueshem dhe kundershtues, i cili nuk i beson njeriu, të pakten pacienteve te tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-21 03:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-21 04:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Rrahje zemre">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse bota është një vend "I tmerrshëm", ka gjithmonë njerëz, të cilët vërtetojnë se njerëzit e mirë, në fund janë gjithmonë fitues. Dy të dashuruar, po, edhe pse ata përpiqen t'a mohojnë. Rrahjet e zemrës nuk i fshehin dot. Një histori e sfidave jetësore të një doktoreshe të suksesshme, e cila e nisi gjithçka nga zero dhe me shumë guxim për tu bërë dikush në jetë. Një mashkull që do ti japë asaj kurajo dhe më pas do ta dojë pafundësisht...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-21 05:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shije Shtëpie">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision edukues - informues - argëtues me zn.Tefta e Katerina Trungu. Çdo ditë me recetat e thjeshta dhe mbi të gjitha ekonomike të Zj.Vjollca duke edukuar amvisat si të ushqehemi shëndetshëm. Rubrika te ndryshme me te ftuar speciale me këshilla te thjeshta praktike, të kuptueshme nga te gjithë, për cdo aspekt të të përditshmes. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-21 07:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-21 08:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aktualiteti shqiptar "alla Stop", problematika e njerëzve të thjeshtë, që pasi kanë trokitur në të gjitha dyert, gjejnë zgjidhje vetëm në Stop , video-kamera të fshehta, që denoncojnë e demaskojnë korrupsionin, dhunën apo abuzimin seksual. Akte humanizmi për më të pamundurit e fatkeqët, të cilëve u ndryshon jeta. Nje emision i gjithi vetëm për njerëzit e zakonshëm dhe me njerëzit në qendër.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-21 09:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-21 10:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një show argetues dhe informativ që do te shoqeroje cdo mbasdite familjet shqiptare.
+Te ftuar ne panel qe flasin per tema te ndryshme, inserte filmike, lidhje direkte dhe shume rubrika utilitare per te gjithe publikun.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-21 11:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-21 12:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Opinion">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni politik më i ndjekur dhe më i preferuar në ekranet shqiptare nga Blendi Fevziu. Arena e politikës shqiptare që prej 31 gushtit 1997. Komente, analiza, debate, personazhe, dëshmi dhe fakte konkrete. Ngjarjet më të fundit dhe më të rëndësishme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-21 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-21 14:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-21 15:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-21 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-21 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-21 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-21 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Histori shqiptare">Reportazh</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ky emision ka si qëllim të tregojë histori për njerëzit që punojnë, kontribuojnë për komunitetin, krijojnë produkte unike, ngrenë biznese, ruajnë traditën, kulturën si dhe ndihmojnë në zhvillimin e turizmit.
+Historitë vijnë nëpërmjet xhirimeve në terren, duke treguar në detaje gjithë punën e njerëzve, duke i bërë model për të gjithë ata që ndjekin këtë emision të Alma Çupit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-21 20:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-21 20:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-21 21:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Dr.House">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>'E keqja' eshte nje semundje, ndersa heroi - eshte nje doktor I pandryshueshem dhe kundershtues, i cili nuk i beson njeriu, të pakten pacienteve te tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-21 22:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-21 23:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Histori shqiptare">Reportazh</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ky emision ka si qëllim të tregojë histori për njerëzit që punojnë, kontribuojnë për komunitetin, krijojnë produkte unike, ngrenë biznese, ruajnë traditën, kulturën si dhe ndihmojnë në zhvillimin e turizmit.
+Historitë vijnë nëpërmjet xhirimeve në terren, duke treguar në detaje gjithë punën e njerëzve, duke i bërë model për të gjithë ata që ndjekin këtë emision të Alma Çupit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-22 00:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-22 02:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-22 02:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dr.House">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>'E keqja' eshte nje semundje, ndersa heroi - eshte nje doktor I pandryshueshem dhe kundershtues, i cili nuk i beson njeriu, të pakten pacienteve te tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-22 03:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-22 04:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Histori shqiptare">Reportazh</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ky emision ka si qëllim të tregojë histori për njerëzit që punojnë, kontribuojnë për komunitetin, krijojnë produkte unike, ngrenë biznese, ruajnë traditën, kulturën si dhe ndihmojnë në zhvillimin e turizmit.
+Historitë vijnë nëpërmjet xhirimeve në terren, duke treguar në detaje gjithë punën e njerëzve, duke i bërë model për të gjithë ata që ndjekin këtë emision të Alma Çupit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-22 05:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shije Shtëpie">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision edukues - informues - argëtues me zn.Tefta e Katerina Trungu. Çdo ditë me recetat e thjeshta dhe mbi të gjitha ekonomike të Zj.Vjollca duke edukuar amvisat si të ushqehemi shëndetshëm. Rubrika te ndryshme me te ftuar speciale me këshilla te thjeshta praktike, të kuptueshme nga te gjithë, për cdo aspekt të të përditshmes. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-22 07:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-22 08:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aktualiteti shqiptar "alla Stop", problematika e njerëzve të thjeshtë, që pasi kanë trokitur në të gjitha dyert, gjejnë zgjidhje vetëm në Stop , video-kamera të fshehta, që denoncojnë e demaskojnë korrupsionin, dhunën apo abuzimin seksual. Akte humanizmi për më të pamundurit e fatkeqët, të cilëve u ndryshon jeta. Nje emision i gjithi vetëm për njerëzit e zakonshëm dhe me njerëzit në qendër.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-22 09:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-22 10:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një show argëtues dhe informativ nga Rudina Magjistari, që e shoqeron çdo pasdite familjet shqiptare me të e ftuar të e shumtë e VIP, por dhe njerez të e thjeshte me historitë e e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-22 11:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-22 12:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Opinion">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni politik më i ndjekur dhe më i preferuar në ekranet shqiptare nga Blendi Fevziu. Arena e politikës shqiptare që prej 31 gushtit 1997. Komente, analiza, debate, personazhe, dëshmi dhe fakte konkrete. Ngjarjet më të fundit dhe më të rëndësishme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-22 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-22 14:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-22 15:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-22 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-22 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-22 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-22 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Jo vetëm modë">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Jo vetëm modë" është nje zbulim i vazhdueshëm i gjithçkaje të bukur që na rrethon. Një takim me artizanë, artistë, arkitektë, historianë, politikanë, sportistë, stilistë vjen plot hijeshi nëpërmjet objektivit të "Jo vetëm modë". Kushdo që ka diçka për të thënë, mund të jetë pjesë e këtij programi, mjafton të frymëzojë me historinë e tij për një jetë më të bukur e me stil. "Jo vetëm modë" është gjithashtu një hapësirë për cilindo biznes serioz që ka dëshirë të jetë më afër konsumatorit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-09-22 20:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-09-22 20:50:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Uniko">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision investigativ nga Spartak Koka. Misteret e pazbardhura të kronikës! Cështjet nga më të thjeshtat dhe më të bujshmet të drejtësisë në vend, që nga historitë më të fundit, deri tek ato që tashmë janë harruar! Me dëshmi, intervista, pamje dhe dok</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2022-09-22 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2022-09-22 23:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dr.House">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>'E keqja' është një sëmundje, ndërsa heroi - është një doktor I pandryshueshëm dhe kundërshtues, i cili nuk i beson njeriu, të pakten pacienteve të tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2022-09-22 23:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2022-09-23 00:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2022-09-23 02:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2022-09-23 02:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dr.House">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>'E keqja' eshte nje semundje, ndersa heroi - eshte nje doktor I pandryshueshem dhe kundershtues, i cili nuk i beson njeriu, të pakten pacienteve te tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2022-09-23 03:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2022-09-23 04:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Jo vetëm modë">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Jo vetëm modë" është nje zbulim i vazhdueshëm i gjithçkaje të bukur që na rrethon. Një takim me artizanë, artistë, arkitektë, historianë, politikanë, sportistë, stilistë vjen plot hijeshi nëpërmjet objektivit të "Jo vetëm modë". Kushdo që ka diçka për të thënë, mund të jetë pjesë e këtij programi, mjafton të frymëzojë me historinë e tij për një jetë më të bukur e me stil. "Jo vetëm modë" është gjithashtu një hapësirë për cilindo biznes serioz që ka dëshirë të jetë më afër konsumatorit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2022-09-23 05:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shije Shtëpie">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision edukues - informues - argëtues me zn.Tefta e Katerina Trungu. Çdo ditë me recetat e thjeshta dhe mbi të gjitha ekonomike të Zj.Vjollca duke edukuar amvisat si të ushqehemi shëndetshëm. Rubrika te ndryshme me te ftuar speciale me këshilla te thjeshta praktike, të kuptueshme nga te gjithë, për cdo aspekt të të përditshmes. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2022-09-23 07:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2022-09-23 08:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="STOP">Emision satiro-investigativ.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2022-09-23 09:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2022-09-23 10:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një show argëtues dhe informativ nga Rudina Magjistari, që e shoqeron çdo pasdite familjet shqiptare me të e ftuar të e shumtë e VIP, por dhe njerez të e thjeshte me historitë e e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2022-09-23 11:20:00" duration="9600">
+      <short_event_descriptor lang="alb" name="Opinion">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni politik më i ndjekur dhe më i preferuar në ekranet shqiptare nga Blendi Fevziu. Arena e politikës shqiptare që prej 31 gushtit 1997. Komente, analiza, debate, personazhe, dëshmi dhe fakte konkrete. Ngjarjet më të fundit dhe më të rëndësishme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2022-09-23 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2022-09-23 14:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara.">Serial.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje drame familjare dhe njerezore e disa vajzave jetime, te cilat do te mesojne si te perballojne jeten krejtesisht te vetmuara, te dashurojne, te bejne gabime, te rrezohen, te poshterohen, te ringrihen dhe te mbijetojne duke u mbeshtetur tek njera t</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2022-09-23 15:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2022-09-23 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2022-09-23 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2022-09-23 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2022-09-23 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rrahje zemre">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse bota është një vend "I tmerrshëm", ka gjithmonë njerëz, të cilët vërtetojnë se njerëzit e mirë, në fund janë gjithmonë fitues. Dy të dashuruar, po, edhe pse ata përpiqen t'a mohojnë. Rrahjet e zemrës nuk i fshehin dot. Një histori e sfidave jetësore të një doktoreshe të suksesshme, e cila e nisi gjithçka nga zero dhe me shumë guxim për tu bërë dikush në jetë. Një mashkull që do ti japë asaj kurajo dhe më pas do ta dojë pafundësisht...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2022-09-23 20:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2022-09-23 20:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2022-09-23 21:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Dr.House">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>'E keqja' eshte nje semundje, ndersa heroi - eshte nje doktor I pandryshueshem dhe kundershtues, i cili nuk i beson njeriu, të pakten pacienteve te tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2022-09-23 22:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2022-09-23 23:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rrahje zemre">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse bota është një vend "I tmerrshëm", ka gjithmonë njerëz, të cilët vërtetojnë se njerëzit e mirë, në fund janë gjithmonë fitues. Dy të dashuruar, po, edhe pse ata përpiqen t'a mohojnë. Rrahjet e zemrës nuk i fshehin dot. Një histori e sfidave jetësore të një doktoreshe të suksesshme, e cila e nisi gjithçka nga zero dhe me shumë guxim për tu bërë dikush në jetë. Një mashkull që do ti japë asaj kurajo dhe më pas do ta dojë pafundësisht...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2022-09-24 00:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2022-09-24 02:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2022-09-24 02:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dr.House">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>'E keqja' është një sëmundje, ndërsa heroi - është një doktor I pandryshueshëm dhe kundërshtues, i cili nuk i beson njeriu, të pakten pacienteve të tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2022-09-24 03:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2022-09-24 04:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Rrahje zemre">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse bota është një vend "I tmerrshëm", ka gjithmonë njerëz, të cilët vërtetojnë se njerëzit e mirë, në fund janë gjithmonë fitues. Dy të dashuruar, po, edhe pse ata përpiqen t'a mohojnë. Rrahjet e zemrës nuk i fshehin dot. Një histori e sfidave jetësore të një doktoreshe të suksesshme, e cila e nisi gjithçka nga zero dhe me shumë guxim për tu bërë dikush në jetë. Një mashkull që do ti japë asaj kurajo dhe më pas do ta dojë pafundësisht...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2022-09-24 05:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shije Shtëpie">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision edukues - informues - argëtues me zn.Tefta e Katerina Trungu. Çdo ditë me recetat e thjeshta dhe mbi të gjitha ekonomike të Zj.Vjollca duke edukuar amvisat si të ushqehemi shëndetshëm. Rubrika te ndryshme me te ftuar speciale me këshilla te thjeshta praktike, të kuptueshme nga te gjithë, për cdo aspekt të të përditshmes. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2022-09-24 07:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2022-09-24 08:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aktualiteti shqiptar "alla Stop", problematika e njerëzve të thjeshtë, që pasi kanë trokitur në të gjitha dyert, gjejnë zgjidhje vetëm në Stop , video-kamera të fshehta, që denoncojnë e demaskojnë korrupsionin, dhunën apo abuzimin seksual. Akte humanizmi për më të pamundurit e fatkeqët, të cilëve u ndryshon jeta. Nje emision i gjithi vetëm për njerëzit e zakonshëm dhe me njerëzit në qendër.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2022-09-24 09:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2022-09-24 10:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një show argëtues dhe informativ nga Rudina Magjistari, që e shoqeron çdo pasdite familjet shqiptare me të e ftuar të e shumtë e VIP, por dhe njerez të e thjeshte me historitë e e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2022-09-24 11:20:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Rrahje zemre">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse bota është një vend "I tmerrshëm", ka gjithmonë njerëz, të cilët vërtetojnë se njerëzit e mirë, në fund janë gjithmonë fitues. Dy të dashuruar, po, edhe pse ata përpiqen t'a mohojnë. Rrahjet e zemrës nuk i fshehin dot. Një histori e sfidave jetësore të një doktoreshe të suksesshme, e cila e nisi gjithçka nga zero dhe me shumë guxim për tu bërë dikush në jetë. Një mashkull që do ti japë asaj kurajo dhe më pas do ta dojë pafundësisht...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2022-09-24 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Pro Business">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision nga Oljana Maloku. Promovimi  i çfarëdolloj biznesi  brenda dhe jashtë vendit. Fillimet e nje biznesi, mbijetesa ne treg, ngritjet dhe sukseset, pikat e forta qe e bejne te vecante ne treg, te ardhurat dhe shpenzimet, detyrimet dhe taksat</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2022-09-24 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2022-09-24 14:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Uniko">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision investigativ nga Spartak Koka. Misteret e pazbardhura të kronikës! Cështjet nga më të thjeshtat dhe më të bujshmet të drejtësisë në vend, që nga historitë më të fundit, deri tek ato që tashmë janë harruar! Me dëshmi, intervista, pamje dhe dok</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2022-09-24 15:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2022-09-24 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2022-09-24 17:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Fantomasi">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2022-09-24 19:00:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Rrahje zemre">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse bota është një vend "I tmerrshëm", ka gjithmonë njerëz, të cilët vërtetojnë se njerëzit e mirë, në fund janë gjithmonë fitues. Dy të dashuruar, po, edhe pse ata përpiqen t'a mohojnë. Rrahjet e zemrës nuk i fshehin dot. Një histori e sfidave jetësore të një doktoreshe të suksesshme, e cila e nisi gjithçka nga zero dhe me shumë guxim për tu bërë dikush në jetë. Një mashkull që do ti japë asaj kurajo dhe më pas do ta dojë pafundësisht...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2022-09-24 21:20:00" duration="7800">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2022-09-24 23:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Fantomasi">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2022-09-25 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="109" start_time="2022-09-25 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Rrahje zemre">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse bota është një vend "I tmerrshëm", ka gjithmonë njerëz, të cilët vërtetojnë se njerëzit e mirë, në fund janë gjithmonë fitues. Dy të dashuruar, po, edhe pse ata përpiqen t'a mohojnë. Rrahjet e zemrës nuk i fshehin dot. Një histori e sfidave jetësore të një doktoreshe të suksesshme, e cila e nisi gjithçka nga zero dhe me shumë guxim për tu bërë dikush në jetë. Një mashkull që do ti japë asaj kurajo dhe më pas do ta dojë pafundësisht...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="110" start_time="2022-09-25 04:00:00" duration="14400">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="111" start_time="2022-09-25 08:00:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="112" start_time="2022-09-25 10:15:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Fantomasi">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="113" start_time="2022-09-25 11:55:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Klanifornia">Comedy-show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Spektakel humori kabare nga Turjan Hysko nen drejtimin e Marina Vjollca. Me aktoret me te mire dhe me te dashur ne produksionin me te madh te humorit! Humor, personazhe te paperseritshem, batuta, situata komike, muzike, te qeshura pa fund...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="114" start_time="2022-09-25 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="115" start_time="2022-09-25 14:35:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Rrahje zemre">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse bota është një vend "I tmerrshëm", ka gjithmonë njerëz, të cilët vërtetojnë se njerëzit e mirë, në fund janë gjithmonë fitues. Dy të dashuruar, po, edhe pse ata përpiqen t'a mohojnë. Rrahjet e zemrës nuk i fshehin dot. Një histori e sfidave jetësore të një doktoreshe të suksesshme, e cila e nisi gjithçka nga zero dhe me shumë guxim për tu bërë dikush në jetë. Një mashkull që do ti japë asaj kurajo dhe më pas do ta dojë pafundësisht...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="116" start_time="2022-09-25 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="117" start_time="2022-09-25 17:30:00" duration="9300">
+      <short_event_descriptor lang="alb" name="E diela shqiptare">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i te dieles tuaj nga Ardit Gjebrea, me dashuri dhe surpriza, me emocione gezimi, por edhe trishtimi. Fati, dikujt i ndryshon edhe jeten. argetim dhe spektakel! Mosmarreveshje qe gjejne zgjidhje. kujdesi per veten. dhe te panjohur qe te mberthejne pas ekranit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="118" start_time="2022-09-25 20:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="E diela shqiptare">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i te dieles tuaj nga Ardit Gjebrea, me dashuri dhe surpriza, me emocione gezimi, por edhe trishtimi. Fati, dikujt i ndryshon edhe jeten. argetim dhe spektakel! Mosmarreveshje qe gjejne zgjidhje. kujdesi per veten. dhe te panjohur qe te mberthejne pas ekranit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="119" start_time="2022-09-25 21:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="120" start_time="2022-09-25 22:30:00" duration="9900">
+      <short_event_descriptor lang="alb" name="Dr.House">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>'E keqja' eshte nje semundje, ndersa heroi - eshte nje doktor I pandryshueshem dhe kundershtues, i cili nuk i beson njeriu, të pakten pacienteve te tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="121" start_time="2022-09-26 01:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dr.House">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>'E keqja' është një sëmundje, ndërsa heroi - është një doktor I pandryshueshëm dhe kundërshtues, i cili nuk i beson njeriu, të pakten pacienteve të tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="122" start_time="2022-09-26 02:15:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Rrahje zemre">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse bota është një vend "I tmerrshëm", ka gjithmonë njerëz, të cilët vërtetojnë se njerëzit e mirë, në fund janë gjithmonë fitues. Dy të dashuruar, po, edhe pse ata përpiqen t'a mohojnë. Rrahjet e zemrës nuk i fshehin dot. Një histori e sfidave jetësore të një doktoreshe të suksesshme, e cila e nisi gjithçka nga zero dhe me shumë guxim për tu bërë dikush në jetë. Një mashkull që do ti japë asaj kurajo dhe më pas do ta dojë pafundësisht...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="123" start_time="2022-09-26 04:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="124" start_time="2022-09-26 05:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shije Shtëpie">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision edukues - informues - argëtues me zn.Tefta e Katerina Trungu. Çdo ditë me recetat e thjeshta dhe mbi të gjitha ekonomike të Zj.Vjollca duke edukuar amvisat si të ushqehemi shëndetshëm. Rubrika te ndryshme me te ftuar speciale me këshilla te thjeshta praktike, të kuptueshme nga te gjithë, për cdo aspekt të të përditshmes. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="125" start_time="2022-09-26 07:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="126" start_time="2022-09-26 08:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aktualiteti shqiptar "alla Stop", problematika e njerëzve të thjeshtë, që pasi kanë trokitur në të gjitha dyert, gjejnë zgjidhje vetëm në Stop , video-kamera të fshehta, që denoncojnë e demaskojnë korrupsionin, dhunën apo abuzimin seksual. Akte humanizmi për më të pamundurit e fatkeqët, të cilëve u ndryshon jeta. Nje emision i gjithi vetëm për njerëzit e zakonshëm dhe me njerëzit në qendër.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="127" start_time="2022-09-26 09:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dhoma e kuqe">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta njerëzore! Histori të trishta! Histori frymëzuese! Rrëfime njerëzore, ku gra të dhunuara tregojnë problemet dhe traumat e tyre me shpresën që të ndryshojne rrjedhen e jetes. Histori te ngjashme dhe familjare per cdo grua ne cdo cep te botes dhe madje do t'ju hapin syte dhe ndergjegjesojne shume te tjera! Pese psiko-terapiste na dergojnë në një udhëtim jetësh të ndryshme njerëzore gjatë seancave ne klinike dhe pse jo duke na zbuluar edhe problemet e tyre personale. Nje serial d</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="128" start_time="2022-09-26 10:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një show argëtues dhe informativ nga Rudina Magjistari, që e shoqeron çdo pasdite familjet shqiptare me të e ftuar të e shumtë e VIP, por dhe njerez të e thjeshte me historitë e e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="129" start_time="2022-09-26 11:20:00" duration="9600">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali për jetën e vrasësit më të famshëm dhe krahu i djathtë i Pablo Eskobarit. Teksa karteli Medellin shkatërrohet, John Jairo Velásquez me nofkën JJ ose Popey, dorëzohet para drejtësisë ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt në hierarkine e burgut. Një padron në burg duke vazhduar mbretërine e terrorit dhe një trafikant droge i rrezikshëm edhe brenda hekurave. Velásquez ka pohuar se ka vrarë me shume 300 njerez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="130" start_time="2022-09-26 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme Klan Plus">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacionet e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="131" start_time="2022-09-26 14:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Lule të vetmuara">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë familjare dhe njerezore e disa vajzave jetime, të cilat do të mësojnë si të përballojnë jetën krejtesisht të vetmuara, të dashurojnë, të bëjnë gabime, të rrëzohen, të ringrihen dhe të mbijetojnë duke u mbeshtetur tek njera tjetra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="132" start_time="2022-09-26 15:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Bidai">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serial indian që ka fituar zemrat e miliona teleshikuesve në vendet ku po shfaqet. Historia e dy motrave Sadna dhe Ragini, ku paraqitja e tyre e jashtme, do të vendose edhe për fatin e tyre në jetë. A jane njerëzit e bukur më të lumtur?! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="133" start_time="2022-09-26 16:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Pro Business">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision nga Oljana Maloku. Promovimi  i çfarëdolloj biznesi  brenda dhe jashtë vendit. Fillimet e nje biznesi, mbijetesa ne treg, ngritjet dhe sukseset, pikat e forta qe e bejne te vecante ne treg, te ardhurat dhe shpenzimet, detyrimet dhe taksat</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

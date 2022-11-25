@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="GOLD HD">
+		<Event id="0" start_time="2022-09-20 05:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Lightyear: Historia e vërtetë e Bazit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lightyear"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa ka shumë vite që përpiqet të kthehet në shtëpi, legjendari Baz Vitdrita ndeshet me një ushtri robotësh të pamëshirshëm të komanduar nga Zurg, të cilët po përpiqen të vjedhin burimin e tij të karburantit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-09-20 07:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Ndjekja e peshkaqenit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Reef Stalked"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ende e traumatizuar nga vdekja tronditëse e motrës, Annie dhe dy shoqet e saj gjejnë ngushëllim përmes një aventure me kajakë në një ishull në Paqësor. Por pas disa orësh në det, ato përndiqen nga një peshkaqen. Që të shpëtojnë ato duhet të përballen me frikën e tyre me të madhe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-09-20 08:30:00" duration="9000">
+			<short_event_descriptor lang="alb" name="Elvis"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elvis"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nga Regjisori Baz Luhrmann. Me Austin Butler, Tom Hanks. Jeta e legjendës, mbretit të muzikës rock 'n' roll, Elvis Presley dhe marrëdhënia e ndërlikuar me menaxherin e tij enigmatik, Tom Parker. Si dhe lidhja e ngushtë me një nga njerëzit më domethënës dhe më me ndikim në jetën e tij, Priscilla Presley.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-09-20 11:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Agjenti mashtrues"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rogue Agent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me James Norton. Frymëzuar nga historia intriguese dhe e vërtetë e mashtruesit Robert Freegard, i cili hiqej si agjent i fshehtë i MI5 duke rrëmbyer viktima të panumërta. Do të jetë pikërisht gruaja që e dashuroi, ajo që do ta vërë para drejtësisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-09-20 13:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Zonja Harris shkon në Paris"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mrs Harris Goes to Paris"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin e njohur nga Paul Gallico. Një film nga Anthony Fabian. Kandidatja e çmimit Oskar Lesley Manville. Në Londrën e viteve '50, një pastruese e ve, bie marrëzisht në dashuri me një fustan të Dior dhe vendos të ketë një të sajin. Pasi mbledh paratë, ajo shkon në Paris për ta blerë. Një aventurë kjo që do të ndryshojë jo vetëm jetën e saj, por edhe të ardhmen e Shtëpisë 'Dior'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-09-20 15:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Lightyear: Historia e vërtetë e Bazit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lightyear"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa ka shumë vite që përpiqet të kthehet në shtëpi, legjendari Baz Vitdrita ndeshet me një ushtri robotësh të pamëshirshëm të komanduar nga Zurg, të cilët po përpiqen të vjedhin burimin e tij të karburantit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-09-20 17:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Ndjekja e peshkaqenit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Reef Stalked"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ende e traumatizuar nga vdekja tronditëse e motrës, Annie dhe dy shoqet e saj gjejnë ngushëllim përmes një aventure me kajakë në një ishull në Paqësor. Por pas disa orësh në det, ato përndiqen nga një peshkaqen. Që të shpëtojnë ato duhet të përballen me frikën e tyre me të madhe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-09-20 19:00:00" duration="9000">
+			<short_event_descriptor lang="alb" name="Elvis"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elvis"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nga Regjisori Baz Luhrmann. Me Austin Butler, Tom Hanks. Jeta e legjendës, mbretit të muzikës rock 'n' roll, Elvis Presley dhe marrëdhënia e ndërlikuar me menaxherin e tij enigmatik, Tom Parker. Si dhe lidhja e ngushtë me një nga njerëzit më domethënës dhe më me ndikim në jetën e tij, Priscilla Presley.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-09-20 21:30:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Agjenti mashtrues"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rogue Agent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me James Norton. Frymëzuar nga historia intriguese dhe e vërtetë e mashtruesit Robert Freegard, i cili hiqej si agjent i fshehtë i MI5 duke rrëmbyer viktima të panumërta. Do të jetë pikërisht gruaja që e dashuroi, ajo që do ta vërë para drejtësisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-09-20 23:25:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Zonja Harris shkon në Paris"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mrs Harris Goes to Paris"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin e njohur nga Paul Gallico. Një film nga Anthony Fabian. Kandidatja e çmimit Oskar Lesley Manville. Në Londrën e viteve '50, një pastruese e ve, bie marrëzisht në dashuri me një fustan të Dior dhe vendos të ketë një të sajin. Pasi mbledh paratë, ajo shkon në Paris për ta blerë. Një aventurë kjo që do të ndryshojë jo vetëm jetën e saj, por edhe të ardhmen e Shtëpisë 'Dior'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-09-21 01:15:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Lightyear: Historia e vërtetë e Bazit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lightyear"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa ka shumë vite që përpiqet të kthehet në shtëpi, legjendari Baz Vitdrita ndeshet me një ushtri robotësh të pamëshirshëm të komanduar nga Zurg, të cilët po përpiqen të vjedhin burimin e tij të karburantit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-09-21 03:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Ndjekja e peshkaqenit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Reef Stalked"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ende e traumatizuar nga vdekja tronditëse e motrës, Annie dhe dy shoqet e saj gjejnë ngushëllim përmes një aventure me kajakë në një ishull në Paqësor. Por pas disa orësh në det, ato përndiqen nga një peshkaqen. Që të shpëtojnë ato duhet të përballen me frikën e tyre me të madhe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-09-21 05:00:00" duration="9000">
+			<short_event_descriptor lang="alb" name="Elvis"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elvis"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nga Regjisori Baz Luhrmann. Me Austin Butler, Tom Hanks. Jeta e legjendës, mbretit të muzikës rock 'n' roll, Elvis Presley dhe marrëdhënia e ndërlikuar me menaxherin e tij enigmatik, Tom Parker. Si dhe lidhja e ngushtë me një nga njerëzit më domethënës dhe më me ndikim në jetën e tij, Priscilla Presley.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-09-21 07:30:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Zonja Harris shkon në Paris"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mrs Harris Goes to Paris"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin e njohur nga Paul Gallico. Një film nga Anthony Fabian. Kandidatja e çmimit Oskar Lesley Manville. Në Londrën e viteve '50, një pastruese e ve, bie marrëzisht në dashuri me një fustan të Dior dhe vendos të ketë një të sajin. Pasi mbledh paratë, ajo shkon në Paris për ta blerë. Një aventurë kjo që do të ndryshojë jo vetëm jetën e saj, por edhe të ardhmen e Shtëpisë 'Dior'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-09-21 09:20:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Agjenti mashtrues"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rogue Agent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me James Norton. Frymëzuar nga historia intriguese dhe e vërtetë e mashtruesit Robert Freegard, i cili hiqej si agjent i fshehtë i MI5 duke rrëmbyer viktima të panumërta. Do të jetë pikërisht gruaja që e dashuroi, ajo që do ta vërë para drejtësisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-09-21 11:15:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Ndjekja e peshkaqenit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Reef Stalked"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ende e traumatizuar nga vdekja tronditëse e motrës, Annie dhe dy shoqet e saj gjejnë ngushëllim përmes një aventure me kajakë në një ishull në Paqësor. Por pas disa orësh në det, ato përndiqen nga një peshkaqen. Që të shpëtojnë ato duhet të përballen me frikën e tyre me të madhe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-09-21 12:45:00" duration="9000">
+			<short_event_descriptor lang="alb" name="Elvis"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elvis"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nga Regjisori Baz Luhrmann. Me Austin Butler, Tom Hanks. Jeta e legjendës, mbretit të muzikës rock 'n' roll, Elvis Presley dhe marrëdhënia e ndërlikuar me menaxherin e tij enigmatik, Tom Parker. Si dhe lidhja e ngushtë me një nga njerëzit më domethënës dhe më me ndikim në jetën e tij, Priscilla Presley.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-09-21 15:15:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Zonja Harris shkon në Paris"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mrs Harris Goes to Paris"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin e njohur nga Paul Gallico. Një film nga Anthony Fabian. Kandidatja e çmimit Oskar Lesley Manville. Në Londrën e viteve '50, një pastruese e ve, bie marrëzisht në dashuri me një fustan të Dior dhe vendos të ketë një të sajin. Pasi mbledh paratë, ajo shkon në Paris për ta blerë. Një aventurë kjo që do të ndryshojë jo vetëm jetën e saj, por edhe të ardhmen e Shtëpisë 'Dior'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-09-21 17:10:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Lightyear: Historia e vërtetë e Bazit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lightyear"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa ka shumë vite që përpiqet të kthehet në shtëpi, legjendari Baz Vitdrita ndeshet me një ushtri robotësh të pamëshirshëm të komanduar nga Zurg, të cilët po përpiqen të vjedhin burimin e tij të karburantit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-09-21 19:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Agjenti mashtrues"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rogue Agent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me James Norton. Frymëzuar nga historia intriguese dhe e vërtetë e mashtruesit Robert Freegard, i cili hiqej si agjent i fshehtë i MI5 duke rrëmbyer viktima të panumërta. Do të jetë pikërisht gruaja që e dashuroi, ajo që do ta vërë para drejtësisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-09-21 21:00:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Ndjekja e peshkaqenit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Reef Stalked"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ende e traumatizuar nga vdekja tronditëse e motrës, Annie dhe dy shoqet e saj gjejnë ngushëllim përmes një aventure me kajakë në një ishull në Paqësor. Por pas disa orësh në det, ato përndiqen nga një peshkaqen. Që të shpëtojnë ato duhet të përballen me frikën e tyre me të madhe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-09-21 22:45:00" duration="9000">
+			<short_event_descriptor lang="alb" name="Elvis"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elvis"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nga Regjisori Baz Luhrmann. Me Austin Butler, Tom Hanks. Jeta e legjendës, mbretit të muzikës rock 'n' roll, Elvis Presley dhe marrëdhënia e ndërlikuar me menaxherin e tij enigmatik, Tom Parker. Si dhe lidhja e ngushtë me një nga njerëzit më domethënës dhe më me ndikim në jetën e tij, Priscilla Presley.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-22 01:15:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Zonja Harris shkon në Paris"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mrs Harris Goes to Paris"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin e njohur nga Paul Gallico. Një film nga Anthony Fabian. Kandidatja e çmimit Oskar Lesley Manville. Në Londrën e viteve '50, një pastruese e ve, bie marrëzisht në dashuri me një fustan të Dior dhe vendos të ketë një të sajin. Pasi mbledh paratë, ajo shkon në Paris për ta blerë. Një aventurë kjo që do të ndryshojë jo vetëm jetën e saj, por edhe të ardhmen e Shtëpisë 'Dior'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-22 03:10:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Lightyear: Historia e vërtetë e Bazit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lightyear"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa ka shumë vite që përpiqet të kthehet në shtëpi, legjendari Baz Vitdrita ndeshet me një ushtri robotësh të pamëshirshëm të komanduar nga Zurg, të cilët po përpiqen të vjedhin burimin e tij të karburantit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-22 05:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Agjenti mashtrues"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rogue Agent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me James Norton. Frymëzuar nga historia intriguese dhe e vërtetë e mashtruesit Robert Freegard, i cili hiqej si agjent i fshehtë i MI5 duke rrëmbyer viktima të panumërta. Do të jetë pikërisht gruaja që e dashuroi, ajo që do ta vërë para drejtësisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-22 07:00:00" duration="9000">
+			<short_event_descriptor lang="alb" name="Elvis"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elvis"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nga Regjisori Baz Luhrmann. Me Austin Butler, Tom Hanks. Jeta e legjendës, mbretit të muzikës rock 'n' roll, Elvis Presley dhe marrëdhënia e ndërlikuar me menaxherin e tij enigmatik, Tom Parker. Si dhe lidhja e ngushtë me një nga njerëzit më domethënës dhe më me ndikim në jetën e tij, Priscilla Presley.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-22 09:30:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Ndjekja e peshkaqenit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Reef Stalked"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ende e traumatizuar nga vdekja tronditëse e motrës, Annie dhe dy shoqet e saj gjejnë ngushëllim përmes një aventure me kajakë në një ishull në Paqësor. Por pas disa orësh në det, ato përndiqen nga një peshkaqen. Që të shpëtojnë ato duhet të përballen me frikën e tyre me të madhe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-22 11:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Zonja Harris shkon në Paris"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mrs Harris Goes to Paris"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin e njohur nga Paul Gallico. Një film nga Anthony Fabian. Kandidatja e çmimit Oskar Lesley Manville. Në Londrën e viteve '50, një pastruese e ve, bie marrëzisht në dashuri me një fustan të Dior dhe vendos të ketë një të sajin. Pasi mbledh paratë, ajo shkon në Paris për ta blerë. Një aventurë kjo që do të ndryshojë jo vetëm jetën e saj, por edhe të ardhmen e Shtëpisë 'Dior'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-22 13:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Lightyear: Historia e vërtetë e Bazit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lightyear"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa ka shumë vite që përpiqet të kthehet në shtëpi, legjendari Baz Vitdrita ndeshet me një ushtri robotësh të pamëshirshëm të komanduar nga Zurg, të cilët po përpiqen të vjedhin burimin e tij të karburantit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-22 15:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Agjenti mashtrues"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rogue Agent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me James Norton. Frymëzuar nga historia intriguese dhe e vërtetë e mashtruesit Robert Freegard, i cili hiqej si agjent i fshehtë i MI5 duke rrëmbyer viktima të panumërta. Do të jetë pikërisht gruaja që e dashuroi, ajo që do ta vërë para drejtësisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-22 17:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Ndjekja e peshkaqenit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Reef Stalked"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ende e traumatizuar nga vdekja tronditëse e motrës, Annie dhe dy shoqet e saj gjejnë ngushëllim përmes një aventure me kajakë në një ishull në Paqësor. Por pas disa orësh në det, ato përndiqen nga një peshkaqen. Që të shpëtojnë ato duhet të përballen me frikën e tyre me të madhe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-22 19:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Zonja Harris shkon në Paris"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mrs Harris Goes to Paris"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin e njohur nga Paul Gallico. Një film nga Anthony Fabian. Kandidatja e çmimit Oskar Lesley Manville. Në Londrën e viteve '50, një pastruese e ve, bie marrëzisht në dashuri me një fustan të Dior dhe vendos të ketë një të sajin. Pasi mbledh paratë, ajo shkon në Paris për ta blerë. Një aventurë kjo që do të ndryshojë jo vetëm jetën e saj, por edhe të ardhmen e Shtëpisë 'Dior'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-22 21:00:00" duration="9000">
+			<short_event_descriptor lang="alb" name="Elvis"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elvis"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nga Regjisori Baz Luhrmann. Me Austin Butler, Tom Hanks. Jeta e legjendës, mbretit të muzikës rock 'n' roll, Elvis Presley dhe marrëdhënia e ndërlikuar me menaxherin e tij enigmatik, Tom Parker. Si dhe lidhja e ngushtë me një nga njerëzit më domethënës dhe më me ndikim në jetën e tij, Priscilla Presley.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-22 23:30:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Lightyear: Historia e vërtetë e Bazit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lightyear"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa ka shumë vite që përpiqet të kthehet në shtëpi, legjendari Baz Vitdrita ndeshet me një ushtri robotësh të pamëshirshëm të komanduar nga Zurg, të cilët po përpiqen të vjedhin burimin e tij të karburantit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-23 01:10:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Agjenti mashtrues"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rogue Agent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me James Norton. Frymëzuar nga historia intriguese dhe e vërtetë e mashtruesit Robert Freegard, i cili hiqej si agjent i fshehtë i MI5 duke rrëmbyer viktima të panumërta. Do të jetë pikërisht gruaja që e dashuroi, ajo që do ta vërë para drejtësisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-23 03:10:00" duration="9000">
+			<short_event_descriptor lang="alb" name="Elvis"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elvis"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nga Regjisori Baz Luhrmann. Me Austin Butler, Tom Hanks. Jeta e legjendës, mbretit të muzikës rock 'n' roll, Elvis Presley dhe marrëdhënia e ndërlikuar me menaxherin e tij enigmatik, Tom Parker. Si dhe lidhja e ngushtë me një nga njerëzit më domethënës dhe më me ndikim në jetën e tij, Priscilla Presley.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-23 05:40:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Ndjekja e peshkaqenit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Reef Stalked"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ende e traumatizuar nga vdekja tronditëse e motrës, Annie dhe dy shoqet e saj gjejnë ngushëllim përmes një aventure me kajakë në një ishull në Paqësor. Por pas disa orësh në det, ato përndiqen nga një peshkaqen. Që të shpëtojnë ato duhet të përballen me frikën e tyre me të madhe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-23 07:10:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Agjenti mashtrues"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rogue Agent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me James Norton. Frymëzuar nga historia intriguese dhe e vërtetë e mashtruesit Robert Freegard, i cili hiqej si agjent i fshehtë i MI5 duke rrëmbyer viktima të panumërta. Do të jetë pikërisht gruaja që e dashuroi, ajo që do ta vërë para drejtësisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-23 09:10:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Zonja Harris shkon në Paris"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mrs Harris Goes to Paris"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin e njohur nga Paul Gallico. Një film nga Anthony Fabian. Kandidatja e çmimit Oskar Lesley Manville. Në Londrën e viteve '50, një pastruese e ve, bie marrëzisht në dashuri me një fustan të Dior dhe vendos të ketë një të sajin. Pasi mbledh paratë, ajo shkon në Paris për ta blerë. Një aventurë kjo që do të ndryshojë jo vetëm jetën e saj, por edhe të ardhmen e Shtëpisë 'Dior'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-23 11:00:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Lightyear: Historia e vërtetë e Bazit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lightyear"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa ka shumë vite që përpiqet të kthehet në shtëpi, legjendari Baz Vitdrita ndeshet me një ushtri robotësh të pamëshirshëm të komanduar nga Zurg, të cilët po përpiqen të vjedhin burimin e tij të karburantit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-23 12:45:00" duration="9000">
+			<short_event_descriptor lang="alb" name="Elvis"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elvis"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nga Regjisori Baz Luhrmann. Me Austin Butler, Tom Hanks. Jeta e legjendës, mbretit të muzikës rock 'n' roll, Elvis Presley dhe marrëdhënia e ndërlikuar me menaxherin e tij enigmatik, Tom Parker. Si dhe lidhja e ngushtë me një nga njerëzit më domethënës dhe më me ndikim në jetën e tij, Priscilla Presley.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="41" start_time="2022-09-23 15:15:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Ndjekja e peshkaqenit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Reef Stalked"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ende e traumatizuar nga vdekja tronditëse e motrës, Annie dhe dy shoqet e saj gjejnë ngushëllim përmes një aventure me kajakë në një ishull në Paqësor. Por pas disa orësh në det, ato përndiqen nga një peshkaqen. Që të shpëtojnë ato duhet të përballen me frikën e tyre me të madhe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="42" start_time="2022-09-23 17:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Lightyear: Historia e vërtetë e Bazit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lightyear"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa ka shumë vite që përpiqet të kthehet në shtëpi, legjendari Baz Vitdrita ndeshet me një ushtri robotësh të pamëshirshëm të komanduar nga Zurg, të cilët po përpiqen të vjedhin burimin e tij të karburantit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="43" start_time="2022-09-23 19:00:00" duration="9000">
+			<short_event_descriptor lang="alb" name="Elvis"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elvis"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nga Regjisori Baz Luhrmann. Me Austin Butler, Tom Hanks. Jeta e legjendës, mbretit të muzikës rock 'n' roll, Elvis Presley dhe marrëdhënia e ndërlikuar me menaxherin e tij enigmatik, Tom Parker. Si dhe lidhja e ngushtë me një nga njerëzit më domethënës dhe më me ndikim në jetën e tij, Priscilla Presley.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="44" start_time="2022-09-23 21:30:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Agjenti mashtrues"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rogue Agent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me James Norton. Frymëzuar nga historia intriguese dhe e vërtetë e mashtruesit Robert Freegard, i cili hiqej si agjent i fshehtë i MI5 duke rrëmbyer viktima të panumërta. Do të jetë pikërisht gruaja që e dashuroi, ajo që do ta vërë para drejtësisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="45" start_time="2022-09-23 23:25:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Zonja Harris shkon në Paris"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mrs Harris Goes to Paris"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në romanin e njohur nga Paul Gallico. Një film nga Anthony Fabian. Kandidatja e çmimit Oskar Lesley Manville. Në Londrën e viteve '50, një pastruese e ve, bie marrëzisht në dashuri me një fustan të Dior dhe vendos të ketë një të sajin. Pasi mbledh paratë, ajo shkon në Paris për ta blerë. Një aventurë kjo që do të ndryshojë jo vetëm jetën e saj, por edhe të ardhmen e Shtëpisë 'Dior'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="46" start_time="2022-09-24 01:15:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Lightyear: Historia e vërtetë e Bazit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lightyear"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa ka shumë vite që përpiqet të kthehet në shtëpi, legjendari Baz Vitdrita ndeshet me një ushtri robotësh të pamëshirshëm të komanduar nga Zurg, të cilët po përpiqen të vjedhin burimin e tij të karburantit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="47" start_time="2022-09-24 03:00:00" duration="6621">
+			<short_event_descriptor lang="alb" name="Agjenti mashtrues"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rogue Agent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me James Norton. Frymëzuar nga historia intriguese dhe e vërtetë e mashtruesit Robert Freegard, i cili hiqej si agjent i fshehtë i MI5 duke rrëmbyer viktima të panumërta. Do të jetë pikërisht gruaja që e dashuroi, ajo që do ta vërë para drejtësisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>

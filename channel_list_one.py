@@ -1,0 +1,21 @@
+channel_list = {
+                '2902': 'Top Channel HD',
+		'2909': 'BANG-BANG',
+		'2910': 'CUFO TV',
+		'2911':'JUNIOR TV',
+	#	'2912':'Baby TV',
+		'2913':'Nickelodeon',
+		'2914':'GOLD HD',
+		'2915':'MAX HD',
+		#'2882':'Klan Music',
+		'2919':'FILM HITS',
+		'2920':'FILM THRILLER',
+		'2921':'FILM DRAME',
+		'2922':'FILM AKSION',
+		'2922':'FILM KOMEDI',
+		'2931':'Exp Shkence',
+		'2931':'EXP-SHKENCE',
+		'2932':'EXP-HISTORY',
+		'2933':'EXP-NATYRE',
+
+                }

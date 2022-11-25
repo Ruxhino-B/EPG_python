@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport HD 3">
+    <event id="0" start_time="2022-09-18 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Marseille-Rennes  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2022-2023. Sfide e vlefshme per javen e 8-te nga stadiumi "Orange Velodrome" ne Marseille. Komenti: Anarildo Alia.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-18 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Dokumentar: Historia e Ronaldo tek Inter">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ne vitet 90 kur futbolli italian dominohej nga Juventus dhe Milan, ish presidenti Moratti i zikalterve mendoi ta niste ngritjen e Interit nga 21 vjecari Ronaldo Luis Nazario Da Lima.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-18 15:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Bochum-Koln  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bundesliga 1, sezoni 2022-2023. Sfide e vlefshme per javen e 7-te nga stadiumi "Vonovia Ruhr Stadion" ne Bochum. Komenti: Sokol Xhihani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-18 17:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-18 18:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lyon-PSG  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2022-2023. Sfide e vlefshme per javen e 8-te nga stadiumi "Groupama Stadion" ne Lyon. Komenti: Egi Duro.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-18 20:45:00" duration="33300">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-19 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-19 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-20 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-20 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-21 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-21 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-22 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-22 18:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-22 18:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Poloni-Holande  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nations League 2022. Sfide e vlefshme per grupin 4 te Liges A. Nga stadiumi "Narodowy" ne Warszawa. Komenti: Ylli Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-22 20:45:00" duration="33300">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-23 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-23 18:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-23 18:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Gjermani-Hungari  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nations League 2022. Sfide e vlefshme per grupin 3 te Liges A. Nga stadiumi "Red Bull Arena" ne Leipzig. Komenti: Ermal Toti.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-23 20:45:00" duration="33300">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

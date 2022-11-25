@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="RTV Ora">
+    <event id="0" start_time="2022-09-06 12:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-06 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme intervista">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajme dhe intervista e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-06 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sport Fokus">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Të rejat më të fundit nga bota e sportit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-06 15:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me oren">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rrëfime personale, të pathëna, histori suksesi, e shumëçka tjetër. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-06 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mesazh nga Mungo">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liqeni Mungo është një nga vendet më të pasura arkeologjike në botë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-06 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-06 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="ORA E BETIT ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision nga gazetarja Beti Njuma. Aktualiteti i fokusuar tek Shqipëria dhe Kosova, duke i parë ato si një hapësirë e vetme, pranë dhe larg njëra tjetrës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-06 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-06 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-07 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="ORA E BETIT ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision nga gazetarja Beti Njuma. Aktualiteti i fokusuar tek Shqipëria dhe Kosova, duke i parë ato si një hapësirë e vetme, pranë dhe larg njëra tjetrës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-07 02:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me oren">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rrëfime personale, të pathëna, histori suksesi, e shumëçka tjetër. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-07 03:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rrugëtim historik ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-07 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mesazh nga Mungo">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liqeni Mungo është një nga vendet më të pasura arkeologjike në botë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-07 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Luftëtarët e Vaterlosë ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar për betejën më të madhe në histori, prej së cilës janë ruajtur shumë rrëfime personale të burrave dhe grave që luftuan dhe jetuan gjatë atij terrori.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-07 06:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-07 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Ishulli i endrrave ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-07 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-07 08:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-07 10:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-07 10:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="ORA E BETIT ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision nga gazetarja Beti Njuma. Aktualiteti i fokusuar tek Shqipëria dhe Kosova, duke i parë ato si një hapësirë e vetme, pranë dhe larg njëra tjetrës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-07 12:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Luftëtarët e Vaterlosë ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar për betejën më të madhe në histori, prej së cilës janë ruajtur shumë rrëfime personale të burrave dhe grave që luftuan dhe jetuan gjatë atij terrori.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-07 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Para dhe pasuri">Rubrike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një analizë e thelluar e lajmit kryesor të javës, me ekspertizën më te mirë, për të kuptuar dhe analizuar cdo gjë në lidhje me ekonominë dhe financat tona, që na prek direkt të gjithëve</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-07 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme intervista">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajme dhe intervista e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-07 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sport Fokus">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Të rejat më të fundit nga bota e sportit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-07 15:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me oren">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rrëfime personale, të pathëna, histori suksesi, e shumëçka tjetër. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-07 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-07 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-07 19:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-07 20:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Ishulli i endrrave ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-07 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-07 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-08 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-08 02:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me oren">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rrëfime personale, të pathëna, histori suksesi, e shumëçka tjetër. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-08 03:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Para dhe pasuri">Rubrike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një analizë e thelluar e lajmit kryesor të javës, me ekspertizën më te mirë, për të kuptuar dhe analizuar cdo gjë në lidhje me ekonominë dhe financat tona, që na prek direkt të gjithëve</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-08 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Luftëtarët e Vaterlosë ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar për betejën më të madhe në histori, prej së cilës janë ruajtur shumë rrëfime personale të burrave dhe grave që luftuan dhe jetuan gjatë atij terrori.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-08 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Historia e Uiskit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga e ka origjinën pija e famshme me emrin scotch? Ky dokumentar ju njeh me historinë e dhuratës qe Skocia i ka bërë botës dhe pse nje pije kaq e thjeshtë është bërë aq e rëndësishme.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-08 06:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-08 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Ishulli i endrrave ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-08 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-08 08:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-08 10:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-08 10:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Historia e Uiskit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga e ka origjinën pija e famshme me emrin scotch? Ky dokumentar ju njeh me historinë e dhuratës qe Skocia i ka bërë botës dhe pse nje pije kaq e thjeshtë është bërë aq e rëndësishme.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-08 11:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-08 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Motociklistet flokegjate">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Motoçiklistët me flokë të gjatë, marrin të gjithë sharmin dhe humorin e tyre në një udhëtim, në të gjithë Britaninë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-08 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme intervista">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajme dhe intervista e dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-08 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sport Fokus">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Të rejat më të fundit nga bota e sportit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-08 15:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me oren">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rrëfime personale, të pathëna, histori suksesi, e shumëçka tjetër. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-08 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Prijesi guximtar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përjetësimi me anë të fotografisë, i figurës se indianeve të fundit, që sfiduan epërsinë e të bardhëve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-08 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-08 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="DREJT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni drejt që trajton një larmi temash drejtohet nga moderatori Luan Rama.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-08 21:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Film">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-08 22:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Ishulli i endrrave ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel dokumentarësj ekskluziv </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-08 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet e fundit nga vendi dhe bota</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-09 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="DREJT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni drejt që trajton një larmi temash drejtohet nga moderatori Luan Rama.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-09 02:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Jeto me oren">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rrëfime personale, të pathëna, histori suksesi, e shumëçka tjetër. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-09 03:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Film">film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

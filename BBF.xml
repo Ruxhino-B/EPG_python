@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="BBF">
+    <event id="0" start_time="2022-06-05 03:00:00" duration="43140">
+      <short_event_descriptor lang="alb" name="Muzikë">Videoklipe shqiptare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Program muzikor me kengetare dhe videoklipe shqiptare.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

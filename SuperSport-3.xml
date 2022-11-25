@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport HD 3">
+    <event id="0" start_time="2022-09-03 16:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-03 16:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sociedad-Atl Madrid  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 4-t nga stadiumi "Reale Arena" ne San Sebastian. Komenti: Anarildo Alia.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-03 18:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Dokumentar: Portieri, puna me e vetmuar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kush deshiron te behet portier? I vetmuar, larg pjeses tjeter te ekipit, duhet te shmangesh golat dhe cfaredo qe te besh, shpesh kritikohesh me shume se te tjeret.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-03 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Nantes-PSG  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2022-2023. Sfide e vlefshme per javen e 6-te nga stadiumi "Louis Fonteneau" ne Nantes. Komenti: Egi Duro.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-03 21:00:00" duration="32400">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-04 06:00:00" duration="21600">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-04 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Osasuna-Vallecano  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 4-t nga stadiumi "El Sadar" ne Pamplona. Komenti: Alked Gjebrea.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-04 14:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione rreth programeve te SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-04 14:10:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Ath Bilbao-Espanyol  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 4-t nga stadiumi "San Mames Barria" ne Bilbao. Komenti: Sokol Xhihani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-04 16:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Villarreal-Elche  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2022-2023. Sfide e vlefshme per javen e 4-t nga stadiumi "Ciudad de Valencia" ne Valencia. Komenti: Alban Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-04 18:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Nice-Monaco  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2022-2023. Sfide e vlefshme per javen e 6-te nga stadiumi "Allianz Riviera" ne Nice. Komenti: Elvis Rexha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-04 20:45:00" duration="33300">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-05 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-05 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-06 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-06 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-07 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-07 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-08 06:00:00" duration="38700">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-08 16:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Zurich-Arsenal  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League, sezoni 2022-2023. Sfide e vlefshme per grupin A nga stadiumi "Letziground" ne Zurich. Komenti: Sokol Xhihani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-08 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lazio-Feyenoord  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League, sezoni 2022-2023. Sfide e vlefshme per grupin F nga stadiumi "Olimpico" ne Rome. Komenti: Andi Decka.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-08 21:00:00" duration="32400">
+      <short_event_descriptor lang="alb" name="Premier League Channel">Premier League</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

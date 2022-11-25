@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="EUROFILM">
+		<Event id="0" start_time="2022-09-07 04:07:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Vikingët Zemërimi i Zotave">Aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Viking Legacy "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi britanik. Një vajzë e re dhe një viking që është betuar për ta mbrojtur, përpiqen të ruajnë një pergamenë të lashtë që kërkohet nga një lord lufte i pamëshirshëm.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-09-07 05:32:00" duration="8760">
+			<short_event_descriptor lang="alb" name="Gënjeshtra të vogla">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Les Petits Mouchoirs aka Little White L"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pas një aksidenti të rëndë, që e lë njërin prej tyre në spital, një grup miqsh shkojnë në pushimet e tyre vjetore në plazh. Por gënjeshtrat e vogla që i kanë treguar njëri tjetrit dhe ndjenja personale, rrezikojnë t'i përçajnë përgjithmonë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-09-07 07:58:00" duration="6540">
+			<short_event_descriptor lang="alb" name="Jao">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Yao"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Një aktor i famshëm francez në tur në Somali, përpiqet të ndihmojë adhuruesin e tij 13-vjeçar të kthehet në fshatin e tij të largët. Udhëtimi i gjatë drejt shtëpisë së djaloshit e afron atë me rrënjët e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-09-07 09:47:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Një kafe në Berlin">Komedi, Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Oh Boy aka A Coffee In Berlin"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Niko është një të ri që jeton në Berlin, i cili ka lënë në mes universitetin dhe jeton vetëm momentin, deri kur, një ditë, përmes disa ngjarjesh dhe takimesh absurde, gjithçka ndryshon...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-09-07 11:17:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Adios"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Adios"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi spanjoll. Mario Casas, Ruth Díaz. Një i burgosur në lirim me kusht, fillon një hakmarrje të përgjakshme kur vajza e tij e vogël vdes në një përplasje me makinë, në dukje aksidentale.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-09-07 13:12:00" duration="8100">
+			<short_event_descriptor lang="alb" name="Banda La French">Dramë, Krim, Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="La French aka The Connection"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi Franko - Belg me Jean Dujardin dhe Gilles Lellouche. Frymëzuar nga ngjarjet e viteve '70 kur Marseja udhëhiqej nga banda e drogës "La french". Përpjekja disa vjeçare e 1 gjyqtari të policisë për neutralizimin e rrjetit të fuqishëm.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-09-07 15:27:00" duration="6360">
+			<short_event_descriptor lang="alb" name="Parfumet"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Perfumes aka Les parfums"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Emmanuelle Devos. Anne Walberg është krijuese e famshme parfumesh, me një sens të rrallë nuhatjeje dhe me një karakter të vështirë prej dive. Shoferi i saj i ri, një njeri i empatik, është i vetmi që nuk ka frikë t'i bëjë rezistencë kërkesave të saj, por çuditërisht, ajo nuk e zëvendëson me një tjetër...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-09-07 17:13:00" duration="6180">
+			<short_event_descriptor lang="alb" name="Vajza me biçikletë">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Girl On A Bicycle"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Italiani Paolo, shofer autobusi në Paris, merr guximin t'i propozojë të dashurës gjermane, kur sytë i mbesin tek një vajzë e bukur franceze me bicikletë. Nën këshillat e mikut anglez, jeta do t'i ndërlikohet keq.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-09-07 18:56:00" duration="2940">
+			<short_event_descriptor lang="alb" name="Ish-Ortodoksja - eps 1"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Unorthodox"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Një vajzë e re, e rritur në një komunitet të rreptë hebrejsh ultra ortodoksë dhe në një martesë të palumtur, arratiset nga Nju Jorku për të jetuar jetën e saj si një grua e lirë në Berlin, por e kaluara do ta ndjekë nga pas...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-09-07 19:45:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Ish-Ortodoksja - eps 2"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Unorthodox"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Një vajzë e re, e rritur në një komunitet të rreptë hebrejsh ultra ortodoksë dhe në një martesë të palumtur, arratiset nga Nju Jorku për të jetuar jetën e saj si një grua e lirë në Berlin, por e kaluara do ta ndjekë nga pas...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-09-07 20:35:00" duration="3060">
+			<short_event_descriptor lang="alb" name="Ish-Ortodoksja - eps 3"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Unorthodox"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Një vajzë e re, e rritur në një komunitet të rreptë hebrejsh ultra ortodoksë dhe në një martesë të palumtur, arratiset nga Nju Jorku për të jetuar jetën e saj si një grua e lirë në Berlin, por e kaluara do ta ndjekë nga pas...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-09-07 21:26:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Ish-Ortodoksja - eps 4"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Unorthodox"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Një vajzë e re, e rritur në një komunitet të rreptë hebrejsh ultra ortodoksë dhe në një martesë të palumtur, arratiset nga Nju Jorku për të jetuar jetën e saj si një grua e lirë në Berlin, por e kaluara do ta ndjekë nga pas...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-09-07 22:21:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Armëpushimi">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Waffenstillstand aka Ceasefire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Bagdat 2004. Një ekip mjekësh përfitojnë nga armëpushimi 24-orësh për të dërguar ilaçe në qytetin e rrethuar të Falluxhës. Bashkë me një gazetar që nuhat lajm ekskluziv, ata kanë pak orë për të kryer misionin e pamundur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-09-08 00:01:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Të kalbur në shpirt">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tainted Souls "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. Në një pallat në periferi të Romës, jetët e një ish sportisti biseksual, gruas së tij, një shkrimtari dhe të disa kriminelëve ambiciozë, kryqëzohen nën sfondin e krimit, ndjenjave të pasigurta seksuale dhe marrëdhënieve të pista.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-09-08 01:51:00" duration="6960">
+			<short_event_descriptor lang="alb" name="Perëndi">Biografi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gods"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi polak. Historia e vërtetë e Prof. Zbigniew Religa, mjekut vizionar dhe rebel që kreu transplantimin e parë të suksesshëm të zemrës njerëzore në Poloni.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-09-08 03:47:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Macja hirushe">Animacion, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Cinderella the Cat "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. Mia, një adoleshente misterioze memece përpiqet të shpëtojë nga komplotet makiaveliane të njerkës dhe bijave të saj, ndërsa jetojnë në bordin e një anije gjigante të ankoruar para 15 vjetësh në portin e Napolit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-09-08 05:07:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Vrapo Lola vrapo">Aksion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Run Lola Run"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Fitues i çmimit të Publikut në Festivalin e Filmit Sundance. Çdo sekondë përditë bëjmë zgjedhje që mund të ndryshojnë jetën tonë. Ndërgjegjësohuni ose paguani çmimin.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-09-08 06:32:00" duration="5640">
+			<short_event_descriptor lang="alb" name="Jana dhe vendimi kritik">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Jana Und Der Buschpilot 03 Einsame Ents"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Një sëmundje misterioze në një fshat afrikan kërcënon të bëhet epidemi. Kërkimi i burimit të infeksionit, çon një mjeke tek një fis i infektuar rëndë, që nuk pranon ndihmën e saj. Në këto kushte, ajo merr një hap drastik...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-09-08 08:06:00" duration="6360">
+			<short_event_descriptor lang="alb" name="Sfida e Everestit">Komedi, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Climb aka Lascension"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Bazuar në histori të vërtetë. Një i ri parizian me origjinë senegaleze, pa përvojë në alpinizëm, vendos të ngjisë malin Everest për t'i treguar vajzës që dashuron se do të bënte gjithçka për të.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-09-08 09:52:00" duration="6540">
+			<short_event_descriptor lang="alb" name="Udhëtim në Spanjë">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Trip To Spain "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi britanik. Aktorët Steve Coogan dhe Rob Brydon udhëtojnë në Spanjë, në rajonin Bask, ku do të shijojnë pjatat tradicionale, natyrën e mrekullueshme dhe do të bisedojnë mbi historinë, famën dhe ç'do të thotë të prekësh moshën e mesme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-09-08 11:41:00" duration="5760">
+			<short_event_descriptor lang="alb" name="Mrekulli në mal">Aventurë, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Amelie rennt aka Mountain Miracle 2017"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjermano-italian. Pasi arratiset nga klinika ku prej kohësh kurohet për sëmundjen e astmës, Ameli dhe shoku i saj i ri nisin një udhëtim për të arritur majën e një mali. Sipas legjendave, atje shërohet çdo sëmundje...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-09-08 13:17:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Ekzekutimi i fundit"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nahschuss aka The Last Execution"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Historia e vërtetë e njeriut të fundit që u ekzekutua në ish Gjermaninë Lindore, para se dënimi me vdekje të hiqej përfundimisht në vitin 1987. Pasi shkencëtari, Franz Walter joshet të punojë për Sigurimin Shtetëror, kupton se detyra që duhet të kryejë nuk pajtohet me ndërgjegjen e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-08 15:17:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Mision të çmendurish"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Le lion"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Dany Boon, Philippe Katerine. Pasi e fejuara e tij rrëmbehet, një mjek psikiatër në panik, ndihmon të arratiset nga spitali një nga pacientët e tij, i cili betohet se është një agjent sekret shumë i trajnuar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-08 16:52:00" duration="7500">
+			<short_event_descriptor lang="alb" name="Admirali, legjenda">Dramë historike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Admiral aka The Admiral"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi rus. Historia e admiralit Aleksandr Kolschak, një antibolshevik i bindur dhe mbështetës i patundur i perandorisë ruse. Gjatë drejtimit të trupave në Siberi ai do të përballet me një dashuri të ndalur: Anën, bashkëshorten e mikut të tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-08 18:57:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Interval ne Prage"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Interlude In Prague"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi britaniko - çek. Në vitin 1786, Mozarti largohet nga Vjena për në Pragë, por prania e tij shkakton një zinxhir ngjarjesh dramatike kur nis një lidhje të ndaluar dashurie me sopranon e bukur, Zuzana.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-08 20:42:00" duration="6540">
+			<short_event_descriptor lang="alb" name="Zoti ekziston dhe jeton në Bruksel">Fantazi, komedi e zezë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Le tout nouveau testament"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi belg, kandidat për Globin e Artë. Zoti ekziston dhe jeton në Bruksel! Ai ka një grua dhe një vajzë, e cila mendon se ai nuk po bën një punë të mirë. E vendosur për të ndryshuar botën ajo bën të pamundurën të shkruajë një testament të ri.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-08 22:31:00" duration="7440">
+			<short_event_descriptor lang="alb" name="Mbreti im">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mon Roi aka My King"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Vincent Cassel. Pas një aksidenti me ski, një grua shtrohet në një klinikë për t'u rikuperuar. Kur këshilltari i saj i rehabilitimit i kërkon të reflektojë se çfarë e shkaktoi aksidentin, ajo kujton martesën e saj me Xhorxhon.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-09 00:35:00" duration="6120">
+			<short_event_descriptor lang="alb" name="Qyteti i humbur">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Oro aka Gold"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi spanjoll. Në vitin 1538, një grup ushtarësh spanjollë niset në kërkim të një qyteti mitik prej ari në Amazonë. Të verbuar nga kërkimi dhe etja për pasuri, ata zhyten thellë në rivalitete e tradhti, derisa humbasin edhe arsyen...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-09 02:17:00" duration="6480">
+			<short_event_descriptor lang="alb" name="Ekspedita Nanga Parbat">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nanga Parbat"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi gjerman. Historia dramatike e vëllezërve alpinistë Reinhold dhe Gunther Messner dhe ekspedita ambicioze drejt majës së malit Naga Parbat, e cila përfundoi në tragjedi kur vetëm njëri nga vëllezërit arriti në kamp i gjallë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-09 04:05:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Bukuria e gomarit">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="La bellezza del somaro"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. Sergio Castellitto. Ekulibrat delikatë të një familjeje borgjeze mendjehapur italiane tronditen kur vajza 17-vjeçare i prezanton prindërve të dashurin e saj të ri, por jo dhe aq të ri në moshë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-09 05:55:00" duration="4320">
+			<short_event_descriptor lang="alb" name="Romantike anonime">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Les Emotifs Anonymes aka Romantics Anon"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Benoît Poelvoorde, Isabelle Carré. Ç'ndodh kur dy njerëz ndajnë të njëjtin pasion, por s'arrijnë të shprehin ndjenjat e tyre? Ata bien në dashuri... Pikërisht kjo ndodh midis një prodhuesi çokollatash dhe punëtores së tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-09 07:07:00" duration="4680">
+			<short_event_descriptor lang="alb" name="Nje ore paqe"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Do Not Disturb "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi francez. Majkëlli, i apasionuar pas xhazit, ka gjetur një disk të rrallë që ëndërron ta dëgjojë i qetë në shtëpi. Por duket se kushdo, ka diçka më të rëndësishme se ai për të bërë, që kërkon vëmendjen e tij...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-09 08:25:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Ky s&#8217;është vend për të rinjtë">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Non e un paese per giovani 2017"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi italian. Dy të rinj të zhgënjyer nga mundësitë e pakta që ofron Italia, shkojnë në Kubë për një jetë më të mirë. Atje i pret Nora, një vajzë italiane karizmatike, melankolike dhe pak e çmendur, që do t'ua kthejë jetën përmbys...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-09 10:10:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Bukuri e përjetshme">Dramë, romancë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Eternal Beauty "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi anglez. Sally Hawkins. Pasi braktiset në altar, Xhejn kalon një krizë që çon në diagnostikimin e saj me skizofreni. Pa asnjë mbështetje familjare, jeta e Xhejnit duket e trishtë, deri kur ndeshet me një tjetër burim dashurie...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-09 11:45:00" duration="5700">
+			<short_event_descriptor lang="alb" name="9 prilli">Histori, luftë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="April 9th "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi danez. Pilou Asbæk. Mëngjesin e një ditë fatale gjatë Luftës së Dytë Botërore, këmbësoria e guximshme daneze përpiqet të zmbrapsë ushtrinë më të fuqishme të Evropës, Gjermaninë, ndërsa pret për përforcimet...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-09 13:20:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Zemërthyes me kontratë">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="L'arnacoeur aka Heartbreaker"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Romain Duris, Vanessa Paradis. Një njeri, i cili paguhet për të ndarë çifte, përballet me sfidën më të madhe, kur i kërkohet që të ndërhyjë për t'i ndryshuar mendjen një vajze të pasur në prag të martesës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-09 15:05:00" duration="7800">
+			<short_event_descriptor lang="alb" name="Shpirtra në mjegull">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="In the Fog aka V tumane"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi bjellorus. Pasi lihet i lirë nga pushtuesit gjermanë, Sushenya i pafajshëm quhet tradhtar nga rezistenca dhe dënohet me pushkatim. I dëshpëruar për të ruajtur dinjitetin, ai përballet me zgjedhje morale në kushte të pamoralshme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-09 17:15:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Tortë me peta">Krim, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Layer Cake"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Daniel Craig, Sienna Miller. Një trafikant droge vendos të mbyllë disa pazare të fundit dhe më pas të tërhiqet, por ato që dukeshin si punë të vogla do të ndërlikohen dhe tani 'tërheqja' mund t'i kushtojë shumë shtrenjtë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-09 19:00:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Betimi">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Oath aka Eiðurinn  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi islandez. Një baba i devotshëm dhe një mjek i pëkushtuar përpiqet të shpëtojë vajzën e tij nga një botë droge dhe krimi. I dëshpëruar për t'ia arritur qëllimit, ai do të thurë një plan për të kryer krimin perfekt.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-09 20:45:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Në shpirt vallëzoj">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Inside I'm Dancing aka Rory O'Shea Was"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Historia e dy shokeve te cilet largohen nga Streha e Invalideve per te marre nje shtepi se bashku. Punesojne nje vajze te re per t'i ndihmuar, dhe zbulojne nje jete te re te pavarur qe s'e kishin imagjinuar me pare, por sidoqofte jo pa pasoja.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-09 22:30:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Brighton Rock">Krim, thriler</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Brighton Rock"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sam Riley, Andrea Riseborough. I vendosur për t'u ngritur në rangjet e krimit, një i ri vret një rival. Por kur merr vesh se një kameriere është dëshmitarja e vetme që mund ta lidhë me krimin, ai bën të pamundurën për ta joshur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="41" start_time="2022-09-10 00:20:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Heshtja e qytetit të bardhë"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Twin Murders The Silence of the White City aka El silencio de la ciudad blanca "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi spanjoll. Një detektiv shkon në qytetin Vitoria-Gasteiz për të zgjidhur vrasjet që ngjasojnë me ato të një vrasësi serial, i cili është dënuar 20 vjet më parë dhe pritet të lirohet nga burgu.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="42" start_time="2022-09-10 02:10:00" duration="6176">
+			<short_event_descriptor lang="alb" name="Amsterdam Vice">Aksion, krim, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Amsterdam Vice"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi holandez. Amsterdam, 1980. Një detektiv i ri idealist, i transferuar rishtas në një nga rajonet më të egra të kryqytetit, hyn në një garë me kohën kur ndesh një komplot të dhunshëm kundër familjes mbretërore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>

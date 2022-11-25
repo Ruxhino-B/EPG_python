@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="T-HD">
+		<Event id="0" start_time="2022-09-07 06:16:00" duration="4140">
+			<short_event_descriptor lang="alb" name="N'tel të çiftelisë">Koncert</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ntel te ciftelise"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një koncert unik...  Me pjesëmarrjen e 'Formacioni Orkestral i të rinjëve' me instrumente popullore të temperuar. Formacioni Orkestral i Fëmijëve të QKF - Rrëshen. Drejtues Artistik - Kol Picaku. Regjia: Gjergj Marku.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="3" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-09-07 07:25:00" duration="2400">
+			<short_event_descriptor lang="alb" name="Post Graduation">Musical</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Post Graduation"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Muzikal i realizuar nga Universiteti i Arteve Tiranë, me intepretimin e Armando Rustemi, Elona Zyberi, Edisa Erebara.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="3" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-09-07 08:05:00" duration="2100">
+			<short_event_descriptor lang="alb" name="Rrathët e besimit">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rrathet e besimit"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e Radios Fetare në Shqipëri. Si lindën mediat që përhapin fjalën e Perëndisë? Ndalimi i besimit gjatë diktaturës, vështirësitë e para në fillim të viteve '90 dhe lindja e radiove fetare në gjuhën shqipe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-09-07 08:40:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Përse bie kjo daulle">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Perse bie kjo daulle"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Katrina dhe Xhaviti, dy të rinj vullnetarë, bien në dashuri gjatë ndërtimit të një hekurudhe dhe vendosin të martohen. Por babai i Katrinës, malësor, i cili e ka fejuar vajzën pa pëlqimin e saj, refuzon ta pranojë këtë martesë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-09-07 10:20:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Gjurmë në dëborë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gjurme ne debore "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ngjarjet zhvillohen në një postë kufitare në veri. Në kufi zbulohen gjurmë. Kufitar Iliri dyshon në veprimet e Shan Shopelit, përgjegjës i orteqeve. Iliri dhe Shani vihen ballë përballë në një duel të heshtur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-09-07 11:15:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Nata e parë e lirisë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nata e pare e lirise"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Vjeshtë 1944. Ngjarjet zhvillohen në Beratin e sapo çliruar, ku do të zhvillohet një konferencë me krerët më të lartë të shtetit të ri shqiptar. Një grup partizanësh ngarkohen me detyrën e normalizimit të jetës në qytet gjatë natës së parë të çlirimit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-09-07 12:40:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Familja ime">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Familja ime"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Teto Kalina mbetet vetëm pas vdekjes së të shoqit. Nipi ka detyrë të kujdeset për të. Së bashku me rregullat e ngurta, ajo sjell në shtëpinë e re traditat dhe zakonet e vjetra që bien ndesh me jetën e familjes së re.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-09-07 13:55:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Pranvera s'erdhi vetëm">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pranvera s'erdhi vetem"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Irena, një fizikane e re, bashkë me dy kolegë të saj, ndërmerr një studim të rëndësishëm larg nga shtëpia. Ajo shkon për një kontroll shëndetësor në spitalin e qytetit dhe mëson se vuan nga një sëmundje e rëndë. Pasi e merr veten nga tronditja, Irena pajtohet me realitetin duke çmuar çdo sekondë të jetës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-09-07 15:30:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Guximtarët 9"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Guximtaret 9 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kryebashkiaku Erion Veliaj e ka treguar guximin edhe më parë. Sot guxon të fluturojë. Ajo duket si një vajzë delikate, por në fakt është e fortë dhe i pëlqejnë aventurat. Lori Hoxha guxoi përsëri.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-09-07 16:20:00" duration="1500">
+			<short_event_descriptor lang="alb" name="Radio Radio 5"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Radio Radio"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sitkomi i parë shqiptar krijuar nga Gjergji Shemko dhe Koloreto Cukali. Regjia: Gent Bejko. Me aktorët: Salsano Rapi, Ervina Kotolloshi, Gent Bejko, Andia Xhunga, etj.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-09-07 16:45:00" duration="1800">
+			<short_event_descriptor lang="alb" name="Radio Radio 6"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Radio Radio"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sitkomi i parë shqiptar krijuar nga Gjergji Shemko dhe Koloreto Cukali. Regjia: Gent Bejko. Me aktorët: Salsano Rapi, Ervina Kotolloshi, Gent Bejko, Andia Xhunga, etj.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-09-07 17:15:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Atentatet e mëdha 5: Fundi i Tafarit dhe Nakos"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Atentatet e Medha"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Eliminimi i dy prej figurave më të njohura të Luftës Nacional Çlirimtare: Mustafa Gjinishi dhe Nako Spiro. Prapaskena, komplote, krisma rivijnë nga errësira e kohës përmes dokumenteve dhe dëshmive.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-09-07 18:10:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Më ndiq mua: Saranda dhe thesaret">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Me ndiq mua"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një udhëtim ndryshe në rivierën shqiptare. Himara dhe Saranda, dy perla të turizmit shqiptar, siç nuk i keni parë kurrë më parë. Zbuloni pasuritë arkeologjike, historinë unike, polifoninë, traditat e lashta, kulinarinë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-09-07 19:00:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Përrallë nga e kaluara">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Perralle nga e kaluara"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ekranizim i komedisë "14 vjeç dhëndër" nga Andon Zako Çajupi. Historia e martesës së Gjinos 14-vjeçar me Marigonë 28-vjeçare. Me ndihmën e të dashurit të saj, Trimit, Marigoja hakmerret me të gjithë ata që sajuan këtë martesë të pazakontë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-09-07 20:25:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Vdekja e një mbrëtereshe">Monodrame</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Vdekja e nje mbretereshe"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një monodramë nga Rexhep Qosja. Me regji dhe aktrim të Arjeta Dhimës e cila interpreton personazhin e mbretëreshës Ilire, Teuta...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-09-07 21:15:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Gjurmë në dëborë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gjurme ne debore "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ngjarjet zhvillohen në një postë kufitare në veri. Në kufi zbulohen gjurmë. Kufitar Iliri dyshon në veprimet e Shan Shopelit, përgjegjës i orteqeve. Iliri dhe Shani vihen ballë përballë në një duel të heshtur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-09-07 22:05:00" duration="4200">
+			<short_event_descriptor lang="alb" name="Familja ime">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Familja ime"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Teto Kalina mbetet vetëm pas vdekjes së të shoqit. Nipi ka detyrë të kujdeset për të. Së bashku me rregullat e ngurta, ajo sjell në shtëpinë e re traditat dhe zakonet e vjetra që bien ndesh me jetën e familjes së re.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-09-07 23:15:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Pranvera s'erdhi vetëm">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pranvera s'erdhi vetem"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Irena, një fizikane e re, bashkë me dy kolegë të saj, ndërmerr një studim të rëndësishëm larg nga shtëpia. Ajo shkon për një kontroll shëndetësor në spitalin e qytetit dhe mëson se vuan nga një sëmundje e rëndë. Pasi e merr veten nga tronditja, Irena pajtohet me realitetin duke çmuar çdo sekondë të jetës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-09-08 00:50:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Guximtarët 9"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Guximtaret 9 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kryebashkiaku Erion Veliaj e ka treguar guximin edhe më parë. Sot guxon të fluturojë. Ajo duket si një vajzë delikate, por në fakt është e fortë dhe i pëlqejnë aventurat. Lori Hoxha guxoi përsëri.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-09-08 01:40:00" duration="2100">
+			<short_event_descriptor lang="alb" name="Post Graduation">Musical</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Post Graduation"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Muzikal i realizuar nga Universiteti i Arteve Tiranë, me intepretimin e Armando Rustemi, Elona Zyberi, Edisa Erebara.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="3" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-09-08 02:15:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Përse bie kjo daulle">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Perse bie kjo daulle"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Katrina dhe Xhaviti, dy të rinj vullnetarë, bien në dashuri gjatë ndërtimit të një hekurudhe dhe vendosin të martohen. Por babai i Katrinës, malësor, i cili e ka fejuar vajzën pa pëlqimin e saj, refuzon ta pranojë këtë martesë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-09-08 03:50:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Nata e parë e lirisë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nata e pare e lirise"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Vjeshtë 1944. Ngjarjet zhvillohen në Beratin e sapo çliruar, ku do të zhvillohet një konferencë me krerët më të lartë të shtetit të ri shqiptar. Një grup partizanësh ngarkohen me detyrën e normalizimit të jetës në qytet gjatë natës së parë të çlirimit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-08 05:15:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Një çerek shekulli 1">Regjia: Ilir Bajri</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje cerek shekulli 1 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Autorë: Baton Haxhiu dhe Andi Bushati. Historia e kosovës në vitet e nxehta 1974-1999. Demonstratat e vitit 1981. Lindja e LDK-së dhe UÇK-së, etj. Kronika të kohës, dëshmi të protagonistëve kryesorë, fakte që hedhin dritë mbi një kohë ndryshimesh.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-08 06:10:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Një çerek shekulli 2">Regjia: Ilir Bajri</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje cerek shekulli 2 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Autorë: Baton Haxhiu dhe Andi Bushati. Historia e kosovës në vitet e nxehta 1974-1999. Demonstratat e vitit 1981. Lindja e LDK-së dhe UÇK-së, etj. Kronika të kohës, dëshmi të protagonistëve kryesorë, fakte që hedhin dritë mbi një kohë ndryshimesh.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-08 07:10:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Kush vdes në këmbë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Kush vdes ne kembe"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Film portret i bazuar në episodet e jetës dhe aktivitetit patriotik të mësuesit Petro Nini Luarasi, i cili, në fund të shekullit 20, ishte aktiv në mbrojtjen e shkollës dhe gjuhës shqipe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-08 08:45:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Tre njerëz me guna">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tre njerez me guna"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tre partizanë nisen për të kryer detyrën. Në rrugë e sipër diktohen nga gjermanët që u vihen në ndjekje. Për t'u shpëtuar gjermanëve, bariu Xhemo përdor një dredhi të guximshme duke vënë në rrezik veten dhe familjen e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-08 09:50:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Ndërgjegja">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ndergjegja"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Fitimi punon si mekanik në një ofiçinë. Nga pakujdesia, ai lë pa rregulluar frenat e një kamioni, dhe i shkakton një aksident shoferit, Petros. Petro do të ndëshkohet për pakujdesi. Fitimin fillon ta brejë ndërgjegja, por e ka të vështirë ta pranojë fajin. E fejuara e tij i jep kurajë për të treguar të vërtetën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-08 11:10:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Cirku në fshat">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Cirku ne fshat"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Gjatë vizitës së një trupe cirku në një fshat, shfaqja jo vetëm do të argëtojë fshatarët, por edhe do të nxjerrë në pah disa të meta dhe burokraci të drejtuesve. Mes humorit dhe akrobacive, do të zërë vend edhe dashuria e dy të rinjve.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-08 12:30:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Karnavalet">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Karnavalet"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Komedia e parë muzikore shqiptare. Në ditët e karnavaleve, shërbyesja Nasta dhe Loni vënë në lojë tregtarin Nikollaq Jorganxhi, dhe të shoqen, Olimbinë. Ky është momenti ku ata nxjerrin në pah individët e zbrazët, materialistë dhe injorantë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-08 14:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Nëntori i dytë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nentori i dyte"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nga ngjarjet më të rëndësishme të historisë së popullit shqiptar, shpallja e pavarësisë. Personalitetet më të famshme të kombit, të udhëhequr nga patrioti Ismail Qemali, pas shumë pengesash, arrijnë të ngrenë flamurin shqiptar dhe të shpallin kështu Pavarësinë e Shqipërisë në Vlorë më 28 Nëntor 1912.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-08 15:30:00" duration="1860">
+			<short_event_descriptor lang="alb" name="O sa mirë"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="O Sa Mire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Universiteti më i famshëm i të gjitha trevave shqiptare, me studentë nga të gjitha trevat, Tirana, Prishtina, Gjakova, Drenica, Korça, Tetova, Peja, Shkodra e Prizreni, vazhdon të ofrojë situata komike, batuta dhe keqkuptime pa fund...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-08 16:01:00" duration="2640">
+			<short_event_descriptor lang="alb" name="O sa mirë"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="O Sa Mire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Universiteti më i famshëm i të gjitha trevave shqiptare, me studentë nga të gjitha trevat, Tirana, Prishtina, Gjakova, Drenica, Korça, Tetova, Peja, Shkodra e Prizreni, vazhdon të ofrojë situata komike, batuta dhe keqkuptime pa fund...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-08 16:45:00" duration="1920">
+			<short_event_descriptor lang="alb" name="Një dopio histori 15: Fatmir Spahiu"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje dopio histori 115 - Fatmir Spahiu "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Zefi dhe Marku po përpiqen te mbajnë lart emrin e Shqipërisë edhe në emigrim... Do ia dalin vallë? Fatmir Spahiu na tregon historinë e këngës së Zagrebit!</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-08 17:17:00" duration="1980">
+			<short_event_descriptor lang="alb" name="Një dopio histori 16: Olta Gixhari"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje dopio histori 116 - Olta Gixhari "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>'Mbret për 6 ditë'... Olta Gixhari, na tregon historinë e mashtruesit më të madh në Shqipëri, Otto Witte!</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-08 17:50:00" duration="2160">
+			<short_event_descriptor lang="alb" name="Albania road trip 1: Tirana"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Albania Road Trip"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Për t'ju sugjeruar një udhëtim nëpër Shqipëri, duhet ta fillojmë nga kryeqyteti, Tirana. Vështirë ta përfshish të gjithë hapësirën e kryeqytetit shqiptar me një udhëtim të vetëm, por me një përzgjedhje të vendeve më të bukura të tij...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-08 18:26:00" duration="2040">
+			<short_event_descriptor lang="alb" name="Albania road trip 2: Fieri"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Albania Road Trip"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ky udhëtim na drejton në jug të vendit. Nga Fieri në Bylis, nga Bylisi në Apolloni, nga Semani në Vjosë. Një rrugëtim i pasur me kontraste, histori, arkiologji, plazhe, laguna.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-08 19:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Rashomon">Teater</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rashomon"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Shfaqja nis në portën më të madhe të Kiotos, në Japoni, ku një prift, një druvar dhe një berber, diskutojnë mbi një ngjarje krimi të ndodhur një ditë më parë. Nëpërmjet bashkëbisedimit të këtyre tre personazheve, prezantohen tri personazhet e tjerë: një bandit, një samurai dhe gruaja e tij. Ngjarja rrëfehet nga këndvështrimi i tyre, dhe secili i portretizon rrethanat në favor të vetes.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-08 20:30:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Kush vdes në këmbë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Kush vdes ne kembe"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Film portret i bazuar në episodet e jetës dhe aktivitetit patriotik të mësuesit Petro Nini Luarasi, i cili, në fund të shekullit 20, ishte aktiv në mbrojtjen e shkollës dhe gjuhës shqipe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-08 22:00:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Ndërgjegja">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ndergjegja"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Fitimi punon si mekanik në një ofiçinë. Nga pakujdesia, ai lë pa rregulluar frenat e një kamioni, dhe i shkakton një aksident shoferit, Petros. Petro do të ndëshkohet për pakujdesi. Fitimin fillon ta brejë ndërgjegja, por e ka të vështirë ta pranojë fajin. E fejuara e tij i jep kurajë për të treguar të vërtetën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-08 23:15:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Karnavalet">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Karnavalet"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Komedia e parë muzikore shqiptare. Në ditët e karnavaleve, shërbyesja Nasta dhe Loni vënë në lojë tregtarin Nikollaq Jorganxhi, dhe të shoqen, Olimbinë. Ky është momenti ku ata nxjerrin në pah individët e zbrazët, materialistë dhe injorantë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-09 00:45:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Tre njerëz me guna">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tre njerez me guna"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tre partizanë nisen për të kryer detyrën. Në rrugë e sipër diktohen nga gjermanët që u vihen në ndjekje. Për t'u shpëtuar gjermanëve, bariu Xhemo përdor një dredhi të guximshme duke vënë në rrezik veten dhe familjen e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="41" start_time="2022-09-09 01:45:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Një çerek shekulli 1">Regjia: Ilir Bajri</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje cerek shekulli 1 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Autorë: Baton Haxhiu dhe Andi Bushati. Historia e kosovës në vitet e nxehta 1974-1999. Demonstratat e vitit 1981. Lindja e LDK-së dhe UÇK-së, etj. Kronika të kohës, dëshmi të protagonistëve kryesorë, fakte që hedhin dritë mbi një kohë ndryshimesh.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="42" start_time="2022-09-09 02:40:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Një çerek shekulli 2">Regjia: Ilir Bajri</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje cerek shekulli 2 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Autorë: Baton Haxhiu dhe Andi Bushati. Historia e kosovës në vitet e nxehta 1974-1999. Demonstratat e vitit 1981. Lindja e LDK-së dhe UÇK-së, etj. Kronika të kohës, dëshmi të protagonistëve kryesorë, fakte që hedhin dritë mbi një kohë ndryshimesh.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="43" start_time="2022-09-09 03:35:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Cirku në fshat">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Cirku ne fshat"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Gjatë vizitës së një trupe cirku në një fshat, shfaqja jo vetëm do të argëtojë fshatarët, por edhe do të nxjerrë në pah disa të meta dhe burokraci të drejtuesve. Mes humorit dhe akrobacive, do të zërë vend edhe dashuria e dy të rinjve.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="44" start_time="2022-09-09 04:50:00" duration="5460">
+			<short_event_descriptor lang="alb" name="Nëntori i dytë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nentori i dyte"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nga ngjarjet më të rëndësishme të historisë së popullit shqiptar, shpallja e pavarësisë. Personalitetet më të famshme të kombit, të udhëhequr nga patrioti Ismail Qemali, pas shumë pengesash, arrijnë të ngrenë flamurin shqiptar dhe të shpallin kështu Pavarësinë e Shqipërisë në Vlorë më 28 Nëntor 1912.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="45" start_time="2022-09-09 06:21:00" duration="1860">
+			<short_event_descriptor lang="alb" name="Fisi i faunës"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fisi i Faunes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Marrëdhëniet e njeriut me kafshët shtëpiake. Si është ndërtuar kjo miqësi qindra vjeçare e tyre me njeriun? Këshilla veterinare për mirërritjen, të ushqyerit dhe kultivimi e tyre. Si dhe udhëtime për njohjen nga afër me faunën botërore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="46" start_time="2022-09-09 06:52:00" duration="1980">
+			<short_event_descriptor lang="alb" name="Fisi i faunës"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fisi i Faunes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Marrëdhëniet e njeriut me kafshët shtëpiake. Si është ndërtuar kjo miqësi qindra vjeçare e tyre me njeriun? Këshilla veterinare për mirërritjen, të ushqyerit dhe kultivimi e tyre. Si dhe udhëtime për njohjen nga afër me faunën botërore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="47" start_time="2022-09-09 07:25:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Kampionët, një jetë bardheblu">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Kampionet  nje jete bardheblu"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ekipi i Tiranës, lider i Kampionatit Shqiptar të Futbollit, mori jetë në vitin 1920. Historia e një ekipi që i mbijetoi çdo sulmi politik. Emra të mëdhenj që ndikuan në drejtimin e futbollit shqiptar, dëshmitarë të ngjarjeve më të rëndësishme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="48" start_time="2022-09-09 09:10:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Gunat përmbi tela">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gunat permbi tela"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nga ngjarjet më të rëndësishme historike: ikja nga Vlora e trupave italiane të mbetura pas Luftës së Parë Botërore. Luftëtarët hyjnë në kampin e rrethuar armik jo me ndihmën e armëve të sofistikuara të kohës, por me ndihmën e gunave që hedhin mbi tela.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="49" start_time="2022-09-09 10:40:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Duel i heshtur">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Duel i heshtur"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Skenari është mbështetur në aktin heroik të marinarit Spiro Kote. Përpjekjet e tre personave për të rrëmbyer një motovedetë ushtarake me qëllim arratisjen në Itali. Ata ndeshen me marinarin Skënder Guri, i cili i zbulon qëllimet e tyre, arrin t'i asgjësojë dhe të kthejë anijen mbrapsht në Shqipëri.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="50" start_time="2022-09-09 12:10:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Rrethi i kujtesës">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rrethi i kujteses "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pasi është torturuar në kampet naziste të përqendrimit, Margarita Begolli kthehet në atdhe pas 20 vjetësh, me kujtesën e humbur. Për të do të kujdesen shokët e luftës, mbesa dhe mjekë të përkushtuar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="51" start_time="2022-09-09 13:55:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Në pyjet me dëborë ka jetë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ne pyjet me debore ka jete"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luka transferohet në një qytezë veriore. Në udhëtimin e parë bashkë me të shoqen, rruga është e bllokuar nga dëbora. Luka i trembet jetës së kësaj qyteze, por gjen një mjedis shoqëror shumë të shëndetshëm, ku gruaja e tij ndihet shumë mirë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="52" start_time="2022-09-09 15:25:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Si gjithë të tjerët">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Si gjithe te tjeret"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Vullneti, i rritur në shtëpinë fëmijës, sapo ka mbaruar ushtrinë dhe duhet të zgjidhë një sërë problemesh. Për këtë ai gjen mbështetje tek drejtoresha e shtëpisë së fëmijës dhe tek Nasho, ustai i repartit ku ai punonte para ushtrisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="53" start_time="2022-09-09 16:25:00" duration="4200">
+			<short_event_descriptor lang="alb" name="Kodi i drejtshkrimit">Dokumentar nga Beti Njuma.</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Kodi i drejtshkrimit"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në vitin 1972, gjuhëtarët shqiptarë u mblodhën për herë të parë dhe vendosën unanimisht normat e gjuhës shqipe.Por a i kanë qëndruar kohës vendimet e atëhershme dhe a ishin të drejta ato?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="54" start_time="2022-09-09 17:35:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Larg duart nga Shqipëria">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Larg duart nga Shqiperia"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pse shqipëria komuniste braktisi dhe denoncoi traktatin e Varshavës? Cili ishte reagimi i bllokut lindor dhe pse perëndimi deklaroi prerë: Larg duart nga Shqipëria...  Një dokumentar nga Monika Stafa.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="55" start_time="2022-09-09 18:30:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Ritmi i teatrit Korçë">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ritmi i teatrit Korce"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Skenari dhe regjia: Merita Çoçoli. Rruga e gjatë që ka përshkuar teatri 'Andon Zako Cajupi' në Korçë, që prej ndërtimit të tij, deri në ditët e sotme. Le të njihemi me ata që kanë shkruar historinë e këtij institucioni.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="56" start_time="2022-09-09 19:25:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Edhe kështu edhe ashtu">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Edhe keshtu edhe ashtu"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Teoriku Apostol Sako shkruan artikuj dhe jep leksione mbi dashurinë e lirë të rinisë në një kohë kur një konflikt i madh ndodh në familjen tij. E bija, Alma, studente e inxhinierisë, dashuron një këngëtar atëherë kur i ati do ta martojë me një diplomat. Konflikti zgjidhet përmes situatave komike.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="57" start_time="2022-09-09 20:50:00" duration="2700">
+			<short_event_descriptor lang="alb" name="48 Orëshi">Reportazh</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="48 Oreshi "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një reportazh mbi Festivalin Ndërkombëtar '48 Orë Film Projekt' të zhvilluar në Tiranë. Dhjetëra artistë të rinj të ndarë në grupe dhe me një qëllim të vetëm: të realizojnë një film të shkurtër brenda 48 orëve!</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="58" start_time="2022-09-09 21:35:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Gunat përmbi tela">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gunat permbi tela"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nga ngjarjet më të rëndësishme historike: ikja nga Vlora e trupave italiane të mbetura pas Luftës së Parë Botërore. Luftëtarët hyjnë në kampin e rrethuar armik jo me ndihmën e armëve të sofistikuara të kohës, por me ndihmën e gunave që hedhin mbi tela.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="59" start_time="2022-09-09 23:00:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Rrethi i kujtesës">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rrethi i kujteses "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pasi është torturuar në kampet naziste të përqendrimit, Margarita Begolli kthehet në atdhe pas 20 vjetësh, me kujtesën e humbur. Për të do të kujdesen shokët e luftës, mbesa dhe mjekë të përkushtuar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="60" start_time="2022-09-10 00:45:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Larg duart nga Shqipëria">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Larg duart nga Shqiperia"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pse shqipëria komuniste braktisi dhe denoncoi traktatin e Varshavës? Cili ishte reagimi i bllokut lindor dhe pse perëndimi deklaroi prerë: Larg duart nga Shqipëria...  Një dokumentar nga Monika Stafa.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="61" start_time="2022-09-10 01:40:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Kampionët, një jetë bardheblu">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Kampionet  nje jete bardheblu"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ekipi i Tiranës, lider i Kampionatit Shqiptar të Futbollit, mori jetë në vitin 1920. Historia e një ekipi që i mbijetoi çdo sulmi politik. Emra të mëdhenj që ndikuan në drejtimin e futbollit shqiptar, dëshmitarë të ngjarjeve më të rëndësishme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="62" start_time="2022-09-10 03:25:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Duel i heshtur">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Duel i heshtur"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Skenari është mbështetur në aktin heroik të marinarit Spiro Kote. Përpjekjet e tre personave për të rrëmbyer një motovedetë ushtarake me qëllim arratisjen në Itali. Ata ndeshen me marinarin Skënder Guri, i cili i zbulon qëllimet e tyre, arrin t'i asgjësojë dhe të kthejë anijen mbrapsht në Shqipëri.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="63" start_time="2022-09-10 04:50:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Në pyjet me dëborë ka jetë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ne pyjet me debore ka jete"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luka transferohet në një qytezë veriore. Në udhëtimin e parë bashkë me të shoqen, rruga është e bllokuar nga dëbora. Luka i trembet jetës së kësaj qyteze, por gjen një mjedis shoqëror shumë të shëndetshëm, ku gruaja e tij ndihet shumë mirë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="64" start_time="2022-09-10 06:20:00" duration="2880">
+			<short_event_descriptor lang="alb" name="Një çerek shekulli 3">Regjia: Ilir Bajri</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje cerek shekulli 3 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Autorë: Baton Haxhiu dhe Andi Bushati. Historia e kosovës në vitet e nxehta 1974-1999. Demonstratat e vitit 1981. Lindja e LDK-së dhe UÇK-së, etj. Kronika të kohës, dëshmi të protagonistëve kryesorë, fakte që hedhin dritë mbi një kohë ndryshimesh.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="65" start_time="2022-09-10 07:08:00" duration="4020">
+			<short_event_descriptor lang="alb" name="Një çerek shekulli 4">Regjia: Ilir Bajri</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje cerek shekulli 4 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Autorë: Baton Haxhiu dhe Andi Bushati. Historia e kosovës në vitet e nxehta 1974-1999. Demonstratat e vitit 1981. Lindja e LDK-së dhe UÇK-së, etj. Kronika të kohës, dëshmi të protagonistëve kryesorë, fakte që hedhin dritë mbi një kohë ndryshimesh.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="66" start_time="2022-09-10 08:15:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Gjurma">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gjurma"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Artani është mjek i specializuar e i profilizuar, një profesionist me një karrierë të shkëlqyer në të ardhmen e tij. Ai gjendet i rrethuar nga tregtarë dhe matrapazë që kërkojnë të përfitojnë diçka prej tij, një favor, një notë të mirë në këmbim të lajkave, etj. Një realitet absurd që do t'’i kushtojë shumë Artanit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="67" start_time="2022-09-10 10:00:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Guri i besës">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Guri i beses "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ngjarjet zhvillohen në vitet '30, në zonën e Rubikut, e njohur për pasurinë e tokës me bakër. Përfaqësuesit e firmës italiane, që kishte marrë përsipër ngritjen e kësaj industrie, ndeshen me revoltën e minatorëve të zonës, të cilët kërkojnë përmirësimin e kushteve dhe rritjen e pagës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="68" start_time="2022-09-10 11:15:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Vetmi">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Vetmi"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Metamorfoza e Andrit. Nga një person me shumë shokë, tani ai ka mbetur vetëm. Shokët e kanë braktisur. Ai shkatërroi dashurinë e Suzit, vajzës së tij. Edhe pse u desh kohë, ai përpiqet të ndryshojë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="69" start_time="2022-09-10 12:45:00" duration="4200">
+			<short_event_descriptor lang="alb" name="Gjurmë në kaltërsi">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gjurme ne kaltersi"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndrojtja dhe ngurrimi i një studenti të shkollës së aviacionit, do ta çojnë atë deri në një vendim drastik për t'u tërhequr nga pasioni i tij. Me ndihmën e komandantit të ashpër, shokëve dhe mbështetjes së të dashurës së tij, ai do të arrijë të fluturojë përsëri.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="70" start_time="2022-09-10 13:55:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Njeriu i mirë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Njeriu i mire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Telo dhe Vera, dy të rinj të dashuruar, para se të finalizojnë dashurinë e tyre, kalojnë nëpër intrigat e thurura nga vëllai i Verës, Kiço. Ky i fundit, duke qenë egoist dhe karrierist, nuk mund të pranojë martesën e së motrës me Telon, një punëtor i ndershëm që transferohet të punojë në një fshat të thellë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="71" start_time="2022-09-10 15:00:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Komploti i madh: E vërteta e Konferencës së Tiranës">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Komploti i madh: E verteta e konferences se Tiranes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dokumentar nga Beti Njuma. Çfarë ishte 'Koferenca e vitit 1956' - një ndër ngjarjet më kritike për historinë e Partisë së Punës... Pse fjalimet e delegatëve në këtë kongres, e tronditën aq shumë pushtetin e Enver Hoxhës?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="72" start_time="2022-09-10 16:15:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Skanderbeg 9 P1"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Skanderbeg 9 P1"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjisor: Adam Pray. Skenarist: Koloreto Cukali. Aktorë: Ermal Mamaqi, Vedat Bajrami, Salsano Rrapi, Erjona Kakeli, Jonida Vokshi, Laert Vasili etj. Jeta e banorëve dhe ushtarëve të Skënderbeut në një kështjellë të rrethuar nga Turqit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="73" start_time="2022-09-10 16:36:00" duration="780">
+			<short_event_descriptor lang="alb" name="Skanderbeg 9 P3"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Skanderbeg 9 P3"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjisor: Adam Pray. Skenarist: Koloreto Cukali. Aktorë: Ermal Mamaqi, Vedat Bajrami, Salsano Rrapi, Erjona Kakeli, Jonida Vokshi, Laert Vasili etj. Jeta e banorëve dhe ushtarëve të Skënderbeut në një kështjellë të rrethuar nga Turqit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="74" start_time="2022-09-10 16:49:00" duration="660">
+			<short_event_descriptor lang="alb" name="Skanderbeg 10 P1"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Skanderbeg 10 P1"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjisor: Adam Pray. Skenarist: Koloreto Cukali. Aktorë: Ermal Mamaqi, Vedat Bajrami, Salsano Rrapi, Erjona Kakeli, Jonida Vokshi, Laert Vasili etj. Jeta e banorëve dhe ushtarëve të Skënderbeut në një kështjellë të rrethuar nga Turqit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="75" start_time="2022-09-10 17:00:00" duration="780">
+			<short_event_descriptor lang="alb" name="Skanderbeg 10 P2"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Skanderbeg 10 P2"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjisor: Adam Pray. Skenarist: Koloreto Cukali. Aktorë: Ermal Mamaqi, Vedat Bajrami, Salsano Rrapi, Erjona Kakeli, Jonida Vokshi, Laert Vasili etj. Jeta e banorëve dhe ushtarëve të Skënderbeut në një kështjellë të rrethuar nga Turqit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="76" start_time="2022-09-10 17:13:00" duration="1020">
+			<short_event_descriptor lang="alb" name="Skanderbeg 110 P3"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Skanderbeg 110 P3"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjisor: Adam Pray. Skenarist: Koloreto Cukali. Aktorë: Ermal Mamaqi, Vedat Bajrami, Salsano Rrapi, Erjona Kakeli, Jonida Vokshi, Laert Vasili etj. Jeta e banorëve dhe ushtarëve të Skënderbeut në një kështjellë të rrethuar nga Turqit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="77" start_time="2022-09-10 17:30:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Sytë e lumit 7: Shkumbini, lumi i legjendës">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Syte e Lumit"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nga Malesitë e Mokrës, deri në Elbasan e më tej, në det rrjedh një lumë i njohur. Shkumbini thonë se vjen nga burimet ku zanat e malit përkundnin fëmijët e tyre. Të udhëtosh përgjatë tij do të thotë të ndjekësh Egnatian e romakëve.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="78" start_time="2022-09-10 18:25:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Ndihma vjen nga lart">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ndihma vjen nga lart"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Çdo ditë e jetës së tyre fillon e mbaron mes qiellit dhe tokës. Me siguri ju nuk keni dëgjuar kurrë për ekzistencën e tyre. Kjo është historia e jashtëzakonshme e disa burrave të zakonshëm, që shpëtojnë jetë duke e parë vdekjen në sy.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="79" start_time="2022-09-10 19:15:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Lulëkuqet mbi mure">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lulekuqet mbi mure"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jetimët e një strehe vorfënore, nën urdhrat e drejtorit dhe kujdestarit të tyre, pastrojnë çdo natë parullat që njerëzit kanë shkruar kundër fashizmit. Katër shokë të vegjël organizojnë rrëzimin e kujdestarit nëpër shkallë. Nga frika e presioneve të kujdestarit, Sulo i vogël përpiqet të kapërcejë muret e jetimores dhe vritet nga patrulla.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="80" start_time="2022-09-10 20:55:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Gjurma">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gjurma"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Artani është mjek i specializuar e i profilizuar, një profesionist me një karrierë të shkëlqyer në të ardhmen e tij. Ai gjendet i rrethuar nga tregtarë dhe matrapazë që kërkojnë të përfitojnë diçka prej tij, një favor, një notë të mirë në këmbim të lajkave, etj. Një realitet absurd që do t'’i kushtojë shumë Artanit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="81" start_time="2022-09-10 22:45:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Vetmi">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Vetmi"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Metamorfoza e Andrit. Nga një person me shumë shokë, tani ai ka mbetur vetëm. Shokët e kanë braktisur. Ai shkatërroi dashurinë e Suzit, vajzës së tij. Edhe pse u desh kohë, ai përpiqet të ndryshojë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="82" start_time="2022-09-11 00:15:00" duration="4200">
+			<short_event_descriptor lang="alb" name="Njeriu i mirë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Njeriu i mire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Telo dhe Vera, dy të rinj të dashuruar, para se të finalizojnë dashurinë e tyre, kalojnë nëpër intrigat e thurura nga vëllai i Verës, Kiço. Ky i fundit, duke qenë egoist dhe karrierist, nuk mund të pranojë martesën e së motrës me Telon, një punëtor i ndershëm që transferohet të punojë në një fshat të thellë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="83" start_time="2022-09-11 01:25:00" duration="2880">
+			<short_event_descriptor lang="alb" name="Një çerek shekulli 3">Regjia: Ilir Bajri</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje cerek shekulli 3 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Autorë: Baton Haxhiu dhe Andi Bushati. Historia e kosovës në vitet e nxehta 1974-1999. Demonstratat e vitit 1981. Lindja e LDK-së dhe UÇK-së, etj. Kronika të kohës, dëshmi të protagonistëve kryesorë, fakte që hedhin dritë mbi një kohë ndryshimesh.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="84" start_time="2022-09-11 02:13:00" duration="4020">
+			<short_event_descriptor lang="alb" name="Një çerek shekulli 4">Regjia: Ilir Bajri</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje cerek shekulli 4 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Autorë: Baton Haxhiu dhe Andi Bushati. Historia e kosovës në vitet e nxehta 1974-1999. Demonstratat e vitit 1981. Lindja e LDK-së dhe UÇK-së, etj. Kronika të kohës, dëshmi të protagonistëve kryesorë, fakte që hedhin dritë mbi një kohë ndryshimesh.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="85" start_time="2022-09-11 03:20:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Komploti i madh: E vërteta e Konferencës së Tiranës">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Komploti i madh: E verteta e konferences se Tiranes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dokumentar nga Beti Njuma. Çfarë ishte 'Koferenca e vitit 1956' - një ndër ngjarjet më kritike për historinë e Partisë së Punës... Pse fjalimet e delegatëve në këtë kongres, e tronditën aq shumë pushtetin e Enver Hoxhës?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="86" start_time="2022-09-11 04:35:00" duration="4082">
+			<short_event_descriptor lang="alb" name="Gjurmë në kaltërsi">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gjurme ne kaltersi"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndrojtja dhe ngurrimi i një studenti të shkollës së aviacionit, do ta çojnë atë deri në një vendim drastik për t'u tërhequr nga pasioni i tij. Me ndihmën e komandantit të ashpër, shokëve dhe mbështetjes së të dashurës së tij, ai do të arrijë të fluturojë përsëri.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>

@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="EXP shkence">
+    <event id="0" start_time="2022-06-09 13:25:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Linja e montimit 7,8">Dokumentar-II</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni Brajan Angër dhe profesorin Lu Blumfild, të cilët do të na shpjegojnë sesi prodhohen gjërat. Do të shohim procesin e montimit dhe sesi e zakonshmja bëhet e jashtëzakonshme...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-06-09 14:20:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Alaskë: Hetimi i aksidenteve ajrore">Dokumentar-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Alaska ka parkun më të madh në botë të avionëve të vegjël, të cilët përdoren sikundër veturat në vendet tona. Rreth 100 aksidente ajore, ndodhin në Alaskë cdo vit. Aksidente që e kanë zanafillën në ajër dhe duhet të hetohen në tokë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-06-09 15:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Makineritë që ndërtuan Amerikën  ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Televizioni, radio, telefonat, aeroplanët, makinat... Nikola Tesla, Uilliam Harli, Aleksander Graham Bell, Alonzo Deker e shumë të tjerë. Ndiqni historitë dhe rivalitetet befasuese pas inovacioneve që e kthyen Amerikën në një superfuqi. Njihuni me shpikësit më të famshëm amerikanë dhe me historitë e tyre të triumfit apo dështimit, teksa ata kërkojnë zhvillime që do të ndryshojnë njerëzimin...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-06-09 16:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Deshifrimi i Neandertalëve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ata u mbijetuan kushteve të vështira në Europë për 300,000 vjet... Por 40.000 vjet më parë u zhduken... Kush ishin Neandertalët?Dhe pse u zhdukën kur në Tokë erdhëm ne, homosapienët... A jemi ne pasardhës të Neandertalëve?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-06-09 17:20:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Kuriozitete">Nen ndikimin e droges</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikli dokumentar Kuriozitete, do të shpalos disa prej mistereve më të përfolura, në fusha të ndryshme si Histori, Arkeologji, Mjeksi, Natyrë , Biologji,  Antropologji etj.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-06-09 18:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Aksidente të çuditshme">Dokumentar-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni rastet më të cuditshme të aksidenteve. Ku objekte të huaja arrijnë të hyjnë brenda në trupin tuaj. Si do munden doktorët ti zgjidhin këto raste kaq ekstreme dhe të shpëtojnë jetët e pacientëve?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-06-09 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Armiku i padukshëm          ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pikërisht kur teknologjia dhe shkenca mendohej se do të na bënin të ndiheshim më të sigurtë, ne papritur shfaqemi më të cënueshëm ndaj shpërthimit të pandemive. Cfarë duhet të bëjmë që të parandalojmë dhe luftojmë viruset?
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-06-09 21:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Misteret e universit 6">Sezoni II</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Si u krijuam? Cfarë kishte para Big Beng-ut? A ka një krijues? Për të zbuluar të vërtetën e jashtëzakonshme të universit, do t'ju sjellim zbulimet më të fundit nga Astrofizika, Astrobiologjia, Mekanika Kuantike dhe Teoria e Fijeve...
+
+
+
+
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-06-09 21:55:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Si funksionon Universi II">Shkence-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ai mbart misteret më të mëdha që mundojnë njerëzimin ndër shekuj. Si funksionon Universi ynë? A është ai i vetmi Univers? Një teknologji e avancuar tenton për herë të parë 'Një udhëtim në hapësirë e kohë', që nga fillimi deri në fund të Universit.  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-06-09 22:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Gjuajtja perfekte II">Dokumentar-11</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël interesant për të gjithë të apasionuarit pas armëve ku qitës të specialiteteve të ndryshme që do të rivalizojnë si në skuadra ashtu edhe individualisht me armë moderne dhe të vjetra e ku çdo javë do të eleminohet një qitës. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-06-09 23:45:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dosjet e pashpjeguara të Nasë-">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prej më shumë se gjysmë shekulli eksplorim, NASA ka kapur imazhe të disa prej gjërave më të jashtëzakonshme të universit. Cfarë janë këto pamje? A mund të shpjegohen ato? Ky është misioni më i madh i të gjithë kohërave... 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-06-10 00:40:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Spitali i ushqimit">Dokumentar 3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Spitalin Ushqimor, i pari në llojin e tij, i cili i është kushtuar luftës ndaj sëmundjeve nëpërmjet ushqimit. Për më shumë se tre muaj, Spitali Ushqimor do të trajtojë pacientë për sëmundje të ndryshme pa përdorur asnjë ilaç.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-06-10 01:35:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Lojërat e Mendjes VI">Shkence-3,4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga realiteti i hamendësuar tek paragjykimet dhe pritshmëritë që krijojnë lojërat e mendjes njerëzore, ky cikël dokumentarësh do të na ndihmojë t'i afrohemi më shumë pamjes së vërtetë së botës që na rrethon. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-06-10 02:30:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Deshifrimi i makinës së motit ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për të kuptuar se si funksionojnë megastuhitë, thatësirat, zjarret, ne do të eksplorojmë një nga problemet më të mëdha shkencore të të gjitha kohërave. Një investigim global i makinës sonë të klimës. Si e përcakton ajo motin tonë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-06-10 04:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Alienët e lashtësisë 4">Sezoni III</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë e më shumë, shtohen zërat se në të shkuarën jemi vizituar nga qenie jashtëtokësore? Por a ka prova? Kush ishin? Nga vinin? Çfarë lanë pas? Ku shkuan? A do të kthehen, apo kurrë s'kanë ikur? 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-06-10 05:45:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Shokët e çelikut">Dokumentar-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Majkëll Manusakisi, shitësin më të çmendur gjerman të makinave. Ai dhe bashkëpunëtorët e tij të kompanisë Morlok Motors, riparojnë cdo makinë të vjetër ushtarake, me një qëllim të vetëm: ti rishesin.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-06-10 06:50:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Duele Titanësh">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një garë e egër mes makinerive të rënda.3 ekipe. ..Profesionistë të mirëfilltë.Manovratorët më të mirë të Amerikës. Do të sfidojnë njëri - tjetrin.Shpejtësi. Shkathtësi. Fuqi... Ekipi më i mirë - do të largohet me 12 mijë dollarë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-06-10 07:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Spitali i ushqimit">Dokumentar 4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Spitalin Ushqimor, i pari në llojin e tij, i cili i është kushtuar luftës ndaj sëmundjeve nëpërmjet ushqimit. Për më shumë se tre muaj, Spitali Ushqimor do të trajtojë pacientë për sëmundje të ndryshme pa përdorur asnjë ilaç.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-06-10 08:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lojërat e Mendjes VI">Shkence-5,6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga realiteti i hamendësuar tek paragjykimet dhe pritshmëritë që krijojnë lojërat e mendjes njerëzore, ky cikël dokumentarësh do të na ndihmojë t'i afrohemi më shumë pamjes së vërtetë së botës që na rrethon. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-06-10 09:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Njeriu i jashtëzakonshëm    ">Dokumentar-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mendohet se vdekja është fundi. Si ndihen njerëzit kur janë duke vdekur?Të vetmuar? Të trishtuar? Le të gjejmë një menyrë si të mos vdisim gjatë vdekjes. Jeta dhe idetë e Rej Kurzveil.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-06-10 10:55:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Ndërtesat më të veçanta ">Arkitekturat e reja </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Stiven Çang, arkitekt dhe mësues, në çdo episod të këtij cikli dokumentar   do të na njohë me botën e arkitekturës. Do të na tregojë disa ndërtesa shumë të bukura, mënyrën se si janë projektuar dhe se çfarë i bën aq fantastike...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-06-10 12:10:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Linja e montimit 9,10">Dokumentar-II</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni Brajan Angër dhe profesorin Lu Blumfild, të cilët do të na shpjegojnë sesi prodhohen gjërat. Do të shohim procesin e montimit dhe sesi e zakonshmja bëhet e jashtëzakonshme...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-06-10 13:10:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Alaskë: Hetimi i aksidenteve ajrore">Dokumentar-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Alaska ka parkun më të madh në botë të avionëve të vegjël, të cilët përdoren sikundër veturat në vendet tona. Rreth 100 aksidente ajore, ndodhin në Alaskë cdo vit. Aksidente që e kanë zanafillën në ajër dhe duhet të hetohen në tokë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-06-10 14:15:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Njerëzit e ndryshimit, Azia">Shkencë, aktualitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentarësh në pararojë të diskutimeve për ndryshimet klimaterike dhe që sjell shkencëtarë, novatorë e sipërmarrës të cilët nëpërmjet teknologjive të reja, miqësore për planetin, po përpiqen ta shpëtojnë atë. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-06-10 15:25:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Dita zero">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cfarë është 'Dita zero'  në informatikë? A është një katastrofë kibernetike ndoshta e pakthyeshme? Sa kohë kanë në dispozicion projektuesit e programeve, për ta ndalur këtë proces? A kemi një rast konkret? Le të njihemi me vitusin Stuxnet...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-06-10 17:50:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Aksidente të çuditshme">Dokumentar-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni rastet më të cuditshme të aksidenteve. Ku objekte të huaja arrijnë të hyjnë brenda në trupin tuaj. Si do munden doktorët ti zgjidhin këto raste kaq ekstreme dhe të shpëtojnë jetët e pacientëve?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-06-10 18:50:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Deti i hijeve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një zhytje në jetën nënujore dhe alarmi i shfarosjes që i kanoset. Mijëra rrjeta të paligjshme peshkimi krijojnë mure vdekjeje për të kapur peshkun e rrezikuar totoaba. Pse për të sigurar këtë peshk njerëzit janë të gatshëm të shkatërrojnë të gjithë jetën detare që iu del përpara. Emergjenca për të mbrojtur jetën nën ujë nga rreziku me emrin njeri...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-06-10 20:45:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Shkenca e zemerthyerjes">Shkence</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zemra e njeriut përbën muskulin më të rëndësishëm të trupit tonë dhe nëse ndalon së rrahuri, pasojat janë fatale.  Por a ka mundësi që zemra të jetë më shumë se sa thjesht një pompë biologjike? A mundet ajo të mendojë dhe të krijojë ndjesi në vetvete</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-06-10 21:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Misteret e universit 7">Sezoni II</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Si u krijuam? Cfarë kishte para Big Beng-ut? A ka një krijues? Për të zbuluar të vërtetën e jashtëzakonshme të universit, do t'ju sjellim zbulimet më të fundit nga Astrofizika, Astrobiologjia, Mekanika Kuantike dhe Teoria e Fijeve...
+
+
+
+
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-06-10 22:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Si funksionon Universi II">Shkence-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ai mbart misteret më të mëdha që mundojnë njerëzimin ndër shekuj. Si funksionon Universi ynë? A është ai i vetmi Univers? Një teknologji e avancuar tenton për herë të parë 'Një udhëtim në hapësirë e kohë', që nga fillimi deri në fund të Universit.  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-06-10 23:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gjuajtja perfekte II">Dokumentar-12</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël interesant për të gjithë të apasionuarit pas armëve ku qitës të specialiteteve të ndryshme që do të rivalizojnë si në skuadra ashtu edhe individualisht me armë moderne dhe të vjetra e ku çdo javë do të eleminohet një qitës. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-06-11 00:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Duele Titanësh">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një garë e egër mes makinerive të rënda.3 ekipe. ..Profesionistë të mirëfilltë.Manovratorët më të mirë të Amerikës. Do të sfidojnë njëri - tjetrin.Shpejtësi. Shkathtësi. Fuqi... Ekipi më i mirë - do të largohet me 12 mijë dollarë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-06-11 01:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Spitali i ushqimit">Dokumentar 4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Spitalin Ushqimor, i pari në llojin e tij, i cili i është kushtuar luftës ndaj sëmundjeve nëpërmjet ushqimit. Për më shumë se tre muaj, Spitali Ushqimor do të trajtojë pacientë për sëmundje të ndryshme pa përdorur asnjë ilaç.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-06-11 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lojërat e Mendjes VI">Shkence-5,6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga realiteti i hamendësuar tek paragjykimet dhe pritshmëritë që krijojnë lojërat e mendjes njerëzore, ky cikël dokumentarësh do të na ndihmojë t'i afrohemi më shumë pamjes së vërtetë së botës që na rrethon. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-06-11 04:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Njeriu i jashtëzakonshëm    ">Dokumentar-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mendohet se vdekja është fundi. Si ndihen njerëzit kur janë duke vdekur?Të vetmuar? Të trishtuar? Le të gjejmë një menyrë si të mos vdisim gjatë vdekjes. Jeta dhe idetë e Rej Kurzveil.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-06-11 04:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Alienët e lashtësisë 5">Sezoni III</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë e më shumë, shtohen zërat se në të shkuarën jemi vizituar nga qenie jashtëtokësore? Por a ka prova? Kush ishin? Nga vinin? Çfarë lanë pas? Ku shkuan? A do të kthehen, apo kurrë s'kanë ikur? 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-06-11 05:55:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Shokët e çelikut">Dokumentar-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Majkëll Manusakisi, shitësin më të çmendur gjerman të makinave. Ai dhe bashkëpunëtorët e tij të kompanisë Morlok Motors, riparojnë cdo makinë të vjetër ushtarake, me një qëllim të vetëm: ti rishesin.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-06-11 06:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Duele Titanësh">Dokumentar-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një garë e egër mes makinerive të rënda.3 ekipe. ..Profesionistë të mirëfilltë.Manovratorët më të mirë të Amerikës. Do të sfidojnë njëri - tjetrin.Shpejtësi. Shkathtësi. Fuqi... Ekipi më i mirë - do të largohet me 12 mijë dollarë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-06-11 07:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Spitali i ushqimit">Dokumentar-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Spitalin Ushqimor, i pari në llojin e tij, i cili i është kushtuar luftës ndaj sëmundjeve nëpërmjet ushqimit. Për më shumë se tre muaj, Spitali Ushqimor do të trajtojë pacientë për sëmundje të ndryshme pa përdorur asnjë ilaç.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-06-11 08:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Dy krahë, shumë lutje">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy miq projektojnë dhe ndërtojnë një avion të vogël, për të fluturuar rreth e rrotull botës... Emocion, adrenalinë dhe aventura qe nuk duhen humbur...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-06-11 10:00:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Një e vërtetë e paleverdisshme">Dukurite e natyres </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fitues i çmimit Oskar, ky dokumentar që drejtohet nga ish zv.presidenti amerikan Al Gor, i kushtohet një prej çeshtjeve mëshqetesuese të shekullit tone: ngrohjes globale dhe pasojave katastrofike që shkakton ky fenomen.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-06-11 11:55:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Ndërtesat më të veçanta ">Arkitekturat e reja-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Stiven Çang, arkitekt dhe mësues, në çdo episod të këtij cikli dokumentar   do të na njohë me botën e arkitekturës. Do të na tregojë disa ndërtesa shumë të bukura, mënyrën se si janë projektuar dhe se çfarë i bën aq fantastike...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-06-11 13:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Linja e montimit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni Brajan Angër dhe profesorin Lu Blumfild, të cilët do të na shpjegojnë sesi prodhohen gjërat. Do të shohim procesin e montimit dhe sesi e zakonshmja bëhet e jashtëzakonshme...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-06-11 14:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Alaskë: Hetimi i aksidenteve ajrore">Dokumentar-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Alaska ka parkun më të madh në botë të avionëve të vegjël, të cilët përdoren sikundër veturat në vendet tona. Rreth 100 aksidente ajore, ndodhin në Alaskë cdo vit. Aksidente që e kanë zanafillën në ajër dhe duhet të hetohen në tokë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-06-11 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Njerëzit e ndryshimit, Azia">Shkencë, aktualitet-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentarësh në pararojë të diskutimeve për ndryshimet klimaterike dhe që sjell shkencëtarë, novatorë e sipërmarrës të cilët nëpërmjet teknologjive të reja, miqësore për planetin, po përpiqen ta shpëtojnë atë. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-06-11 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ndërtesa nën Skaner">Jerusalem</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndërtesat shekullore kanë mahnitur shkencëtarët për shek. me radhë. Sot, teknologjia më e re, mund t'i eksplorojë këto struktura në një mënyrë që syri njerëzor s'e bën dot. Një udhëtim pas në kohë, për të kuptuar misteret më të vjetra të inxhinierisë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-06-11 17:00:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Dataland">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A e dini se çdo lëvizje që bëni regjistrohet nga Inteligjenca Artificiale? Nga kamerat e sigurisë që tashmë ndodhen kudo, tek kamerat e celularëve tuaj. Por si do të përdoren këto të dhëna në të ardhmen dhe nga kush?
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-06-11 18:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Aksidente të çuditshme">Dokumentar-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni rastet më të cuditshme të aksidenteve. Ku objekte të huaja arrijnë të hyjnë brenda në trupin tuaj. Si do munden doktorët ti zgjidhin këto raste kaq ekstreme dhe të shpëtojnë jetët e pacientëve?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-06-11 19:00:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Si të shërojmë kancerin">Shkencë, mjekësi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekspozim tronditës dhe informues në lidhje me "Industrinë e Kancerit' dhe progresin e paktë të shkencës dhe mjeksisë në luftën kundër tij. Gjithashtu, mund të mësoni se si ta luftoni këtë sëmundje nga shtëpia. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-06-11 21:30:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Misteret e universit 8">Sezoni II</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Si u krijuam? Cfarë kishte para Big Beng-ut? A ka një krijues? Për të zbuluar të vërtetën e jashtëzakonshme të universit, do t'ju sjellim zbulimet më të fundit nga Astrofizika, Astrobiologjia, Mekanika Kuantike dhe Teoria e Fijeve...
+
+
+
+
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-06-11 22:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Si funksionon Universi II">Shkence-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ai mbart misteret më të mëdha që mundojnë njerëzimin ndër shekuj. Si funksionon Universi ynë? A është ai i vetmi Univers? Një teknologji e avancuar tenton për herë të parë 'Një udhëtim në hapësirë e kohë', që nga fillimi deri në fund të Universit.  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-06-11 23:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="A mund të jetojmë përgjithmonë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A mund t'i zëvendësojmë organet tona të vjetëruara, po me aq lehtësi sa zëvendësojmë pjesët e makinës? Shkencëtarët thonë se ajo ditë po vjen. Trupat tanë nuk mund të jetojnë përgjithmonë, por kopjet e tyre virtuale po.. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-06-12 00:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Duele Titanësh">Dokumentar-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një garë e egër mes makinerive të rënda.3 ekipe. ..Profesionistë të mirëfilltë.Manovratorët më të mirë të Amerikës. Do të sfidojnë njëri - tjetrin.Shpejtësi. Shkathtësi. Fuqi... Ekipi më i mirë - do të largohet me 12 mijë dollarë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-06-12 01:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Spitali i ushqimit">Dokumentar-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Spitalin Ushqimor, i pari në llojin e tij, i cili i është kushtuar luftës ndaj sëmundjeve nëpërmjet ushqimit. Për më shumë se tre muaj, Spitali Ushqimor do të trajtojë pacientë për sëmundje të ndryshme pa përdorur asnjë ilaç.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-06-12 02:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dy krahë, shumë lutje">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy miq projektojnë dhe ndërtojnë një avion të vogël, për të fluturuar rreth e rrotull botës... Emocion, adrenalinë dhe aventura qe nuk duhen humbur...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-06-12 03:15:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Një e vërtetë e paleverdisshme">Dukurite e natyres </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fitues i çmimit Oskar, ky dokumentar që drejtohet nga ish zv.presidenti amerikan Al Gor, i kushtohet një prej çeshtjeve mëshqetesuese të shekullit tone: ngrohjes globale dhe pasojave katastrofike që shkakton ky fenomen.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-06-12 05:10:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Alienët e lashtësisë ">Dokumentar 6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë e më shumë, shtohen zërat se në të shkuarën jemi vizituar nga qenie jashtëtokësore? Por a ka prova? Kush ishin? Nga vinin? Çfarë lanë pas? Ku shkuan? A do të kthehen, apo kurrë s'kanë ikur? 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-06-12 06:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Shokët e çelikut">Dokumentar-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Majkëll Manusakisi, shitësin më të çmendur gjerman të makinave. Ai dhe bashkëpunëtorët e tij të kompanisë Morlok Motors, riparojnë cdo makinë të vjetër ushtarake, me një qëllim të vetëm: ti rishesin.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-06-12 07:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Duele Titanësh">Dokumentar-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një garë e egër mes makinerive të rënda.3 ekipe. ..Profesionistë të mirëfilltë.Manovratorët më të mirë të Amerikës. Do të sfidojnë njëri - tjetrin.Shpejtësi. Shkathtësi. Fuqi... Ekipi më i mirë - do të largohet me 12 mijë dollarë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-06-12 07:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Spitali i ushqimit">Dokumentar-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Spitalin Ushqimor, i pari në llojin e tij, i cili i është kushtuar luftës ndaj sëmundjeve nëpërmjet ushqimit. Për më shumë se tre muaj, Spitali Ushqimor do të trajtojë pacientë për sëmundje të ndryshme pa përdorur asnjë ilaç.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-06-12 08:45:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Në brendësi të fabrikave">Dokumentar-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Le të ndjekim Marshall Breinin, inxhinierin, mësuesin dhe autorin më të shitur, teksa shkon në prapaskenë, për të mësuar se si njerëzit dhe makineritë prodhojnë disa nga gjërat më të mrekullueshme në botë...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-06-12 09:45:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Barka që ndërtoi Gai">Dokumentar-1,2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ai është një njeri me një pasion shumë të madh. Gai Martin, çiklist i famshëm botëror dhe mekanik kamionësh, do të transforjmojë një barkë të shkatërruar, në krenarinë e shpikjeve të mëdha të Britanikëve të Revolucionit Industrial. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2022-06-12 10:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Bllokuar në Ashensor    ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo javë 10 miliard njerëz hipin në ashensor... Por çfarë ndodh me ashensorët? Sa të sigurt janë ata? Kjo është historia e vërtetë e një njeriu, i cili kaloi 41 orë të tmerrshme i bllokuar në ashensor..
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2022-06-12 11:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Ndërtesat më të veçanta ">Arkitekturat e reja-3 </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Stiven Çang, arkitekt dhe mësues, në çdo episod të këtij cikli dokumentar   do të na njohë me botën e arkitekturës. Do të na tregojë disa ndërtesa shumë të bukura, mënyrën se si janë projektuar dhe se çfarë i bën aq fantastike...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2022-06-12 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Njeriu i akullt ">Historia e Ljuis Gordon Pugh</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njeriu që sfidoi të ftohtin e ujrave të Antarktidës dhe Artikut. Kush është Ljuis Gordon Pugh, rekordmeni botëror që përshkroi me not distancën më të madhe në dy skajet e Globit. Si arriti të përballonte të ftohtin e acartë? 
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2022-06-12 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Alaskë: Hetimi i aksidenteve ajrore">Dokumentar-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Alaska ka parkun më të madh në botë të avionëve të vegjël, të cilët përdoren sikundër veturat në vendet tona. Rreth 100 aksidente ajore, ndodhin në Alaskë cdo vit. Aksidente që e kanë zanafillën në ajër dhe duhet të hetohen në tokë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2022-06-12 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ngritja e hakerave">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kompjuterat, celularët ruajnë kujtimet tona më të cmuara: Fotografi, video, e-mail private dhe të gjithë informacionin tonë personal. Sot do t'ju njohim me ata njerëz, që bëjnë të pa mundur për të ruajtur të dhënat tona personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2022-06-12 16:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Ndërtesa nën Skaner">Katedralja e Shen Palit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndërtesat shekullore kanë mahnitur shkencëtarët për shek. me radhë. Sot, teknologjia më e re, mund t'i eksplorojë këto struktura në një mënyrë që syri njerëzor s'e bën dot. Një udhëtim pas në kohë, për të kuptuar misteret më të vjetra të inxhinierisë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2022-06-12 17:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Drenazhimi i Titanikut ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për 1 shekull, Titaniku ka qëndruar i fshehur në errësirë, në fund të Atlantikut. Por tani, një ekip shkencëtarësh, i pajisur me mjete të fjalës së fundit, do të zbuojnë misteret jetëgjata të katastrofës, që mund të rishkruajnë historinë e tij.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2022-06-12 18:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Aksidente të çuditshme">Dokumentar-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni rastet më të cuditshme të aksidenteve. Ku objekte të huaja arrijnë të hyjnë brenda në trupin tuaj. Si do munden doktorët ti zgjidhin këto raste kaq ekstreme dhe të shpëtojnë jetët e pacientëve?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2022-06-12 19:00:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Bima e Zotit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me anën tjetër, të një prej bimëve më të diskutuara në botë: Kanabisin dhe efektet e saj.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2022-06-12 21:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Misteret e universit 9">Sezoni II</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Si u krijuam? Cfarë kishte para Big Beng-ut? A ka një krijues? Për të zbuluar të vërtetën e jashtëzakonshme të universit, do t'ju sjellim zbulimet më të fundit nga Astrofizika, Astrobiologjia, Mekanika Kuantike dhe Teoria e Fijeve...
+
+
+
+
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2022-06-12 22:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Si funksionon Universi II">Shkence-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ai mbart misteret më të mëdha që mundojnë njerëzimin ndër shekuj. Si funksionon Universi ynë? A është ai i vetmi Univers? Një teknologji e avancuar tenton për herë të parë 'Një udhëtim në hapësirë e kohë', që nga fillimi deri në fund të Universit.  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2022-06-12 22:50:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Aksidenti ajror më i rëndë në histori">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Të verbuar nga mjegulla e dendur, dy avionë Boing 747, shkojnë drejt katastrofës... Në vitin 1977, aksidenti më i rëndë ajror në historinë e aviacionit, vrau rreth 600 njerëz. Por çfarë duhet bërë që t'i bëjmë pistat tona më të sigurta?  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2022-06-12 23:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Duele Titanësh">Dokumentar-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një garë e egër mes makinerive të rënda.3 ekipe. ..Profesionistë të mirëfilltë.Manovratorët më të mirë të Amerikës. Do të sfidojnë njëri - tjetrin.Shpejtësi. Shkathtësi. Fuqi... Ekipi më i mirë - do të largohet me 12 mijë dollarë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2022-06-13 00:45:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Spitali i ushqimit">Dokumentar-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Spitalin Ushqimor, i pari në llojin e tij, i cili i është kushtuar luftës ndaj sëmundjeve nëpërmjet ushqimit. Për më shumë se tre muaj, Spitali Ushqimor do të trajtojë pacientë për sëmundje të ndryshme pa përdorur asnjë ilaç.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2022-06-13 01:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Në brendësi të fabrikave">Dokumentar-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Le të ndjekim Marshall Breinin, inxhinierin, mësuesin dhe autorin më të shitur, teksa shkon në prapaskenë, për të mësuar se si njerëzit dhe makineritë prodhojnë disa nga gjërat më të mrekullueshme në botë...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2022-06-13 02:45:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Barka që ndërtoi Gai">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ai është një njeri me një pasion shumë të madh. Gai Martin, çiklist i famshëm botëror dhe mekanik kamionësh, do të transforjmojë një barkë të shkatërruar, në krenarinë e shpikjeve të mëdha të Britanikëve të Revolucionit Industrial. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2022-06-13 03:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Bllokuar në Ashensor    ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo javë 10 miliard njerëz hipin në ashensor... Por çfarë ndodh me ashensorët? Sa të sigurt janë ata? Kjo është historia e vërtetë e një njeriu, i cili kaloi 41 orë të tmerrshme i bllokuar në ashensor..
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2022-06-13 05:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Alienët e lashtësisë ">Dokumentar-7</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë e më shumë, shtohen zërat se në të shkuarën jemi vizituar nga qenie jashtëtokësore? Por a ka prova? Kush ishin? Nga vinin? Çfarë lanë pas? Ku shkuan? A do të kthehen, apo kurrë s'kanë ikur? 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2022-06-13 05:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Shokët e çelikut">Dokumentar-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Majkëll Manusakisi, shitësin më të çmendur gjerman të makinave. Ai dhe bashkëpunëtorët e tij të kompanisë Morlok Motors, riparojnë cdo makinë të vjetër ushtarake, me një qëllim të vetëm: ti rishesin.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

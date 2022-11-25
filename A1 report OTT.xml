@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="A1 report OTT">
+    <event id="0" start_time="2022-08-30 20:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-08-30 21:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="EMISIONI - REPOLITIX">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>I drejtuar gazetari Denis Minga me fokus të veçantë ngjarjen dhe zhvillimin e ditës. Aktualiteti politik, analiza ekonomike , drejtësia dhe investigimi , ngjarjet ekskluzive dhe krizat ndërkombëtare trajtohen gjerësisht në Repolitix </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-08-30 22:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Kopshti zoologjik detar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tetë të rinj, të apasionuar pas kafshëve detare, nisin një mision rraskapitës trajnimi gjashtëjavor, për t'u bërë trajnerë delfinësh dhe fokash. Ata nisin të punojnë me kafshë detare të shpëtuara, duke marrë pjesë në shpëtimin e guximshëm të tyre.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-08-30 23:00:00" duration="18000">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-08-31 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-08-31 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="SHTYPI I DITES DHE JU">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Andi Kapxhiu Titujt kryesorë të gazetave, analizat dhe komentet më interesante. Opinioni juaj në ekranin tonë. Telefonatat në studio për temën e ditës, problemet dhe shqetësimet tuaja. Qarkullimi i automjeteve me pamje të drejtëpërdrejta nga rrug</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-08-31 06:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-08-31 06:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Speciale">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Thellimet speciale mbi një temë nga redaksia
+Çdo ditë redaksia e ReportTV thellon një temë të javës përmes intervistave apo reportazheve të shkurtra, pasi detyra jonë nuk është vetëm të japim lajme, por edhe të shpjegojmë detajet dhe prapaskenat.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-08-31 07:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Si te gatuajmë ">Rubrikë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në kuzhinë çdo ditë nga e hëna në të premte në  orën 09.00, për të ndarë me ju ide gatimi e receta nga më të shijshmet dhe më ekonomiket.  Të shtrojmë për familjen një drekë me aromë dhe shumë dashuri? Për këtë vijmë në ndihmë me shumë kënaqësi!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-08-31 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-08-31 08:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rreze dielli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për rreth dy orë, ju shoqërojmë me receta të shijshme, si dhe me miqtë e ditës që kanë histori për të treguar a këshilla për të ndarë. 
+Kthim pas në kohë dhe zhytje mes kujtimesh në rubrikën nostalgji.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-08-31 09:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-08-31 09:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="N`kohe ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision me personazhe publikë.Intervista "pikante" të realizuara në terren e rrëfime të pazakonta!N'kohë Nga Ermal Qori</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-08-31 10:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-08-31 10:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Reportazh- VERI JUG">Reportazh</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>cikël reportazhesh që sjellin mesazhe nga jeta e përditëshme, nga puna e njerëzve të thjeshtë në qytete dhe fshatra të ndryshme. Promovimi I njerëzve që ushtrojnë zanate pune dhe janë artizanë tradicionalë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-08-31 11:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-08-31 11:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Femijet e rruges vs femijet digital">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dikur, lagjet, pallatet, rrugët gumëzhinin nga zërat e fëmijëve ndërsa sot një heshtje 'teknologjike' mbizotëron. Sot interneti ka ndryshuar gjithçka dhe po rrezikon të kthejë disa breza në asocialë. Është përgjegjësia e prindërve që të japin shembullin dhe të edukojnë fëmijët që janë të dhënë pas teknologjisë dhe internetit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-08-31 12:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Si te gatuajmë ">Rubrikë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në kuzhinë çdo ditë nga e hëna në të premte në  orën 09.00, për të ndarë me ju ide gatimi e receta nga më të shijshmet dhe më ekonomiket.  Të shtrojmë për familjen një drekë me aromë dhe shumë dashuri? Për këtë vijmë në ndihmë me shumë kënaqësi!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-08-31 13:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-08-31 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Aborti,e drejte e lirise se individit ap">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Thellimet speciale mbi një temë nga redaksia
+Çdo ditë redaksia e ReportTV thellon një temë të javës përmes intervistave apo reportazheve të shkurtra, pasi detyra jonë nuk është vetëm të japim lajme, por edhe të shpjegojmë detajet dhe prapaskenat.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-08-31 14:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Kopshti zoologjik detar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tetë të rinj, të apasionuar pas kafshëve detare, nisin një mision rraskapitës trajnimi gjashtëjavor, për t'u bërë trajnerë delfinësh dhe fokash. Ata nisin të punojnë me kafshë detare të shpëtuara, duke marrë pjesë në shpëtimin e guximshëm të tyre.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-08-31 14:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Njerëzit me lek dhe pa lek">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prej vitit 1917 deri më tani historia e kartëmonedhave është shënjuar nga disa data të rëndësishme. Për herë të parë një kartëmonedhë në Shqipëri u emetua në Korçë, e quajtur franga. Pas këtij viti prodhimet e kartëmonedhave kanë ndryshuar disa herë në varësi të marrëdhënieve politike që kishte Shqipëria me shtete si ish-Jugosllavia, Italia, Bashkimi Sovjetik apo Kina.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-08-31 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-08-31 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Dosja K">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dosja K",  është një cikël dokumentarësh, kushtuar historive të persekutimit gjatë periudhës së regjimit komunist në Shqipëri. Një dritare e krijuar për tu dhënë zë, historive të mijëra shqiptarëve, që jetuan nën represion..</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-08-31 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-08-31 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="N`kohe ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision me personazhe publikë.Intervista "pikante" të realizuara në terren e rrëfime të pazakonta!N'kohë Nga Ermal Qori</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-08-31 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-08-31 18:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="8 dhjetori ne celuloidin e roland tashos">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>31 vite pas rrëzimit të komunizmit janë si një udhëtim në unazën e kryeqytetit. Kështu e përshkruan rrugëtimin e demokracisë që nga vitit 1990 fotografi dhe dëshmitari ngjarjeve të atyre kohëve, Roland Tasho.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-08-31 18:30:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-08-31 18:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kasketa">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liqeni i Fjolles ne Tirane, ndodhet ne fshatin Peze e madhe. Liqeni eshte I vendosur rreth 20 km larg nga Tirana dhe per te shkuar atje ndiqet rruga e vjeter nga Tirana ne Durres. Liqeni ka marre emrin e lugines poshte kalase se Dorezit, qe quhet lugina e Fjolles.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-08-31 19:55:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Bahama Blue">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ky cikël dokumentarësh na fut në zemër të detit blu, nga Mangroves plot me peshkaqenë të vegjël, deri në Sand Flats, ku ngjyra bëhet e gjelbër dhe uji përshkohet nga breshkat. Një zhytje në thellësinë e pafundme, ku gjallon një jetë e pasur gjallesash.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-08-31 20:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-08-31 21:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Kasketa">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liqeni i Fjolles ne Tirane, ndodhet ne fshatin Peze e madhe. Liqeni eshte I vendosur rreth 20 km larg nga Tirana dhe per te shkuar atje ndiqet rruga e vjeter nga Tirana ne Durres. Liqeni ka marre emrin e lugines poshte kalase se Dorezit, qe quhet lugina e Fjolles.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-08-31 21:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Bahama Blue">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ky cikël dokumentarësh na fut në zemër të detit blu, nga Mangroves plot me peshkaqenë të vegjël, deri në Sand Flats, ku ngjyra bëhet e gjelbër dhe uji përshkohet nga breshkat. Një zhytje në thellësinë e pafundme, ku gjallon një jetë e pasur gjallesash.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-08-31 22:40:00" duration="1800">
+      <short_event_descriptor lang="alb" name="N`kohe ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision me personazhe publikë.Intervista "pikante" të realizuara në terren e rrëfime të pazakonta!N'kohë Nga Ermal Qori</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-08-31 23:10:00" duration="10200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-01 02:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-01 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="SHTYPI I DITES DHE JU">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Andi Kapxhiu Titujt kryesorë të gazetave, analizat dhe komentet më interesante. Opinioni juaj në ekranin tonë. Telefonatat në studio për temën e ditës, problemet dhe shqetësimet tuaja. Qarkullimi i automjeteve me pamje të drejtëpërdrejta nga rrug</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-01 06:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-01 06:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Speciale">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Thellimet speciale mbi një temë nga redaksia
+Çdo ditë redaksia e ReportTV thellon një temë të javës përmes intervistave apo reportazheve të shkurtra, pasi detyra jonë nuk është vetëm të japim lajme, por edhe të shpjegojmë detajet dhe prapaskenat.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-01 07:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Si te gatuajmë ">Rubrikë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në kuzhinë çdo ditë nga e hëna në të premte në  orën 09.00, për të ndarë me ju ide gatimi e receta nga më të shijshmet dhe më ekonomiket.  Të shtrojmë për familjen një drekë me aromë dhe shumë dashuri? Për këtë vijmë në ndihmë me shumë kënaqësi!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-01 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-01 08:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rreze dielli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për rreth dy orë, ju shoqërojmë me receta të shijshme, si dhe me miqtë e ditës që kanë histori për të treguar a këshilla për të ndarë. 
+Kthim pas në kohë dhe zhytje mes kujtimesh në rubrikën nostalgji.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-01 09:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-01 09:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="N`kohe ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision me personazhe publikë.Intervista "pikante" të realizuara në terren e rrëfime të pazakonta!N'kohë Nga Ermal Qori</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-01 10:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-01 10:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Reportazh- VERI JUG">Reportazh</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>cikël reportazhesh që sjellin mesazhe nga jeta e përditëshme, nga puna e njerëzve të thjeshtë në qytete dhe fshatra të ndryshme. Promovimi I njerëzve që ushtrojnë zanate pune dhe janë artizanë tradicionalë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-01 11:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-01 11:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Vila e Zogut para dhe pas plackitjes se ">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Na ishte një herë një pallat veror mbretëror.
+Të gjithë e njihnin si Vila e Zogut në Durrës!Nuk janë të shumtë ata që e kanë parë nga afër bukurinë e arkitekturës së saj.Report Tv transmeton për herë të parë pamje nga brenda pallatit mbretëror ende të padëmtuar. I përkasin vitit 1995 kur një delegacion nga Polonia e vizitoi për të njohur historinë dhe vlerat arkitekturore të saj.Gazetari Artur Korriku ka siguruar edhe pamje të Vilës së Zogut pak pas plaçkitjes dhe vjedhjes që iu bë nga shqiptar</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-01 12:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Si te gatuajmë ">Rubrikë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në kuzhinë çdo ditë nga e hëna në të premte në  orën 09.00, për të ndarë me ju ide gatimi e receta nga më të shijshmet dhe më ekonomiket.  Të shtrojmë për familjen një drekë me aromë dhe shumë dashuri? Për këtë vijmë në ndihmë me shumë kënaqësi!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-01 13:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-01 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Denisa Paho, piktorja që vlerëson përdit">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Denisa Paho është piktorja e vetme që mban veshur shaminë e besimit mysliman. Ajo është bashkëshorte, nënë dhe mësuese. Për pogradecaren e talentuar bukuria e jetës qëndron tek përditshmëria që anashkalojmë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-01 14:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Kopshti zoologjik detar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tetë të rinj, të apasionuar pas kafshëve detare, nisin një mision rraskapitës trajnimi gjashtëjavor, për t'u bërë trajnerë delfinësh dhe fokash. Ata nisin të punojnë me kafshë detare të shpëtuara, duke marrë pjesë në shpëtimin e guximshëm të tyre.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-01 14:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Kur hebrenjte jetonin në  shtepine tonë ">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shqiperia ishte nje nga ato vende te rralla qe i mbrojti dhe i strehoi hebrejte gjate holokaustit, kur fqinjet e tyre dhe nje pjese e vendeve te Ballkanit dhe Europes ua dorezonin nazisteve. 
+Ne specialen per Report TV perfaqesues te familjeve mikpritese, Fatos Qoqja, Bashkim Seiti dhe historiani Nikolla Sudar rrefejne me krenari e nostalgji ngjarje interesante, por edhe tragjike nga bashkejetesa ne nje shtepi me hebrejte kur u kercenohej vet jeta e tyre dhe e familjes nga nazistet, nese i zbul</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-01 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-01 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Dosja K">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dosja K",  është një cikël dokumentarësh, kushtuar historive të persekutimit gjatë periudhës së regjimit komunist në Shqipëri. Një dritare e krijuar për tu dhënë zë, historive të mijëra shqiptarëve, që jetuan nën represion..</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-01 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-01 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="N`kohe ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision me personazhe publikë.Intervista "pikante" të realizuara në terren e rrëfime të pazakonta!N'kohë Nga Ermal Qori</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-01 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-01 18:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Dhuna në familje">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>12 gra janë vrarë nga muaji janar deri në tetor të këtij viti në Shqipëri. Rreth 4 mijë denoncime janë referuar në policinë e shtetit gjatë kësaj periudhe. Pavarësisht ashpërsimit të ligjit, dhuna në familje vazhdon të mbetet plagë e hapur. Report Tv sjell dëshminë e një të mbijetuare që rrëfen se traumat e së shkuarës lënë pasoja në të tashmen e këtyre grave.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-09-01 18:30:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-09-01 18:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Fegini i pare">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e Ikey Solomon, krimineli i njohur si Robin Hood i Anglisë. Por, imazhi që përshkohej nga Charles Dickens, nuk ishte dhe aq i mirë. Fegini, krimineli i neveritshëm, mendohet të jetë frymëzuar pikërisht nga shëmbëlltyra e Ikey.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2022-09-01 20:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2022-09-01 21:05:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Dhuna në familje">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>12 gra janë vrarë nga muaji janar deri në tetor të këtij viti në Shqipëri. Rreth 4 mijë denoncime janë referuar në policinë e shtetit gjatë kësaj periudhe. Pavarësisht ashpërsimit të ligjit, dhuna në familje vazhdon të mbetet plagë e hapur. Report Tv sjell dëshminë e një të mbijetuare që rrëfen se traumat e së shkuarës lënë pasoja në të tashmen e këtyre grave.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2022-09-01 21:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Fegini i pare">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e Ikey Solomon, krimineli i njohur si Robin Hood i Anglisë. Por, imazhi që përshkohej nga Charles Dickens, nuk ishte dhe aq i mirë. Fegini, krimineli i neveritshëm, mendohet të jetë frymëzuar pikërisht nga shëmbëlltyra e Ikey.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2022-09-01 23:00:00" duration="18000">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2022-09-02 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndës</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

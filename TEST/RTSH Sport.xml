@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="RTSH Sport">
+    <event id="0" start_time="2022-09-19 15:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Postsfide">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Postndeshje Abissnet Superiore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-19 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rtsh Sport Lajme">Lajme sportive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet me te rendesishme sportive te dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-19 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ciklizem">Mountainbike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gara me kronometer per femra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-19 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rtsh Sport Lajme">Lajme sportive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet me te rendesishme sportive te dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-19 17:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Ciklizem">Mountainbike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gara me kronometer per meshkuj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-19 19:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rtsh Sport Lajme">Lajme sportive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet me te rendesishme sportive te dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-19 19:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Champions League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Revista Javore Nr 5. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-19 20:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Rubrika Sportive">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje javore. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-19 21:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rtsh Sport Lajme">Lajme sportive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet me te rendesishme sportive te dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-19 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kukesi-Partizani">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Abissnet Superiore, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-20 00:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Rubrika Sportive">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Analize Abissnet Superiore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-20 01:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Champions League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Revista Javore. Ep 5.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-20 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Arte Marciale">Arte Marciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>MMA - Shpirti luftarak. Ep 22 dhe 23-te.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-20 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Argjentine-Paraguai ">Futsal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Finalissima 2022.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-20 06:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rtsh Sport Lajme">Lajme sportive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet me te rendesishme sportive te dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-20 06:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Champions League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The best.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-20 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Formula 1">Formula </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gara e Emilia Romagna.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-20 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Besa-Tomori">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kategoria Pare. Futboll.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-20 11:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rtsh Sport Lajme">Lajme sportive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet me te rendesishme sportive te dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-20 11:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kukesi-Partizani">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Abissnet Superiore, sezoni 2022-2023.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-20 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rtsh Sport Lajme">Lajme sportive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet me te rendesishme sportive te dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-20 14:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Rubrika Sportive">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Analize Abissnet Superiore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-20 15:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Legjenda Murzaku">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kujtesa e sportit shqiptar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-20 16:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Mbreti i Ujit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sulejman Poda. Kujtesa e sportit shqiptar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-20 16:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Katar 2022">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rrugetimi drejt Katar 2022. Ep 11-te.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-20 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rtsh Sport Lajme">Lajme sportive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet me te rendesishme sportive te dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-20 17:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Historia e Evropianeve">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Euro 1960 dhe 1964.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-20 18:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Champions League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The best.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-20 19:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rtsh Sport Lajme">Lajme sportive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet me te rendesishme sportive te dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-20 19:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Angli-Gjermani">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Euro 2022.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-20 21:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rtsh Sport Lajme">Lajme sportive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet me te rendesishme sportive te dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-20 22:01:00" duration="7140">
+      <short_event_descriptor lang="alb" name="Besa-Tomori (Kategoria e Parë 2022-23)" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-21 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="F1 Emilia-Romanja: Gara" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-21 02:00:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Angli-Gjermani (Euro2022)" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-21 04:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Historia e Kampionateve Evropiane (1960/" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-21 05:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Çiklizëm Botërori 2022 (Kronometër ekipo" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-21 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="RTSH SPORT LAJME" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-21 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rrugëtimi drejt Qatar2022 Ep11" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-21 08:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Champions League BEST" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-21 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Flamurtari-Korabi (Kategoria e Parë 2022" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-21 11:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="RTSH SPORT LAJME" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-21 11:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="F1 Miami: Gara" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-21 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="RTSH SPORT LAJME" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-21 14:00:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Çiklizëm Botërori 2022 (Kronometër ekipo" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-21 15:55:00" duration="7500">
+      <short_event_descriptor lang="alb" name="FC Vorskla Poltava-KS Vllaznia (Champion">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-21 18:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rrugëtimi drejt Qatar2022 Ep12" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-21 18:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Champions League BEST" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-21 19:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="RTSH SPORT LAJME" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-21 19:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Real Madrid-Eintracht Frankfurt (UEFA Su" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-21 21:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="RTSH SPORT LAJME" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

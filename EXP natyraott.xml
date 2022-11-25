@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="EXP natyraott">
+    <event id="0" start_time="2022-06-09 08:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Udhëtime ne kanal">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prunela Skejls dhe Timoti Uest janë burrë e grua prej më shumë se 5 dekadash. Pasioni i tyre më i madh janë kanalet. Atje, ata ruajnë shumë kujtime të vyera. Le ti ndjekim tek lundrojnë në shtigje të reja...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-06-09 09:10:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Natyra gjatë natës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bota natën është plot frikë dhe mrekulli. Me përdorimin e teknologjisë më të re, mund të shohim edhe në errësirë. Le të eksplorojmë botën, natën. Le ti zbulojmë gjërat, nën një dritë të re...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-06-09 10:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Gangu-Lumenjtë e shenjtë">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Simon Riv. Ai do të udhëtojë në 3 nga lumenjtë më të bukur në botë. Veçantia e tyre është se janë të shenjtë. Këto lumenj i kanë dhënë zhvillim, tre prej civilizimeve më të mëdha në botë: Kinës, Indisë, Afrikës.  
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-06-09 11:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Vrasësit e mëdhenj">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Miliona vjet pas epokës së dinosaurëve, në këtë planet vazhdojnë të enden gjigantët. Të krijuar për t'i rezistuar sprovave të kohës. Ata vijnë me trupa të stërmëdhenj.  Lëkurë të trashë... Dhëmbë të mprehtë... Dhe agresivitet... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-06-09 12:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Britania e egër ">Udhetim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bukuria natyrore e Britanisë shpesh anashkalohet. Pra le të bëjmë një shëtitje në natyrën e egër, në tokën e gjelbër dhe të këndshme, përgjatë bregdetit të thyer dhe në 6 mijë ishujt që përbëjnë ishujt e Britanisë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-06-09 12:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Nga Çikago në L.A ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Motorristët flokëgjatë kanë 25 vite që shëtisin botën me motorrët e tyre. Në këtë cikël Davidi dhe Simoni do të udhëtojnë nga Çikago deri në Los Anxhelos. Duke shijuar lokalet, historinë dhe kulturën e këtyre vendeve ku do ndalojnë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-06-09 14:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Jeta e eger e Serengetit">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është drama e botës sonë, ku nënat mundohen të rrisin të vegjlit. Rivalë xhelozë ndajnë familjet. Të rinjtë përleshen për të gjetur vendin e tyre. Dhe të gjithë u vumë në provë nga elementet e natyrës, nga stinët dhe nga njëri-tjetri. Kjo është h</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-06-09 15:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gjendja e brishtë e oqeaneve  ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>I xhiruar në 20 vende, për më shumë se 4 vite. Ndiqni gazetarin Kreig Lison dhe Zhytësen Tania Striter, bashkë me një ekip shkencëtarësh ndërkombëtarë, të cilët do të zbulojnë shkaqet dhe pasojat e ndotjes plastike në Oqeane.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-06-09 16:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Kopshtet e Amerikës ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Amerika ka një larmi të jashtëzakonshme peisazhesh dhe popujsh, ndryshe nga çdo vend tjetër i botës. Por a është e vërtetë kjo edhe për kopshtet e saj? A ekziston diçka që mund të quhet kopsht Amerikan?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-06-09 17:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Europa e parë nga lart-Mbreteria e bashk">Udhetim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh, do të bëjmë një turne ajror përmes Evropës. Do të shohim vendet nga një perspektivë tërësisht e re. Duke filmuar nga lart dhe gjatë një viti të vetëm, ndërsa peizazhi transformohet me stinët që ndryshojnë, ne do të zbulojmë kulturën, historinë dhe inxhinierinë që ndërtoi kombet e mëdha evropiane që shohim sot.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-06-09 18:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Gjurmuesi i balenave ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjisori Tom Mastill rikthehet në Kaliforni për të hetuar se përse në vitin 2015, një balenë 30 ton u hodh mbi të.  Ai do të rindërtojë atë që i ndodhi. Si ka mundësi që e goditi balena? A mund të jetë hedhur balena me qëllim?
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-06-09 18:55:00" duration="3300">
+      <short_event_descriptor lang="alb" name=" Luani i fundit në Liuwa">Natyrë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rrëfim i jetës së gjallesave të egra në parkun natyror të Liuvas, parë nga sytë e mbretit të kafshëve, luanit, në apogjeun e sundimit të tij dhe me shpresën se ditët e mira do të kthehen sërish për natyrën.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-06-09 19:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Kallamari-Noti me përbindëshat">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Stivi ndodhet në Gjirin e Kalifornisë për të tentuar një sipërmarrje të rrezikshme. Ai do të studiojë nga afër sjelljen e kallamarëve gjatë gjuetisë së tyre, duke ofruar veten e tij si karrem..!
+
+ 
+
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-06-09 20:35:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Udhetime aventuriere ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga një udhëtim, mëson më shumë se nga dhjetra libra, ndaj njihuni me vende, të cilat rrallë i kemi parë në ekran. Do vizitojmë Ekuadorin, Trinidad, Kolumbinë, Argjentinën, Uruguain, Meksikën. Gjëra interesante, shumica të panjohura...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-06-09 21:05:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Momentet më të frikshme në det">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga deti Bering deri në Atlantikun Verior, oqeanet amerikane ofrojnë rrezik të pafund. Na ndiqni dhe bëhuni dëshmitarë të momenteve më të frikshme që janë xhiruar ndonjëherë në det dhe frymëzohuni nga vëllazëria e detit...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-06-09 21:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kopshti i mbretëreshës  ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pallati Bakingam në Londër është një nga godinat më të famshme në botë. Por çka fshihet pas kësaj fasade madhështore është një nga sekretet e ruajtura më mirë në Britani... Le të njihemi  me 'Kopshtet e pallatit Bakingam'...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-06-09 22:55:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Mrekullitë e Kroacisë ">Dubrovniku</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arkitektura e këtij rajoni, është një nga më të mirat në Evropë. Adhuruesit e jahteve nuk mund t'i rezistojnë. Nga ishulli i mallkuar, te vendlindja e eksploruesit më të madh, do vizitojmë ishuj plot me legjenda. Le të zbulojmë rajonin e Dubrovnikut!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-06-09 23:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Skaji i eger-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentar mbi mrekullitë që fsheh Amerika e Veriut. Pas 5 vitesh xhirime, vjen një ngjarje epike e paharrushme televizive. Aty ku civilizimi përplaset me shkretëtirën e egër. Pyje të pafundme, male të pashkelura, brigje të virgjëra. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-06-10 00:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Magjia e blusë së pafundme">Europa-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Toka, një botë prej uji. Pothuajse ¾ e sipërfaqes së saj, shtrihet nën një mozaik blu të përbërë nga dete dhe oqeane. Një punë befasuese në skuadër dhe takime magjepsëse zbulojnë magjinë e blusë së pafundme. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-06-10 01:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Udhëtime ne kanal 1">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prunela Skejls dhe Timoti Uest janë burrë e grua prej më shumë se 5 dekadash. Pasioni i tyre më i madh janë kanalet. Atje, ata ruajnë shumë kujtime të vyera. Le ti ndjekim tek lundrojnë në shtigje të reja...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-06-10 02:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Qente më  këndshëm në Amerikë">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ata sjanë asapak të zakontë. Klipet e tyre, qarkullojnë në të gjithë botën. E dini për çfarë po flasim.? Për klipet e qenëve që kanë bërë për të qeshur Amerikën... Bëhuni gati për botën e qenve më të bukur, siç nuk i keni parë kurrë.
+  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-06-10 03:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Hebridet: Ishujt buzë kontinen">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje e jetës natyre të ishujve Hebride në bregdetin perëndimor të Skocisë, ku shihet nga afër bashkëveprimi i gjallesave dhe natyrës me banorët e këtyre ishujve që kanë mësuar të përshtaten më së miri me fqinjët e egër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-06-10 04:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Natyra gjatë natës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bota natën është plot frikë dhe mrekulli. Me përdorimin e teknologjisë më të re, mund të shohim edhe në errësirë. Le të eksplorojmë botën, natën. Le ti zbulojmë gjërat, nën një dritë të re...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-06-10 05:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Mbretëria e Majmunëve ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Majën dhe të sapolindurin e saj shumë kurioz, Kip. Ndiqni udhëtimin e tyre të jashtëzakonshëm nga xhungla e vërtetë në xhunglën urbane dhe zbuloni se s'ka rëndësi ku jeton, sepse në shtëpi, ndjehesh kur ke familjen pranë.
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-06-10 06:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Magjia e blusë së pafundme">Afrika</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Toka, një botë prej uji. Pothuajse ¾ e sipërfaqes së saj, shtrihet nën një mozaik blu të përbërë nga dete dhe oqeane. Një punë befasuese në skuadër dhe takime magjepsëse zbulojnë magjinë e blusë së pafundme. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-06-10 07:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Hebridet: Ishujt buzë kontinen">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje e jetës natyre të ishujve Hebride në bregdetin perëndimor të Skocisë, ku shihet nga afër bashkëveprimi i gjallesave dhe natyrës me banorët e këtyre ishujve që kanë mësuar të përshtaten më së miri me fqinjët e egër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-06-10 08:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Udhëtime ne kanal 1">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prunela Skejls dhe Timoti Uest janë burrë e grua prej më shumë se 5 dekadash. Pasioni i tyre më i madh janë kanalet. Atje, ata ruajnë shumë kujtime të vyera. Le ti ndjekim tek lundrojnë në shtigje të reja...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-06-10 09:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Natyra gjatë natës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bota natën është plot frikë dhe mrekulli. Me përdorimin e teknologjisë më të re, mund të shohim edhe në errësirë. Le të eksplorojmë botën, natën. Le ti zbulojmë gjërat, nën një dritë të re...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-06-10 09:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Penish-Aromë Tregu">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në disa nga tregjet ushqimore më të famshme. Si të përshtatemi me kulturën kulinare të vendeve të ndryshme... Kultura, shija dhe një mënyrë fantastike në eksplorimin e përgatitjes së një pjate të shijshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-06-10 10:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Lumi Jantze-Lumenjtë e shenjtë">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Simon Riv. Ai do të udhëtojë në 3 nga lumenjtë më të bukur në botë. Veçantia e tyre është se janë të shenjtë. Këto lumenj i kanë dhënë zhvillim, tre prej civilizimeve më të mëdha në botë: Kinës, Indisë, Afrikës.  
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-06-10 11:20:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Vrasësit e Afrikës            ">Tufat e medha-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Miliona vjet pas epokës së dinosaurëve, në këtë planet vazhdojnë të enden gjigantët. Të krijuar për t'i rezistuar sprovave të kohës. Ata vijnë me trupa të stërmëdhenj.  Lëkurë të trashë... Dhëmbë të mprehtë... Dhe agresivitet... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-06-10 12:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Britania e egër ">Udhetim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bukuria natyrore e Britanisë shpesh anashkalohet. Pra le të bëjmë një shëtitje në natyrën e egër, në tokën e gjelbër dhe të këndshme, përgjatë bregdetit të thyer dhe në 6 mijë ishujt që përbëjnë ishujt e Britanisë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-06-10 13:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Nga Çikago në L.A ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Motorristët flokëgjatë kanë 25 vite që shëtisin botën me motorrët e tyre. Në këtë cikël Davidi dhe Simoni do të udhëtojnë nga Çikago deri në Los Anxhelos. Duke shijuar lokalet, historinë dhe kulturën e këtyre vendeve ku do ndalojnë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-06-10 14:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Jeta e eger e Serengetit">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është drama e botës sonë, ku nënat mundohen të rrisin të vegjlit. Rivalë xhelozë ndajnë familjet. Të rinjtë përleshen për të gjetur vendin e tyre. Dhe të gjithë u vumë në provë nga elementet e natyrës, nga stinët dhe nga njëri-tjetri. Kjo është h</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-06-10 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Jeta me ngjyra   ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bota natyrore është plot me ngjyra. Kafshët mund t'i përdorin ato për shumë arsye. Disa prej tyre madje, kanë ngjyra që ne njerëzit s'mund t'i shohim. Me teknologjitë e reja, disa të krijuara enkas për këtë dokumentar, mund të zbulojmë një botë që deri sot ishte e fshehur.
+
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-06-10 16:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fushëbeteja: Lufta për rinocerontet">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Afrikën e Jugut vriten 18 rinocerontë çdo orë. Katër anëtarë të forcave speciale të marinës amerikane ndërmarrin një mision, që më vonë do kthehet në nevojë: të ndalojnë gjuetinë pa leje të rinocerontëve. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-06-10 16:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Europa e parë nga lart-Spanja">Udhetim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh, do të bëjmë një turne ajror përmes Evropës. Do të shohim vendet nga një perspektivë tërësisht e re. Duke filmuar nga lart dhe gjatë një viti të vetëm, ndërsa peizazhi transformohet me stinët që ndryshojnë, ne do të zbulojmë kulturën, historinë dhe inxhinierinë që ndërtoi kombet e mëdha evropiane që shohim sot.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-06-10 17:40:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Ditarët e tokës">Vendet e shenjta-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim, në kërkim të ritualeve fetare më të mrekullueshme në botë. Do të njihemi me vende dhe kultura të jashtëzakonshme dhe shumë intriguese. Aty ku njerëzit kanë krijuar ritualë për të përmbushur nevojat e tyre shpirtërore...  
+
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-06-10 18:10:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Qentë në tokën e luanëve">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni jetën e një familje qensh të egër, në Afrikë. Njihuni me Pazëlls dhe familjen e saj prej 12 këlyshësh, të cilët do të ketë nevojë për çdo grimcë të kurajës dhe dinakërisë së saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-06-10 19:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Nga Arizona në Amerikën e jugu">Aventura e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni dy komedianët e njohur Anglez - Dara O'Brian dhe Ed Bërn, në aventurën e tyre epike. Ata do të udhëtojnë 4 mijë milje në rrugën më të gjatë në botë, autostradën Pan Amerikane. Duke kaluar përmes disa prej vendeve më spektakolare dhe të rreziku</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-06-10 20:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Mbretërit e peshkimit të Mustakut">Natyre-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mustaku ndodhet në shumë vende, por ne do të flasim për mustakun e ujrave të Teksasit, i cili është objekt i një gjuetie të vecantë, gjuetisë me duar të xhveshura. Njihuni me këtë lloj sporti me adrenalinë të fuqishme...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-06-10 20:55:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Mrekullitë e Kroacisë ">Gjiri i Kvarnerit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Kroaci mbizotëron moda, historia dhe tifozët e sportit. Kjo tokë evropiane strehon fisnikërinë të rrethuar nga bukuritë e natyrës. Njihuni me traditën e këtij vendi përmes këngëve dhe kërcimeve...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-06-10 21:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Udhetim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentar mbi mrekullitë që fsheh Amerika e Veriut. Pas 5 vitesh xhirime, vjen një ngjarje epike e paharrushme televizive. Aty ku civilizimi përplaset me shkretëtirën e egër. Pyje të pafundme, male të pashkelura, brigje të virgjëra. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-06-10 22:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Magjia e blusë së pafundme">Afrika</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Toka, një botë prej uji. Pothuajse ¾ e sipërfaqes së saj, shtrihet nën një mozaik blu të përbërë nga dete dhe oqeane. Një punë befasuese në skuadër dhe takime magjepsëse zbulojnë magjinë e blusë së pafundme. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-06-10 23:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Udhëtime ne kanal 1">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prunela Skejls dhe Timoti Uest janë burrë e grua prej më shumë se 5 dekadash. Pasioni i tyre më i madh janë kanalet. Atje, ata ruajnë shumë kujtime të vyera. Le ti ndjekim tek lundrojnë në shtigje të reja...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-06-11 00:20:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Mbretëria e Majmunëve ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Majën dhe të sapolindurin e saj shumë kurioz, Kip. Ndiqni udhëtimin e tyre të jashtëzakonshëm nga xhungla e vërtetë në xhunglën urbane dhe zbuloni se s'ka rëndësi ku jeton, sepse në shtëpi, ndjehesh kur ke familjen pranë.
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-06-11 01:40:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Penish-Aromë Tregu">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në disa nga tregjet ushqimore më të famshme. Si të përshtatemi me kulturën kulinare të vendeve të ndryshme... Kultura, shija dhe një mënyrë fantastike në eksplorimin e përgatitjes së një pjate të shijshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-06-11 02:10:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Hebridet: Ishujt buzë kontinen">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje e jetës natyre të ishujve Hebride në bregdetin perëndimor të Skocisë, ku shihet nga afër bashkëveprimi i gjallesave dhe natyrës me banorët e këtyre ishujve që kanë mësuar të përshtaten më së miri me fqinjët e egër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-06-11 03:10:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Lumi Jantze-Lumenjtë e shenjtë">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Simon Riv. Ai do të udhëtojë në 3 nga lumenjtë më të bukur në botë. Veçantia e tyre është se janë të shenjtë. Këto lumenj i kanë dhënë zhvillim, tre prej civilizimeve më të mëdha në botë: Kinës, Indisë, Afrikës.  
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-06-11 04:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Natyra gjatë natës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bota natën është plot frikë dhe mrekulli. Me përdorimin e teknologjisë më të re, mund të shohim edhe në errësirë. Le të eksplorojmë botën, natën. Le ti zbulojmë gjërat, nën një dritë të re...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-06-11 05:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Umbria- Zemra e gjelbër e Italise">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Umbria ka gjelbërim, ka monumente antike, ka historinë e gjallë të Rilindjes së lavdishme italiane të përjetësuar në qytetet e saj. Ajo ka zërat që duken në sinkron të plotë me natyrën që i rrethon, dhe kodrinat si të vëna me dorë. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-06-11 05:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Magjia e blusë së pafundme">Amerika e veriut-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Toka, një botë prej uji. Pothuajse ¾ e sipërfaqes së saj, shtrihet nën një mozaik blu të përbërë nga dete dhe oqeane. Një punë befasuese në skuadër dhe takime magjepsëse zbulojnë magjinë e blusë së pafundme. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-06-11 06:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Vende detare-Dominika">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është iniciativa e dy familjeve që ndërmorën një udhëtim në Karaibe larg masave të sigurisë dhe kufizimeve të jetës moderne. Një udhëtim në det të hapur, për të eksploruar plazhe dhe ishujt e pabanuar.
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-06-11 07:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Hebridet: Ishujt buzë kontinen">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje e jetës natyre të ishujve Hebride në bregdetin perëndimor të Skocisë, ku shihet nga afër bashkëveprimi i gjallesave dhe natyrës me banorët e këtyre ishujve që kanë mësuar të përshtaten më së miri me fqinjët e egër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-06-11 08:05:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Udhëtime ne kanal ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prunela Skejls dhe Timoti Uest janë burrë e grua prej më shumë se 5 dekadash. Pasioni i tyre më i madh janë kanalet. Atje, ata ruajnë shumë kujtime të vyera. Le ti ndjekim tek lundrojnë në shtigje të reja...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-06-11 08:55:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Natyra gjatë natës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bota natën është plot frikë dhe mrekulli. Me përdorimin e teknologjisë më të re, mund të shohim edhe në errësirë. Le të eksplorojmë botën, natën. Le ti zbulojmë gjërat, nën një dritë të re...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-06-11 09:50:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Bretkosat">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bretkosat jetojnë në dy ambjente, në tokë dhe në ujë, dhe lëkura e tyre është dyfish më ndjeshme ndaj ndotjes dhe ndryshimeve të ngadalta të mjedisit. Ato janë një barometër i gjallë i ndryshimit të klimës në tokë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-06-11 10:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Vrasësit e Afrikës            ">Macet vrasese</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Miliona vjet pas epokës së dinosaurëve, në këtë planet vazhdojnë të enden gjigantët. Të krijuar për t'i rezistuar sprovave të kohës. Ata vijnë me trupa të stërmëdhenj.  Lëkurë të trashë... Dhëmbë të mprehtë... Dhe agresivitet... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-06-11 11:40:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sines-Aromë Tregu">Natyre-11</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në disa nga tregjet ushqimore më të famshme. Si të përshtatemi me kulturën kulinare të vendeve të ndryshme... Kultura, shija dhe një mënyrë fantastike në eksplorimin e përgatitjes së një pjate të shijshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-06-11 12:10:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Britania e egër ">Udhetim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bukuria natyrore e Britanisë shpesh anashkalohet. Pra le të bëjmë një shëtitje në natyrën e egër, në tokën e gjelbër dhe të këndshme, përgjatë bregdetit të thyer dhe në 6 mijë ishujt që përbëjnë ishujt e Britanisë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-06-11 13:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Nga Havai ne Haiti">Karaibet magjepsese-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhoana Lumlin këtë herë do të udhëtojë nëpër dy nga vendet më enigmatike, në Karaibe - Kubën dhe Haitin. Për të eksploruar, zbuluar dhe ndarë perlat e fshehura që këto vende kanë për të ofruar.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-06-11 14:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Jeta e eger e Serengetit">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është drama e botës sonë, ku nënat mundohen të rrisin të vegjlit. Rivalë xhelozë ndajnë familjet. Të rinjtë përleshen për të gjetur vendin e tyre. Dhe të gjithë u vumë në provë nga elementet e natyrës, nga stinët dhe nga njëri-tjetri. Kjo është h</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2022-06-11 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Jeta me ngjyra   ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bota natyrore është plot me ngjyra. Kafshët mund t'i përdorin ato për shumë arsye. Disa prej tyre madje, kanë ngjyra që ne njerëzit s'mund t'i shohim. Me teknologjitë e reja, disa të krijuara enkas për këtë dokumentar, mund të zbulojmë një botë që deri sot ishte e fshehur.
+
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2022-06-11 16:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fushëbeteja: Lufta për rinocerontet">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Afrikën e Jugut vriten 18 rinocerontë çdo orë. Katër anëtarë të forcave speciale të marinës amerikane ndërmarrin një mision, që më vonë do kthehet në nevojë: të ndalojnë gjuetinë pa leje të rinocerontëve. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2022-06-11 16:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Europa e parë nga lart-Polonia">Udhetim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh, do të bëjmë një turne ajror përmes Evropës. Do të shohim vendet nga një perspektivë tërësisht e re. Duke filmuar nga lart dhe gjatë një viti të vetëm, ndërsa peizazhi transformohet me stinët që ndryshojnë, ne do të zbulojmë kulturën, historinë dhe inxhinierinë që ndërtoi kombet e mëdha evropiane që shohim sot.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2022-06-11 17:40:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Udhëtime aventuriere ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga një udhëtim, mëson më shumë se nga dhjetra libra, ndaj njihuni me vende, të cilat rrallë i keni parë në ekran. Do vizitojmë Perunë, Kanadanë, Islandën, Portugalinë, Spanjën, Korenë. Gjëra interesante, shumica të panjohura...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2022-06-11 18:10:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Namibia, Shpirti i botës së eger">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Diamanti i shndritshëm i Afrikës. Një udhëtim kinematografik nëpër peisazhet madhështore të Namibisë. Aty ku oqeani takon shkretëtirën. Historia e Kombit në rritje të Afrikës, në tokën e një prej depozitave më të mëdha të diamanteve në botë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2022-06-11 19:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Nga Nikaragua ne Guatemala">Aventura e madhe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni dy komedianët e njohur Anglez - Dara O'Brian dhe Ed Bërn, në aventurën e tyre epike. Ata do të udhëtojnë 4 mijë milje në rrugën më të gjatë në botë, autostradën Pan Amerikane. Duke kaluar përmes disa prej vendeve më spektakolare dhe të rreziku</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2022-06-11 20:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mbretërit e peshkimit të Mustakut">Natyre-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mustaku ndodhet në shumë vende, por ne do të flasim për mustakun e ujrave të Teksasit, i cili është objekt i një gjuetie të vecantë, gjuetisë me duar të xhveshura. Njihuni me këtë lloj sporti me adrenalinë të fuqishme...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2022-06-11 21:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Mrekullitë e Kroacisë ">Spliti</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Kroaci mbizotëron moda, historia dhe tifozët e sportit. Kjo tokë evropiane strehon fisnikërinë të rrethuar nga bukuritë e natyrës. Njihuni me traditën e këtij vendi përmes këngëve dhe kërcimeve...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2022-06-11 21:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Udhetim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentar mbi mrekullitë që fsheh Amerika e Veriut. Pas 5 vitesh xhirime, vjen një ngjarje epike e paharrushme televizive. Aty ku civilizimi përplaset me shkretëtirën e egër. Pyje të pafundme, male të pashkelura, brigje të virgjëra. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2022-06-11 22:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Magjia e blusë së pafundme">Amerika e veriut-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Toka, një botë prej uji. Pothuajse ¾ e sipërfaqes së saj, shtrihet nën një mozaik blu të përbërë nga dete dhe oqeane. Një punë befasuese në skuadër dhe takime magjepsëse zbulojnë magjinë e blusë së pafundme. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2022-06-11 23:30:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Udhëtime ne kanal ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prunela Skejls dhe Timoti Uest janë burrë e grua prej më shumë se 5 dekadash. Pasioni i tyre më i madh janë kanalet. Atje, ata ruajnë shumë kujtime të vyera. Le ti ndjekim tek lundrojnë në shtigje të reja...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2022-06-12 00:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Umbria- Zemra e gjelbër e Italise">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Umbria ka gjelbërim, ka monumente antike, ka historinë e gjallë të Rilindjes së lavdishme italiane të përjetësuar në qytetet e saj. Ajo ka zërat që duken në sinkron të plotë me natyrën që i rrethon, dhe kodrinat si të vëna me dorë. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2022-06-12 01:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Hebridet: Ishujt buzë kontinen">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje e jetës natyre të ishujve Hebride në bregdetin perëndimor të Skocisë, ku shihet nga afër bashkëveprimi i gjallesave dhe natyrës me banorët e këtyre ishujve që kanë mësuar të përshtaten më së miri me fqinjët e egër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2022-06-12 02:15:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Vende detare-Dominika">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është iniciativa e dy familjeve që ndërmorën një udhëtim në Karaibe larg masave të sigurisë dhe kufizimeve të jetës moderne. Një udhëtim në det të hapur, për të eksploruar plazhe dhe ishujt e pabanuar.
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2022-06-12 02:40:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rizoforat, Planeti i pemeve">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një xhiro anë e mbanë globit për tu njohur me pemët më të famshme të tij. Prejardhja, veçoritë, vlerat, mosha, mbijetesa e disa prej ekzemplarëve më unike,  të asaj që quhet 'Mushkëria e Tokës'.  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2022-06-12 03:10:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Bretkosat">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bretkosat jetojnë në dy ambjente, në tokë dhe në ujë, dhe lëkura e tyre është dyfish më ndjeshme ndaj ndotjes dhe ndryshimeve të ngadalta të mjedisit. Ato janë një barometër i gjallë i ndryshimit të klimës në tokë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2022-06-12 04:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Natyra gjatë natës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bota natën është plot frikë dhe mrekulli. Me përdorimin e teknologjisë më të re, mund të shohim edhe në errësirë. Le të eksplorojmë botën, natën. Le ti zbulojmë gjërat, nën një dritë të re...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2022-06-12 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lepujt e shquar">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>90 përqind e masës tokësore të planetit është shtëpia e një krijese aq të adhurueshme sa rrallëherë merr respektin që meriton: Lepurit. Shkencëtarët po bëjnë disa zbulime të mahnitshme për këto krijesa, shpesh të anashkaluara. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2022-06-12 06:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Magjia e blusë së pafundme">Antarktika</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Toka, një botë prej uji. Pothuajse ¾ e sipërfaqes së saj, shtrihet nën një mozaik blu të përbërë nga dete dhe oqeane. Një punë befasuese në skuadër dhe takime magjepsëse zbulojnë magjinë e blusë së pafundme. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2022-06-12 06:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Hebridet: Ishujt buzë kontinen">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje e jetës natyre të ishujve Hebride në bregdetin perëndimor të Skocisë, ku shihet nga afër bashkëveprimi i gjallesave dhe natyrës me banorët e këtyre ishujve që kanë mësuar të përshtaten më së miri me fqinjët e egër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2022-06-12 07:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Arinjtë e dëborës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e një nëne, një arushë polare dhe këlyshëve të saj, që tentojnë të mbietojnë në botën e tyre të akullt.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2022-06-12 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mrekullitë e gadishullit Iberik">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në gadishullin Iberik gjendet një lumë i cili ka lënë mbresa tek kushdo që e ka vizituar. Ai është lumi Tago. Një ndër seksionet e tij formon një vijë kufitare mes Spanjës dhe Portugalisë. Një ndarje e dukshme, që ka arritur të bashkojë dy kombe...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2022-06-12 10:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Pandat">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është një histori për lidhjet mes njerëzve, mes kulturave edhe mes kafshëve. Për një eksperte të pandave si Ho Rongu (drejtoresha e departamentit të kërkimeve të pandave në Çengdu) këto lidhje mund të jenë plot surpriza. Le ti zbulojmë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2022-06-12 10:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sines-Aromë Tregu">Natyre-11</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në disa nga tregjet ushqimore më të famshme. Si të përshtatemi me kulturën kulinare të vendeve të ndryshme... Kultura, shija dhe një mënyrë fantastike në eksplorimin e përgatitjes së një pjate të shijshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2022-06-12 11:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Për çfarë flasin bimët?">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekologu, Xhej C. Kahilli i ka rënë kontinentit kryq e tërthor, në kërkim të një përgjigjeje.
+A sillen bimët njësoj si kafshët? Ide e pamundur për njerëzit kjo. Që nga ushqyerja e të vegjëlve, deri te përgjimi i fqinjëve, bimët bëjnë... e thonë mjaft</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2022-06-12 12:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Britania e egër ">Udhetim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bukuria natyrore e Britanisë shpesh anashkalohet. Pra le të bëjmë një shëtitje në natyrën e egër, në tokën e gjelbër dhe të këndshme, përgjatë bregdetit të thyer dhe në 6 mijë ishujt që përbëjnë ishujt e Britanisë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2022-06-12 13:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Nga Havai ne Haiti">Karaibet magjepsese-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhoana Lumlin këtë herë do të udhëtojë nëpër dy nga vendet më enigmatike, në Karaibe - Kubën dhe Haitin. Për të eksploruar, zbuluar dhe ndarë perlat e fshehura që këto vende kanë për të ofruar.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2022-06-12 13:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Partnerët e përsosur të natyrës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Suksesi në natyrë shpesh varet nga puna në skuadër. Miqtë e mirë mund të vijnë në forma nga më befasueset. Ndonjëherë është ai aleati i çuditshëm që mund të ta lehtësojë shumë jetën.  Pra puna në grup është çelësi i mbijetesës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2022-06-12 14:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Jeta me ngjyra   ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bota natyrore është plot me ngjyra. Kafshët mund t'i përdorin ato për shumë arsye. Disa prej tyre madje, kanë ngjyra që ne njerëzit s'mund t'i shohim. Me teknologjitë e reja, disa të krijuara enkas për këtë dokumentar, mund të zbulojmë një botë që deri sot ishte e fshehur.
+
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2022-06-12 15:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Fushëbeteja: Lufta për rinocerontet">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Afrikën e Jugut vriten 18 rinocerontë çdo orë. Katër anëtarë të forcave speciale të marinës amerikane ndërmarrin një mision, që më vonë do kthehet në nevojë: të ndalojnë gjuetinë pa leje të rinocerontëve. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2022-06-12 16:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Amerika e pare nga lart">Fushat e mrekullueshme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në qytezat më të mira të Amerikës, në vendet historike në Misisipi,në Teksasin Perëndimor, në bregun e Oregonit dhe në Virgjinian Perëndimore;vende që kanë lindur heronj, kanë frymëzuar artistë e kanë emocionuar eksplorues...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2022-06-12 17:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Udhëtime ne kanal">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prunela Skejls dhe Timoti Uest janë burrë e grua prej më shumë se 5 dekadash. Pasioni i tyre më i madh janë kanalet. Atje, ata ruajnë shumë kujtime të vyera. Le ti ndjekim tek lundrojnë në shtigje të reja...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2022-06-12 18:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Natyra gjatë natës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bota natën është plot frikë dhe mrekulli. Me përdorimin e teknologjisë më të re, mund të shohim edhe në errësirë. Le të eksplorojmë botën, natën. Le ti zbulojmë gjërat, nën një dritë të re...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2022-06-12 18:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Nga Kosta Rika ne Panama">Aventura e madhe-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni dy komedianët e njohur Anglez - Dara O'Brian dhe Ed Bërn, në aventurën e tyre epike. Ata do të udhëtojnë 4 mijë milje në rrugën më të gjatë në botë, autostradën Pan Amerikane. Duke kaluar përmes disa prej vendeve më spektakolare dhe të rreziku</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2022-06-12 19:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Mbretërit e peshkimit të Mustakut">Natyre-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mustaku ndodhet në shumë vende, por ne do të flasim për mustakun e ujrave të Teksasit, i cili është objekt i një gjuetie të vecantë, gjuetisë me duar të xhveshura. Njihuni me këtë lloj sporti me adrenalinë të fuqishme...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2022-06-12 20:40:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Udhetime aventuriere ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga një udhëtim, mëson më shumë se nga dhjetra libra, ndaj njihuni me vende, të cilat rrallë i kemi parë në ekran. Do vizitojmë Ekuadorin, Trinidad, Kolumbinë, Argjentinën, Uruguain, Meksikën. Gjëra interesante, shumica të panjohura...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2022-06-12 21:10:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Pushtimi i balenave vrasëse">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ky është Arktiku ashtu siç e njohim ne. Një oqean i kyçur në akull. Çdo gjë që mbijeton këtu është përshtatur në mënyrë supreme me këtë botë të ngrirë. Balenat kokëhark jetojnë këtu gjithë vitin... Le te njihemi me to...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2022-06-12 22:10:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Tufa e korbave">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kudo ku jetojnë njerëzit, janë edhe ata. Bota e tyre është e ndërthurur shumë ngushtë me botën tonë. Korbat, ne i konsiderojmë si ngatrestarë dhe ogurzinj, por ata duken të magjepsur pas nesh. Pse janë kaq shumë të lidhur me njerëzit? 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2022-06-12 23:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Magjia e blusë së pafundme">Antarktika</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Toka, një botë prej uji. Pothuajse ¾ e sipërfaqes së saj, shtrihet nën një mozaik blu të përbërë nga dete dhe oqeane. Një punë befasuese në skuadër dhe takime magjepsëse zbulojnë magjinë e blusë së pafundme. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2022-06-13 00:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Arinjtë e dëborës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e një nëne, një arushë polare dhe këlyshëve të saj, që tentojnë të mbietojnë në botën e tyre të akullt.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2022-06-13 01:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lepujt e shquar">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>90 përqind e masës tokësore të planetit është shtëpia e një krijese aq të adhurueshme sa rrallëherë merr respektin që meriton: Lepurit. Shkencëtarët po bëjnë disa zbulime të mahnitshme për këto krijesa, shpesh të anashkaluara. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2022-06-13 02:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Hebridet: Ishujt buzë kontinen">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje e jetës natyre të ishujve Hebride në bregdetin perëndimor të Skocisë, ku shihet nga afër bashkëveprimi i gjallesave dhe natyrës me banorët e këtyre ishujve që kanë mësuar të përshtaten më së miri me fqinjët e egër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2022-06-13 03:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Pandat">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është një histori për lidhjet mes njerëzve, mes kulturave edhe mes kafshëve. Për një eksperte të pandave si Ho Rongu (drejtoresha e departamentit të kërkimeve të pandave në Çengdu) këto lidhje mund të jenë plot surpriza. Le ti zbulojmë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2022-06-13 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mrekullitë e gadishullit Iberik">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në gadishullin Iberik gjendet një lumë i cili ka lënë mbresa tek kushdo që e ka vizituar. Ai është lumi Tago. Një ndër seksionet e tij formon një vijë kufitare mes Spanjës dhe Portugalisë. Një ndarje e dukshme, që ka arritur të bashkojë dy kombe...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2022-06-13 05:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Gangu">Toka e perendive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>India, vendi ku zjarri, ajri, kafshet, pemet, malet e lumenjte adhurohen si perendi. Nder me te fuqishmit e ketyre perendive eshte lumi Gang. Ne mijevjeçare, lumi i ka dhene jete dhe forme tokes dhe ka krijuar mundesi per mbijetese. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2022-06-13 05:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Historia e jetës">Hapat e pare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ka një histori që na bashkon të gjithëve, me cdo kafsh të planetit. Kjo histori është më e madhja e të gjitha aventurave: Rrugëtimi i jetës. Në këtë cikël dokumentar do të shihni sesi kfashët kapërcejnë vështirësitë, në cdo fazë të jetës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2022-06-13 07:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Macet">Natyrë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentarësh për mikeshat tona më dredharake, macet. Ato janë me ngjyra e tipare nga më të ndryshmet, por çfarë i motivon më shumë ato në jetën e përditshme?
+Gjithçka që duhet të dimë për macet.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="109" start_time="2022-06-13 07:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Në zbulim të Gjermanisë së egër">Eksplorimi i tokës së askujt</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Andreas Kilingu ka nisur një udhëtim për të zbuluar atdheun e tij. Ai do të ecë në kufirin që dikur ndante lindjen nga perëndimi. Kjo rrugë natyrore të çon në zbulime të habitshme ku Andreasi do të shikojë specie kafshësh të pazakonta dhe do të krijo</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="110" start_time="2022-06-13 08:40:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Vende detare-Virxhin Gordas">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është iniciativa e dy familjeve që ndërmorën një udhëtim në Karaibe larg masave të sigurisë dhe kufizimeve të jetës moderne. Një udhëtim në det të hapur, për të eksploruar plazhe dhe ishujt e pabanuar.
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="111" start_time="2022-06-13 09:10:00" duration="3900">
+      <short_event_descriptor lang="alb" name="në gjurmët e kulinarisë Indian">Kulinari</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Këtë radhë Rik Stein do të udhëtojë drejt Indisë. Një udhëtim tre mujor, në kërkim të recetës më të mirë me 'Kërri'. Ç'e bën 'kerrin' të shijshëm? 120 receta shumë të veçanta për të zbuluar sekretet e kuzhinierëve Indianë.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="112" start_time="2022-06-13 10:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Shansi i fundit">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ata konsiderohen si 'kafsha besnike e njeriut'... Por sot për Qentë në Botë, shumë pak njerëz interesohen. Ndiqni përpjekjet titanike të disa njerëzve, për të shpëtuar jetën e qenve... 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="113" start_time="2022-06-13 11:05:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rrengje te reja">Darkat e thjeshta </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta e Najxhel Sleiterit sillet rreth gatimit dhe ngrënies së ushqimit të shkëlqyer. Për të, nuk ka gjë tjetër më emocionuese se të gatuaj. Në këtë cikël, ai do të na tregojë si të përgatisni diçka të shpejtë, të lehtë dhe të shijshme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="114" start_time="2022-06-13 11:35:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Darka te medha me pak perberes">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta e Najxhel Sleiterit sillet rreth gatimit dhe ngrënies së ushqimit të shkëlqyer. Për të, nuk ka gjë tjetër më emocionuese se të gatuaj. Në këtë cikël, ai do të na tregojë si të përgatisni diçka të shpejtë, të lehtë dhe të shijshme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="115" start_time="2022-06-13 12:10:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Udhetime ne hekurudhat/ Kanada">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni Majkëll Portillo, teksa kalon Atlantikun për të udhëtuar me hekurudhat e Amerikës Veriore, i orientuar nga libri udhërrëfyes i Epëlltonit. I botuar në fund të shekullit të 19, libri do ta çojë tek çdo gjë e re, mbresëlënëse, e admirueshme, e b</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="116" start_time="2022-06-13 13:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Vrasësit e mëdhenj">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Miliona vjet pas epokës së dinosaurëve, në këtë planet vazhdojnë të enden gjigantët. Të krijuar për t'i rezistuar sprovave të kohës. Ata vijnë me trupa të stërmëdhenj.  Lëkurë të trashë... Dhëmbë të mprehtë... Dhe agresivitet... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="117" start_time="2022-06-13 14:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Greqia, Toka e diellit dhe e plazheve">Udhetim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh do të udhëtojmë nëpër Greqinë kontinentale dhe ishujt e Egjeut. Do të takojmë personazhe tërheqëse, komunitete dhe vende që ndihmuan t'i jepnin formë asaj që është sot Greqia...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="118" start_time="2022-06-13 15:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Mania e peshkaqenit">Peshkime ekstreme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim anë e mbanë botës... Një gjueti peshikimi gati e rrezikshme... Një gjueti ekstreme me njerëz të apasionuar pas peshkimit, në një sfidë të hapur me prenë nën ujë... Teknika të rralla, adrenalinë, emocion.
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="119" start_time="2022-06-13 15:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Gjuetia e peshkut Vele">Peshkime ekstreme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim anë e mbanë botës... Një gjueti peshikimi gati e rrezikshme... Një gjueti ekstreme me njerëz të apasionuar pas peshkimit, në një sfidë të hapur me prenë nën ujë... Teknika të rralla, adrenalinë, emocion.
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="120" start_time="2022-06-13 15:50:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Pandat gjigante ">të lindura për të qenë të egra </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përpjekjet dhe nismat shkencore për të ndihmuar në mbijetesën e Ariut Panda, një prej gjalleseva më unike mbi Tokë...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="121" start_time="2022-06-13 16:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Me këmbë në tokë">Islanda, Franca</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aktorin e njohur Zak Efron teksa udhëton nëpër botë, për të gjetur zgjidhje të reja, për probleme shumë të vjetra. Dhe për tju bindur, se 'ndryshimi' është një punë, që na përket të gjithëve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="122" start_time="2022-06-13 18:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Të kërcesh me zogjtë  ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një vallëzim për dashurinë. Një udhëtim mahnitës në zemër të natyrës. Takoni zogjtë më të bukur dhe më të dashururar të planetit. Por për të fituar zemrën e parteneres, këtyre zogjve nuk u mjafton vetëm bukuria e pakrahasueshme. Ata duhet të bëjnë vallëzimin e dashurisë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="123" start_time="2022-06-13 19:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Udhëtimi epik i Xhejms Mejit në Japoni ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gazetari Xhejms Meji dhe ekuipazhi i tij, nisen drejt Japonisë duke udhëtuar si në tokë, si në detë por dhe në mënyrë ajrore, për të eksploruar gjithçka që ky vend ka për të ofruar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="124" start_time="2022-06-13 20:10:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Rryma e jetës-Atlantiku ">Oqeani më i egër në botë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Atlantiku, një oqean ku gjigantët grumbullohen për t'u ushqyer dhe ku njerëzit përballen me detet më të ashpra të planetit... Njerëzit dhe kafshët guxojnë të eksplorojnë këtë oqean, duke rrezikuar edhe jetën.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="125" start_time="2022-06-13 21:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Anija e fundosur">Gjuetaret e thesareve</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim i jashtëzakonshëm në botën nënujore... Një ekspeditë e rrallë në kërkim të rrënojave nënujore, për të zbuluar pasuritë e fshehura monetare dhe historike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="126" start_time="2022-06-13 22:05:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Kokëfortët- Kafshët trazovaçe ">Sez 3 Ep.1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur bëhet fjalë për anëtarët me katër këmbë të familjes, ajo është pak a shumë dashuri pa kushte, pavarësisht se çfarë bëjnë ata. Por cilët janë qentë më mistrecë? Ne i kemi ardhur globit vërdallë në kërkim të kafshës më trazovaçe.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="127" start_time="2022-06-13 22:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Historia e jetës">Hapat e pare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ka një histori që na bashkon të gjithëve, me cdo kafsh të planetit. Kjo histori është më e madhja e të gjitha aventurave: Rrugëtimi i jetës. Në këtë cikël dokumentar do të shihni sesi kfashët kapërcejnë vështirësitë, në cdo fazë të jetës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="128" start_time="2022-06-14 00:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Në zbulim të Gjermanisë së egë">Eksplorimi i tokës së askujt</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Andreas Kilingu ka nisur një udhëtim për të zbuluar atdheun e tij. Ai do të ecë në kufirin që dikur ndante lindjen nga perëndimi. Kjo rrugë natyrore të çon në zbulime të habitshme ku Andreasi do të shikojë specie kafshësh të pazakonta dhe do të krijo</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="129" start_time="2022-06-14 00:50:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rizoforat, Planeti i pemeve">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një xhiro anë e mbanë globit për tu njohur me pemët më të famshme të tij. Prejardhja, veçoritë, vlerat, mosha, mbijetesa e disa prej ekzemplarëve më unike,  të asaj që quhet 'Mushkëria e Tokës'.  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="130" start_time="2022-06-14 01:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Gangu">Toka e perendive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>India, vendi ku zjarri, ajri, kafshet, pemet, malet e lumenjte adhurohen si perendi. Nder me te fuqishmit e ketyre perendive eshte lumi Gang. Ne mijevjeçare, lumi i ka dhene jete dhe forme tokes dhe ka krijuar mundesi per mbijetese. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="131" start_time="2022-06-14 02:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Macet">Natyrë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentarësh për mikeshat tona më dredharake, macet. Ato janë me ngjyra e tipare nga më të ndryshmet, por çfarë i motivon më shumë ato në jetën e përditshme?
+Gjithçka që duhet të dimë për macet.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="132" start_time="2022-06-14 03:05:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Shansi i fundit">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ata konsiderohen si 'kafsha besnike e njeriut'... Por sot për Qentë në Botë, shumë pak njerëz interesohen. Ndiqni përpjekjet titanike të disa njerëzve, për të shpëtuar jetën e qenve... 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="133" start_time="2022-06-14 03:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="në gjurmët e kulinarisë Indian">Kulinari</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Këtë radhë Rik Stein do të udhëtojë drejt Indisë. Një udhëtim tre mujor, në kërkim të recetës më të mirë me 'Kërri'. Ç'e bën 'kerrin' të shijshëm? 120 receta shumë të veçanta për të zbuluar sekretet e kuzhinierëve Indianë.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

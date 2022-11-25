@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="DUKAGJINI">
+    <event id="48803450" start_time="2022-09-20 22:20:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Reload">Reload</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Program argetues ne radio dhe televizion</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803451" start_time="2022-09-20 23:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Moment">Moment</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emisioni i pasdites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803453" start_time="2022-09-21 00:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Warrior">Warrior</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial) S1, Ep 5</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803455" start_time="2022-09-21 01:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 19/30">Lajme 19/30</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Edicioni Qendror informativ</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803456" start_time="2022-09-21 01:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Debat Plus">Debat Plus</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emisioni politik me i ndjekur ne vend qe trajton aktualitetin me protagonistet e ngjarjeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803457" start_time="2022-09-21 03:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Five">Five</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emision informativ me ngjarjet me te rendesishme te dites dhe te ftuarit e aktualitetit te dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803458" start_time="2022-09-21 03:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për promovimin e programeve te RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803459" start_time="2022-09-21 04:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Permbledhje e te gjitha materialeve te transmetuara gjate dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803460" start_time="2022-09-21 04:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803461" start_time="2022-09-21 05:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Get Up, Stand Up">Get Up, Stand Up</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Get Up, Stand Up sjell një frymë të re të emisioneve të mëngjesit në ekranet tona.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803462" start_time="2022-09-21 06:45:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803463" start_time="2022-09-21 06:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803464" start_time="2022-09-21 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Radar">Radar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Programi më interaktiv me shikuesit në Radio dhe televizion.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803465" start_time="2022-09-21 09:00:00" duration="780">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803466" start_time="2022-09-21 09:13:00" duration="720">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803467" start_time="2022-09-21 09:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803468" start_time="2022-09-21 09:30:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803469" start_time="2022-09-21 09:40:00" duration="900">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803470" start_time="2022-09-21 09:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Reader">Reader</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803473" start_time="2022-09-21 10:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803474" start_time="2022-09-21 11:00:00" duration="1020">
+      <short_event_descriptor lang="alb" name="Lajme 13/00">Lajme 13/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ i orës 13/00</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803475" start_time="2022-09-21 11:17:00" duration="780">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803476" start_time="2022-09-21 11:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Kallxo Përnime">Kallxo Përnime</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Debat politik</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803477" start_time="2022-09-21 12:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803478" start_time="2022-09-21 13:00:00" duration="1020">
+      <short_event_descriptor lang="alb" name="Lajme 15/00">Lajme 15/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ 15/00.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803479" start_time="2022-09-21 13:17:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803480" start_time="2022-09-21 13:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803481" start_time="2022-09-21 13:30:00" duration="1200">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803482" start_time="2022-09-21 13:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për promovimin e programeve te RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803483" start_time="2022-09-21 14:00:00" duration="480">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803484" start_time="2022-09-21 14:08:00" duration="420">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803485" start_time="2022-09-21 14:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Reload">Reload</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Program argëtues në radio dhe televizion.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803486" start_time="2022-09-21 15:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803487" start_time="2022-09-21 15:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Five">Five</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Emision informativ me ngjarjet më të rëndësishme të ditës dhe të ftuarit e aktualitetit të ditës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803488" start_time="2022-09-21 16:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803489" start_time="2022-09-21 16:30:00" duration="600">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Emisioni i pasdites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49159079" start_time="2022-09-21 16:40:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>| Hapësirë për promovimin e bizneseve</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49159080" start_time="2022-09-21 16:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49159081" start_time="2022-09-21 17:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Pa Tekst">Pa Tekst</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Best of) Emision argetues i cili sfidon te ftuarit ne lojera te muzikes</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803493" start_time="2022-09-21 17:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803494" start_time="2022-09-21 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 19/30">Lajme 19/30</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni qendror informativ.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803495" start_time="2022-09-21 18:00:00" duration="120">
+      <short_event_descriptor lang="alb" name="Moti">Moti</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit per Kosove, rajon dhe bote.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803496" start_time="2022-09-21 18:02:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803497" start_time="2022-09-21 18:10:00" duration="600">
+      <short_event_descriptor lang="alb" name="Dueli ditor">Dueli ditor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Ngjarjet kryesore qe shenuan sportin gjate dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803498" start_time="2022-09-21 18:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803499" start_time="2022-09-21 18:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Debat Plus">Debat Plus</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Emisioni politik më i ndjekur në vend që trajton temat me ndikim në vendin tonë me protagonistët e ngjarjeve dhe opinionistët e ftuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803500" start_time="2022-09-21 20:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803501" start_time="2022-09-21 20:10:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Kallxo Përnime">Kallxo Përnime</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Debat politik</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803502" start_time="2022-09-21 21:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për promovimin e programeve te RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803503" start_time="2022-09-21 21:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Warrior">Warrior</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë, Serial) S1, Ep 6</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803556" start_time="2022-09-21 22:20:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Reload">Reload</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Program argëtues në radio dhe televizion.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803557" start_time="2022-09-21 23:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Super Intelligence: Beyond Human">Super Intelligence: Beyond Human</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803559" start_time="2022-09-22 00:15:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Warrior">Warrior</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial, Premierë) S1, Ep 6</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803560" start_time="2022-09-22 00:55:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni politik me i ndjekur ne vend qe trajton aktualitetin me protagonistet e ngjarjeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803561" start_time="2022-09-22 01:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 19/30">Lajme 19/30</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Edicioni Qendror informativ</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803562" start_time="2022-09-22 01:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Debat Plus">Debat Plus</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emisioni politik me i ndjekur ne vend qe trajton aktualitetin me protagonistet e ngjarjeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803563" start_time="2022-09-22 03:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Five">Five</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emision informativ me ngjarjet me te rendesishme te dites dhe te ftuarit e aktualitetit te dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803564" start_time="2022-09-22 03:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni politik me i ndjekur ne vend qe trajton aktualitetin me protagonistet e ngjarjeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803565" start_time="2022-09-22 04:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Permbledhje e te gjitha materialeve te transmetuara gjate dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803566" start_time="2022-09-22 04:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803567" start_time="2022-09-22 05:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Get Up, Stand Up">Get Up, Stand Up</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Get Up, Stand Up sjell një frymë të re të emisioneve të mëngjesit në ekranet tona.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803568" start_time="2022-09-22 06:45:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803569" start_time="2022-09-22 06:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803570" start_time="2022-09-22 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Radar">Radar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Programi më interaktiv me shikuesit në Radio dhe televizion.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803571" start_time="2022-09-22 09:00:00" duration="780">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803572" start_time="2022-09-22 09:13:00" duration="720">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803573" start_time="2022-09-22 09:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803574" start_time="2022-09-22 09:30:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803575" start_time="2022-09-22 09:40:00" duration="900">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803576" start_time="2022-09-22 09:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Super Intelligence: Beyond Human">Super Intelligence: Beyond Human</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803579" start_time="2022-09-22 10:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803580" start_time="2022-09-22 11:00:00" duration="1020">
+      <short_event_descriptor lang="alb" name="Lajme 13/00">Lajme 13/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ i orës 13/00</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803581" start_time="2022-09-22 11:17:00" duration="780">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803582" start_time="2022-09-22 11:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Kallxo Përnime">Kallxo Përnime</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Debat politik</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803583" start_time="2022-09-22 12:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803584" start_time="2022-09-22 13:00:00" duration="1020">
+      <short_event_descriptor lang="alb" name="Lajme 15/00">Lajme 15/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ 15/00.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803585" start_time="2022-09-22 13:17:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803586" start_time="2022-09-22 13:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803587" start_time="2022-09-22 13:30:00" duration="1200">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803588" start_time="2022-09-22 13:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e  programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803589" start_time="2022-09-22 14:00:00" duration="480">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803590" start_time="2022-09-22 14:08:00" duration="420">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803591" start_time="2022-09-22 14:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Reload">Reload</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Program argëtues në radio dhe televizion.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803592" start_time="2022-09-22 15:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803593" start_time="2022-09-22 15:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Five">Five</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Emision informativ me ngjarjet më të rëndësishme të ditës dhe të ftuarit e aktualitetit të ditës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803594" start_time="2022-09-22 16:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803595" start_time="2022-09-22 16:30:00" duration="600">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49165381" start_time="2022-09-22 16:40:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për promovimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49165383" start_time="2022-09-22 16:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49165386" start_time="2022-09-22 17:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Pa Tekst">Pa Tekst</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Best of) Emision argetues i cili sfidon te ftuarit ne lojera te muzikes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803599" start_time="2022-09-22 17:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803600" start_time="2022-09-22 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 19/30">Lajme 19/30</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni qendror informativ.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803601" start_time="2022-09-22 18:00:00" duration="120">
+      <short_event_descriptor lang="alb" name="Moti">Moti</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit per Kosove, rajon dhe bote.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803602" start_time="2022-09-22 18:02:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803603" start_time="2022-09-22 18:10:00" duration="600">
+      <short_event_descriptor lang="alb" name="Dueli ditor">Dueli ditor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Ngjarjet kryesore qe shenuan sportin gjate dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803604" start_time="2022-09-22 18:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803605" start_time="2022-09-22 18:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Debat Plus">Debat Plus</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Emisioni politik më i ndjekur në vend që trajton temat me ndikim në vendin tonë me protagonistët e ngjarjeve dhe opinionistët e ftuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803606" start_time="2022-09-22 20:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803607" start_time="2022-09-22 20:10:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Kallxo Përnime">Kallxo Përnime</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Debat politik</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803608" start_time="2022-09-22 21:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e  programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803609" start_time="2022-09-22 21:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Warrior">Warrior</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial) S1, Ep 7</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803610" start_time="2022-09-22 22:20:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Reload">Reload</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Program argetues ne radio dhe televizion</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803611" start_time="2022-09-22 23:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Great blue wild">Great blue wild</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803613" start_time="2022-09-23 00:15:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Warrior">Warrior</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial, Ritransmetim) S1, Ep 3</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803614" start_time="2022-09-23 00:55:00" duration="300">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për promovimin e programeve te RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803615" start_time="2022-09-23 01:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 19/30">Lajme 19/30</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Edicioni Qendror informativ</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803616" start_time="2022-09-23 01:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Debat Plus">Debat Plus</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emisioni politik me i ndjekur ne vend qe trajton temat me ndikim ne vendin tone me protagonistet e ngjarjeve dhe opinionistet e ftuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803617" start_time="2022-09-23 03:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Five">Five</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emision informativ me ngjarjet me te rendesishme te dites dhe te ftuarit e aktualitetit te dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803618" start_time="2022-09-23 03:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për promovimin e programeve te RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803619" start_time="2022-09-23 04:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Permbledhje e te gjitha materialeve te transmetuara gjate dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803620" start_time="2022-09-23 04:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803621" start_time="2022-09-23 05:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Get Up, Stand Up">Get Up, Stand Up</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Get Up, Stand Up sjell një frymë të re të emisioneve të mëngjesit në ekranet tona.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803622" start_time="2022-09-23 06:45:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803623" start_time="2022-09-23 06:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803624" start_time="2022-09-23 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Radar">Radar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Programi më interaktiv me shikuesit në Radio dhe televizion.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803625" start_time="2022-09-23 09:00:00" duration="780">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803626" start_time="2022-09-23 09:13:00" duration="720">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803627" start_time="2022-09-23 09:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803628" start_time="2022-09-23 09:30:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803629" start_time="2022-09-23 09:40:00" duration="900">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803630" start_time="2022-09-23 09:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Great blue wild">Great blue wild</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803633" start_time="2022-09-23 10:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803634" start_time="2022-09-23 11:00:00" duration="1020">
+      <short_event_descriptor lang="alb" name="Lajme 13/00">Lajme 13/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ i orës 13/00</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803635" start_time="2022-09-23 11:17:00" duration="780">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803636" start_time="2022-09-23 11:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Kallxo Përnime">Kallxo Përnime</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Debat politik</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803637" start_time="2022-09-23 12:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803638" start_time="2022-09-23 13:00:00" duration="1020">
+      <short_event_descriptor lang="alb" name="Lajme 15/00">Lajme 15/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ 15/00.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803639" start_time="2022-09-23 13:17:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803640" start_time="2022-09-23 13:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803641" start_time="2022-09-23 13:30:00" duration="1200">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803642" start_time="2022-09-23 13:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e  programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803643" start_time="2022-09-23 14:00:00" duration="480">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803644" start_time="2022-09-23 14:08:00" duration="420">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803645" start_time="2022-09-23 14:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Reload">Reload</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Program argëtues në radio dhe televizion.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803646" start_time="2022-09-23 15:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803647" start_time="2022-09-23 15:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Five">Five</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Emision informativ me ngjarjet më të rëndësishme të ditës dhe të ftuarit e aktualitetit të ditës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803648" start_time="2022-09-23 16:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803649" start_time="2022-09-23 16:30:00" duration="600">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49178921" start_time="2022-09-23 16:40:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49178922" start_time="2022-09-23 16:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49178923" start_time="2022-09-23 17:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Pa Tekst">Pa Tekst</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Best of) Emision argetues i cili sfidon te ftuarit ne lojera te muzikes</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803653" start_time="2022-09-23 17:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803654" start_time="2022-09-23 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 19/30">Lajme 19/30</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni qendror informativ.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803655" start_time="2022-09-23 18:00:00" duration="120">
+      <short_event_descriptor lang="alb" name="Moti">Moti</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit per Kosove, rajon dhe bote.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803656" start_time="2022-09-23 18:02:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803657" start_time="2022-09-23 18:10:00" duration="600">
+      <short_event_descriptor lang="alb" name="Dueli ditor">Dueli ditor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Live) Ngjarjet kryesore qe shenuan sportin gjate dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803658" start_time="2022-09-23 18:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803659" start_time="2022-09-23 18:30:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Secrets of Silicon Valley">Secrets of Silicon Valley</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Dokumentar) Ep 1</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803660" start_time="2022-09-23 19:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve``</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803661" start_time="2022-09-23 19:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="MindHunters">MindHunters</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial) S1, Ep 4</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803663" start_time="2022-09-23 20:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="N'konak">N'konak</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803664" start_time="2022-09-23 21:05:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për promovimin e programeve te RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803665" start_time="2022-09-23 21:15:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Love, Simon">Love, Simon</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803667" start_time="2022-09-23 23:15:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e emisioneve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803666" start_time="2022-09-23 23:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Great blue wild">Great blue wild</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803668" start_time="2022-09-24 00:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="MindHunters">MindHunters</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803669" start_time="2022-09-24 01:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 19/30">Lajme 19/30</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Edicioni Qendror informativ</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803670" start_time="2022-09-24 01:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Secrets of Silicon Valley">Secrets of Silicon Valley</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803671" start_time="2022-09-24 02:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Reload">Reload</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803672" start_time="2022-09-24 03:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Five">Five</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emision informativ me ngjarjet me te rendesishme te dites dhe te ftuarit e aktualitetit te dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803673" start_time="2022-09-24 04:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e emisioneve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803674" start_time="2022-09-24 04:30:00" duration="600">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Permbledhje e te gjitha materialeve te transmetuara gjate dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803675" start_time="2022-09-24 04:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803676" start_time="2022-09-24 05:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="N'konak">N'konak</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803677" start_time="2022-09-24 05:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803678" start_time="2022-09-24 06:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Get Up, Stand Up">Get Up, Stand Up</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Best of) Get Up, Stand Up sjell një frymë të re të emisioneve të mëngjesit në ekranet tona.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803679" start_time="2022-09-24 07:45:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803680" start_time="2022-09-24 07:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803681" start_time="2022-09-24 08:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Great blue wild">Great blue wild</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Dokumentar) S1, Ep 3</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803682" start_time="2022-09-24 08:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e  programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803683" start_time="2022-09-24 09:00:00" duration="780">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803684" start_time="2022-09-24 09:13:00" duration="720">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803685" start_time="2022-09-24 09:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803686" start_time="2022-09-24 09:30:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803687" start_time="2022-09-24 09:40:00" duration="900">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803688" start_time="2022-09-24 09:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Radar Extra">Radar Extra</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803691" start_time="2022-09-24 10:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803692" start_time="2022-09-24 11:00:00" duration="1020">
+      <short_event_descriptor lang="alb" name="Flash 13/00">Flash 13/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ i orës 13/00.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803693" start_time="2022-09-24 11:17:00" duration="780">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803694" start_time="2022-09-24 11:30:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Secrets of Silicon Valley">Secrets of Silicon Valley</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Dokumentar, Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803695" start_time="2022-09-24 12:25:00" duration="1200">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803696" start_time="2022-09-24 12:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803697" start_time="2022-09-24 13:00:00" duration="1020">
+      <short_event_descriptor lang="alb" name="Flash 15/00">Flash 15/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ 15/00.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803698" start_time="2022-09-24 13:17:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803699" start_time="2022-09-24 13:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803700" start_time="2022-09-24 13:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Reader">Reader</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emision për lexuesit e librit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803701" start_time="2022-09-24 14:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803702" start_time="2022-09-24 14:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Foleja">Foleja</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Emision edukativ per femije.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803703" start_time="2022-09-24 15:10:00" duration="780">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803704" start_time="2022-09-24 15:23:00" duration="420">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803705" start_time="2022-09-24 15:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Dosja Historike">Dosja Historike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Program me ngjarje historike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803706" start_time="2022-09-24 16:05:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803707" start_time="2022-09-24 16:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803708" start_time="2022-09-24 16:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Great blue wild">Great blue wild</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Dokumentar, Ritransmetim) Dokumentar per natyren.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803709" start_time="2022-09-24 17:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803710" start_time="2022-09-24 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 19/30">Lajme 19/30</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni qendror informativ.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803712" start_time="2022-09-24 18:00:00" duration="120">
+      <short_event_descriptor lang="alb" name="Moti">Moti</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit per Kosove, rajon dhe bote.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803713" start_time="2022-09-24 18:02:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803714" start_time="2022-09-24 18:10:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Hetuesia">Hetuesia</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial) S2, Ep 3</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803715" start_time="2022-09-24 18:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803716" start_time="2022-09-24 19:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="MindHunters">MindHunters</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial) S1, Ep 5</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803717" start_time="2022-09-24 19:55:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803718" start_time="2022-09-24 20:05:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Den of thieves">Den of thieves</short_event_descriptor>
+    </event>
+    <event id="48803720" start_time="2022-09-24 22:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Reader">Reader</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emision edukativ per librin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803722" start_time="2022-09-24 23:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="MindHunters">MindHunters</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) S1, Ep 5</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803723" start_time="2022-09-25 00:05:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Foleja">Foleja</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision edukativ per femije</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803773" start_time="2022-09-25 00:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e  programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803724" start_time="2022-09-25 01:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 19/30">Lajme 19/30</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Edicioni Qendror informativ</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803725" start_time="2022-09-25 01:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hetuesia&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9; &#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9; &#9;&#9;&#9; &#9;&#9;&#9;&#9;&#9; &#9;&#9;&#9; &#9;&#9;&#9;Live from Bernica">Hetuesia								 								 			 					 			 			Live from Bernica</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial, Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803726" start_time="2022-09-25 02:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Great blue wild">Great blue wild</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803727" start_time="2022-09-25 02:45:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Dosja historike">Dosja historike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Emision informativ me ngjarjet me te rendesishme te dites</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803774" start_time="2022-09-25 03:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e  programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803728" start_time="2022-09-25 03:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Radar Extra">Radar Extra</short_event_descriptor>
+    </event>
+    <event id="48803775" start_time="2022-09-25 04:15:00" duration="600">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e  programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803729" start_time="2022-09-25 04:25:00" duration="900">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Permbledhje e te gjitha materialeve te transmetuara gjate dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803730" start_time="2022-09-25 04:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803731" start_time="2022-09-25 05:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="The Game">The Game</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Quiz Show</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803732" start_time="2022-09-25 05:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803733" start_time="2022-09-25 06:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Get Up, Stand Up">Get Up, Stand Up</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Best of) Get Up, Stand Up sjell një frymë të re të emisioneve të mëngjesit në ekranet tona.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803734" start_time="2022-09-25 07:45:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803735" start_time="2022-09-25 07:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803736" start_time="2022-09-25 08:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Great blue wild">Great blue wild</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Dokumentar) Dokumentar per natyren.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803737" start_time="2022-09-25 08:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e  programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803738" start_time="2022-09-25 09:00:00" duration="780">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803739" start_time="2022-09-25 09:13:00" duration="720">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803740" start_time="2022-09-25 09:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803741" start_time="2022-09-25 09:30:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803742" start_time="2022-09-25 09:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803743" start_time="2022-09-25 10:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Hetuesia">Hetuesia</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim, Serial) S2, Ep 3</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803744" start_time="2022-09-25 10:30:00" duration="900">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi &#8230;</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803745" start_time="2022-09-25 10:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe  programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803746" start_time="2022-09-25 11:00:00" duration="1020">
+      <short_event_descriptor lang="alb" name="Flash 13/00">Flash 13/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ i orës 13/00.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803747" start_time="2022-09-25 11:17:00" duration="780">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803748" start_time="2022-09-25 11:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="The Game">The Game</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim) Quiz Show</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803749" start_time="2022-09-25 12:20:00" duration="1500">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi &#8230;</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803750" start_time="2022-09-25 12:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe  programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803751" start_time="2022-09-25 13:00:00" duration="1020">
+      <short_event_descriptor lang="alb" name="Flash 15/00">Flash 15/00</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni informativ 15/00.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803752" start_time="2022-09-25 13:17:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803753" start_time="2022-09-25 13:25:00" duration="300">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803754" start_time="2022-09-25 13:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Radar Extra">Radar Extra</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Ritransmetim)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803755" start_time="2022-09-25 14:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803756" start_time="2022-09-25 14:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="D Story">D Story</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Storie të shkurtëra për lifestyle, kuriozitete, kronike e zeze, shendetesi &#8230;</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803757" start_time="2022-09-25 15:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Puna e mbarë">Puna e mbarë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Emision mbi profesione te ndryshme ne vend.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803758" start_time="2022-09-25 15:20:00" duration="780">
+      <short_event_descriptor lang="alb" name="Telemarketing">Telemarketing</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë reklamimi për TeleMarketing.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803759" start_time="2022-09-25 15:33:00" duration="120">
+      <short_event_descriptor lang="alb" name="Promo">Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e  programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803760" start_time="2022-09-25 15:35:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Porta e shkollës">Porta e shkollës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Best of) Emision edukativ per arsimin ne Kosove</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803761" start_time="2022-09-25 16:25:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803762" start_time="2022-09-25 16:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Great blue wild">Great blue wild</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Dokumentar, Ritransmetim) Dokumentar mbi natyren.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803763" start_time="2022-09-25 17:20:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet &amp; Promo">Publicitet &amp; Promo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve dhe programeve të RTV Dukagjinit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803764" start_time="2022-09-25 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme 19/30">Lajme 19/30</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Lajme) Edicioni qendror informativ.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803766" start_time="2022-09-25 18:00:00" duration="120">
+      <short_event_descriptor lang="alb" name="Moti">Moti</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parashikimi i motit per Kosove, rajon dhe bote.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803767" start_time="2022-09-25 18:02:00" duration="480">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803768" start_time="2022-09-25 18:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="The Game">The Game</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Best of)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803769" start_time="2022-09-25 19:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803770" start_time="2022-09-25 19:10:00" duration="2400">
+      <short_event_descriptor lang="alb" name="MindHunters">MindHunters</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Serial) S1, Ep 3</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803771" start_time="2022-09-25 19:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hapësirë për reklamimin e bizneseve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48803772" start_time="2022-09-25 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dueli sportiv">Dueli sportiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(Premierë) Emisioni gjeneral i sportit.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

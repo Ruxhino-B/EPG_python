@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="ID Xtra HD">
+    <event id="0" start_time="2022-09-06 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo familje ka sekretet e saj qe mund te jene edhe vrasje te fshehura mire por per te cilat mund te dyshohet kushdo dhe kurdo...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-06 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Deadline: Crime with Tamron Ha">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tamron Holl na shoqëron në një varg hetimesh që do të tregojnë se si janë kryer disa nga vrasjet më brutale të realizuara ndonjëherë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-06 14:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Still A Mystery ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse nje ceshtje mbyllet nuk do te thote qe e verteta eshte zbuluar. Vrasje apo vetvrasje? Arratisje apo rrembim? Cdo episod ekzaminon raste krimesh per te cilat ka ende shume pikepyetje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-06 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Bad Henry">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Brandi Henderson gjendet i vdekur ne shtepine e tij ne vitin 1994. Policia druan se eshte veper e nje vrasesi serial.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-06 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dead Silent">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nderthurje mitesh, legjendash urbane dhe filmash horror. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-06 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Signs Of A Psychopath">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje veshtrim mbi vrasesit me brutal ne histori.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-06 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="The Menendez Brothers">The Crimes That Changed Us</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur nje ekzekutiv hollivudi dhe gruaja e tij vriten brutalisht, dyshimet bien mbi dy djemte e tyre. Te akuzuar per vrasje, vellezerit mesojne fakte shqetesuese per familjen</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-06 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Evil Twins">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Që në barkun e nënës, binjakët Cormier janë partnerë në fatkeqësi. Por ndërsa rriten, veprimet e tyre të pafajshme kalojnë në një lojë shumë më të errët.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-07 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Signs Of A Psychopath">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje veshtrim mbi vrasesit me brutal ne histori.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-07 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Bad Henry">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Brandi Henderson gjendet i vdekur ne shtepine e tij ne vitin 1994. Policia druan se eshte veper e nje vrasesi serial.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-07 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo familje ka sekretet e saj qe mund te jene edhe vrasje te fshehura mire por per te cilat mund te dyshohet kushdo dhe kurdo...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-07 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Deadline: Crime with Tamron Ha">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tamron Holl na shoqëron në një varg hetimesh që do të tregojnë se si janë kryer disa nga vrasjet më brutale të realizuara ndonjëherë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-07 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Still A Mystery ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse nje ceshtje mbyllet nuk do te thote qe e verteta eshte zbuluar. Vrasje apo vetvrasje? Arratisje apo rrembim? Cdo episod ekzaminon raste krimesh per te cilat ka ende shume pikepyetje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-07 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Bad Henry">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Brandi Henderson gjendet i vdekur ne shtepine e tij ne vitin 1994. Policia druan se eshte veper e nje vrasesi serial.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-07 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Breaking Homicide">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ish oficer policie një psikolog kriminalistike punojnë çdo javë me një rast të ri vrasjeje me kërkesë të viktimave të familjeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-07 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I am Homicide">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Sharlot shumë njerëz e njohin si Shefi i Vrasjeve, por ai është detektivi Geri Mekfedën. Me qindra raste të zgjidhura dhe drejtësi për viktimat. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-07 14:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Homicide city">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasjet me te paharrueshme treguar nga hetues veterane qe kane pare gjithcka, ne qytetet me te medha te Amerikes </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-07 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Caught In The Net">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çfarë ndodh kur të dhënat për një vrasje janë dixhitale? Hetuesit përdorin gjithnjë e më shumë teknologjinë moderne si aplikacionet softuerike dhe GPS për të gjurmuar vrasësit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-07 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Devil In The Web">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një burrë përdor internetin për të telefonuar dhe për të dërguar mesazhe femrave në 20 shtete të ndryshme. Duke përdorur rrjetet e tyre sociale kundër tyre, ai i bën ato të besojnë se ai është duke u fshehur aty pranë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-07 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Homicide Hunter: Never Give Up">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përdhunimi, gjymtimi dhe vrasja e pazgjidhur e të riut G.I. Darlene Krashoc e ka përndjekur Joe Kenda për dekada. A do të munden hetuesit të zbardhin këtë krim ende pa autor?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-07 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Homicide city">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasjet me te paharrueshme treguar nga hetues veterane qe kane pare gjithcka, ne qytetet me te medha te Amerikes </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-07 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Detective Diaries">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek pesë detektivë amerikanë teksa nxisin kujtimet dhe rishqyrtojnë rastet tronditëse që përcaktuan karrierën e tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-08 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Caught In The Net">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çfarë ndodh kur të dhënat për një vrasje janë dixhitale? Hetuesit përdorin gjithnjë e më shumë teknologjinë moderne si aplikacionet softuerike dhe GPS për të gjurmuar vrasësit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-08 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Breaking Homicide">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ish oficer policie një psikolog kriminalistike punojnë çdo javë me një rast të ri vrasjeje me kërkesë të viktimave të familjeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-08 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I am Homicide">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Sharlot shumë njerëz e njohin si Shefi i Vrasjeve, por ai është detektivi Geri Mekfedën. Me qindra raste të zgjidhura dhe drejtësi për viktimat. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-08 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Homicide city">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasjet me te paharrueshme treguar nga hetues veterane qe kane pare gjithcka, ne qytetet me te medha te Amerikes </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-08 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Caught In The Net">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çfarë ndodh kur të dhënat për një vrasje janë dixhitale? Hetuesit përdorin gjithnjë e më shumë teknologjinë moderne si aplikacionet softuerike dhe GPS për të gjurmuar vrasësit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-08 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Deadly recall">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Per gati 25 vjet Pat Postiglione ka sherbyer si detektiv ne Nashville dhe ka hetuar mbi qindra vrasje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-08 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Impact of murder">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentari sjell pamje reale dhe emocionale nga salla e gjyqit. Deklarata e viktimave dhe se si ka ndryshuar jeta e tyre pas krimit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-08 14:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Nightmare Next Door">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasjet misterioze mes fqinjëve që tronditën Amerikën e Mesme dhe një vështrim të ri mbi të keqen, që mund të jetë pranë gjithësecilit prej nesh.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-08 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Crime Scene Confidential ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hetuesja Alina përdor ekspertizën e saj për të rishikuar disa nga rastet më tronditëse dhe më të diskutueshme të Amerikës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-08 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Two Shallow Graves">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur trupat e familjes McStay gjenden në shkretëtirë, Chase Merritt akuzohet për krimin. Gjyqi fillon dhe secila palë paraqet provat e tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-08 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="People Magazine investigates">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zbuloni te verteten duke degjuar historite e disa prej personazheve me te famshem</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-08 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Devil In The Details ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo hetim është një gjueti për të dhëna. Në çështjet e vrasjeve janë detajet ato që zbulojnë të vërtetën e hidhur. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-08 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Signs Of A Psychopath">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje veshtrim mbi vrasesit me brutale te koheve te sotme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-08 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Killing Richard Glossip">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Per 20 vjet me radhe, i denuari me vdekje per vrasje Richard Glossip po lufton per jeten nga qelia e tij. A eshte gati shteti i Oklahomes te ekzekutoje nje njeri te pafajshem? </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-09 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Crime Scene Confidential ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hetuesja Alina përdor ekspertizën e saj për të rishikuar disa nga rastet më tronditëse dhe më të diskutueshme të Amerikës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-09 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Deadly recall">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Per gati 25 vjet Pat Postiglione ka sherbyer si detektiv ne Nashville dhe ka hetuar mbi qindra vrasje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-09 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Impact of murder">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentari sjell pamje reale dhe emocionale nga salla e gjyqit. Deklarata e viktimave dhe se si ka ndryshuar jeta e tyre pas krimit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-09 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Nightmare Next Door">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasjet misterioze mes fqinjëve që tronditën Amerikën e Mesme dhe një vështrim i ri mbi të keqen, që mund të jetë pranë gjithësecilit prej nesh...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-09 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Crime Scene Confidential ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hetuesja Alina përdor ekspertizën e saj për të rishikuar disa nga rastet më tronditëse dhe më të diskutueshme të Amerikës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-09 10:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Where Murder Lies: Glass Heart, The">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta idilike e nje cifti ne Kaliforni, shkaterrohet nga nje vrasje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-09 11:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Where Murder Lies: No Hiding the Truth">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur nëna e ardhshme Jenny Webb nuk kthehet në shtëpi, të dashurit e saj shqetësohen. Më vonë atë natë, frika e tyre konfirmohet kur ajo gjendet e vdekur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-09 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Primal Instinct">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Glenn Godfrey ishte polici me i mire ne Alaske. Por a do mundet valle qe vitet e kaluara ne zbatimin e ligjit dhe eksperienca te mbrojne ate dhe familjen e tij?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-09 14:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I'd kill for you">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Janë njerëz që krijojnë lidhje të paqëndrueshme, burra e gra, të cilët përdornin të dashurit e tyre si justifikim për të kryer krime. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-09 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Murder Under The Friday Night Lights">Game of Privileges</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në një qytet të Pensilvanisë, vrasja e një emigranti ndan komunitetin. Kur lojtarët e skuadrës së futbollit të qytetit hetohen si të dyshuar, gjithë komuniteti u del në mbrojtje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-09 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Murder Under The Friday Night Lights ">Do It for Juan</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Si qendërmbrojtës dhe më pas si trajner, Juan Joseph udhëhoqi ekipin e tij të futbollit të shkollës së mesme të Luizianës drejt fitoreve të shumta. Komuniteti tronditet kur ai vritet.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-09 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Deadly affairs">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët identifikojnë raste kur dashuria mund të quhet një atraksion fatkeq dhe të përfundojë me vdekje të çiftit.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-09 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Two Shallow Graves">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur trupat e familjes McStay gjenden në shkretëtirë, Chase Merritt akuzohet për krimin. Gjyqi fillon dhe secila palë paraqet provat e tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-09 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Devil In The Web">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një burrë përdor internetin për të telefonuar dhe për të dërguar mesazhe femrave në 20 shtete të ndryshme. Duke përdorur rrjetet e tyre sociale kundër tyre, ai i bën ato të besojnë se ai është duke u fshehur aty pranë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-09 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="The Diana Investigations">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e dy hetimeve kryesore të policisë për vdekjen e Dianës, Princeshës së Uellsit, duke u fokusuar në punën e hetuesve francezë dhe britanikë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-09 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Scorned">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zbulime mbi tradhtitë, mashtrimet, intrigat seksuale dhe faktin se si epshi ushqen disa akte brutale të dhunës.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-10 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Murder Under The Friday Night Lights">Game of Privileges</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në një qytet të Pensilvanisë, vrasja e një emigranti ndan komunitetin. Kur lojtarët e skuadrës së futbollit të qytetit hetohen si të dyshuar, gjithë komuniteti u del në mbrojtje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-10 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Where Murder Lies: Glass Heart, The">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta idilike e nje cifti ne Kaliforni, shkaterrohet nga nje vrasje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-10 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Where Murder Lies: No Hiding the Truth">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur nëna e ardhshme Jenny Webb nuk kthehet në shtëpi, të dashurit e saj shqetësohen. Më vonë atë natë, frika e tyre konfirmohet kur ajo gjendet e vdekur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-10 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Diabolical: Deadly Love">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Raste tronditëse, në të cilat një person shëndrrohet papritur, nga një njeri normal në një vrasës brutal</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-10 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo familje ka sekretet e saj qe mund te jene edhe vrasje te fshehura mire por per te cilat mund te dyshohet kushdo dhe kurdo...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-10 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Killer instict with C. Hansen">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fituesi i çmimit Emmy, gazetari investigativ Chris Hansen, fale aftesive te tij gazetareske, na sjell histori te frikshme vrasjesh ne Amerike, sjelljen dhe motivin qe i shtyne keta kriminele drejt krimit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-10 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Deadline: Crime with Tamron Ha">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tamron Holl na shoqëron në një varg hetimesh që do të tregojnë se si janë kryer disa nga vrasjet më brutale të realizuara ndonjëherë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-10 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="True crime with Aphrodite Jone">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar televiziv amerikan, ku moderatorja Jones na prezanton ngjarje kriminale te shoqeruara me deshmi, intervista dhe prova....</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-09-10 14:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Bad Henry">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Brandi Henderson gjendet i vdekur ne shtepine e tij ne vitin 1994. Policia druan se eshte veper e nje vrasesi serial.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-09-10 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Terror Comes To Town: House Of Mirrors">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ne nje qytet te vogel piktoresk, nje vajze e re zhduket ne muzg. Me ardhjen e karnavaleve ne qytet, shtohet edhe numri i te dyshuarve dhe policia nis kerkimet per gjetjen e vrasesit </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2022-09-10 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Homicide Hunter: Never Give Up">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përdhunimi, gjymtimi dhe vrasja e pazgjidhur e të riut G.I. Darlene Krashoc e ka përndjekur Joe Kenda për dekada. A do të munden hetuesit të zbardhin këtë krim ende pa autor?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2022-09-10 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Crime Scene Confidential ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hetuesja Alina përdor ekspertizën e saj për të rishikuar disa nga rastet më tronditëse dhe më të diskutueshme të Amerikës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2022-09-10 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Unbreakable: Live To Tell">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ku e gjeni forcën për të vazhduar jetën kur keni parë vrasjen tragjike të njeriut tuaj të dashur? Serial ndjek historinë e të mbijetuarve dhe si arrijnë t'i kthehen 'normalitetit'.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2022-09-10 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Broken Trust">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një numër situatash financiare të shkuara keq që më pas zgjidhen nëpërmjet tradhëtisë shpesh me pasoja vdekjeprurëse.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2022-09-11 01:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Killer instict with C. Hansen">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fituesi i çmimit Emmy, gazetari investigativ Chris Hansen, fale aftesive te tij gazetareske, na sjell histori te frikshme vrasjesh ne Amerike, sjelljen dhe motivin qe i shtyne keta kriminele drejt krimit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2022-09-11 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Deadline: Crime with Tamron Hall">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tamron Holl na shoqëron në një varg hetimesh që do të tregojnë se si janë kryer disa nga vrasjet më brutale të realizuara ndonjëherë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2022-09-11 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Breaking Homicide">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ish oficer policie një psikolog kriminalistike punojnë çdo javë me një rast të ri vrasjeje me kërkesë të viktimave të familjeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2022-09-11 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Deadly recall">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Per gati 25 vjet Pat Postiglione ka sherbyer si detektiv ne Nashville. Ka nje kujtese fotografike  dhe ka hetuar mbi qindra vrasje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2022-09-11 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I am Homicide">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Sharlot shumë njerëz e njohin si Shefi i Vrasjeve, por ai është detektivi Geri Mekfedën. Me qindra raste të zgjidhura dhe drejtësi për viktimat. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2022-09-11 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Impact of murder">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentari sjell pamje reale dhe emocionale nga salla e gjyqit. Deklarata e viktimave dhe se si ka ndryshuar jeta e tyre pas krimit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2022-09-11 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Caught In The Net">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çfarë ndodh kur të dhënat për një vrasje janë dixhitale? Hetuesit përdorin gjithnjë e më shumë teknologjinë moderne si aplikacionet softuerike dhe GPS për të gjurmuar vrasësit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2022-09-11 14:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Crime Scene Confidential ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hetuesja Alina përdor ekspertizën e saj për të rishikuar disa nga rastet më tronditëse dhe më të diskutueshme të Amerikës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2022-09-11 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Still A Mystery ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse nje ceshtje mbyllet nuk do te thote qe e verteta eshte zbuluar. Vrasje apo vetvrasje? Arratisje apo rrembim? Cdo episod ekzaminon raste krimesh per te cilat ka ende shume pikepyetje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2022-09-11 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Crimes Gone Viral">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historitë e vërteta të njerëzve që u sulmuan në rrugë nga të panjohur..... me pamjet e kamerave nga vendi i ngjarjes dhe dëshmitë e dëshmitarëve okularë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2022-09-11 19:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Who Killed Biggie and Tupac? ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>25 vjet përbuzje, polemike dhe konspiracion të gjithë çojnë në të njëjtën pyetje: kush i vrau Biggie dhe Tupac? Një pasqyrë unike për të dyja vrasjet ofron përgjigjen</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2022-09-11 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Two Shallow Graves">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur trupat e familjes McStay gjenden në shkretëtirë, Chase Merritt akuzohet për krimin. Gjyqi fillon dhe secila palë paraqet provat e tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2022-09-11 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="American nightmare">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur kujtimet tona më sentimentale përplasen me imazhet më të tmerrshme të nje skene krimi, e gjitha shenderrohet ne një ... Makth Amerikan</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2022-09-12 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Deadline: Crime with Tamron Hall">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tamron Holl na shoqëron në një varg hetimesh që do të tregojnë se si janë kryer disa nga vrasjet më brutale të realizuara ndonjëherë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2022-09-12 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I am Homicide">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Sharlot shumë njerëz e njohin si Shefi i Vrasjeve, por ai është detektivi Geri Mekfedën. Me qindra raste të zgjidhura dhe drejtësi për viktimat. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2022-09-12 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Primal Instinct">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori krimesh te verteta</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2022-09-12 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I'd kill for you">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Janë njerëz që krijojnë lidhje të paqëndrueshme, burra e gra, të cilët përdornin të dashurit e tyre si justifikim për të kryer krime. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2022-09-12 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Murder Under The Friday Night Lights">Game of Privileges</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në një qytet të Pensilvanisë, vrasja e një emigranti ndan komunitetin. Kur lojtarët e skuadrës së futbollit të qytetit hetohen si të dyshuar, gjithë komuniteti u del në mbrojtje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2022-09-12 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Murder Under The Friday Night Lights ">Do It for Juan</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Si qendërmbrojtës dhe më pas si trajner, Juan Joseph udhëhoqi ekipin e tij të futbollit të shkollës së mesme të Luizianës drejt fitoreve të shumta. Komuniteti tronditet kur ai vritet.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2022-09-12 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Diabolical: Deadly Love">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Raste tronditëse, në të cilat një person shëndrrohet papritur, nga një njeri normal në një vrasës brutal</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2022-09-12 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Killer instict with C. Hansen">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fituesi i çmimit Emmy, gazetari investigativ Chris Hansen, fale aftesive te tij gazetareske, na sjell histori te frikshme vrasjesh ne Amerike, sjelljen dhe motivin qe i shtyne keta kriminele drejt krimit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2022-09-12 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Terror Comes To Town: Dungeon Of Doom">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur nje femije 9 vjecar zhduket nga nje park ne Nju Jork, policia nis ndjekjen per kapjen e nje rrembyesi te mundshem femijesh.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2022-09-12 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Terror Comes To Town: The Sideshow Murde">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje komunitet i tere tronditet nga nje vrasje brutale dhe kushdo eshte i dyshuar. Por vdekja e Lobster Boy zbulon gjithe te vertetat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2022-09-12 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="True crime with Aphrodite Jone">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar televiziv amerikan, ku moderatorja Jones na prezanton ngjarje kriminale te shoqeruara me deshmi, intervista dhe prova....</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2022-09-12 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="People Magazine investigates">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zbuloni te verteten duke degjuar historite e disa prej personazheve me te famshem</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2022-09-12 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Devil In The Web">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një burrë përdor internetin për të telefonuar dhe për të dërguar mesazhe femrave në 20 shtete të ndryshme. Duke përdorur rrjetet e tyre sociale kundër tyre, ai i bën ato të besojnë se ai është duke u fshehur aty pranë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2022-09-12 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Crimes Gone Viral">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një grua që po vjedh ne dyqan, shqetësohet kur kapet. Dhe, një pastor tronditet kur sheh një shofer të rrezikshëm në autostradë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2022-09-12 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Caught In The Net">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çfarë ndodh kur të dhënat për një vrasje janë dixhitale? Hetuesit përdorin gjithnjë e më shumë teknologjinë moderne si aplikacionet softuerike dhe GPS për të gjurmuar vrasësit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2022-09-12 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Betrayed">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një serial mbi jetët e njerëzve që i kanë ditët të numëruara por që fundi do t'iu vijë nga partnerët, ortakët, të afërmit apo dikush që e njohin shumë mirë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2022-09-13 01:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="True crime with Aphrodite Jone">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar televiziv amerikan, ku moderatorja Jones na prezanton ngjarje kriminale te shoqeruara me deshmi, intervista dhe prova....</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2022-09-13 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Diabolical: Deadly Love">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Raste tronditëse, në të cilat një person shëndrrohet papritur, nga një njeri normal në një vrasës brutal</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2022-09-13 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Killer instict with C. Hansen">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fituesi i çmimit Emmy, gazetari investigativ Chris Hansen, fale aftesive te tij gazetareske, na sjell histori te frikshme vrasjesh ne Amerike, sjelljen dhe motivin qe i shtyne keta kriminele drejt krimit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2022-09-13 06:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Terror Comes To Town: Dungeon Of Doom">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur nje femije 9 vjecar zhduket nga nje park ne Nju Jork, policia nis ndjekjen per kapjen e nje rrembyesi te mundshem femijesh.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2022-09-13 07:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Terror Comes To Town: The Sideshow Murde">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje komunitet i tere tronditet nga nje vrasje brutale dhe kushdo eshte i dyshuar. Por vdekja e Lobster Boy zbulon gjithe te vertetat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2022-09-13 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="True crime with Aphrodite Jone">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar televiziv amerikan, ku moderatorja Jones na prezanton ngjarje kriminale te shoqeruara me deshmi, intervista dhe prova....</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2022-09-13 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo familje ka sekretet e saj qe mund te jene edhe vrasje te fshehura mire por per te cilat mund te dyshohet kushdo dhe kurdo...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2022-09-13 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Deadline: Crime with Tamron Hall">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tamron Holl na shoqëron në një varg hetimesh që do të tregojnë se si janë kryer disa nga vrasjet më brutale të realizuara ndonjëherë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2022-09-13 14:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Still A Mystery ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse nje ceshtje mbyllet nuk do te thote qe e verteta eshte zbuluar. Vrasje apo vetvrasje? Arratisje apo rrembim? Cdo episod ekzaminon raste krimesh per te cilat ka ende shume pikepyetje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2022-09-13 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Breaking point">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njohuri mbi sjelljen e paligjshme, të ciliat janë të bazuara jo vetëm në interesat profesionale dhe klinike por, edhe te pasioni.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2022-09-13 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dead Silent">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nderthurje mitesh, legjendash urbane dhe filmash horror. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2022-09-13 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Signs Of A Psychopath">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje veshtrim mbi vrasesit me brutale te koheve te sotme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2022-09-13 20:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Who Killed Biggie and Tupac? ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>25 vjet përbuzje, polemike dhe konspiracion të gjithë çojnë në të njëjtën pyetje: kush i vrau Biggie dhe Tupac? Një pasqyrë unike për të dyja vrasjet ofron përgjigjen</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2022-09-13 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Evil Twins">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Që në barkun e nënës, binjakët Cormier janë partnerë në fatkeqësi. Por ndërsa rriten, veprimet e tyre të pafajshme kalojnë në një lojë shumë më të errët.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="109" start_time="2022-09-14 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Signs Of A Psychopath">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje veshtrim mbi vrasesit me brutale te koheve te sotme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="110" start_time="2022-09-14 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Breaking point">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njohuri mbi sjelljen e paligjshme, të ciliat janë të bazuara jo vetëm në interesat profesionale dhe klinike por, edhe te pasioni.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="111" start_time="2022-09-14 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo familje ka sekretet e saj qe mund te jene edhe vrasje te fshehura mire por per te cilat mund te dyshohet kushdo dhe kurdo...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="112" start_time="2022-09-14 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Deadline: Crime with Tamron Hall">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tamron Holl na shoqëron në një varg hetimesh që do të tregojnë se si janë kryer disa nga vrasjet më brutale të realizuara ndonjëherë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="113" start_time="2022-09-14 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Still A Mystery ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse nje ceshtje mbyllet nuk do te thote qe e verteta eshte zbuluar. Vrasje apo vetvrasje? Arratisje apo rrembim? Cdo episod ekzaminon raste krimesh per te cilat ka ende shume pikepyetje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="114" start_time="2022-09-14 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Breaking point">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njohuri mbi sjelljen e paligjshme, të ciliat janë të bazuara jo vetëm në interesat profesionale dhe klinike por, edhe te pasioni.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="115" start_time="2022-09-14 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Breaking Homicide">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ish oficer policie një psikolog kriminalistike punojnë çdo javë me një rast të ri vrasjeje me kërkesë të viktimave të familjeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="116" start_time="2022-09-14 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I am Homicide">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Sharlot shumë njerëz e njohin si Shefi i Vrasjeve, por ai është detektivi Geri Mekfedën. Me qindra raste të zgjidhura dhe drejtësi për viktimat. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="117" start_time="2022-09-14 14:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Homicide city">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasjet me te paharrueshme treguar nga hetues veterane qe kane pare gjithcka, ne qytetet me te medha te Amerikes </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="118" start_time="2022-09-14 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Caught In The Net">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çfarë ndodh kur të dhënat për një vrasje janë dixhitale? Hetuesit përdorin gjithnjë e më shumë teknologjinë moderne si aplikacionet softuerike dhe GPS për të gjurmuar vrasësit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="119" start_time="2025-09-05 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Primal Instinct">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Glenn Godfrey ishte polici me i mire ne Alaske. Por a do mundet valle qe vitet e kaluara ne zbatimin e ligjit dhe eksperienca te mbrojne ate dhe familjen e tij?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="120" start_time="2025-09-05 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I'd kill for you">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Janë njerëz që krijojnë lidhje të paqëndrueshme, burra e gra, të cilët përdornin të dashurit e tyre si justifikim për të kryer krime. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="121" start_time="2025-09-05 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Murder Under The Friday Night Lights">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në një qytet të vogël të Teksasit, një përdhunues serial përndjek dhe sulmon shumë nxitës të tifozëve të shkollave të mesme. Fushata e frikës arrin kulmin me një pushtim në shtëpi dhe vrasje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="122" start_time="2025-09-05 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Diabolical: Deadly Love">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Raste tronditëse, në të cilat një person shëndrrohet papritur, nga një njeri normal në një vrasës brutal</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="123" start_time="2025-09-05 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Killer instict with C. Hansen">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fituesi i çmimit Emmy, gazetari investigativ Chris Hansen, fale aftesive te tij gazetareske, na sjell histori te frikshme vrasjesh ne Amerike, sjelljen dhe motivin qe i shtyne keta kriminele drejt krimit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="124" start_time="2025-09-05 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Sin City Justice">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sin City Justice ofron akses ekskluziv dhe të paprecedentë në Zyrën e Prokurorit të Rrethit të Las Vegasit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="125" start_time="2025-09-05 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Terror Comes To Town: House Of Mirrors">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ne nje qytet te vogel piktoresk, nje vajze e re zhduket ne muzg. Me ardhjen e karnavaleve ne qytet, shtohet edhe numri i te dyshuarve dhe policia nis kerkimet per gjetjen e vrasesit </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="126" start_time="2025-09-05 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="True crime with Aphrodite Jone">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar televiziv amerikan, ku moderatorja Jones na prezanton ngjarje kriminale te shoqeruara me deshmi, intervista dhe prova.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="127" start_time="2025-09-05 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="A Murder In Mansfield">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ne vitin 1999 12 vjecari Collier del para trupit gjykues dhe vulos fatin e te atit. 20 vjet me pas ai rikthehet ne burg dhe perballet me te.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="128" start_time="2025-09-05 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Devil In The Web">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një burrë përdor internetin për të telefonuar dhe për të dërguar mesazhe femrave në 20 shtete të ndryshme. Duke përdorur rrjetet e tyre sociale kundër tyre, ai i bën ato të besojnë se ai është duke u fshehur aty pranë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="129" start_time="2025-09-05 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Crimes Gone Viral">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historitë e vërteta të njerëzve që u sulmuan në rrugë nga të panjohur..... me pamjet e kamerave nga vendi i ngjarjes dhe dëshmitë e dëshmitarëve okularë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="130" start_time="2025-09-05 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Impact of murder">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentari sjell pamje reale dhe emocionale nga salla e gjyqit. Deklarata e viktimave dhe se si ka ndryshuar jeta e tyre pas krimit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="131" start_time="2025-09-05 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Betrayed">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një serial mbi jetët e njerëzve që i kanë ditët të numëruara por që fundi do t'iu vijë nga partnerët, ortakët, të afërmit apo dikush që e njohin shumë mirë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="132" start_time="2025-09-06 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="True crime with Aphrodite Jone">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar televiziv amerikan, ku moderatorja Jones na prezanton ngjarje kriminale te shoqeruara me deshmi, intervista dhe prova.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="133" start_time="2025-09-06 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Diabolical: Deadly Love">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Raste tronditëse, në të cilat një person shëndrrohet papritur, nga një njeri normal në një vrasës brutal</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

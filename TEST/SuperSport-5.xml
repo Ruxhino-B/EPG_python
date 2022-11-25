@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport-5">
+    <event id="0" start_time="2022-09-18 12:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="PSV-Feyenoord  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eredivisie, sezoni 2022-2023. Sfide e vlefshme per javen e 7-te nga stadiumi "Philips Stadion" ne Eindhoven. Komenti: Ermal Toti.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-18 14:30:00" duration="900">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-18 14:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="AZ Alkmaar-Ajax  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eredivisie, sezoni 2022-2023. Sfide e vlefshme per javen e 7-te nga stadiumi "AFAS Stadion" ne Alkmaar. Komenti: Alban Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-18 16:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-18 17:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Koha Shtese  Live">Analize-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision mbi gjithçka ndodh ne sportin kosovar por edhe ne kampionatet e huaja. Prodhim i Supersport Kosoves.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-18 19:00:00" duration="39600">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-19 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-19 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-20 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-20 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-21 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-21 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-22 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-22 18:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-22 18:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Belgjike-Uells  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nations League 2022. Sfide e vlefshme per grupin 4 te Liges A. Nga stadiumi "Roi Baudouin" ne Bruxelles. Komenti: Gjergji Xharo.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-22 20:45:00" duration="33300">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-23 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-23 18:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-23 18:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Brazil-Gane  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sfide miqesore ne pergatitjet per Katar 2022. Nga stadiumi "Stade Oceane" ne Le Havre. Komenti: Alban Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-23 20:30:00" duration="34200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-24 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-24 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-25 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-25 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-26 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-26 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-27 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-27 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-28 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-28 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-29 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-29 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-30 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-30 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

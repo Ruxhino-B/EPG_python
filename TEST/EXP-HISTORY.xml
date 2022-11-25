@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="EXP-HISTORY">
+		<Event id="0" start_time="2022-09-20 05:30:00" duration="3840">
+			<short_event_descriptor lang="alb" name="Lambert dhe Stamp 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lambert And Stamp 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Producentët Stamp dhe Lambert po planifikonin për filmin e tyre të rradhës. Në punë e sipër ata zbulojnë një grup 'The Who' dhe vendosën ti menaxhojnë, duke i kthyer kështu në 'Fenomenin' e viteve 1960-të...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-09-20 06:34:00" duration="3660">
+			<short_event_descriptor lang="alb" name="Lambert dhe Stamp 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lambert And Stamp 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Producentët Stamp dhe Lambert po planifikonin për filmin e tyre të rradhës. Në punë e sipër ata zbulojnë një grup 'The Who' dhe vendosën ti menaxhojnë, duke i kthyer kështu në 'Fenomenin' e viteve 1960-të...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-09-20 07:35:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Bardhezinjtë: Historia e Juventus 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bianconeri Juventus Story aka Black And White Stripes The Juventus Story 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dokumentar që ndalon në momentet kyçe të aventurës sportive të Juventusit, duke zbuluar njëkohësisht lidhjen e thellë midis familjes Agnelli dhe këtij ekipit... Njihuni me historinë e Juventusit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="3"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-09-20 08:40:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Bardhezinjtë: Historia e Juventus 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bianconeri Juventus Story aka Black And White Stripes The Juventus Story 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dokumentar që ndalon në momentet kyçe të aventurës sportive të Juventusit, duke zbuluar njëkohësisht lidhjen e thellë midis familjes Agnelli dhe këtij ekipit... Njihuni me historinë e Juventusit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="3"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-09-20 09:35:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Violinat e Kremonës">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Violins Of Cremona"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kremona quhet atdheu i instrumenteve. Të gjithë mjeshtrat më të mëdhenj të prodhimit të tyre, kanë qenë atje. Shkolla Kremoneze e Prodhimit të Violinave është më e rëndësishmja dhe më e famshmja në botë. Le të njihemi me 'Violinat e Kremonës'...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-09-20 10:30:00" duration="4860">
+			<short_event_descriptor lang="alb" name="Sfiduesit 3">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Defiant Ones 103"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta dhe karriera e dy legjendave të muzikës... Lidhja e pathyeshme e besimit dhe miqësisë, mes producentit Jimmy Iovine dhe Reperit DR. Dre...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-09-20 11:51:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Çfarë ndodhi zonjush Simon 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="What Happened Miss Simone"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dokumentar mbi jetën e legjendës Nina Simone - Kengëtare, pianiste
+dhe aktiviste për të drejtat civile...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-09-20 12:41:00" duration="3540">
+			<short_event_descriptor lang="alb" name="Çfarë ndodhi zonjush Simon 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="What Happened Miss Simone"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dokumentar mbi jetën e legjendës Nina Simone - Kengëtare, pianiste
+dhe aktiviste për të drejtat civile...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-09-20 13:40:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Brenda kullës së Londrës 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Inside the Tower of London"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kulla e Londrës. Për një mijë vjet ka qenë një fortesë e padepërtueshme, një pallat mbretëror dhe një burg famëkeq. Ka më shumë histori këtu, se në çdo vend tjetër të Britanisë. Le t'i zbulojmë së bashku...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-09-20 14:30:00" duration="3840">
+			<short_event_descriptor lang="alb" name="Jeta e Muhamedit 3">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Life Of Muhammad 103 Holy Peace"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Për 1 miliardë e gjysmë myslimanë, ai është profeti i fundit dhe më i madhi i shumë profetëve që sollën te njerëzit fjalën e Zotit... Kush ishte ai? Cili ishte mesazhi i tij? Njihuni me ndërlikimet e shumta të historisë së jetës së tij...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-09-20 15:34:00" duration="3060">
+			<short_event_descriptor lang="alb" name="Hetuesit sportivë 5">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sports Detectives 105 Dales Car Secreta"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Disa nga momentet më të diskutueshme në historinë e sportit. Medalje të dhëna padrejtësisht? Ndeshje të humbura papritur? Cfarë fshihet pas këtyre momenteve historike? Detektivët e sportit, do të na zbulojnë të vërteta ta pabesueshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-09-20 16:25:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Lufta e padukshme 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Invisible War 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për çmimin Oskar. Ky dokumentar është një hetim televiziv mbi fenomenin masiv të përdhunimit të femrave që shërbejnë në ushtrinë e Shteteve të Bashkuara dhe abuzimit të hetimeve zyrtare në lidhje me to.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-09-20 17:10:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Lufta e padukshme 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Invisible War 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kandidat për çmimin Oskar. Ky dokumentar është një hetim televiziv mbi fenomenin masiv të përdhunimit të femrave që shërbejnë në ushtrinë e Shteteve të Bashkuara dhe abuzimit të hetimeve zyrtare në lidhje me to.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-09-20 18:00:00" duration="3000">
+			<short_event_descriptor lang="alb" name="1971: Viti kur muzika ndryshoi gjithçka 3"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="1971 The Year That Music Changed Everything"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një udhëtim në vitin 1971, atëherë kur muzika nuk ishte thjesht muzikë, por kishte forcën për të frymëzuar dhe ndryshuar realitetin. Intervista dhe pamje ekskluzive me muzikantët dhe këngët që formësuan kulturën dhe politikën e vitit 1971.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-09-20 18:50:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Beteja e Dak Tosë">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Raw War The Lost Film Of Dak To"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>C'ndodhi në vitin e largët 1967 në vendin e quajtur kodra 724 në Dak To-së gjatë luftës së Vjetnamit. Si u zbuluan pamjet autentike të asaj beteje të përgjakshme. Artefakte historike dhe rrëfimi ekskluziv i të  mbijetuarve të batalionit amerikan...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-09-20 19:45:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Një rekuiem bërthamor">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Nuclear Requiem"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jetojmë në 1 botë që i lejon armët bërthamore të ekzistojnë moralisht dhe politikisht dhe nuk kemi qënë të aftë t'i ndalojmë. Kërcënimi i Armagetonit bërthamor po afron...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-09-20 20:45:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Lista e të vdekurve 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Dead Reckoning 102 The Blind Eye"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndiqni prokurorët dhe hetuesit e krimeve të luftës, ndërsa ndjekin disa prej kriminelëve më famëkeq të luftës, në 70-të vitet e fundit. Sepse e shkuara është gjithmonë e pranishme, në vende ku konflikti, është ende i nxehtë në shpirt...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-09-20 21:50:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Luis Tero: Familja më e urryer ne Amerikë">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Louis Theroux 102 Most Hated Family In America"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nga gazetarët më të njohur Britanik, nëpërmejt një cikli dokumentarësh shumë interesant, do të na njohë me vende, njerëz, fakte shumë të çuditshme... Ku nuk do të mungojnë edhe situata të rrezikshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-09-20 22:55:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Vdekje në Materhorn 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Death On The Matterhorn 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Materhorn, një nga malet më sfiduese në botë. Të partë që guxuan ta pushtonin në 1865, ishin dy grupe rivale alpinistësh. Triumfi i Britanikëve u kthye në tragjedi. Gjatë zbritjes 4 prej tyre vdiqën. A ishte një aksident fatkeq apo vrasje?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-09-20 23:45:00" duration="4140">
+			<short_event_descriptor lang="alb" name="Lambert dhe Stamp 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lambert And Stamp 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Producentët Stamp dhe Lambert po planifikonin për filmin e tyre të rradhës. Në punë e sipër ata zbulojnë një grup 'The Who' dhe vendosën ti menaxhojnë, duke i kthyer kështu në 'Fenomenin' e viteve 1960-të...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-09-21 00:54:00" duration="3960">
+			<short_event_descriptor lang="alb" name="Lambert dhe Stamp 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lambert And Stamp 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Producentët Stamp dhe Lambert po planifikonin për filmin e tyre të rradhës. Në punë e sipër ata zbulojnë një grup 'The Who' dhe vendosën ti menaxhojnë, duke i kthyer kështu në 'Fenomenin' e viteve 1960-të...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-09-21 02:00:00" duration="4200">
+			<short_event_descriptor lang="alb" name="Bardhezinjtë: Historia e Juventus 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bianconeri Juventus Story aka Black And White Stripes The Juventus Story 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dokumentar që ndalon në momentet kyçe të aventurës sportive të Juventusit, duke zbuluar njëkohësisht lidhjen e thellë midis familjes Agnelli dhe këtij ekipit... Njihuni me historinë e Juventusit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="3"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-21 03:10:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Bardhezinjtë: Historia e Juventus 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bianconeri Juventus Story aka Black And White Stripes The Juventus Story 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dokumentar që ndalon në momentet kyçe të aventurës sportive të Juventusit, duke zbuluar njëkohësisht lidhjen e thellë midis familjes Agnelli dhe këtij ekipit... Njihuni me historinë e Juventusit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="3"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-21 04:10:00" duration="3840">
+			<short_event_descriptor lang="alb" name="Violinat e Kremonës">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Violins Of Cremona"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kremona quhet atdheu i instrumenteve. Të gjithë mjeshtrat më të mëdhenj të prodhimit të tyre, kanë qenë atje. Shkolla Kremoneze e Prodhimit të Violinave është më e rëndësishmja dhe më e famshmja në botë. Le të njihemi me 'Violinat e Kremonës'...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-21 05:14:00" duration="3060">
+			<short_event_descriptor lang="alb" name="Blue Note Records: Përtej tingullit 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Blue Note Records Beyond the Notes 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dokumentar nga Sophie Huber. Një udhëtim mahnitës pas skenave të 'Blue Note Records'. Shtëpia diskografike që u dha zë disa prej artistëve më të mirë të xhazit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-21 06:05:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Blue Note Records: Përtej tingullit 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Blue Note Records Beyond the Notes 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dokumentar nga Sophie Huber. Një udhëtim mahnitës pas skenave të 'Blue Note Records'. Shtëpia diskografike që u dha zë disa prej artistëve më të mirë të xhazit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-21 07:00:00" duration="7500">
+			<short_event_descriptor lang="alb" name="Vetë jeta">Biografi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Life Itself"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia argëtuese dhe befasuese e jetës së kritikut dhe opinionistit me famë botërore, Roxher Ebert. Një histori personale, komike, inteligjente, e dhimbshme dhe gjithëpërfshirëse.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-21 09:05:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Mek Kallin 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="McCullin 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Don McCullin është fotografi më i rëndësishëm i lutës... Një frymëzim i gjallë, për fotoreporterët e sotëm... Për herë të parë, ai flet për eksperiencën e tij në luftë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-21 10:05:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Mek Kallin 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="McCullin 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Don McCullin është fotografi më i rëndësishëm i lutës... Një frymëzim i gjallë, për fotoreporterët e sotëm... Për herë të parë, ai flet për eksperiencën e tij në luftë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-21 11:00:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Sfiduesit 4">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Defiant Ones 104"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta dhe karriera e dy legjendave të muzikës... Lidhja e pathyeshme e besimit dhe miqësisë, mes producentit Jimmy Iovine dhe Reperit DR. Dre...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-21 12:05:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Venusi dhe Serena 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Venus And Serena 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ato shkruajtën historinë... Kampione absolute... Ato u ngriten mbi çdo paragjykim dhe çdo pengesë për të fituar adhurimin e gjthë botës... Ato janë motrat Uilljams... Ndiqni historinë e tyre...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-21 13:05:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Venusi dhe Serena 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Venus And Serena 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ato shkruajtën historinë... Kampione absolute... Ato u ngriten mbi çdo paragjykim dhe çdo pengesë për të fituar adhurimin e gjthë botës... Ato janë motrat Uilljams... Ndiqni historinë e tyre...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-21 14:00:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Brenda kullës së Londrës 3">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Inside the Tower of London"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kulla e Londrës. Për një mijë vjet ka qenë një fortesë e padepërtueshme, një pallat mbretëror dhe një burg famëkeq. Ka më shumë histori këtu, se në çdo vend tjetër të Britanisë. Le t'i zbulojmë së bashku...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-21 14:55:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Bomba, plumba dhe mashtrime: Inspektorët e postës">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bombs Bullets And Fraud"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ata punojnë në heshtje, por e kapin gjithmonë objektivin... Pak, kanë dëgjuar për ta, megjithatë shërbimi i tyre daton që para se të lindte Amerika... Do të hyjmë brenda një prej agjencive elitare të Amerikës për luftën kundër krimit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-21 15:55:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Hetuesit sportivë 6">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sports Detectives 106 The Immaculate Reception"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Disa nga momentet më të diskutueshme në historinë e sportit. Medalje të dhëna padrejtësisht? Ndeshje të humbura papritur? Cfarë fshihet pas këtyre momenteve historike? Detektivët e sportit, do të na zbulojnë të vërteta ta pabesueshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-21 16:55:00" duration="3600">
+			<short_event_descriptor lang="alb" name="1971: Viti kur muzika ndryshoi gjithçka 3"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="1971 The Year That Music Changed Everything"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një udhëtim në vitin 1971, atëherë kur muzika nuk ishte thjesht muzikë, por kishte forcën për të frymëzuar dhe ndryshuar realitetin. Intervista dhe pamje ekskluzive me muzikantët dhe këngët që formësuan kulturën dhe politikën e vitit 1971.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-21 17:55:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Varfëria, politika dhe fitimi">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Poverty Politics And Profit"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një hetim mbi shpenzimet marramëndëse, për strehimin e njerëzve të varfër. Hulumtimi ynë për këto fondet, na çon në një botë të fshehtë, me llogari bankare sekrete,  kompani fantazmë. Le të shqyrtojmë politikën, përfitimet dhe problemet e një sistemi</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-21 18:55:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Njeriu ynë në Teheran 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Our Man In Tehran 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Teheran... Nëntor 1979... Bota u trondit...  Diplomatët amerikanë merren peng... Cili ishte shkaku? Pse nuk ndërhyri policia vendase? Cili ishte roli vendimtar i Ambsadorit Kanadez Keneth Tejlor...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-21 19:45:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Njeriu ynë në Teheran 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Our Man In Tehran 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Teheran... Nëntor 1979... Bota u trondit...  Diplomatët amerikanë merren peng... Cili ishte shkaku? Pse nuk ndërhyri policia vendase? Cili ishte roli vendimtar i Ambsadorit Kanadez Keneth Tejlor...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-21 20:35:00" duration="3960">
+			<short_event_descriptor lang="alb" name="Në kujtim të Robin Uilliams">Histori/Art</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Robin Williams Remembered"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një tribut për nder të karrierës dhe jetës së aktorit të famshëm të Hollivudit, Robin Uilliams. Tashmë nëpërmjet fjalëve të tij dhe të kolegëve, vjen jo vetëm artisti por edhe njeriu që na solli rolet e paharrueshme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-21 21:41:00" duration="3840">
+			<short_event_descriptor lang="alb" name="Lista e të vdekurve 3">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Dead Reckoning 103 In Our Time"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndiqni prokurorët dhe hetuesit e krimeve të luftës, ndërsa ndjekin disa prej kriminelëve më famëkeq të luftës, në 70-të vitet e fundit. Sepse e shkuara është gjithmonë e pranishme, në vende ku konflikti, është ende i nxehtë në shpirt...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="41" start_time="2022-09-21 22:45:00" duration="4200">
+			<short_event_descriptor lang="alb" name="Luis Tero: Të fiksuar mbas kirurgjisë">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Louis Theroux 103 Under The Knife"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nga gazetarët më të njohur Britanik, nëpërmejt një cikli dokumentarësh shumë interesant, do të na njohë me vende, njerëz, fakte shumë të çuditshme... Ku nuk do të mungojnë edhe situata të rrezikshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="42" start_time="2022-09-21 23:55:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Vdekje në Materhorn 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Death On The Matterhorn 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Materhorn, një nga malet më sfiduese në botë. Të partë që guxuan ta pushtonin në 1865, ishin dy grupe rivale alpinistësh. Triumfi i Britanikëve u kthye në tragjedi. Gjatë zbritjes 4 prej tyre vdiqën. A ishte një aksident fatkeq apo vrasje?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="43" start_time="2022-09-22 00:50:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Blue Note Records: Përtej tingullit 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Blue Note Records Beyond the Notes 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dokumentar nga Sophie Huber. Një udhëtim mahnitës pas skenave të 'Blue Note Records'. Shtëpia diskografike që u dha zë disa prej artistëve më të mirë të xhazit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="44" start_time="2022-09-22 01:40:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Blue Note Records: Përtej tingullit 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Blue Note Records Beyond the Notes 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dokumentar nga Sophie Huber. Një udhëtim mahnitës pas skenave të 'Blue Note Records'. Shtëpia diskografike që u dha zë disa prej artistëve më të mirë të xhazit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="45" start_time="2022-09-22 02:35:00" duration="7260">
+			<short_event_descriptor lang="alb" name="Vetë jeta">Biografi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Life Itself"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia argëtuese dhe befasuese e jetës së kritikut dhe opinionistit me famë botërore, Roxher Ebert. Një histori personale, komike, inteligjente, e dhimbshme dhe gjithëpërfshirëse.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="46" start_time="2022-09-22 04:36:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Mek Kallin 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="McCullin 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Don McCullin është fotografi më i rëndësishëm i lutës... Një frymëzim i gjallë, për fotoreporterët e sotëm... Për herë të parë, ai flet për eksperiencën e tij në luftë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="47" start_time="2022-09-22 05:26:00" duration="2940">
+			<short_event_descriptor lang="alb" name="Mek Kallin 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="McCullin 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Don McCullin është fotografi më i rëndësishëm i lutës... Një frymëzim i gjallë, për fotoreporterët e sotëm... Për herë të parë, ai flet për eksperiencën e tij në luftë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="48" start_time="2022-09-22 06:15:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Broduei 1">Muzikë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Broadway The American Musical"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Vitet 20 kane qene dekada me e lavdishme e historise se Broduejit. I gjithe vendi mesoi te kerceje e te kendoje. Broduej u be qendra qe popullarizonte te rene, modernen. Carlestonin, xhazin dhe rryma te reja muzikore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="49" start_time="2022-09-22 07:10:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Valentino, perandori i fundit 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Valentino The Last Emperor P1"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Historia e një prej stilistëve më në zë , Valentinos... Që nga fëmija ëndërrimtar, deri te karriera e pakrahasueshme e stilistit mitik...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="50" start_time="2022-09-22 08:00:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Valentino, perandori i fundit 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Valentino The Last Emperor P2"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Historia e një prej stilistëve më në zë , Valentinos... Që nga fëmija ëndërrimtar, deri te karriera e pakrahasueshme e stilistit mitik...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="51" start_time="2022-09-22 08:50:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Xhorxh Harrison 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="George Harrison Living In The Material"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia: Martin Scorcese. Jeta e muzikantit, kitarristit, këngëtarit dhe kopozitorit   të njohur Xhorxh Harrison që në vitet e para të jetës  në Liverpool deri tek fama internacionale si kitarristi i grupit 'The Beatles'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="52" start_time="2022-09-22 09:40:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Arti i fshehur i islamit">Art, kulturë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Hidden Art Of Islam"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndër shekuj tradita artistike e besimit islam u karakterizua nga format e saj tradicionale të paraqitjes vizuale dhe kaligrafia. 
+Por a fshihet gjë mes arabeskave dhe  formave gjeometrike aq të njohura në mbarë botën?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="53" start_time="2022-09-22 10:40:00" duration="3960">
+			<short_event_descriptor lang="alb" name="Vajza e Indisë"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="India's Daughter"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një histori tragjike që zgjoi një komb. Kush ishte Joti Sing, studentja 23 vjecare indiane që u përdhunua dhe u vra brutalisht në një autobuz të linjës publike. Protestat masive dhe të fuqishme të njerëzve të irrituar. Një shoqëri që më në fund, theu heshtjen...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="54" start_time="2022-09-22 11:46:00" duration="3240">
+			<short_event_descriptor lang="alb" name="Anjeli 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Agnelli "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ai ishte simboli i Rilindjes Italiane. Makinat, femrat dhe moda ishin pasionet e tij. Një portret biografik i pronariat të Fiatit, Xhani Anjeli. Pamje dhe intervista eksluzive me familjarët, miqtë, bashkëpunëtorët dhe rivalët e tij...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="55" start_time="2022-09-22 12:40:00" duration="3360">
+			<short_event_descriptor lang="alb" name="Anjeli 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Agnelli "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ai ishte simboli i Rilindjes Italiane. Makinat, femrat dhe moda ishin pasionet e tij. Një portret biografik i pronariat të Fiatit, Xhani Anjeli. Pamje dhe intervista eksluzive me familjarët, miqtë, bashkëpunëtorët dhe rivalët e tij...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="56" start_time="2022-09-22 13:36:00" duration="2940">
+			<short_event_descriptor lang="alb" name="Brenda kullës së Londrës 4">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Inside the Tower of London"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kulla e Londrës. Për një mijë vjet ka qenë një fortesë e padepërtueshme, një pallat mbretëror dhe një burg famëkeq. Ka më shumë histori këtu, se në çdo vend tjetër të Britanisë. Le t'i zbulojmë së bashku...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="57" start_time="2022-09-22 14:25:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Be Gees: Si mund të shërosh një zemër të thyer 1"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Bee Gees How Can You Mend A Broken Heart "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta dhe karierra e vëllezërve Beri, Robin dhe Mauris Gib, apo të njohur ndryshe si Bi Xhiz... Grupi legjendar anglez i viteve 60-të... Mbi 1000 këngë të kompozuara dhe 20-të Hite të pavdekshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="58" start_time="2022-09-22 15:20:00" duration="3660">
+			<short_event_descriptor lang="alb" name="Be Gees: Si mund të shërosh një zemër të thyer 2"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Bee Gees How Can You Mend A Broken Heart "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeta dhe karierra e vëllezërve Beri, Robin dhe Mauris Gib, apo të njohur ndryshe si Bi Xhiz... Grupi legjendar anglez i viteve 60-të... Mbi 1000 këngë të kompozuara dhe 20-të Hite të pavdekshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="59" start_time="2022-09-22 16:21:00" duration="2940">
+			<short_event_descriptor lang="alb" name="Norman Lir: Një tjetër version i juaji 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Norman Lear Just Another Version Of You 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ai ka ndryshuar fytyrën e televizionit Amerikan. Ai është Norman Lir. Njihuni me jetën, punën, aktivitetin politik, të një prej prodhuesve televizivë më të suksesshëm të të gjitha kohërave...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="60" start_time="2022-09-22 17:10:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Norman Lir: Një tjetër version i juaji 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Norman Lear Just Another Version Of You 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ai ka ndryshuar fytyrën e televizionit Amerikan. Ai është Norman Lir. Njihuni me jetën, punën, aktivitetin politik, të një prej prodhuesve televizivë më të suksesshëm të të gjitha kohërave...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="61" start_time="2022-09-22 18:00:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Përndjekësi i natës: Gjuetia për një vrasës serial 2"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Night Stalker The Hunt for a Serial Killer"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Los Anxhelos 1985. Kjo është historia e vërtetë, e një prej vrasësve serialë më famëkeq në historinë amerikane, i cili u përndoq nga dy detektivë dhe u soll para drejtësisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">14</parental_rating_descriptor>
+		</Event>
+		<Event id="62" start_time="2022-09-22 18:50:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Verbimi - Historia e fshehtë e kamuflazhit">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Dazzle The Hidden Story Of Camouflage"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e kamuflazhit. Sesi njerëzit mësuan, se duke kopjuar natyrën mund t'i shpëtonin armiqve. Armët sekrete në këtë histori janë artistët të cilët kanë përdorur gjenialitetin e tyre krijues për të mashtruar, ngatërruar dhe mposhtur armi</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="63" start_time="2022-09-22 19:45:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Lufta që vjen në Kinë 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Coming War on China 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dokumentari i 60të i Xhon Pilger, tregon atë që lajmet e mbajnë të fshehtë. SHBA dhe vendi i II me ekonominë më të madhe në Botë, Kina, janë gati për luftë. Një dokumentar që vjen si një paralajmërin dhe si një histori frymëzuese për rezistencë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="64" start_time="2022-09-22 20:45:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Lufta që vjen në Kinë 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Coming War on China 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dokumentari i 60të i Xhon Pilger, tregon atë që lajmet e mbajnë të fshehtë. SHBA dhe vendi i II me ekonominë më të madhe në Botë, Kina, janë gati për luftë. Një dokumentar që vjen si një paralajmërin dhe si një histori frymëzuese për rezistencë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="65" start_time="2022-09-22 21:45:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Luis Tero: Pas hekurave">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Louis Theroux 104 Behind Bars"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nga gazetarët më të njohur Britanik, nëpërmejt një cikli dokumentarësh shumë interesant, do të na njohë me vende, njerëz, fakte shumë të çuditshme... Ku nuk do të mungojnë edhe situata të rrezikshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="66" start_time="2022-09-22 22:50:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Vrasja perfekte 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Perfect Murder 101 Frozen Killer"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Krimi përballe Ligjit... Një betejë e përhershme që sa vjen e sofistikohet... Njihuni me disa nga rastet më të bujshme të kësaj lufte mes të mirës dhe të keqes...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="67" start_time="2022-09-22 23:40:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Broduei 1">Muzikë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Broadway The American Musical"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Vitet 20 kane qene dekada me e lavdishme e historise se Broduejit. I gjithe vendi mesoi te kerceje e te kendoje. Broduej u be qendra qe popullarizonte te rene, modernen. Carlestonin, xhazin dhe rryma te reja muzikore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="68" start_time="2022-09-23 00:40:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Valentino, perandori i fundit 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Valentino The Last Emperor P1"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Historia e një prej stilistëve më në zë , Valentinos... Që nga fëmija ëndërrimtar, deri te karriera e pakrahasueshme e stilistit mitik...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="69" start_time="2022-09-23 01:30:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Valentino, perandori i fundit 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Valentino The Last Emperor P2"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Historia e një prej stilistëve më në zë , Valentinos... Që nga fëmija ëndërrimtar, deri te karriera e pakrahasueshme e stilistit mitik...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="70" start_time="2022-09-23 02:25:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Xhorxh Harrison 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="George Harrison Living In The Material"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia: Martin Scorcese. Jeta e muzikantit, kitarristit, këngëtarit dhe kopozitorit   të njohur Xhorxh Harrison që në vitet e para të jetës  në Liverpool deri tek fama internacionale si kitarristi i grupit 'The Beatles'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="71" start_time="2022-09-23 03:20:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Arti i fshehur i islamit">Art, kulturë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Hidden Art Of Islam"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndër shekuj tradita artistike e besimit islam u karakterizua nga format e saj tradicionale të paraqitjes vizuale dhe kaligrafia. 
+Por a fshihet gjë mes arabeskave dhe  formave gjeometrike aq të njohura në mbarë botën?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="72" start_time="2022-09-23 04:25:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Broduei 2"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Broadway The American Musical"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Vitet 20 kane qene dekada me e lavdishme e historise se Broduejit. I gjithe vendi mesoi te kerceje e te kendoje. Broduej u be qendra qe popullarizonte te rene, modernen. Carlestonin, xhazin dhe rryma te reja muzikore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="73" start_time="2022-09-23 05:25:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Cirku">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Circo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Si u krijua me shumë se 100 vjet më parë Cirku i Madh i Meksikës? Rruga e vështirë drejt suksesit dhe krijimi i një tradite të vyer. Sfidat e sotme dhe trashëgimia familjare që mban ende gjallë Cirkun e madh të Meksikës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="74" start_time="2022-09-23 06:45:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Amerika në Romë">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="L' america A Roma"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një udhëtim sentimental nga regjisori Gianfranco Pannone për të gjetur aktorët e tij të preferuar të kinemasë italiane 'western' të viteve 1960-të dhe 70-të.  Një udhëtim në disa nga studiot kryesore të kohës, me karaktere dikur të famshem...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="75" start_time="2022-09-23 08:10:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Xhorxh Harrison 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="George Harrison 102"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia: Martin Scorcese. Jeta e muzikantit, kitarristit, këngëtarit dhe kopozitorit   të njohur Xhorxh Harrison që në vitet e para të jetës  në Liverpool deri tek fama internacionale si kitarristi i grupit 'The Beatles'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="76" start_time="2022-09-23 09:05:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Si ta gëlltisim kinemanë italiane 1">Historia e vërtetë e Frankos dhe Çiços</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Come Inguaiammo Il Cinema Italiano La Vera Storia Di Franco E Ciccio 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Rrugëtimi i dy prej komikëve më të njohur të kinemasë Italiane - Franko Frankit dhe Çiço Ingrasisë... Si nisi bashkëpunimi i tyre? Intervista me aktorë, skenarist, miq e të afërm... E gjithë jeta e tyre, deri në ditën e vdekjes...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="77" start_time="2022-09-23 10:05:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Si ta gëlltisim kinemanë italiane 2">Historia e vërtetë e Frankos dhe Çiços</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Come Inguaiammo Il Cinema Italiano La Vera Storia Di Franco E Ciccio 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Rrugëtimi i dy prej komikëve më të njohur të kinemasë Italiane - Franko Frankit dhe Çiço Ingrasisë... Si nisi bashkëpunimi i tyre? Intervista me aktorë, skenarist, miq e të afërm... E gjithë jeta e tyre, deri në ditën e vdekjes...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="78" start_time="2022-09-23 11:05:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Gilbert 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gilbert 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ai ka bërë komedi që prej viteve 1970 dhe është cilësuar si Komediani i Komedianëve. Ai është Gilbert Gotfrid. Por shumë pak gjëra dihen për jetën e tij personale. Njihuni me portretin e tij të egër...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">14</parental_rating_descriptor>
+		</Event>
+		<Event id="79" start_time="2022-09-23 11:55:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Gilbert 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gilbert 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ai ka bërë komedi që prej viteve 1970 dhe është cilësuar si Komediani i Komedianëve. Ai është Gilbert Gotfrid. Por shumë pak gjëra dihen për jetën e tij personale. Njihuni me portretin e tij të egër...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">14</parental_rating_descriptor>
+		</Event>
+		<Event id="80" start_time="2022-09-23 12:50:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Sonic Highways 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sonic Highways 101 Chicago"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Me rastin e 20-të vjetorit të 'Foo Fighters' një prej legjendave të rrokut Amerikan, vjen një cikël dokumentar me 8 episode, në 8 qytete dhe me 8 këngët e tyre më të mira...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="81" start_time="2022-09-23 13:50:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Vëllezërit e gjakut Malkolm X dhe Muhamed Ali"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Blood Brothers Malcolm X and Muhammad Ali"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Historia e miqësisë së dy prej figurave më ikonike të shekullit të 20-të: Muhammad Ali, boksieri më i madh i të gjitha kohërave, dhe Malkolm Iks, lideri karizmatik mysliman, aktivisti i të drejtave të njeriut. Një miqësi që lindi nga takim i rastësishëm, e deri tek përplasja tragjike që shaktërroi gjithcka. Nën peshën e mosbesimit dhe ndryshimit të idealeve, ata i ndanë rrugët e tyre përgjithmonë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="82" start_time="2022-09-23 15:30:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Arratisje nga dhoma 18"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Escape From Room 18 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e Xhon Dejlit, një ish neo-nazistë, i cili në vitin 1990 vendos të lërë amerikën dhe të jetojë në Izrael, pasi banda e tij u përpoq ta vriste, kur zbuloi se ai ishte hebre. Sot Kevin, një prej antëtarëve të bandës, i kërkon Xhon të bëjnë sëbashku një udhëtim për të ndryshuar të kaluarën dhe të ardhmen e tyre...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="83" start_time="2022-09-23 16:30:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Përndjekësi i natës: Gjuetia për një vrasës serial 2"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Night Stalker The Hunt for a Serial Killer"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Los Anxhelos 1985. Kjo është historia e vërtetë, e një prej vrasësve serialë më famëkeq në historinë amerikane, i cili u përndoq nga dy detektivë dhe u soll para drejtësisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">14</parental_rating_descriptor>
+		</Event>
+		<Event id="84" start_time="2022-09-23 17:20:00" duration="1680">
+			<short_event_descriptor lang="alb" name="Si të bëhesh tiran 1"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="How to Become a Tyrant"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pushtet absolut? E di që e do me çdo çmim... Thjesht nuk di si ta marrësh... Por ekziston një manual, një seri taktikash që tiranët më famëkeqë të historisë i kanë përdorur për të arritur pushtet të paimagjinueshëm. Secili në mënyrën e tij unike... Le të zbulojmë së bashku: Si të bëhesh Tiran...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="85" start_time="2022-09-23 17:48:00" duration="1920">
+			<short_event_descriptor lang="alb" name="Si të bëhesh tiran 2"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="How to Become a Tyrant"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pushtet absolut? E di që e do me çdo çmim... Thjesht nuk di si ta marrësh... Por ekziston një manual, një seri taktikash që tiranët më famëkeqë të historisë i kanë përdorur për të arritur pushtet të paimagjinueshëm. Secili në mënyrën e tij unike... Le të zbulojmë së bashku: Si të bëhesh Tiran...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="86" start_time="2022-09-23 18:20:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Adolfi dhe Eva: Dashuri dhe luftë 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Adolf And Eva Love And War 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Historia tronditëse e Eva Braunit. Për 14 vite Hitleri refuzoi të martohej me të dashurën e tij sekrete. Në ditët e fundit të luftës, ai vendos të martohej me të, vetëm me një kusht: të nesërmen e dasmës, ata të vetvriteshin...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="87" start_time="2022-09-23 19:10:00" duration="3360">
+			<short_event_descriptor lang="alb" name="Adolfi dhe Eva: Dashuri dhe luftë 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Adolf And Eva Love And War 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Historia tronditëse e Eva Braunit. Për 14 vite Hitleri refuzoi të martohej me të dashurën e tij sekrete. Në ditët e fundit të luftës, ai vendos të martohej me të, vetëm me një kusht: të nesërmen e dasmës, ata të vetvriteshin...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="88" start_time="2022-09-23 20:06:00" duration="3840">
+			<short_event_descriptor lang="alb" name="Lenon: Nju Jork 1">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="LennoNYC 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një vështrim në periudhën kur ish-bitëllsi, jetonte në Nju Jork... Vendi ku ai ndihej i plotësuar... Jeta e përditshme... Lidhja me qytetin, njerëzit dhe sigurisht familjen...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="89" start_time="2022-09-23 21:10:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Lenon: Nju Jork 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="LennoNYC 02"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një vështrim në periudhën kur ish-bitëllsi, jetonte në Nju Jork... Vendi ku ai ndihej i plotësuar... Jeta e përditshme... Lidhja me qytetin, njerëzit dhe sigurisht familjen...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="90" start_time="2022-09-23 22:15:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Luis Tero: Gjuetia afrikane">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Louis Theroux 105 African Hunting Holid"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nga gazetarët më të njohur Britanik, nëpërmejt një cikli dokumentarësh shumë interesant, do të na njohë me vende, njerëz, fakte shumë të çuditshme... Ku nuk do të mungojnë edhe situata të rrezikshme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="91" start_time="2022-09-23 23:20:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Vrasja perfekte 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Perfect Murder 102 Heart Shot"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Krimi përballe Ligjit... Një betejë e përhershme që sa vjen e sofistikohet... Njihuni me disa nga rastet më të bujshme të kësaj lufte mes të mirës dhe të keqes...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="92" start_time="2022-09-24 00:10:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Broduei 2"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Broadway The American Musical"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Vitet 20 kane qene dekada me e lavdishme e historise se Broduejit. I gjithe vendi mesoi te kerceje e te kendoje. Broduej u be qendra qe popullarizonte te rene, modernen. Carlestonin, xhazin dhe rryma te reja muzikore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="93" start_time="2022-09-24 01:05:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Cirku">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Circo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Si u krijua me shumë se 100 vjet më parë Cirku i Madh i Meksikës? Rruga e vështirë drejt suksesit dhe krijimi i një tradite të vyer. Sfidat e sotme dhe trashëgimia familjare që mban ende gjallë Cirkun e madh të Meksikës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="94" start_time="2022-09-24 02:20:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Amerika në Romë">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="L' america A Roma"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një udhëtim sentimental nga regjisori Gianfranco Pannone për të gjetur aktorët e tij të preferuar të kinemasë italiane 'western' të viteve 1960-të dhe 70-të.  Një udhëtim në disa nga studiot kryesore të kohës, me karaktere dikur të famshem...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="95" start_time="2022-09-24 03:40:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Xhorxh Harrison 2">Histori</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="George Harrison 102"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia: Martin Scorcese. Jeta e muzikantit, kitarristit, këngëtarit dhe kopozitorit   të njohur Xhorxh Harrison që në vitet e para të jetës  në Liverpool deri tek fama internacionale si kitarristi i grupit 'The Beatles'.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="96" start_time="2022-09-24 04:35:00" duration="2961">
+			<short_event_descriptor lang="alb" name="Si ta gëlltisim kinemanë italiane 1">Historia e vërtetë e Frankos dhe Çiços</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Come Inguaiammo Il Cinema Italiano La Vera Storia Di Franco E Ciccio 01"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Rrugëtimi i dy prej komikëve më të njohur të kinemasë Italiane - Franko Frankit dhe Çiço Ingrasisë... Si nisi bashkëpunimi i tyre? Intervista me aktorë, skenarist, miq e të afërm... E gjithë jeta e tyre, deri në ditën e vdekjes...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>

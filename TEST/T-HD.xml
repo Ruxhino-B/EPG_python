@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="T-HD">
+		<Event id="0" start_time="2022-09-20 05:45:00" duration="2400">
+			<short_event_descriptor lang="alb" name="Autorët e vjetër të letërsisë shqiptare 1"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Autoret e Vjeter te Letersise Shqiptare"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Çfarë përmban Meshari, vepra e parë e botuar në shqip nga Gjon Buzuku? Misteri i vdekjes së Pjetër Budit... Frang Bardhi dhe pasioni i tij për fjalorin latinisht-shqip... Këto dhe shumë të tjera, në një dokumentar të Ilir Yzeirit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-09-20 06:25:00" duration="2700">
+			<short_event_descriptor lang="alb" name="Autorët e vjetër të letërsisë shqiptare 2"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Autoret e Vjeter te Letersise Shqiptare"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Çfarë përmban Meshari, vepra e parë e botuar në shqip nga Gjon Buzuku? Misteri i vdekjes së Pjetër Budit... Frang Bardhi dhe pasioni i tij për fjalorin latinisht-shqip... Këto dhe shumë të tjera, në një dokumentar të Ilir Yzeirit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-09-20 07:10:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Mondi dhe Diana">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mondi dhe Diana  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mondi, një nxënës shkolle, është i mirë në mësime por shumë impulsiv në karakter. Mësuesja e tij e re dhe pa eksperiencë nuk mund të shohë Mondin e vërtetë dhe në një fare mënyre e kundërshton atë. Ndërsa i ati ndjek nga afër tendencat pozitive të të birit dhe e ndihmon të formojë personalitetin e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-09-20 08:15:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Gabimi">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gabimi  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Martini është një djalë kureshtar. Për shkak të karakterit të tij herë aktiv dhe herë i mbyllur në vetvete, i ndodhin shpesh keqkuptime me prindërit, mësuesit, shokët, vëllait të madh e motrës së vogël.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-09-20 09:10:00" duration="6120">
+			<short_event_descriptor lang="alb" name="Skëterrë '43">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sketerre 43  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Revoltë në një kamp përqëndrimi fashist në vitin 1943, kundër metodave barbare, terrorit. Të burgosurit kryengritës si: profesori, piktori, Hekurani, Ariani, Mira, Shpresa, organizohen dhe mbajnë lidhje të vazhdueshme me rezistencën jashtë kampit. Me rezistencë të fortë, ata arrijnë të shkatërrojnë skëterrën fashiste.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-09-20 10:52:00" duration="4680">
+			<short_event_descriptor lang="alb" name="Kohë e largët">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Kohe e larget   "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në tregimin e Sotir Andonit "David Selenikasi". Filmi flet për aspektet dramatike të mesjetës të personifikuara në fatin e piktorit Andrea Selenica. Ai ka një fund tragjik. Bie pre e pabesive të klerikëve të cilët "në emër të zotit" nuk hezitojnë të përdorin edhe helmin, vetëm pse Andrea guxoi të ngrihej kundër ligjeve të kishës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-09-20 12:10:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Shkëlqim i përkohshëm">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Shkelqim i perkohshem  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pasi kryen shërbimin ushtarak dhe kthehet në shtëpinë e tij në fshat, një i ri kërkon me çdo kusht të fillojë një jetë të re në qytet. Por si dembel dhe pa profesion që është, atij do t'i dalin përpara shumë pengesa dhe të papritura që krijojnë situata komike.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-09-20 13:25:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Ngjyrat e moshës">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ngjyrat e moshes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa maturantët po bëjnë mbrëmjen e maturës në turizmin e Tiranës, në katin e dytë takohen maturantët e shkollës pas njëzet vjetëve. Regjisori trajton problemet dhe shqetësimet e dy festive të ngjashme por me breza të ndryshëm duke u përpjekur kështu të portretizojë momente nga jeta në vitet 90 në fund të sistemit komunist.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-09-20 15:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="3 Musketierët në amfiteatër">Koncert</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="3 Musketieret ne Amfiteater"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Zëri, stili dhe talenti, i tre legjendave të muzikës moderne shqiptare, vjen me një koncert madhështor. Aleksandër Gjoka, Redon Makashi dhe Elton Deda do të sjellin Live këngët e tyre Hit, në një mbrëmje plot emocione e adrenalinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="3" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-09-20 17:00:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Në emër të pafajësisë">Një dokumentar nga Beti Njuma</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ne emer te pafajesise"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kush e hodhi bombën në oborrin e ambasadës sovjetike më 19 shkurt 1951? Pse byroja politike e asaj kohe, nisi një masakër, me 22 njerëz të pushkatuar dhe dhjetra të internuar? Pse vendimi u mor pa gjyq dhe pa asnjë bazë ligjore?...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-09-20 18:05:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Margaret Hasluck: Englezka me sy të kaltër">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Margaret Hasluck Englezka me sy te kalter"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ishin vitet 1923, kur 35 vjecarja me sy të kalter nga Skocia, u shpërngul në Elbasan... Por cila është e vërteta e Margaret Hezlak? A ishte ajo një spiune e Shërbimit të Inteligjencës Britanike apo erdhi këtu për të studiuar Shqipërinë?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-09-20 19:00:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Kur hiqen maskat">Humor</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Kur hiqen maskat"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Këngët, humori dhe sarkazma e estradës janë kthyer në episode të një filmi gazmor që ve në lojë veprimet burokratike të zyrtarëve ose sjelljeve të ndryshme liberale që luftoheshin në atë kohë në mënyrë të programuar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-09-20 20:15:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Gabimi">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gabimi  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Martini është një djalë kureshtar. Për shkak të karakterit të tij herë aktiv dhe herë i mbyllur në vetvete, i ndodhin shpesh keqkuptime me prindërit, mësuesit, shokët, vëllait të madh e motrës së vogël.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-09-20 21:10:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Kohë e largët">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Kohe e larget   "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në tregimin e Sotir Andonit "David Selenikasi". Filmi flet për aspektet dramatike të mesjetës të personifikuara në fatin e piktorit Andrea Selenica. Ai ka një fund tragjik. Bie pre e pabesive të klerikëve të cilët "në emër të zotit" nuk hezitojnë të përdorin edhe helmin, vetëm pse Andrea guxoi të ngrihej kundër ligjeve të kishës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-09-20 22:30:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Ngjyrat e moshës">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ngjyrat e moshes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa maturantët po bëjnë mbrëmjen e maturës në turizmin e Tiranës, në katin e dytë takohen maturantët e shkollës pas njëzet vjetëve. Regjisori trajton problemet dhe shqetësimet e dy festive të ngjashme por me breza të ndryshëm duke u përpjekur kështu të portretizojë momente nga jeta në vitet 90 në fund të sistemit komunist.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-09-21 00:05:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Skëterrë '43">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sketerre 43  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Revoltë në një kamp përqëndrimi fashist në vitin 1943, kundër metodave barbare, terrorit. Të burgosurit kryengritës si: profesori, piktori, Hekurani, Ariani, Mira, Shpresa, organizohen dhe mbajnë lidhje të vazhdueshme me rezistencën jashtë kampit. Me rezistencë të fortë, ata arrijnë të shkatërrojnë skëterrën fashiste.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-09-21 01:45:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Mondi dhe Diana">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Mondi dhe Diana  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mondi, një nxënës shkolle, është i mirë në mësime por shumë impulsiv në karakter. Mësuesja e tij e re dhe pa eksperiencë nuk mund të shohë Mondin e vërtetë dhe në një fare mënyre e kundërshton atë. Ndërsa i ati ndjek nga afër tendencat pozitive të të birit dhe e ndihmon të formojë personalitetin e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-09-21 02:45:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Shkëlqim i përkohshëm">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Shkelqim i perkohshem  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pasi kryen shërbimin ushtarak dhe kthehet në shtëpinë e tij në fshat, një i ri kërkon me çdo kusht të fillojë një jetë të re në qytet. Por si dembel dhe pa profesion që është, atij do t'i dalin përpara shumë pengesa dhe të papritura që krijojnë situata komike.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-09-21 04:00:00" duration="7200">
+			<short_event_descriptor lang="alb" name="3 Musketierët në amfiteatër">Koncert</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="3 Musketieret ne Amfiteater"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Zëri, stili dhe talenti, i tre legjendave të muzikës moderne shqiptare, vjen me një koncert madhështor. Aleksandër Gjoka, Redon Makashi dhe Elton Deda do të sjellin Live këngët e tyre Hit, në një mbrëmje plot emocione e adrenalinë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="3" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-09-21 06:00:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Frankeshtain">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Frankenshtain"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia: Ilir Bokshi. Aktorë: Helidon Fino, Besmir Bitraku, Lulzim Zeqja, Yllka Mujo etj. Dr. Frankenshtajn pas përpjekjeve të shumta, sjell në jetë krijesën e njohur si 'Monstra e Frankenshtainit'... Zbulim ky që do ti shkatërrojë jetën...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-09-21 07:35:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Nga mesi i errësirës">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nga mesi i erresires "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Petriti punësohet si pastrues në Ministrinë e Brendshme gjatë pushtimit fashist të Shqipërisë. Djaloshi i ri zbulon shumë të fshehta të fashistëve, të cilat i vë në dispozicion të njësitit të qytetit, deri sa arrijnë të rrëmbejnë edhe arkivën sekrete.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-09-21 09:20:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Fushë e blertë, fushë e kuqe">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fushe e blerte fushe e kuqe "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Lufta e Dytë Botërore. Rinia antifashiste tërhoqi masa të gjera të popullit në fushat e futbollit duke i kthyer ndeshjet sportive në manifestime kundër pushtuesve. Të tilla ishin edhe ndeshjet e futbollit midis skuadrës amatore "Shprefeja" dhe skuadrës fashiste. Lojtarët shqiptarë dhe fansat e tyre përleshen me fashistët dhe e kthejnë fushën e blertë në një fushë beteje.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-21 10:45:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Gracka">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gracka  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në ngjarje reale, sipas skenarit të Neshat Tozajt, pasqyrim i situatës në vitet '50 të grupeve diversioniste që shkelnin hera-herës kufirin shqiptar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-21 12:15:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Dëshmorët e monumenteve">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Deshmoret e monumenteve  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në ngjarje të vërteta të ndodhura gjatë Luftës së Parë Botërore. Një ekspeditë austro-hungareze disponon informacione dhe ngre një zonë arkeologjike në qytetin e vjetër të Apollonisë. Ekspertët e kësaj ekspedite duan të grabisin monumente të lashta, por fshatarët e zonës, të udhëhequr nga mësuesi, luftojnë për t'i mbrojtur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-21 13:40:00" duration="4200">
+			<short_event_descriptor lang="alb" name="Dollia e dasmës sime">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Dollia e dasmes sime  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ekranizim i novelës "Nusja e humbëtirës". Bela përgatitet të shkojë nuse në shtëpinë e Ganiut, të fejuarit të saj që do të dalë partizan në mal. Ngjarjet zhvillohen gjatë udhëtimit të karvanit të nuses, i cili gjen rrugës një partizan të plagosur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-21 14:50:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Albanian Pop Rock Ladies">Muzike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Albanian Pop Rock Ladies"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Këngët më të bukura të viteve 70', 80', 90', vijnë në një mbrëmje të paharrueshme nga këngëtaret më në zë: Aurela Gace, Eranda dhe Irma Libohova, Liljana Kondakci, Myfarete Laze, Manjola Nallbani, Rovena Dilo, Era Rusi, Marsela Cibukaj etj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="3" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-21 16:10:00" duration="1200">
+			<short_event_descriptor lang="alb" name="Radio Radio 9"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Radio Radio"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Historia, të qeshurat, dashuritë, dështimet dhe ambiciet e dhjetë personazheve të ndryshëm që shorti i jetës i ka bërë të punojnë bashkë te radio "Radio". Ndonjëherë miq, ndonjëherë konkurrentë, herë duken në sherr, por jo rrallë duke zgjidhur hallet e njëri-tjetrit. Karakteret e radio "Radios" kanë një shqetësim të përbashkët: si ta shpëtojnë radion dhe veten e tyre nga falimentimi.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-21 16:30:00" duration="1500">
+			<short_event_descriptor lang="alb" name="Radio Radio 10"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Radio Radio"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Historia, të qeshurat, dashuritë, dështimet dhe ambiciet e dhjetë personazheve të ndryshëm që shorti i jetës i ka bërë të punojnë bashkë te radio "Radio". Ndonjëherë miq, ndonjëherë konkurrentë, herë duken në sherr, por jo rrallë duke zgjidhur hallet e njëri-tjetrit. Karakteret e radio "Radios" kanë një shqetësim të përbashkët: si ta shpëtojnë radion dhe veten e tyre nga falimentimi.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-21 16:55:00" duration="1800">
+			<short_event_descriptor lang="alb" name="Na ishte njëherë Shqipëria 1">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Na ishte njehere Shqiperia 1"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një gjuhë e heshtur, por e fuqishme, na rrëfen Shqipërinë e fund shekullit 19 dhe vitet e para të shekullit 20. Shqipëria e parë me sytë e pionerëve të fotografisë vendase: Pjetër Marubi, Kel Kodhel-Marubi, Gegë Kodhel Marubi.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-21 17:25:00" duration="2400">
+			<short_event_descriptor lang="alb" name="Na ishte njëherë Shqipëria 2">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Na ishte njehere Shqiperia 2"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një gjuhë e heshtur, por e fuqishme, na rrëfen Shqipërinë e fund shekullit 19 dhe vitet e para të shekullit 20. Shqipëria e parë me sytë e pionerëve të fotografisë vendase: Pjetër Marubi, Kel Kodhel-Marubi, Gegë Kodhel Marubi.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-21 18:05:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Kostumi i mbretit">Një dokumentar nga Genta Popa</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Kostumi i mbretit"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e uniformës së Mbretit Zog dhe domethënia e simboleve që përfaqësonin Mbretërinë Shqiptare. Një vështrim, për të kuptuar aspekte të mënyrës së të jetuarit të familjes që përfaqësonte shëmbëlltyrën e shoqërisë Shqiptare të viteve 20</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-21 19:00:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Dy herë mat">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Dy here mat    "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ilo Pinci, specialist i peshkut e midhjeve, dhe shahist i njohur, vjen në një qytet të vogël bregdetar si i ftuar në një simultane shahu. Por ajo që e shtyu më shumë të vijë në këtë qytet është dëshira për të zbuluar të dhëna në lidhje me kultivimin e midhjeve. Ai është i bindur se do ta përballojë lehtësisht ndeshjen me shahistët vendas, por në simultane mundet nga Rudina e vogël.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-21 20:25:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Nga mesi i errësirës">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nga mesi i erresires "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Petriti punësohet si pastrues në Ministrinë e Brendshme gjatë pushtimit fashist të Shqipërisë. Djaloshi i ri zbulon shumë të fshehta të fashistëve, të cilat i vë në dispozicion të njësitit të qytetit, deri sa arrijnë të rrëmbejnë edhe arkivën sekrete.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-21 22:10:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Gracka">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Gracka  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në ngjarje reale, sipas skenarit të Neshat Tozajt, pasqyrim i situatës në vitet '50 të grupeve diversioniste që shkelnin hera-herës kufirin shqiptar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-21 23:35:00" duration="4200">
+			<short_event_descriptor lang="alb" name="Dollia e dasmës sime">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Dollia e dasmes sime  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ekranizim i novelës "Nusja e humbëtirës". Bela përgatitet të shkojë nuse në shtëpinë e Ganiut, të fejuarit të saj që do të dalë partizan në mal. Ngjarjet zhvillohen gjatë udhëtimit të karvanit të nuses, i cili gjen rrugës një partizan të plagosur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-22 00:45:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Frankeshtain">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Frankenshtain"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia: Ilir Bokshi. Aktorë: Helidon Fino, Besmir Bitraku, Lulzim Zeqja, Yllka Mujo etj. Dr. Frankenshtajn pas përpjekjeve të shumta, sjell në jetë krijesën e njohur si 'Monstra e Frankenshtainit'... Zbulim ky që do ti shkatërrojë jetën...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-22 02:15:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Albanian Pop Rock Ladies">Muzike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Albanian Pop Rock Ladies"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Këngët më të bukura të viteve 70', 80', 90', vijnë në një mbrëmje të paharrueshme nga këngëtaret më në zë: Aurela Gace, Eranda dhe Irma Libohova, Liljana Kondakci, Myfarete Laze, Manjola Nallbani, Rovena Dilo, Era Rusi, Marsela Cibukaj etj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="3" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-22 03:35:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Fushë e blertë, fushë e kuqe">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fushe e blerte fushe e kuqe "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Lufta e Dytë Botërore. Rinia antifashiste tërhoqi masa të gjera të popullit në fushat e futbollit duke i kthyer ndeshjet sportive në manifestime kundër pushtuesve. Të tilla ishin edhe ndeshjet e futbollit midis skuadrës amatore "Shprefeja" dhe skuadrës fashiste. Lojtarët shqiptarë dhe fansat e tyre përleshen me fashistët dhe e kthejnë fushën e blertë në një fushë beteje.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-22 04:55:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Dëshmorët e monumenteve">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Deshmoret e monumenteve  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në ngjarje të vërteta të ndodhura gjatë Luftës së Parë Botërore. Një ekspeditë austro-hungareze disponon informacione dhe ngre një zonë arkeologjike në qytetin e vjetër të Apollonisë. Ekspertët e kësaj ekspedite duan të grabisin monumente të lashta, por fshatarët e zonës, të udhëhequr nga mësuesi, luftojnë për t'i mbrojtur.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-22 06:15:00" duration="3000">
+			<short_event_descriptor lang="alb" name="Ethe provimesh 2">Akademia e arteve</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ethe provimesh 2"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luli i vocërr, Zonja Lulu dhe Mollë e ndalume vijnë nën interpretimin e balerinëve Luixhino Hala, Luljeta Braha, Graciano Tagani. Udheheqëse diplome: Kozeta Bakiu...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="3" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-22 07:05:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Zemra që nuk plaken">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Zemra qe nuk plaken"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Xhaxha Azemi ka dalë në pension pas 30 vjetësh punë si shofer kamioni. Por ai nuk mësohet dot me këtë qetësi. Shokët e tjerë e ndihmojnë që të kalojë një prag tjetër të jetës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="41" start_time="2022-09-22 08:00:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Detyrë e posaçme">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Detyre e posacme"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi është bazuar në ngjarje reale të viteve '50. Tomorri është i infiltruar në një grup të agjenturave të huaja dhe zbulon dokumente sekrete, baza, dhe mjete komunikimi.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="42" start_time="2022-09-22 09:50:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Fundi i një gjakmarrjeje">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fundi i nje gjakmarrjeje "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Realiteti gjatë periudhës zogiste. Dy të rinj, Mazi dhe Dushi, rrjedhin nga dy familje malësore që janë në gjak me njëra-tjetrën prej shumë kohësh. Njëra familje jeton në malësitë e thella dhe tjetra në qytet.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="43" start_time="2022-09-22 11:20:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Pranverë në Gjirokastër">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pranvere ne Gjirokaster  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Film muzikor. Dy të rinj që e kanë njohur njëri tjetrin gjatë një aksioni rinie, po martohen. Rrugës për në shtëpinë e nuses, dhëndri dhe krushqit udhëtojnë nëpër qytete ku ndihen pëgatitjet për festivalin folklorik të Gjirokastrës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="44" start_time="2022-09-22 12:45:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Një shoqe nga fshati">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje shoqe nga fshati   "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kinokomedi që pason "Zonja nga qyteti". Ollga përgatitet të shkojë në konferencën e gruas aktiviste ku do të flasë për eksperiencën e saj në lidhje me luftën kundër koncepteve konservatore. Gjatë një atmosfere të ngrohtë, Ollga i këndon ninullën e parë nipit të saj të porsalindur: "Na ishte njëherë një Ollgë që mbahej si zonjë... Kohët kaluan dhe zonja u bë një nga ne, një shoqe nga fshati".</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="45" start_time="2022-09-22 14:10:00" duration="5400">
+			<short_event_descriptor lang="alb" name="100 vjet shteti më i lumtur në Shqipëri">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="100 vjet shteti me i lumtur ne Shqiperi"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Elvis Pupa në një prej performancave të tij më të mira si humorist në standup, duke prezantuar para publikut shqiptar tema të ndryshme 'të spërkatura' me humorin e tij të veçantë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text>Elvis Pupa in one of his best performances, in a one man show as a standup comedian, presenting in front of the Albanian public different topics 'sprinkled' with his unique humor and wit.</text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="3" nibble2="4"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="46" start_time="2022-09-22 15:40:00" duration="2340">
+			<short_event_descriptor lang="alb" name="O sa mirë"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="O Sa Mire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Universiteti më i famshëm i të gjitha trevave shqiptare, me studentë nga të gjitha trevat, Tirana, Prishtina, Gjakova, Drenica, Korça, Tetova, Peja, Shkodra e Prizreni, vazhdon të ofrojë situata komike, batuta dhe keqkuptime pa fund...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="47" start_time="2022-09-22 16:19:00" duration="3060">
+			<short_event_descriptor lang="alb" name="O sa mirë"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="O Sa Mire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Universiteti më i famshëm i të gjitha trevave shqiptare, me studentë nga të gjitha trevat, Tirana, Prishtina, Gjakova, Drenica, Korça, Tetova, Peja, Shkodra e Prizreni, vazhdon të ofrojë situata komike, batuta dhe keqkuptime pa fund...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="48" start_time="2022-09-22 17:10:00" duration="840">
+			<short_event_descriptor lang="alb" name="Sfida 2 P1"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sfida 2 P1"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në 10 javë, do të ndiqni personazhet tuaj më të preferuar, në situata të papritura. Cili grup do të ketë guximin, bashkëpunimin dhe shkathtësinë e duhur, për të qenë fituesit e çmimit të madh?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="49" start_time="2022-09-22 17:24:00" duration="660">
+			<short_event_descriptor lang="alb" name="Sfida 2 P2"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sfida 2 P2"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në 10 javë, do të ndiqni personazhet tuaj më të preferuar, në situata të papritura. Cili grup do të ketë guximin, bashkëpunimin dhe shkathtësinë e duhur, për të qenë fituesit e çmimit të madh?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="50" start_time="2022-09-22 17:35:00" duration="1200">
+			<short_event_descriptor lang="alb" name="Sfida 2 P3"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sfida 2 P3"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në 10 javë, do të ndiqni personazhet tuaj më të preferuar, në situata të papritura. Cili grup do të ketë guximin, bashkëpunimin dhe shkathtësinë e duhur, për të qenë fituesit e çmimit të madh?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="51" start_time="2022-09-22 17:55:00" duration="1740">
+			<short_event_descriptor lang="alb" name="Albania road trip 5: Kruja, Laguna e Patokut, Lezha, Shëngjini"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Albania Road Trip"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ky udhëtim na çon në veri të Shqipërisë. Fillojmë me një nga qytetet më me histori nga të gjitha ato shqiptare, Krujën. Ajo karakterizohet jo vetëm për gjeografinë e veçantë, kalanë mbresëlënëse, por dhe shumë tradita të përcjella brez pas brezi.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="52" start_time="2022-09-22 18:24:00" duration="2160">
+			<short_event_descriptor lang="alb" name="Albania Road Trip 6: Shkodër, Velipojë, Vermosh"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Albania Road Trip"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Shkodra, ky qytet i lashtë 2500 vjeçar, njihet si kryeqendër tradicionale e kulturës shqiptare. Buna, Drini, kështjella legjendare e Rozafës, Alpet... Shkodra ofron bukuri të virgjra natyrore që rrallë i has në një vend të globit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="53" start_time="2022-09-22 19:00:00" duration="7500">
+			<short_event_descriptor lang="alb" name="Çifti i çuditshëm">Teatër</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Cifti i cuditshem"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Vepra e autorit të njohur amerikan Neil Simon, vjen në skenë me regji të Inis Gjonit. Historia e dy njerëzve të ndryshëm nga njëri-tjetri, që mësojnë të jetojnë së bashku, në mungesë të harmonisë, tolerancës dhe kompromisit, duke sjellë një bashkëjetesë "jo aq të pazakontë për ne", por që në fund është e destinuar të mos funksionojë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="54" start_time="2022-09-22 21:05:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Zemra që nuk plaken">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Zemra qe nuk plaken"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Xhaxha Azemi ka dalë në pension pas 30 vjetësh punë si shofer kamioni. Por ai nuk mësohet dot me këtë qetësi. Shokët e tjerë e ndihmojnë që të kalojë një prag tjetër të jetës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="55" start_time="2022-09-22 22:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Fundi i një gjakmarrjeje">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fundi i nje gjakmarrjeje "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Realiteti gjatë periudhës zogiste. Dy të rinj, Mazi dhe Dushi, rrjedhin nga dy familje malësore që janë në gjak me njëra-tjetrën prej shumë kohësh. Njëra familje jeton në malësitë e thella dhe tjetra në qytet.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="56" start_time="2022-09-22 23:30:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Një shoqe nga fshati">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje shoqe nga fshati   "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kinokomedi që pason "Zonja nga qyteti". Ollga përgatitet të shkojë në konferencën e gruas aktiviste ku do të flasë për eksperiencën e saj në lidhje me luftën kundër koncepteve konservatore. Gjatë një atmosfere të ngrohtë, Ollga i këndon ninullën e parë nipit të saj të porsalindur: "Na ishte njëherë një Ollgë që mbahej si zonjë... Kohët kaluan dhe zonja u bë një nga ne, një shoqe nga fshati".</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="57" start_time="2022-09-23 00:55:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Detyrë e posaçme">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Detyre e posacme"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Filmi është bazuar në ngjarje reale të viteve '50. Tomorri është i infiltruar në një grup të agjenturave të huaja dhe zbulon dokumente sekrete, baza, dhe mjete komunikimi.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="58" start_time="2022-09-23 02:45:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Pranverë në Gjirokastër">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pranvere ne Gjirokaster  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Film muzikor. Dy të rinj që e kanë njohur njëri tjetrin gjatë një aksioni rinie, po martohen. Rrugës për në shtëpinë e nuses, dhëndri dhe krushqit udhëtojnë nëpër qytete ku ndihen pëgatitjet për festivalin folklorik të Gjirokastrës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="59" start_time="2022-09-23 04:10:00" duration="5700">
+			<short_event_descriptor lang="alb" name="100 vjet shteti më i lumtur në Shqipëri">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="100 vjet shteti me i lumtur ne Shqiperi"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Elvis Pupa në një prej performancave të tij më të mira si humorist në standup, duke prezantuar para publikut shqiptar tema të ndryshme 'të spërkatura' me humorin e tij të veçantë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text>Elvis Pupa in one of his best performances, in a one man show as a standup comedian, presenting in front of the Albanian public different topics 'sprinkled' with his unique humor and wit.</text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="3" nibble2="4"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="60" start_time="2022-09-23 05:45:00" duration="2160">
+			<short_event_descriptor lang="alb" name="Fisi i faunës"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fisi i Faunes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Marrëdhëniet e njeriut me kafshët shtëpiake. Si është ndërtuar kjo miqësi qindra vjeçare e tyre me njeriun? Këshilla veterinare për mirërritjen, të ushqyerit dhe kultivimi e tyre. Si dhe udhëtime për njohjen nga afër me faunën botërore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="61" start_time="2022-09-23 06:21:00" duration="2340">
+			<short_event_descriptor lang="alb" name="Fisi i faunës"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fisi i Faunes"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Marrëdhëniet e njeriut me kafshët shtëpiake. Si është ndërtuar kjo miqësi qindra vjeçare e tyre me njeriun? Këshilla veterinare për mirërritjen, të ushqyerit dhe kultivimi e tyre. Si dhe udhëtime për njohjen nga afër me faunën botërore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="2" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="62" start_time="2022-09-23 07:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Borgjezi fisnik">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Borgjezi fisnik"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjisor: Erion Isai. Me Marko Bitraku, Zamira Kita, Marin Orhanasi, Ledio Lako etj. Një prej veprave të komedianit të madh francez Molieri... Forca e parasë dhe pushtetit që ka ajo ndaj njerëzve...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="63" start_time="2022-09-23 08:30:00" duration="3600">
+			<short_event_descriptor lang="alb" name="Fraktura">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fraktura  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Gazi, një djalë i vogël, çdo mëngjes kur shkon në shkollë, përshëndet djaloshin skulpturë që është vendosur në parkun e qytetit dhe fëmijët i kanë vënë emrin Ilir. Por një ditë Ilirit i thyejnë krahët, dhe Gazi i vogël kalon një dramë që gjyshi dhe prindërit e kuptojnë tepër vonë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="64" start_time="2022-09-23 09:30:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Këshilltarët">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Keshilltaret"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Fundi i vitit 1943. Të gjithë anëtarët e këshillit antifashist, të pranishëm në një ceremoni dasme në fshat, arrestohen. Gjermanët kanë arrestuar edhe dhëndrin. Këshilltarët vihen nën presion për të nënshkruar një deklaratë kundër këshillit antifashist, si kusht i vetëm për lirimin e tyre. Ata refuzojnë dhe ndërkohë planifikojnë arratisjen e dhëndrit në rast të një ekzekutimi.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="65" start_time="2022-09-23 10:35:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Tomka dhe shokët e tij">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tomka dhe shoket e tij "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tomka është një djalë i vogël që i pëlqen të luajë me top së bashku me shokët e tij. Por fushën e futbollit e marrin nazistët që kanë hyrë në qytet. Tomka, nën kujdesin e të rriturve, fillon të organizojë aksione kundër kampit ushtarak që është dislokuar në fushën e tyre të dikurshme të lojës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="66" start_time="2022-09-23 11:55:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Militanti">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Militanti"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Film portret mbi jetën e militantit Vasil Shanto. Ngjarjet vendosen në qytetin e Shkodrës ku heroi i filmit, Visar Shundi, vjen për të ngjallur punën e komitetit rajonal të partisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="67" start_time="2022-09-23 13:30:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Asgjë nuk harrohet">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Asgje nuk harrohet  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Vrasja e një emigranti të rikthyer, do të zbulojë gjurmët e një masakre të kryer gjatë luftës. Ajo që nisi si një vrasje me qëllim grabitjen, do të zbulojë pas shumë vitesh, njerëzit që kishin arritur jo vetëm të fshiheshin, por edhe të zhduknin gjurmët e masakrës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="68" start_time="2022-09-23 15:00:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Tela për violinë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tela per violine"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Andoni, një violinist i ri, po studion seriozisht për konkursin e pranimit në Akademinë e Arteve të Bukura. Por Kozmai, i ati, mendon se i biri nuk mund ta fitojë konkursin pa ndërhyrje, dhe lëshon alarmin e mobilizon të gjithë miqtë për të ndërhyrë te komisioni i Akademisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="69" start_time="2022-09-23 15:55:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Një mbrojtës për Shqipërinë, 100 vjet pas Luftës së Madhe">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje Mbrojtes per Shqiperine 100 Vjet pas Luftes se Madhe"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Cfarë parashikonte 'Traktati i fshehtë i Londres' dhe c'ishte vallë 'Republika e Korcës'?! Intervista eskluzive, xhirime të rralla në Shqipërine e para 100 vjeteve dhe foto origjinale të shumë qyteteve shqiptare gjatë Luftës së I Botërore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="70" start_time="2022-09-23 17:00:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Nostalgjia e rrokut kosovar 1"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nostalgjia e rrokut kosovar"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Historitë e grupeve rrok që ishin aktivë në vitet '80-'90, dhe që shënuan këtë periudhë të artë të muzikës shqiptare rrok. Koha e valës së re muzikore dhe fuqia e rrokut në ato vite. Grupet më të njohura që kanë lënë gjurmë të pashlyera.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="71" start_time="2022-09-23 17:55:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Apollonia, thesari i humbur i Leon Rey-it">Një dok. nga Beti Njuma</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Apollonia thesari i humbur i Leon Rey"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kush ishte Leon Rey? Një nga figurat më të njohura të arkeologjisë shqiptare,Francezi që zbuloi Apolloninë... ?Ai zbarkoi në Shqipëri në 1923 me një mision arkeologjik, që vazhdoi për plot 16 vite... Por si e zbuloi ai Apolloninë?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="72" start_time="2022-09-23 19:00:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Apasionata">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Apasionata"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Motivi kryesor i sonatës së famshme "Apasionata" të Bethovenit, nga një punë diplome, bëhet lajtmotiv në dashurinë e Mirës, studente e pianos, dhe Arturit, student i pikturës, i cili nuk është vërtet i dhënë pas pikturës, por e bën shkollën prej presionit të të atit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="73" start_time="2022-09-23 20:25:00" duration="1800">
+			<short_event_descriptor lang="alb" name="Kultura etniko-folklorike e arbëreshëve të Italisë: Shtegtime artistike në Arberi"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Shtegtime Artistike ne Arberi"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një takim me Arbëreshët e italisë... Një udhëtim në gjashtë fshatra të provincës së Kozencës në krahinën e Kalabrisë  për tu njohur me traditat etniko-kulturore të Arbëreshëve. Gjuha, kënga, vallja, kostumi, arti, dasma dhe riti fetar...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="74" start_time="2022-09-23 20:55:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Këshilltarët">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Keshilltaret"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Fundi i vitit 1943. Të gjithë anëtarët e këshillit antifashist, të pranishëm në një ceremoni dasme në fshat, arrestohen. Gjermanët kanë arrestuar edhe dhëndrin. Këshilltarët vihen nën presion për të nënshkruar një deklaratë kundër këshillit antifashist, si kusht i vetëm për lirimin e tyre. Ata refuzojnë dhe ndërkohë planifikojnë arratisjen e dhëndrit në rast të një ekzekutimi.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="75" start_time="2022-09-23 22:00:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Militanti">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Militanti"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Film portret mbi jetën e militantit Vasil Shanto. Ngjarjet vendosen në qytetin e Shkodrës ku heroi i filmit, Visar Shundi, vjen për të ngjallur punën e komitetit rajonal të partisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="76" start_time="2022-09-23 23:35:00" duration="3300">
+			<short_event_descriptor lang="alb" name="Tela për violinë">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tela per violine"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Andoni, një violinist i ri, po studion seriozisht për konkursin e pranimit në Akademinë e Arteve të Bukura. Por Kozmai, i ati, mendon se i biri nuk mund ta fitojë konkursin pa ndërhyrje, dhe lëshon alarmin e mobilizon të gjithë miqtë për të ndërhyrë te komisioni i Akademisë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="77" start_time="2022-09-24 00:30:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Borgjezi fisnik">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Borgjezi fisnik"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjisor: Erion Isai. Me Marko Bitraku, Zamira Kita, Marin Orhanasi, Ledio Lako etj. Një prej veprave të komedianit të madh francez Molieri... Forca e parasë dhe pushtetit që ka ajo ndaj njerëzve...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="78" start_time="2022-09-24 02:00:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Një mbrojtës për Shqipërinë, 100 vjet pas Luftës së Madhe">Dokumentar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nje Mbrojtes per Shqiperine 100 Vjet pas Luftes se Madhe"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Cfarë parashikonte 'Traktati i fshehtë i Londres' dhe c'ishte vallë 'Republika e Korcës'?! Intervista eskluzive, xhirime të rralla në Shqipërine e para 100 vjeteve dhe foto origjinale të shumë qyteteve shqiptare gjatë Luftës së I Botërore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="79" start_time="2022-09-24 03:05:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Tomka dhe shokët e tij">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tomka dhe shoket e tij "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tomka është një djalë i vogël që i pëlqen të luajë me top së bashku me shokët e tij. Por fushën e futbollit e marrin nazistët që kanë hyrë në qytet. Tomka, nën kujdesin e të rriturve, fillon të organizojë aksione kundër kampit ushtarak që është dislokuar në fushën e tyre të dikurshme të lojës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="80" start_time="2022-09-24 04:25:00" duration="5029">
+			<short_event_descriptor lang="alb" name="Asgjë nuk harrohet">Film shqiptar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Asgje nuk harrohet  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Vrasja e një emigranti të rikthyer, do të zbulojë gjurmët e një masakre të kryer gjatë luftës. Ajo që nisi si një vrasje me qëllim grabitjen, do të zbulojë pas shumë vitesh, njerëzit që kishin arritur jo vetëm të fshiheshin, por edhe të zhduknin gjurmët e masakrës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>

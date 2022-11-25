@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="TVSH">
+    <event id="0" start_time="2022-04-01 15:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SHORTI KATAR 2022">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>32 ekipet pjesëmarrëse njihen me rrugëtimin e tyre në edicionin e 22-të të Kupës së Botës, në Futboll.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-04-01 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Liga e Kampioneve">Telerevista</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Elita e futbollit, takon elitën e shpejtësisë. Në një episod special të revistës javore të Ligës së Kampionëve, Zlatan Ibrahimoviç rijeton karrierën e tij, nga fillimet, deri në epokën aktuale. Në një skenar unik dhe të pazakontë, në bordin e një makine Ferrari, sëbashku me pilotët e F1, Sainz dhe Leclerc, Ibrahimoviç gjendet në pistën e Fioranos, shtëpinë e Ferrarit.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

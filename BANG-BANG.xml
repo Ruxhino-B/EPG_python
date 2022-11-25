@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="BANG-BANG">
+		<Event id="0" start_time="2022-09-07 04:40:00" duration="660">
+			<short_event_descriptor lang="alb" name="Heronjtë e qytetit">Animacion, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Heroes of the City"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Polit është një makinë policie dhe Fiona një zjarrfikëse. Të dyja bëjnë cdo gjë për të ruajtur qetësinë në qytetin e tyre. Një mision i ri në cdo seri, do t'ju mësojë se të kujdesesh për të tjerët, është një nga gjërat më të bukura...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-09-07 04:51:00" duration="840">
+			<short_event_descriptor lang="alb" name="Heronjtë e qytetit">Animacion, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Heroes of the City"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Polit është një makinë policie dhe Fiona një zjarrfikëse. Të dyja bëjnë cdo gjë për të ruajtur qetësinë në qytetin e tyre. Një mision i ri në cdo seri, do t'ju mësojë se të kujdesesh për të tjerët, është një nga gjërat më të bukura...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-09-07 05:05:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0101"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-09-07 05:28:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0102"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-09-07 05:55:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Doktoresha e lodrave">Animacion, familjar, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Doc McStuffins-0115"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze të vogël 6 vjeçare, e cila ka aftësinë të flasë me lodrat... Me stetoskopin e saj magjik, ajo i viziton dhe kujdeset çdo ditë për to...  Po ju, a kujdeseni për lodrat tuaja?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-09-07 06:18:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Doktoresha e lodrave">Animacion, familjar, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Doc McStuffins-0116"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze të vogël 6 vjeçare, e cila ka aftësinë të flasë me lodrat... Me stetoskopin e saj magjik, ajo i viziton dhe kujdeset çdo ditë për to...  Po ju, a kujdeseni për lodrat tuaja?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-09-07 06:45:00" duration="1320">
+			<short_event_descriptor lang="alb" name="Patrulla e putrave">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="PAW Patrol-0103"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>6 qenushë shumë sipmatikë, nën drejtimin e një djali 10 vjecar, do të bëhen heronjtë tuaj të rinj... Sa herë që dikush është në rrezik, 'Patrulla e Putrave' është aty e para, per te dhënë ndihmë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-09-07 07:07:00" duration="1680">
+			<short_event_descriptor lang="alb" name="Patrulla e putrave">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="PAW Patrol-0104"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>6 qenushë shumë sipmatikë, nën drejtimin e një djali 10 vjecar, do të bëhen heronjtë tuaj të rinj... Sa herë që dikush është në rrezik, 'Patrulla e Putrave' është aty e para, per te dhënë ndihmë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-09-07 07:35:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Miqësia është magjike me ponin tim të vogël">Animacion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My little pony  Friendship is Magic-0117"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vendi që rrezikon të mbetet në 'errësirë' përgjithmonë... Dhe do të jetë pikërisht Tuajlajti, një poni i vogël bashkë me 5 mikesha, që do arrijnë të shpëtojnë 'Ditën'... Por si?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-09-07 07:56:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Miqësia është magjike me ponin tim të vogël">Animacion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My little pony  Friendship is Magic-0118"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vendi që rrezikon të mbetet në 'errësirë' përgjithmonë... Dhe do të jetë pikërisht Tuajlajti, një poni i vogël bashkë me 5 mikesha, që do arrijnë të shpëtojnë 'Ditën'... Por si?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-09-07 08:20:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Dyqani i vogël i kafshëve">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Littlest Pet Shop (2012)-0115"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze, e cila krejt papritur, kupton se ka aftësi të flasë me kafshët... Që nga ai cast, miqtë e saj më të mirë, do të bëhen pikërsht ata - kafshët dhe ajo do t'i kushtojë atyre, të gjithë kohën e saj të lirë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-09-07 08:41:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Dyqani i vogël i kafshëve">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Littlest Pet Shop (2012)-0116"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze, e cila krejt papritur, kupton se ka aftësi të flasë me kafshët... Që nga ai cast, miqtë e saj më të mirë, do të bëhen pikërsht ata - kafshët dhe ajo do t'i kushtojë atyre, të gjithë kohën e saj të lirë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-09-07 09:05:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Zambezia">Animacion, aventurë, familjar, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Zambezia"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një skifter i ri, shkon në qytetin e magjishëm ku jetojnë zogj të çdo lloji... Por me të mbëritur atje, ai zbulon një sekret, që rrezikon të shkatërrojë gjithçka...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-09-07 10:30:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Princi i vogel">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The little prince "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e pazakontë e një miqësie shumë të bukur, midis një vajze të vogël dhe një aviator të moshuar, të cilët do të nisin një aventurë paharrueshme, ku do të takojnë edhe Princin e vogël...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-09-07 12:10:00" duration="1380">
+			<short_event_descriptor lang="alb" name="PO Pesë Luftëtaret e Bukura të gjitha në sulm"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pretty Cure Yes Pretty Cure 5 GoGo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luftëtaret e Bukura kanë tashmë një mision të ri, të mbrojnë botën nga një organizatë që vjedh thesare. Atyre do t'u bashkohet edhe një luftëtare e re misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-09-07 12:33:00" duration="1680">
+			<short_event_descriptor lang="alb" name="PO Pesë Luftëtaret e Bukura të gjitha në sulm"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pretty Cure Yes Pretty Cure 5 GoGo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luftëtaret e Bukura kanë tashmë një mision të ri, të mbrojnë botën nga një organizatë që vjedh thesare. Atyre do t'u bashkohet edhe një luftëtare e re misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-09-07 13:01:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Tregimet epike të kapiten Brekushit">Aksion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Epic Tales Of Captain Underpants"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Xhorxh dhe Harold janë shokë të ngushtë dhe kalojnë shumë bukur bashkë. Ata do të hipnotizojnë drejtorin e tyre të rreptë dhe do ta shndërrojnë atë në Kapiten Brekushi, me të cilin do të kalojnë aventura pafund dhe pushimet në kampin veror bëhen të paharrueshme</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-09-07 13:25:00" duration="660">
+			<short_event_descriptor lang="alb" name="Heronjtë e qytetit">Animacion, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Heroes of the City"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Polit është një makinë policie dhe Fiona një zjarrfikëse. Të dyja bëjnë cdo gjë për të ruajtur qetësinë në qytetin e tyre. Një mision i ri në cdo seri, do t'ju mësojë se të kujdesesh për të tjerët, është një nga gjërat më të bukura...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-09-07 13:36:00" duration="840">
+			<short_event_descriptor lang="alb" name="Heronjtë e qytetit">Animacion, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Heroes of the City"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Polit është një makinë policie dhe Fiona një zjarrfikëse. Të dyja bëjnë cdo gjë për të ruajtur qetësinë në qytetin e tyre. Një mision i ri në cdo seri, do t'ju mësojë se të kujdesesh për të tjerët, është një nga gjërat më të bukura...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-09-07 13:50:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0101"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-09-07 14:13:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0102"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-09-07 14:40:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Doktoresha e lodrave">Animacion, familjar, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Doc McStuffins-0115"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze të vogël 6 vjeçare, e cila ka aftësinë të flasë me lodrat... Me stetoskopin e saj magjik, ajo i viziton dhe kujdeset çdo ditë për to...  Po ju, a kujdeseni për lodrat tuaja?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-07 15:03:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Doktoresha e lodrave">Animacion, familjar, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Doc McStuffins-0116"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze të vogël 6 vjeçare, e cila ka aftësinë të flasë me lodrat... Me stetoskopin e saj magjik, ajo i viziton dhe kujdeset çdo ditë për to...  Po ju, a kujdeseni për lodrat tuaja?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-07 15:30:00" duration="1320">
+			<short_event_descriptor lang="alb" name="Patrulla e putrave">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="PAW Patrol-0103"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>6 qenushë shumë sipmatikë, nën drejtimin e një djali 10 vjecar, do të bëhen heronjtë tuaj të rinj... Sa herë që dikush është në rrezik, 'Patrulla e Putrave' është aty e para, per te dhënë ndihmë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-07 15:52:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Patrulla e putrave">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="PAW Patrol-0104"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>6 qenushë shumë sipmatikë, nën drejtimin e një djali 10 vjecar, do të bëhen heronjtë tuaj të rinj... Sa herë që dikush është në rrezik, 'Patrulla e Putrave' është aty e para, per te dhënë ndihmë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-07 16:15:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Miqësia është magjike me ponin tim të vogël">Animacion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My little pony  Friendship is Magic-0117"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vendi që rrezikon të mbetet në 'errësirë' përgjithmonë... Dhe do të jetë pikërisht Tuajlajti, një poni i vogël bashkë me 5 mikesha, që do arrijnë të shpëtojnë 'Ditën'... Por si?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-07 16:36:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Miqësia është magjike me ponin tim të vogël">Animacion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My little pony  Friendship is Magic-0118"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vendi që rrezikon të mbetet në 'errësirë' përgjithmonë... Dhe do të jetë pikërisht Tuajlajti, një poni i vogël bashkë me 5 mikesha, që do arrijnë të shpëtojnë 'Ditën'... Por si?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-07 17:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Libri i jetës">Animacion, Aventurë, Komedi, Familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The book of life"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Udhëtimi i mahnitshëm i Manolos, i cili ndërmerr një aventurë të jashtëzakonshme përmes 3 botëve magjike, ku do t'i duhet të përballet me frikërat e tij më të mëdha...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-07 18:30:00" duration="1380">
+			<short_event_descriptor lang="alb" name="PO Pesë Luftëtaret e Bukura të gjitha në sulm"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pretty Cure Yes Pretty Cure 5 GoGo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luftëtaret e Bukura kanë tashmë një mision të ri, të mbrojnë botën nga një organizatë që vjedh thesare. Atyre do t'u bashkohet edhe një luftëtare e re misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-07 18:53:00" duration="1560">
+			<short_event_descriptor lang="alb" name="PO Pesë Luftëtaret e Bukura të gjitha në sulm"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pretty Cure Yes Pretty Cure 5 GoGo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luftëtaret e Bukura kanë tashmë një mision të ri, të mbrojnë botën nga një organizatë që vjedh thesare. Atyre do t'u bashkohet edhe një luftëtare e re misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-07 19:19:00" duration="1560">
+			<short_event_descriptor lang="alb" name="Tregimet epike të kapiten Brekushit">Aksion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Epic Tales Of Captain Underpants"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Xhorxh dhe Harold janë shokë të ngushtë dhe kalojnë shumë bukur bashkë. Ata do të hipnotizojnë drejtorin e tyre të rreptë dhe do ta shndërrojnë atë në Kapiten Brekushi, me të cilin do të kalojnë aventura pafund dhe pushimet në kampin veror bëhen të paharrueshme</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-07 19:45:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Alvini dhe fytyrëketrushat 2">Animacion, Familjar, Komedi, Fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Alvin And The Chipmunks 2 The Squeakquel "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Alvin, Sajmon dhe Teodor duhet të lënë mënjanë luksin e famës dhe t'u përkushtohen mësimeve. Por kur ata vendosin të hyjnë në konkursin e shkollës, fitorja do të bëhet e vështirë ...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-07 21:10:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Ndihme! U bera peshk!">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="A Fish Tale aka Help Im a Fish "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Profesori Mc Rill u tregon tre vogelusheve eksperimentin per te shpetuar boten. Formula mbetet ne dore te tyre. Aksidentalisht te tre e pijne porcionin e formules se cuditshme dhe kane vetem 24 ore per t'u kthyer ne njerez.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-07 22:25:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Zambezia">Animacion, aventurë, familjar, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Zambezia"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një skifter i ri, shkon në qytetin e magjishëm ku jetojnë zogj të çdo lloji... Por me të mbëritur atje, ai zbulon një sekret, që rrezikon të shkatërrojë gjithçka...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-07 23:45:00" duration="5940">
+			<short_event_descriptor lang="alb" name="Princi i vogel">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The little prince "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e pazakontë e një miqësie shumë të bukur, midis një vajze të vogël dhe një aviator të moshuar, të cilët do të nisin një aventurë paharrueshme, ku do të takojnë edhe Princin e vogël...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-08 01:24:00" duration="5460">
+			<short_event_descriptor lang="alb" name="Libri i jetës">Animacion, Aventurë, Komedi, Familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The book of life"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Udhëtimi i mahnitshëm i Manolos, i cili ndërmerr një aventurë të jashtëzakonshme përmes 3 botëve magjike, ku do t'i duhet të përballet me frikërat e tij më të mëdha...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-08 02:55:00" duration="1500">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0101"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-08 03:20:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Alvini dhe fytyrëketrushat 2">Animacion, Familjar, Komedi, Fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Alvin And The Chipmunks 2 The Squeakquel "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Alvin, Sajmon dhe Teodor duhet të lënë mënjanë luksin e famës dhe t'u përkushtohen mësimeve. Por kur ata vendosin të hyjnë në konkursin e shkollës, fitorja do të bëhet e vështirë ...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-08 04:45:00" duration="660">
+			<short_event_descriptor lang="alb" name="Heronjtë e qytetit">Animacion, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Heroes of the City"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Polit është një makinë policie dhe Fiona një zjarrfikëse. Të dyja bëjnë cdo gjë për të ruajtur qetësinë në qytetin e tyre. Një mision i ri në cdo seri, do t'ju mësojë se të kujdesesh për të tjerët, është një nga gjërat më të bukura...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-08 04:56:00" duration="840">
+			<short_event_descriptor lang="alb" name="Heronjtë e qytetit">Animacion, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Heroes of the City"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Polit është një makinë policie dhe Fiona një zjarrfikëse. Të dyja bëjnë cdo gjë për të ruajtur qetësinë në qytetin e tyre. Një mision i ri në cdo seri, do t'ju mësojë se të kujdesesh për të tjerët, është një nga gjërat më të bukura...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-08 05:10:00" duration="1320">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0103"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="41" start_time="2022-09-08 05:32:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0104"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="42" start_time="2022-09-08 05:55:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Doktoresha e lodrave">Animacion, familjar, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Doc McStuffins-0117"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze të vogël 6 vjeçare, e cila ka aftësinë të flasë me lodrat... Me stetoskopin e saj magjik, ajo i viziton dhe kujdeset çdo ditë për to...  Po ju, a kujdeseni për lodrat tuaja?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="43" start_time="2022-09-08 06:18:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Doktoresha e lodrave">Animacion, familjar, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Doc McStuffins-0118"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze të vogël 6 vjeçare, e cila ka aftësinë të flasë me lodrat... Me stetoskopin e saj magjik, ajo i viziton dhe kujdeset çdo ditë për to...  Po ju, a kujdeseni për lodrat tuaja?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="44" start_time="2022-09-08 06:45:00" duration="1320">
+			<short_event_descriptor lang="alb" name="Patrulla e putrave">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="PAW Patrol-0105"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>6 qenushë shumë sipmatikë, nën drejtimin e një djali 10 vjecar, do të bëhen heronjtë tuaj të rinj... Sa herë që dikush është në rrezik, 'Patrulla e Putrave' është aty e para, per te dhënë ndihmë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="45" start_time="2022-09-08 07:07:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Patrulla e putrave">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="PAW Patrol-0106"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>6 qenushë shumë sipmatikë, nën drejtimin e një djali 10 vjecar, do të bëhen heronjtë tuaj të rinj... Sa herë që dikush është në rrezik, 'Patrulla e Putrave' është aty e para, per te dhënë ndihmë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="46" start_time="2022-09-08 07:34:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Miqësia është magjike me ponin tim të vogël">Animacion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My little pony  Friendship is Magic-0119"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vendi që rrezikon të mbetet në 'errësirë' përgjithmonë... Dhe do të jetë pikërisht Tuajlajti, një poni i vogël bashkë me 5 mikesha, që do arrijnë të shpëtojnë 'Ditën'... Por si?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="47" start_time="2022-09-08 07:55:00" duration="1500">
+			<short_event_descriptor lang="alb" name="Miqësia është magjike me ponin tim të vogël">Animacion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My little pony  Friendship is Magic-0120"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vendi që rrezikon të mbetet në 'errësirë' përgjithmonë... Dhe do të jetë pikërisht Tuajlajti, një poni i vogël bashkë me 5 mikesha, që do arrijnë të shpëtojnë 'Ditën'... Por si?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="48" start_time="2022-09-08 08:20:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Dyqani i vogël i kafshëve">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Littlest Pet Shop (2012)-0117"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze, e cila krejt papritur, kupton se ka aftësi të flasë me kafshët... Që nga ai cast, miqtë e saj më të mirë, do të bëhen pikërsht ata - kafshët dhe ajo do t'i kushtojë atyre, të gjithë kohën e saj të lirë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="49" start_time="2022-09-08 08:41:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Dyqani i vogël i kafshëve">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Littlest Pet Shop (2012)-0118"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze, e cila krejt papritur, kupton se ka aftësi të flasë me kafshët... Që nga ai cast, miqtë e saj më të mirë, do të bëhen pikërsht ata - kafshët dhe ajo do t'i kushtojë atyre, të gjithë kohën e saj të lirë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="50" start_time="2022-09-08 09:05:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Amerikani: Filmi i super papagallit">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Americano "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në një botë plot me ngjyra dhe pupla, një familje e madhe cirku, rrezikon gjithcka... Një Hero i vecantë do të nis fluturimin, për ti shpëtuar të gjithë. Sepse Heronjtë duhet të kenë kurajo por dhe kraharor të madh...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="51" start_time="2022-09-08 10:35:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Ernesti dhe Celestina">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ernest Et Celestine aka Ernest and Cele "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një miqësie shumë të çuditëshme, misidis Enestit - një ariu dhe Celestinës - një miusheje... Ndiqni aventurën e tyre të pazakontë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="52" start_time="2022-09-08 11:50:00" duration="1380">
+			<short_event_descriptor lang="alb" name="PO Pesë Luftëtaret e Bukura të gjitha në sulm"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pretty Cure Yes Pretty Cure 5 GoGo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luftëtaret e Bukura kanë tashmë një mision të ri, të mbrojnë botën nga një organizatë që vjedh thesare. Atyre do t'u bashkohet edhe një luftëtare e re misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="53" start_time="2022-09-08 12:13:00" duration="1620">
+			<short_event_descriptor lang="alb" name="PO Pesë Luftëtaret e Bukura të gjitha në sulm"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pretty Cure Yes Pretty Cure 5 GoGo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luftëtaret e Bukura kanë tashmë një mision të ri, të mbrojnë botën nga një organizatë që vjedh thesare. Atyre do t'u bashkohet edhe një luftëtare e re misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="54" start_time="2022-09-08 12:40:00" duration="1500">
+			<short_event_descriptor lang="alb" name="Tregimet epike të kapiten Brekushit">Aksion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Epic Tales Of Captain Underpants"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Xhorxh dhe Harold janë shokë të ngushtë dhe kalojnë shumë bukur bashkë. Ata do të hipnotizojnë drejtorin e tyre të rreptë dhe do ta shndërrojnë atë në Kapiten Brekushi, me të cilin do të kalojnë aventura pafund dhe pushimet në kampin veror bëhen të paharrueshme</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="55" start_time="2022-09-08 13:05:00" duration="660">
+			<short_event_descriptor lang="alb" name="Heronjtë e qytetit">Animacion, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Heroes of the City"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Polit është një makinë policie dhe Fiona një zjarrfikëse. Të dyja bëjnë cdo gjë për të ruajtur qetësinë në qytetin e tyre. Një mision i ri në cdo seri, do t'ju mësojë se të kujdesesh për të tjerët, është një nga gjërat më të bukura...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="56" start_time="2022-09-08 13:16:00" duration="840">
+			<short_event_descriptor lang="alb" name="Heronjtë e qytetit">Animacion, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Heroes of the City"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Polit është një makinë policie dhe Fiona një zjarrfikëse. Të dyja bëjnë cdo gjë për të ruajtur qetësinë në qytetin e tyre. Një mision i ri në cdo seri, do t'ju mësojë se të kujdesesh për të tjerët, është një nga gjërat më të bukura...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="57" start_time="2022-09-08 13:30:00" duration="1320">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0103"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="58" start_time="2022-09-08 13:52:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0104"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="59" start_time="2022-09-08 14:15:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Doktoresha e lodrave">Animacion, familjar, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Doc McStuffins-0117"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze të vogël 6 vjeçare, e cila ka aftësinë të flasë me lodrat... Me stetoskopin e saj magjik, ajo i viziton dhe kujdeset çdo ditë për to...  Po ju, a kujdeseni për lodrat tuaja?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="60" start_time="2022-09-08 14:38:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Doktoresha e lodrave">Animacion, familjar, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Doc McStuffins-0118"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze të vogël 6 vjeçare, e cila ka aftësinë të flasë me lodrat... Me stetoskopin e saj magjik, ajo i viziton dhe kujdeset çdo ditë për to...  Po ju, a kujdeseni për lodrat tuaja?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="61" start_time="2022-09-08 15:05:00" duration="1320">
+			<short_event_descriptor lang="alb" name="Patrulla e putrave">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="PAW Patrol-0105"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>6 qenushë shumë sipmatikë, nën drejtimin e një djali 10 vjecar, do të bëhen heronjtë tuaj të rinj... Sa herë që dikush është në rrezik, 'Patrulla e Putrave' është aty e para, per te dhënë ndihmë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="62" start_time="2022-09-08 15:27:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Patrulla e putrave">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="PAW Patrol-0106"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>6 qenushë shumë sipmatikë, nën drejtimin e një djali 10 vjecar, do të bëhen heronjtë tuaj të rinj... Sa herë që dikush është në rrezik, 'Patrulla e Putrave' është aty e para, per te dhënë ndihmë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="63" start_time="2022-09-08 15:50:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Miqësia është magjike me ponin tim të vogël">Animacion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My little pony  Friendship is Magic-0119"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vendi që rrezikon të mbetet në 'errësirë' përgjithmonë... Dhe do të jetë pikërisht Tuajlajti, një poni i vogël bashkë me 5 mikesha, që do arrijnë të shpëtojnë 'Ditën'... Por si?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="64" start_time="2022-09-08 16:11:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Miqësia është magjike me ponin tim të vogël">Animacion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My little pony  Friendship is Magic-0120"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vendi që rrezikon të mbetet në 'errësirë' përgjithmonë... Dhe do të jetë pikërisht Tuajlajti, një poni i vogël bashkë me 5 mikesha, që do arrijnë të shpëtojnë 'Ditën'... Por si?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="65" start_time="2022-09-08 16:35:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Postieri Pat: Filmi">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Postman Pat the Movie (2014) "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në qytetin ku banon, Pat-i është ai që i ndihmon të gjithë, për gjithcka... Por tani do të zbulojmë, se talenti i tij, nuk është vetëm të shpërndajë postën... Por ai di dhe të këndojë shumë bukur... Një aventurë për të gjithë familjen...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="66" start_time="2022-09-08 18:00:00" duration="1380">
+			<short_event_descriptor lang="alb" name="PO Pesë Luftëtaret e Bukura të gjitha në sulm"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pretty Cure Yes Pretty Cure 5 GoGo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luftëtaret e Bukura kanë tashmë një mision të ri, të mbrojnë botën nga një organizatë që vjedh thesare. Atyre do t'u bashkohet edhe një luftëtare e re misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="67" start_time="2022-09-08 18:23:00" duration="1620">
+			<short_event_descriptor lang="alb" name="PO Pesë Luftëtaret e Bukura të gjitha në sulm"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pretty Cure Yes Pretty Cure 5 GoGo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luftëtaret e Bukura kanë tashmë një mision të ri, të mbrojnë botën nga një organizatë që vjedh thesare. Atyre do t'u bashkohet edhe një luftëtare e re misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="68" start_time="2022-09-08 18:50:00" duration="1560">
+			<short_event_descriptor lang="alb" name="Tregimet epike të kapiten Brekushit">Aksion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Epic Tales Of Captain Underpants"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Xhorxh dhe Harold janë shokë të ngushtë dhe kalojnë shumë bukur bashkë. Ata do të hipnotizojnë drejtorin e tyre të rreptë dhe do ta shndërrojnë atë në Kapiten Brekushi, me të cilin do të kalojnë aventura pafund dhe pushimet në kampin veror bëhen të paharrueshme</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="69" start_time="2022-09-08 19:16:00" duration="5040">
+			<short_event_descriptor lang="alb" name="Alvin dhe fytyreketrushat 3">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Alvin and the chipmunks 3 Chipwrecked "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Këtë herë Alvin dhe miqtë e tij ndodhen me pushime në një anije. Por aksidentalisht ata bien nga anija dhe e gjejnë veten në një ishull të izoluar, ku do të kalojnë një aventurë që s'kanë për ta harruar kurrë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="70" start_time="2022-09-08 20:40:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Atlantis mbretëria e humbur">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Atlantis  The Lost Empire"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Brenda nje dite-nate te vetme, ishulli I Atlantis u zhduk ne thellesine e detit rreth viteve 300. Ne 1914 nje profesor kerkon ta rizbuloje ishullin e mbrekullueshem  qe ne kohen e tij ka qene shume me I zhvilluar se amerika e viteve 1914.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="71" start_time="2022-09-08 22:15:00" duration="5220">
+			<short_event_descriptor lang="alb" name="Amerikani: Filmi i super papagallit">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Americano "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në një botë plot me ngjyra dhe pupla, një familje e madhe cirku, rrezikon gjithcka... Një Hero i vecantë do të nis fluturimin, për ti shpëtuar të gjithë. Sepse Heronjtë duhet të kenë kurajo por dhe kraharor të madh...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="72" start_time="2022-09-08 23:42:00" duration="4680">
+			<short_event_descriptor lang="alb" name="Ernesti dhe Celestina">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ernest Et Celestine aka Ernest and Cele "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një miqësie shumë të çuditëshme, misidis Enestit - një ariu dhe Celestinës - një miusheje... Ndiqni aventurën e tyre të pazakontë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="73" start_time="2022-09-09 01:00:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Postieri Pat: Filmi">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Postman Pat the Movie (2014) "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në qytetin ku banon, Pat-i është ai që i ndihmon të gjithë, për gjithcka... Por tani do të zbulojmë, se talenti i tij, nuk është vetëm të shpërndajë postën... Por ai di dhe të këndojë shumë bukur... Një aventurë për të gjithë familjen...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="74" start_time="2022-09-09 02:20:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0103"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="75" start_time="2022-09-09 02:41:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0104"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="76" start_time="2022-09-09 03:05:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Alvin dhe fytyreketrushat 3">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Alvin and the chipmunks 3 Chipwrecked "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Këtë herë Alvin dhe miqtë e tij ndodhen me pushime në një anije. Por aksidentalisht ata bien nga anija dhe e gjejnë veten në një ishull të izoluar, ku do të kalojnë një aventurë që s'kanë për ta harruar kurrë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="77" start_time="2022-09-09 04:30:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Oso: Agjenti special">Animacion, aksion, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Special agent Oso-0101"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Oso është heroi juaj më i ri.... Ai është një agjent special, i cili cdo ditë shkon në një mision të ri, që të ndihmojë fëmijët në vështirësi...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="78" start_time="2022-09-09 04:53:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Oso: Agjenti special">Animacion, aksion, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Special agent Oso-0102"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Oso është heroi juaj më i ri.... Ai është një agjent special, i cili cdo ditë shkon në një mision të ri, që të ndihmojë fëmijët në vështirësi...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="79" start_time="2022-09-09 05:20:00" duration="1320">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0105"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="80" start_time="2022-09-09 05:42:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0106"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="81" start_time="2022-09-09 06:05:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Doktoresha e lodrave">Animacion, familjar, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Doc McStuffins-0119"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze të vogël 6 vjeçare, e cila ka aftësinë të flasë me lodrat... Me stetoskopin e saj magjik, ajo i viziton dhe kujdeset çdo ditë për to...  Po ju, a kujdeseni për lodrat tuaja?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="82" start_time="2022-09-09 06:29:00" duration="1560">
+			<short_event_descriptor lang="alb" name="Doktoresha e lodrave">Animacion, familjar, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Doc McStuffins-0120"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze të vogël 6 vjeçare, e cila ka aftësinë të flasë me lodrat... Me stetoskopin e saj magjik, ajo i viziton dhe kujdeset çdo ditë për to...  Po ju, a kujdeseni për lodrat tuaja?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="83" start_time="2022-09-09 06:55:00" duration="1320">
+			<short_event_descriptor lang="alb" name="Patrulla e putrave">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="PAW Patrol-107"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>6 qenushë shumë sipmatikë, nën drejtimin e një djali 10 vjecar, do të bëhen heronjtë tuaj të rinj... Sa herë që dikush është në rrezik, 'Patrulla e Putrave' është aty e para, per te dhënë ndihmë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="84" start_time="2022-09-09 07:17:00" duration="1680">
+			<short_event_descriptor lang="alb" name="Patrulla e putrave">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="PAW Patrol-108"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>6 qenushë shumë sipmatikë, nën drejtimin e një djali 10 vjecar, do të bëhen heronjtë tuaj të rinj... Sa herë që dikush është në rrezik, 'Patrulla e Putrave' është aty e para, per te dhënë ndihmë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="85" start_time="2022-09-09 07:45:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Miqësia është magjike me ponin tim të vogël">Animacion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My little pony  Friendship is Magic-0121"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vendi që rrezikon të mbetet në 'errësirë' përgjithmonë... Dhe do të jetë pikërisht Tuajlajti, një poni i vogël bashkë me 5 mikesha, që do arrijnë të shpëtojnë 'Ditën'... Por si?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="86" start_time="2022-09-09 08:06:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Miqësia është magjike me ponin tim të vogël">Animacion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My little pony  Friendship is Magic-0122"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vendi që rrezikon të mbetet në 'errësirë' përgjithmonë... Dhe do të jetë pikërisht Tuajlajti, një poni i vogël bashkë me 5 mikesha, që do arrijnë të shpëtojnë 'Ditën'... Por si?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="87" start_time="2022-09-09 08:30:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Dyqani i vogël i kafshëve">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Littlest Pet Shop (2012)-0119"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze, e cila krejt papritur, kupton se ka aftësi të flasë me kafshët... Që nga ai cast, miqtë e saj më të mirë, do të bëhen pikërsht ata - kafshët dhe ajo do t'i kushtojë atyre, të gjithë kohën e saj të lirë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="88" start_time="2022-09-09 08:51:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Dyqani i vogël i kafshëve">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Littlest Pet Shop (2012)-0120"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze, e cila krejt papritur, kupton se ka aftësi të flasë me kafshët... Që nga ai cast, miqtë e saj më të mirë, do të bëhen pikërsht ata - kafshët dhe ajo do t'i kushtojë atyre, të gjithë kohën e saj të lirë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="89" start_time="2022-09-09 09:15:00" duration="4200">
+			<short_event_descriptor lang="alb" name="Elfi në arrati">Animacion, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elf on the Run"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Aventura e një vajze të vogël, e cila do të miqësohet me një mik shumë të vecantë: një elf që sjell pranverën. Ajo do të bëjë gjithcka për ta ndihmuar mikun e saj të ri, në misionin e tij...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="90" start_time="2022-09-09 10:25:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Late dhe gruri magjik">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Latte the Magic Waterstone (2019) "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Late është një iriq plot energji dhe ka një imagjinatë të zhvilluar. Kur një thatësirë e tmerrshme rrezikonë pyllin dhe banorët e tij. Late bashkë më mikun e saj më të mirë, do të bëjnë gjithcka për ta shpëtuar...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="91" start_time="2022-09-09 11:40:00" duration="1380">
+			<short_event_descriptor lang="alb" name="PO Pesë Luftëtaret e Bukura të gjitha në sulm"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pretty Cure Yes Pretty Cure 5 GoGo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luftëtaret e Bukura kanë tashmë një mision të ri, të mbrojnë botën nga një organizatë që vjedh thesare. Atyre do t'u bashkohet edhe një luftëtare e re misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="92" start_time="2022-09-09 12:03:00" duration="1620">
+			<short_event_descriptor lang="alb" name="PO Pesë Luftëtaret e Bukura të gjitha në sulm"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pretty Cure Yes Pretty Cure 5 GoGo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luftëtaret e Bukura kanë tashmë një mision të ri, të mbrojnë botën nga një organizatë që vjedh thesare. Atyre do t'u bashkohet edhe një luftëtare e re misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="93" start_time="2022-09-09 12:30:00" duration="1500">
+			<short_event_descriptor lang="alb" name="Tregimet epike të kapiten Brekushit">Aksion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Epic Tales Of Captain Underpants"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Xhorxh dhe Harold janë shokë të ngushtë dhe kalojnë shumë bukur bashkë. Ata do të hipnotizojnë drejtorin e tyre të rreptë dhe do ta shndërrojnë atë në Kapiten Brekushi, me të cilin do të kalojnë aventura pafund dhe pushimet në kampin veror bëhen të paharrueshme</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="94" start_time="2022-09-09 12:55:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Oso: Agjenti special">Animacion, aksion, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Special agent Oso-0101"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Oso është heroi juaj më i ri.... Ai është një agjent special, i cili cdo ditë shkon në një mision të ri, që të ndihmojë fëmijët në vështirësi...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="95" start_time="2022-09-09 13:18:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Oso: Agjenti special">Animacion, aksion, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Special agent Oso-0102"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Oso është heroi juaj më i ri.... Ai është një agjent special, i cili cdo ditë shkon në një mision të ri, që të ndihmojë fëmijët në vështirësi...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="96" start_time="2022-09-09 13:45:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0105"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="97" start_time="2022-09-09 14:06:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0106"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="98" start_time="2022-09-09 14:30:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Doktoresha e lodrave">Animacion, familjar, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Doc McStuffins-0119"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze të vogël 6 vjeçare, e cila ka aftësinë të flasë me lodrat... Me stetoskopin e saj magjik, ajo i viziton dhe kujdeset çdo ditë për to...  Po ju, a kujdeseni për lodrat tuaja?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="99" start_time="2022-09-09 14:53:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Doktoresha e lodrave">Animacion, familjar, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Doc McStuffins-0120"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vajze të vogël 6 vjeçare, e cila ka aftësinë të flasë me lodrat... Me stetoskopin e saj magjik, ajo i viziton dhe kujdeset çdo ditë për to...  Po ju, a kujdeseni për lodrat tuaja?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="100" start_time="2022-09-09 15:20:00" duration="1320">
+			<short_event_descriptor lang="alb" name="Patrulla e putrave">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="PAW Patrol-107"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>6 qenushë shumë sipmatikë, nën drejtimin e një djali 10 vjecar, do të bëhen heronjtë tuaj të rinj... Sa herë që dikush është në rrezik, 'Patrulla e Putrave' është aty e para, per te dhënë ndihmë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="101" start_time="2022-09-09 15:42:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Patrulla e putrave">Animacion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="PAW Patrol-108"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>6 qenushë shumë sipmatikë, nën drejtimin e një djali 10 vjecar, do të bëhen heronjtë tuaj të rinj... Sa herë që dikush është në rrezik, 'Patrulla e Putrave' është aty e para, per te dhënë ndihmë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="102" start_time="2022-09-09 16:05:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Miqësia është magjike me ponin tim të vogël">Animacion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My little pony  Friendship is Magic-0121"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vendi që rrezikon të mbetet në 'errësirë' përgjithmonë... Dhe do të jetë pikërisht Tuajlajti, një poni i vogël bashkë me 5 mikesha, që do arrijnë të shpëtojnë 'Ditën'... Por si?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="103" start_time="2022-09-09 16:26:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Miqësia është magjike me ponin tim të vogël">Animacion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="My little pony  Friendship is Magic-0122"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është historia e një vendi që rrezikon të mbetet në 'errësirë' përgjithmonë... Dhe do të jetë pikërisht Tuajlajti, një poni i vogël bashkë me 5 mikesha, që do arrijnë të shpëtojnë 'Ditën'... Por si?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="104" start_time="2022-09-09 16:50:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Princesha Emi">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Princess Emmy "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Emi, është një vajzë si gjithë të tjerat, por me dy ndryshime të vogla. Emi është një princeshë e vërtetë dhe falë një libri magjik ajo mund të flasë me kuajt. Mos humbisni një aventurë magjike mbi miqësinë dhe guximin...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="105" start_time="2022-09-09 18:05:00" duration="1380">
+			<short_event_descriptor lang="alb" name="PO Pesë Luftëtaret e Bukura të gjitha në sulm"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pretty Cure Yes Pretty Cure 5 GoGo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luftëtaret e Bukura kanë tashmë një mision të ri, të mbrojnë botën nga një organizatë që vjedh thesare. Atyre do t'u bashkohet edhe një luftëtare e re misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="106" start_time="2022-09-09 18:28:00" duration="1620">
+			<short_event_descriptor lang="alb" name="PO Pesë Luftëtaret e Bukura të gjitha në sulm"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Pretty Cure Yes Pretty Cure 5 GoGo"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Luftëtaret e Bukura kanë tashmë një mision të ri, të mbrojnë botën nga një organizatë që vjedh thesare. Atyre do t'u bashkohet edhe një luftëtare e re misterioze.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="107" start_time="2022-09-09 18:55:00" duration="1500">
+			<short_event_descriptor lang="alb" name="Tregimet epike të kapiten Brekushit">Aksion, aventurë, komedi, familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Epic Tales Of Captain Underpants"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Xhorxh dhe Harold janë shokë të ngushtë dhe kalojnë shumë bukur bashkë. Ata do të hipnotizojnë drejtorin e tyre të rreptë dhe do ta shndërrojnë atë në Kapiten Brekushi, me të cilin do të kalojnë aventura pafund dhe pushimet në kampin veror bëhen të paharrueshme</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="108" start_time="2022-09-09 19:20:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Rrethinat">Aventurë, Familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Outback  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>I lodhur duke u vënë në lojë nga të gjithë, për shkak të ngjyrës së tij, Xhoni, një koala e bardhë, vendos të largohet dhe të shkojë aty ku do ndihet i vlerësuar...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="109" start_time="2022-09-09 20:40:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Atlantis 2: Kthimi i Milos">Animacion, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Atlantis  Milos Return "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nje aventurier i ri i quajtur Milo Thatch bashkohet me nje grup te guximshem eksploratoresh per te zbuluar kontinentin misterioz te humbur te Atlantides.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="110" start_time="2022-09-09 21:55:00" duration="4200">
+			<short_event_descriptor lang="alb" name="Elfi në arrati">Animacion, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elf on the Run"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Aventura e një vajze të vogël, e cila do të miqësohet me një mik shumë të vecantë: një elf që sjell pranverën. Ajo do të bëjë gjithcka për ta ndihmuar mikun e saj të ri, në misionin e tij...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="111" start_time="2022-09-09 23:05:00" duration="4740">
+			<short_event_descriptor lang="alb" name="Late dhe gruri magjik">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Latte the Magic Waterstone (2019) "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Late është një iriq plot energji dhe ka një imagjinatë të zhvilluar. Kur një thatësirë e tmerrshme rrezikonë pyllin dhe banorët e tij. Late bashkë më mikun e saj më të mirë, do të bëjnë gjithcka për ta shpëtuar...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="112" start_time="2022-09-10 00:24:00" duration="4320">
+			<short_event_descriptor lang="alb" name="Princesha Emi">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Princess Emmy "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Emi, është një vajzë si gjithë të tjerat, por me dy ndryshime të vogla. Emi është një princeshë e vërtetë dhe falë një libri magjik ajo mund të flasë me kuajt. Mos humbisni një aventurë magjike mbi miqësinë dhe guximin...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="113" start_time="2022-09-10 01:36:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0105"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="114" start_time="2022-09-10 01:57:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Elena e Avalorit">Animacion, aksion, aventurë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Elena of Avalor-0106"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me Elenën, një heroinë, e cila vendos të ndjekë zemrën... Një rebele e vërtetë, e cila do të përballet me fatin që i ka rënë... Një princeshë, e cila do të luftojë për kurorën e saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="115" start_time="2022-09-10 02:20:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Atlantis 2: Kthimi i Milos">Animacion, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Atlantis  Milos Return "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nje aventurier i ri i quajtur Milo Thatch bashkohet me nje grup te guximshem eksploratoresh per te zbuluar kontinentin misterioz te humbur te Atlantides.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="116" start_time="2022-09-10 03:35:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Rrethinat">Aventurë, Familjar</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Outback  "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>I lodhur duke u vënë në lojë nga të gjithë, për shkak të ngjyrës së tij, Xhoni, një koala e bardhë, vendos të largohet dhe të shkojë aty ku do ndihet i vlerësuar...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="117" start_time="2022-09-10 04:55:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Henri, përbindëshi zemërmirë">Animacion, aventurë, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Henry Hugglemonster-0109"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Henri është një përbindësh zemërmirë. Ai jeton në qytetin e përbindëshave zemërmirë ku të gjithëve iu pëlqen të argëtohen dhe të mësojnë çdo ditë gjëra të reja sipas situatave të ndryshme ku gjenden.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="118" start_time="2022-09-10 05:18:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Henri, përbindëshi zemërmirë">Animacion, aventurë, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Henry Hugglemonster-0110"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Henri është një përbindësh zemërmirë. Ai jeton në qytetin e përbindëshave zemërmirë ku të gjithëve iu pëlqen të argëtohen dhe të mësojnë çdo ditë gjëra të reja sipas situatave të ndryshme ku gjenden.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="119" start_time="2022-09-10 05:45:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Lepuri Piter">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Peter Rabbit"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Lepuri Piter, bashkë me dy miqtë e tij më të mirë, Lepurin Benxhamin dhe Lepurushen Lili, do t'ju mësojë si të bëheni më trima dhe të guximshëm...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="120" start_time="2022-09-10 06:08:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Lepuri Piter">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Peter Rabbit"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Lepuri Piter, bashkë me dy miqtë e tij më të mirë, Lepurin Benxhamin dhe Lepurushen Lili, do t'ju mësojë si të bëheni më trima dhe të guximshëm...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="121" start_time="2022-09-10 06:35:00" duration="1320">
+			<short_event_descriptor lang="alb" name="Nela, princesha kalorëse">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nella the Princess Knight"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mikesha juaj më te re quhet Nela dhe eshtë një princeshë. Por ajo nuk është një princeshë si gjithë të tjerat. Brenda saj jeton një kalorëse e vërtetë. Ajo mbron banorët e mbretërisë se saj, sa herë që ata janë në rrezik...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="122" start_time="2022-09-10 06:57:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Nela, princesha kalorëse">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nella the Princess Knight"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mikesha juaj më te re quhet Nela dhe eshtë një princeshë. Por ajo nuk është një princeshë si gjithë të tjerat. Brenda saj jeton një kalorëse e vërtetë. Ajo mbron banorët e mbretërisë se saj, sa herë që ata janë në rrezik...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="123" start_time="2022-09-10 07:20:00" duration="660">
+			<short_event_descriptor lang="alb" name="Përshendetje, ninxha">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Hello Ninja"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me miqtë tuaj më të rinj: Uestlin dhe Xhorxhin. Ata janë shokë të ngushtë dhe nuk janë si gjithë të tjerët sepse transformohen në Ninxha. Bashkë me ndihmësin e tyre, një macok shumë të dashur ata do të zgjidhin të gjitha problemet...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="124" start_time="2022-09-10 07:31:00" duration="840">
+			<short_event_descriptor lang="alb" name="Përshendetje, ninxha">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Hello Ninja"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me miqtë tuaj më të rinj: Uestlin dhe Xhorxhin. Ata janë shokë të ngushtë dhe nuk janë si gjithë të tjerët sepse transformohen në Ninxha. Bashkë me ndihmësin e tyre, një macok shumë të dashur ata do të zgjidhin të gjitha problemet...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="125" start_time="2022-09-10 07:45:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Lili dhe Endacaku">Animacion, Aventurë, Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lady and the Tramp"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Lili është një qenushe e përkëdhelur, së cilës do t'i ndryshojë jeta kur pronarët e saj të bëhen me fëmijë.
+Pas disa rrethanave të tensionuara, Lili do ta gjejë veten të lirë dhe jashtë në rrugë, ku do të miqësohet dhe mbrohet nga Endacaku.
+Një romancë fillon të lulëzojë mes dy qenve, por dallimet e tyre të shumta kërcënojnë t'i mbajnë ata larg...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="126" start_time="2022-09-10 09:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Erdhi Zemëraku">Animacion, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Here Comes the Grump aka A Wizard's Tal"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është aventura e Territ,  i cili është bllokuar në një nga përrallat që gjyshja e tij i tregonte i vogël... A do mundet dot ai të ndihmojë princeshën e përrallës, të shpëtojë mbretërinë?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="127" start_time="2022-09-10 10:30:00" duration="1320">
+			<short_event_descriptor lang="alb" name="Perëndimi i Krudëve">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Dawn of the Croods-0101"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me familjen e parë në tokë... Një familje që bën një jetë plot hare dhe argëtim... Le ti ndjekim teksa bëjnë miq të rinj dhe zbulojnë krijesa të reja...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="128" start_time="2022-09-10 10:52:00" duration="1680">
+			<short_event_descriptor lang="alb" name="Perëndimi i Krudëve">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Dawn of the Croods-0102"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me familjen e parë në tokë... Një familje që bën një jetë plot hare dhe argëtim... Le ti ndjekim teksa bëjnë miq të rinj dhe zbulojnë krijesa të reja...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="129" start_time="2022-09-10 11:20:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Rojtarët e Galaktikës">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Guardians of Galaxy-0121"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bëhuni gati për Heronjtë e Galaktikës. Ata janë 5 miq, 5 luftëtarë trima, 5 rojtarët më të Zotë të Galaktikës. A do munden ata ta mbrojë Galaktikën nga të këqijat që i kanosen? Mos humbisni serialin më të ri...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="130" start_time="2022-09-10 11:41:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Rojtarët e Galaktikës">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Guardians of Galaxy-0122"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bëhuni gati për Heronjtë e Galaktikës. Ata janë 5 miq, 5 luftëtarë trima, 5 rojtarët më të Zotë të Galaktikës. A do munden ata ta mbrojë Galaktikën nga të këqijat që i kanosen? Mos humbisni serialin më të ri...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="131" start_time="2022-09-10 12:05:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Rapanzell">Animacion, Fantazi, Familjar, Komedi, Aventurë, Muzikor</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tangled "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Hajduti më i kërkuar i mbretërisë, Flynn Rider fshihet në një kullë misterioze dhe aty takon Rapanzëll, një princeshë me flokë të gjatë, që ka edhe veti magjike. Ajo pranon të dalë jashtë dhe të dy do të nisin një udhëtim të mrekullueshëm, plot ngaterresa</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="132" start_time="2022-09-10 13:40:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Henri, përbindëshi zemërmirë">Animacion, aventurë, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Henry Hugglemonster-0109"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Henri është një përbindësh zemërmirë. Ai jeton në qytetin e përbindëshave zemërmirë ku të gjithëve iu pëlqen të argëtohen dhe të mësojnë çdo ditë gjëra të reja sipas situatave të ndryshme ku gjenden.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="133" start_time="2022-09-10 14:03:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Henri, përbindëshi zemërmirë">Animacion, aventurë, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Henry Hugglemonster-0110"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Henri është një përbindësh zemërmirë. Ai jeton në qytetin e përbindëshave zemërmirë ku të gjithëve iu pëlqen të argëtohen dhe të mësojnë çdo ditë gjëra të reja sipas situatave të ndryshme ku gjenden.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="134" start_time="2022-09-10 14:30:00" duration="1380">
+			<short_event_descriptor lang="alb" name="Lepuri Piter">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Peter Rabbit"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Lepuri Piter, bashkë me dy miqtë e tij më të mirë, Lepurin Benxhamin dhe Lepurushen Lili, do t'ju mësojë si të bëheni më trima dhe të guximshëm...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="135" start_time="2022-09-10 14:53:00" duration="1620">
+			<short_event_descriptor lang="alb" name="Lepuri Piter">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Peter Rabbit"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Lepuri Piter, bashkë me dy miqtë e tij më të mirë, Lepurin Benxhamin dhe Lepurushen Lili, do t'ju mësojë si të bëheni më trima dhe të guximshëm...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="136" start_time="2022-09-10 15:20:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Nela, princesha kalorëse">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nella the Princess Knight"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mikesha juaj më te re quhet Nela dhe eshtë një princeshë. Por ajo nuk është një princeshë si gjithë të tjerat. Brenda saj jeton një kalorëse e vërtetë. Ajo mbron banorët e mbretërisë se saj, sa herë që ata janë në rrezik...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="137" start_time="2022-09-10 15:41:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Nela, princesha kalorëse">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nella the Princess Knight"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mikesha juaj më te re quhet Nela dhe eshtë një princeshë. Por ajo nuk është një princeshë si gjithë të tjerat. Brenda saj jeton një kalorëse e vërtetë. Ajo mbron banorët e mbretërisë se saj, sa herë që ata janë në rrezik...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="138" start_time="2022-09-10 16:05:00" duration="660">
+			<short_event_descriptor lang="alb" name="Përshendetje, ninxha">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Hello Ninja"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me miqtë tuaj më të rinj: Uestlin dhe Xhorxhin. Ata janë shokë të ngushtë dhe nuk janë si gjithë të tjerët sepse transformohen në Ninxha. Bashkë me ndihmësin e tyre, një macok shumë të dashur ata do të zgjidhin të gjitha problemet...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="139" start_time="2022-09-10 16:16:00" duration="840">
+			<short_event_descriptor lang="alb" name="Përshendetje, ninxha">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Hello Ninja"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me miqtë tuaj më të rinj: Uestlin dhe Xhorxhin. Ata janë shokë të ngushtë dhe nuk janë si gjithë të tjerët sepse transformohen në Ninxha. Bashkë me ndihmësin e tyre, një macok shumë të dashur ata do të zgjidhin të gjitha problemet...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="140" start_time="2022-09-10 16:30:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Saharaja">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sahara"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një gjarpër Kobra dhe shoku i tij më i mirë Akrepi, nisen drejt shkretëtirës së Saharsë, për të shpëtuar Evën - një gjarpërushe bukuroshe...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="141" start_time="2022-09-10 17:50:00" duration="1320">
+			<short_event_descriptor lang="alb" name="Perëndimi i Krudëve">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Dawn of the Croods-0101"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me familjen e parë në tokë... Një familje që bën një jetë plot hare dhe argëtim... Le ti ndjekim teksa bëjnë miq të rinj dhe zbulojnë krijesa të reja...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="142" start_time="2022-09-10 18:12:00" duration="1680">
+			<short_event_descriptor lang="alb" name="Perëndimi i Krudëve">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Dawn of the Croods-0102"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Njihuni me familjen e parë në tokë... Një familje që bën një jetë plot hare dhe argëtim... Le ti ndjekim teksa bëjnë miq të rinj dhe zbulojnë krijesa të reja...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">6</parental_rating_descriptor>
+		</Event>
+		<Event id="143" start_time="2022-09-10 18:40:00" duration="1260">
+			<short_event_descriptor lang="alb" name="Rojtarët e Galaktikës">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Guardians of Galaxy-0121"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bëhuni gati për Heronjtë e Galaktikës. Ata janë 5 miq, 5 luftëtarë trima, 5 rojtarët më të Zotë të Galaktikës. A do munden ata ta mbrojë Galaktikën nga të këqijat që i kanosen? Mos humbisni serialin më të ri...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="144" start_time="2022-09-10 19:01:00" duration="1440">
+			<short_event_descriptor lang="alb" name="Rojtarët e Galaktikës">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Guardians of Galaxy-0122"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bëhuni gati për Heronjtë e Galaktikës. Ata janë 5 miq, 5 luftëtarë trima, 5 rojtarët më të Zotë të Galaktikës. A do munden ata ta mbrojë Galaktikën nga të këqijat që i kanosen? Mos humbisni serialin më të ri...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="145" start_time="2022-09-10 19:25:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Borebardha dhe 7 xhuxhet">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Snow white and the seven dwarfs "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pas vdekjes se babait, i cili ishte dhe mbreti i vendit, Borebardha mbetet me njerken e saj  xheloze per bukurine e Borebardhes e qe  kerkon ta vrase. Per t'i shpetuar njerkes, Borebardha arratiset dhe strehohet ne shtepine e 7 Xhuxheve.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+		<Event id="146" start_time="2022-09-10 20:50:00" duration="3900">
+			<short_event_descriptor lang="alb" name="Madhështori Bartok">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bartok the Magnificent (1999)"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Rusia kërcënohet nga një shtrige mizore. I vetmi që s'ka frikë prej saj, është Madhështori Bartok, një lakuriq nate që po i mahnit të gjithë me aftësitë e tij! Por jo të gjithë e shohin me sy të mirë Madhështorin Bartok dhe trimëria e tij do të vihen</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="147" start_time="2022-09-10 21:55:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Lili dhe Endacaku">Animacion, Aventurë, Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lady and the Tramp"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Lili është një qenushe e përkëdhelur, së cilës do t'i ndryshojë jeta kur pronarët e saj të bëhen me fëmijë.
+Pas disa rrethanave të tensionuara, Lili do ta gjejë veten të lirë dhe jashtë në rrugë, ku do të miqësohet dhe mbrohet nga Endacaku.
+Një romancë fillon të lulëzojë mes dy qenve, por dallimet e tyre të shumta kërcënojnë t'i mbajnë ata larg...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="148" start_time="2022-09-10 23:10:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Erdhi Zemëraku">Animacion, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Here Comes the Grump aka A Wizard's Tal"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kjo është aventura e Territ,  i cili është bllokuar në një nga përrallat që gjyshja e tij i tregonte i vogël... A do mundet dot ai të ndihmojë princeshën e përrallës, të shpëtojë mbretërinë?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">0</parental_rating_descriptor>
+		</Event>
+		<Event id="149" start_time="2022-09-11 00:40:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Rapanzell">Animacion, Fantazi, Familjar, Komedi, Aventurë, Muzikor</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Tangled "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Hajduti më i kërkuar i mbretërisë, Flynn Rider fshihet në një kullë misterioze dhe aty takon Rapanzëll, një princeshë me flokë të gjatë, që ka edhe veti magjike. Ajo pranon të dalë jashtë dhe të dy do të nisin një udhëtim të mrekullueshëm, plot ngaterresa</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="150" start_time="2022-09-11 02:15:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Saharaja">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sahara"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një gjarpër Kobra dhe shoku i tij më i mirë Akrepi, nisen drejt shkretëtirës së Saharsë, për të shpëtuar Evën - një gjarpërushe bukuroshe...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="151" start_time="2022-09-11 03:35:00" duration="4773">
+			<short_event_descriptor lang="alb" name="Borebardha dhe 7 xhuxhet">Animacion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Snow white and the seven dwarfs "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pas vdekjes se babait, i cili ishte dhe mbreti i vendit, Borebardha mbetet me njerken e saj  xheloze per bukurine e Borebardhes e qe  kerkon ta vrase. Per t'i shpetuar njerkes, Borebardha arratiset dhe strehohet ne shtepine e 7 Xhuxheve.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="5" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">2</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>

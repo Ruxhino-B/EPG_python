@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="RTSH Shqip">
+    <event id="0" start_time="2022-09-01 13:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pjata prej druri">Teater</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Gezim Kame; Interpretojne: Sulejman Pitarka, Rajmonda Bulku, Bujar Asqeriu, Agim Qirjaqi, Luftar Paja, etj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-01 14:35:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Një emër midis njerëzve">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Film portret mbi figurën më të njohur të lëvizjes anti-feudale të viteve '20, patriotit Avni Rustemi. Aktiviteti politik intensiv i Avni Rustemit, jepet i lidhur ngushtë me atmosferën e tendosur të atyre viteve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-01 16:05:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Fillim i vështirë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmi se babai i tij do të martohet pas vdekjes së nënës e trondit Bledin, pasi trembet se gruaja e re do të zërë vendin e nënës së ndjerë. Çifti i ri do të përpiqet shumë derisa të bindë djalin se figura e saj do të jetë gjithmonë e pazëvendësueshme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-01 17:25:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pranvera s'erdhi vetem">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Pirro Milkani. Irena, nje fizikante e re bashke me dy shoket e saj ndermarrin nje studim per radioaktivitetin. Pasi zbulon se vuan nga leuçemia, ajo nis te pajtohet me realitetin dhe ta çmoje jeten dhe dashurine ne çdo sekonde.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-01 18:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Gjallë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Filmi flet për një student me emrin Koli nga Malësa, student në Tiranë, i cili ka ëndrra, kërkon të civilizohet, të integrohet në shoqërinë e kryeqytetit, të bëhet i dobishëm,por ëndrrat e tij priten në mes, sepse një hakmarrje e shumë kohëve më pare i rëndon në kurriz.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-01 20:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Jeta mes ujërave">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje mekanik i pakënaqur dhe gruaja e tij e papunë përballen me zhdukjen e papritur të vajzës së tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-01 21:45:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Një emër midis njerëzve">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Film portret mbi figurën më të njohur të lëvizjes anti-feudale të viteve '20, patriotit Avni Rustemi. Aktiviteti politik intensiv i Avni Rustemit, jepet i lidhur ngushtë me atmosferën e tendosur të atyre viteve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-01 23:10:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Muri i gjallë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Filmi bazohet dhe e zhvillon subjektin e një legjende të njohur të sakrificës në kështjellën e Rozafës, si një interpretim i lirë i asaj që njerëzit kanë ruajtur në shekuj. Tre vëllezër të martuar vendosin të sakrifikojnë në kështjellë gruan që do t'u shpjerë drekën, në mënyrë që muri të mos rrëzohet përsëri në tokë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-02 00:35:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pjata prej druri">Teater</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Gezim Kame; Interpretojne: Sulejman Pitarka, Rajmonda Bulku, Bujar Asqeriu, Agim Qirjaqi, Luftar Paja, etj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-02 02:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Pranvera s'erdhi vetem">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Pirro Milkani. Irena, nje fizikante e re bashke me dy shoket e saj ndermarrin nje studim per radioaktivitetin. Pasi zbulon se vuan nga leuçemia, ajo nis te pajtohet me realitetin dhe ta çmoje jeten dhe dashurine ne çdo sekonde.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-02 03:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pjata prej druri">Teater</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Gezim Kame; Interpretojne: Sulejman Pitarka, Rajmonda Bulku, Bujar Asqeriu, Agim Qirjaqi, Luftar Paja, etj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-02 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Nusja dhe shtetrrethimi">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shpresa shkon në një shtëpi bashkëpunëtorësh të fashizmit për të shitur qëndisma dhe kryen një atentat të rëndësishëm. Pas kësaj, asaj i duhet të dalë në ilegalitet, e veshur si nuse, për të shpëtuar nga shtetrrethimi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-02 06:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Malet me blerim mbuluar">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti ?'43. Partizania trime Lilo Labja plagoset rëndë në këmbë nga gjermanët. Shokët e transportojnë mes plumbave e vështirësive drejt spitalit partizan. Aty nis dhe pëlqimi mes saj dhe Jahos. Në pranverën tjetër, Jaho dhe shokët kthehen për ta marrë Lilon në spital.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-02 07:45:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Nata e parë e lirisë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vjeshtë 1944. Ngjarjet zhvillohen në Beratin e sapo çliruar, ku do të zhvillohet një konferencë me krerët më të lartë të shtetit të ri shqiptar. Një grup partizanësh ngarkohen me detyrën e normalizimit të jetës në qytet gjatë natës së parë të çlirimit.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-02 09:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Vëllezër dhe shokë">Film shqiptar.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet zhvillohen në periudhën e Luftës së Dytë Botërore në një fshat bregdetar jugor. Rikthimi i një prej të rinjve në fshat me ide komuniste, i jep protestave të fshatarëve kundër armiqve një tjetër kuptim, atë të revoltës së përgjithshme. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-02 10:30:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Gjenerali i ushtrisë së vdekur">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet zhvillohen në shqipëri ku një gjeneral ushtarak italian bashkë me një prift vijnë për të kërkuar eshtrat e ushtarëve të tyre të vrarë në luftën e dytë botërore. Në mes të një shumice të të vrarësh kërkon edhe një kolonel. Duke u endur gjithandej gjenden në një fshat ku janë fshehur eshtrat e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-02 13:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Të gjithë me huqe">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një komedi që s'duhet humbur nga Laurent Baffie. Regjisor Gëzim Kame. Aktorë:   Viktor Zhusti, Rajmonda Bulku, Genci Fuga, Erjona Kakeli, Lulzim Zeqja, Elia Zaharia, Arjola Basho. Nga afër askush nuk është normal.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-02 14:30:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Stolat në Park">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shumë pallto të dashuruarish të qytetit shkojnë direkt për pastrim kimik pas uljes në stolat e sapolyer të parkut të qytetit. Midis tyre është Edlira, e bija e shefes së pastrimit kimik. Prindërit e saj fillojnë hetimin për të njohur dhëndrin e tyre të ardhshëm. Një shkrimtar i shkëputur nga jeta dhe që ankohet gjithmonë për fatin e keq të punëve të tij, ndihmon në "hetime".</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-02 15:25:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Në shtëpinë tonë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Miri, djali i vogël i familjes, ka kuptuar që motra e tij, Ana, ka lidhje me një djalë. Ai ikën nga shtëpia dhe babai i shqetësuar shkon për ta kërkuar. Kur kthehet në shtëpi, Miri i tregon babait sekretin e dashurisë së motrës, duke shkaktuar një dramë në shtëpi.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-02 16:40:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Nje ndodhi ne port">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjatë procedurës së kontrollit të mallit, falsifikohen disa të dhëna laboratorike, duke bërë kështu që të prishet kontrata me një firmë të huaj. Kjo gjë shkakton trazira në marrëdhëniet dashurore të Lindës me Artanin, djalin e specialistit të portit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-02 17:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Të mos heshtësh">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bashkëshorti i Silvit vdes në një aksident. Për një periudhë kohe, Silvin e kaplon trishtimi. Por jeta vazhdon dhe ajo fillon ta marrë veten. Një dashuri e re e zgjon. Por një ditë, ajo zbulon se burri që dashuron, është bashkëpunëtor në një vjedhje të madhe. Meqë është dëshmitarja e vetme, Ardi i kërkon të ruajë sekretin. Pas një lufte me ndjenjat, ajo e denoncon.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-02 19:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Amnistia">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjisor Bujar Alimani. Luli Bitri, Karafil Shena etj. Një burrë dhe një grua takohen rastësisht pas hekurave të burgut, teksa i bëjnë vizitë partnerëve përkatës. Ata gjejnë lumturinë tek njëri - tjetri, derisa shteti shpall 'Amnistinë'...
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-02 20:20:00" duration="10200">
+      <short_event_descriptor lang="alb" name="Fletë të bardha 1,2">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia:  Mevlan Shanaj, Skenari:Natasha Lako. Aktoret: Rikard Ljarja,  Pavlina Mani, Ema Ndoja, Birçe Hasko, etj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-02 23:10:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Të mos heshtësh">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bashkëshorti i Silvit vdes në një aksident. Për një periudhë kohe, Silvin e kaplon trishtimi. Por jeta vazhdon dhe ajo fillon ta marrë veten. Një dashuri e re e zgjon. Por një ditë, ajo zbulon se burri që dashuron, është bashkëpunëtor në një vjedhje të madhe. Meqë është dëshmitarja e vetme, Ardi i kërkon të ruajë sekretin. Pas një lufte me ndjenjat, ajo e denoncon.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-03 00:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Nata e parë e lirisë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vjeshtë 1944. Ngjarjet zhvillohen në Beratin e sapo çliruar, ku do të zhvillohet një konferencë me krerët më të lartë të shtetit të ri shqiptar. Një grup partizanësh ngarkohen me detyrën e normalizimit të jetës në qytet gjatë natës së parë të çlirimit.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-03 01:55:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Malet me blerim mbuluar">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti ?'43. Partizania trime Lilo Labja plagoset rëndë në këmbë nga gjermanët. Shokët e transportojnë mes plumbave e vështirësive drejt spitalit partizan. Aty nis dhe pëlqimi mes saj dhe Jahos. Në pranverën tjetër, Jaho dhe shokët kthehen për ta marrë Lilon në spital.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-03 03:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Të gjithë me huqe">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text> Një komedi që s'duhet humbur nga Laurent Baffie. Regjisor Gëzim Kame. Aktorë:   Viktor Zhusti, Rajmonda Bulku, Genci Fuga, Erjona Kakeli, Lulzim Zeqja, Elia Zaharia, Arjola Basho. Nga afër askush nuk është normal.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-03 05:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Kërcënimi">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tentativat e armiqve të jashtëm që përpiqen të depërtojnë në objeket e rëndësishme ushtarake të vendit. Agjenturat e huaja kërkojnë të rekrutojnë Arbenin, inxhinier konstruktor në një bazë detare, dhe për këtë shfrytëzojnë miqësinë e tij me Emën, vajza e një agjenteje me kombësi të huaj. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-03 06:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Dimri i fundit">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në fshatin e banuar vetëm nga gratë, pasi burrat u janë bashkuar partizanëve, mbërrijnë gjermanët. Ata kontrollojnë jetën e grave, me shpresën se nëpërmjet tyre mund të arrijnë te partizanët, të cilët presin prej tyre ushqime e veshmbathje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-03 07:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Partizani i vogël Velo">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>I vogli Velo mezi pret të rritet dhe të bëhet partizan i vërtetë. Kjo dëshirë e tij forcohet edhe më shumë pas vrasjes së të atit nga armiqtë dhe ai këmbëngul që ta zëvëndësojë atë me çdo kusht. Disa herë ai nuk pranohet në radhët e partizanëve për shkak të moshës së tij të vogël dhe të "pushkës që është më e gjatë se ai". Por Velo nuk dorëzohet.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-03 08:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Tingujt e luftës">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bardhi jetim, shkon të punojë në qytet në familjen e pasur të Galip Shkëmbit, i cili ka një djalë, Nardin. Në shtëpinë e tregtarit të pasur vjen vazhdimisht Eqeremi, që i jep Nardit mësime violine dhe zbulon talentin e Bardhit. Ai e mëson t'i bjerë violinës dhe të bëjë aksionet e para kundër fashistëve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-03 09:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Beni ecën vete">Film shqiptar.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fitues i dhjetëra çmimeve në festivale të ndryshme filmi. Nga kujdesi i tepruar i prindërve, Benin nuk e lejojnë të luajë jashtë mureve të shtëpisë. Xhaxha Thomai që vjen nga fshati, e merr me vete dhe për herë të parë Beni gjendet larg vëmendjes dhe kontrollit të prindërve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-03 10:45:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Fraktura">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gazi, një djalë i vogël, çdo mëngjes kur shkon në shkollë, përshëndet djaloshin skulpturë që është vendosur në parkun e qytetit dhe fëmijët i kanë vënë emrin Ilir. Por një ditë Ilirit i thyejnë krahët, dhe Gazi i vogël kalon një dramë që gjyshi dhe prindërit e kuptojnë tepër vonë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-03 11:40:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Oshëtimë në bregdet">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Hysen Hakani. Lufta e Dytë Botërore. Në një familje të varfër bregdetare, patrioti Jonuz Bruga ka konflikte me djalin e tij Selimin, i cili bën një jetë të shthurur. Ndërkohë vëllezërit e tij Dini, Petriti dhe Vehipi luftojnë duke drejtuar grupet guerile të qytetit. Duke u zvarritur pas dëshirëva të tij, Selimi ndjek qëndrimin e Brunos një spiuni të fashizmit, ku e përdor si spiun dhe tradhëtar të grupeve ilegale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-03 13:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Budallenjte">Teater</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Komedia "Budallenjtë", një përrallë alegorike me në qendër fuqinë e pushtetit përballë njeriut,</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-03 14:35:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Ëndërr për një karrige">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dëshira e nëndrejtorit, Kolit, është të zëvëndësojë drejtorin që ka dalë pension. Por atë e shqetëson mendimi se mos këtë vend ia zë Vjollca, kryetrarja e degës së planit. Këtë ia vërtetojnë ëndrrat që sheh. Shqetësimet e tij bëhen reale dhe drejtoreshë vendoset një tjetër punonjëse, gruaja e shoferit Meçe.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-03 15:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mao Ce Dun">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarja zhvillohet në një qytet të vogël në Shqipëri ku përveç jetësës civile të mirë organizuar të banorëve ndeshemi edhe me një komunitet të vogël ciganësh. Rrjedha e qetë e jetës së tyre trazohet nga lindja e një fëmije. Djali i nëntë i familjes cigane do të gëzojë jo vetëm familjen e tij por të tërë komunitetin rom. Në fakt, lindja dhe mirëqenia e tij do të jenë në krye të axhendës së marrëdhënieve zyrtare shqiptaro-kineze. Çfarë mund të shqetësojë shtetin komunist të kohës? Pikërisht lindja</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-03 17:25:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Zonja nga qyteti">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vendimi i Ollgës për të jetuar në fshat me Melin, vajzën e saj që punon si ndihmësmjeke, kthehet në situata plot peripeci. Pas përpjekjeve për të gjetur një dhëndër qyteti, Ollga i prezanton Melit, Koçin, që hiqet si artist i vërtetë. Por Meli ka rënë në dashuri me Bujarin dhe nuk shkulet nga fshati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-03 19:05:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Shpia e Ages">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një djalë i ri që jeton në një shtëpi të grave duhet të nxitojë për të shpëtuar një grua që po e mëson atë serbisht, në mënyrë që të mund të vazhdojë kërkimin e tij për babanë e tij të zhdukur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-03 20:55:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Lindje Perëndim Lindje ">Dramë, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet zhvillohen në kohën e ndërrimit të sistemeve. Një grup çiklistësh me në krye trajnerin Ilo Zoto, merr urdhër nga shteti se duhet të marrin pjesë në një tur në Francë. Gjatë udhëtimit ata mësojnë se sistemi po rrëzohet dhe duhet të kthehen në</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-03 22:40:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Oshëtimë në bregdet">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Hysen Hakani. Lufta e Dytë Botërore. Në një familje të varfër bregdetare, patrioti Jonuz Bruga ka konflikte me djalin e tij Selimin, i cili bën një jetë të shthurur. Ndërkohë vëllezërit e tij Dini, Petriti dhe Vehipi luftojnë duke drejtuar grupet guerile të qytetit. Duke u zvarritur pas dëshirëva të tij, Selimi ndjek qëndrimin e Brunos një spiuni të fashizmit, ku e përdor si spiun dhe tradhëtar të grupeve ilegale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-04 00:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Zonja nga qyteti">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vendimi i Ollgës për të jetuar në fshat me Melin, vajzën e saj që punon si ndihmësmjeke, kthehet në situata plot peripeci. Pas përpjekjeve për të gjetur një dhëndër qyteti, Ollga i prezanton Melit, Koçin, që hiqet si artist i vërtetë. Por Meli ka rënë në dashuri me Bujarin dhe nuk shkulet nga fshati.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-04 01:45:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mao Ce Dun">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarja zhvillohet në një qytet të vogël në Shqipëri ku përveç jetësës civile të mirë organizuar të banorëve ndeshemi edhe me një komunitet të vogël ciganësh. Rrjedha e qetë e jetës së tyre trazohet nga lindja e një fëmije. Djali i nëntë i familjes cigane do të gëzojë jo vetëm familjen e tij por të tërë komunitetin rom. Në fakt, lindja dhe mirëqenia e tij do të jenë në krye të axhendës së marrëdhënieve zyrtare shqiptaro-kineze. Çfarë mund të shqetësojë shtetin komunist të kohës? Pikërisht lindja</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-04 03:20:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Budallenjte">Teater</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Komedia "Budallenjtë", një përrallë alegorike me në qendër fuqinë e pushtetit përballë njeriut,</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-04 04:50:00" duration="600">
+      <short_event_descriptor lang="alb" name="Kostandini">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia dhe Skenari: Llazi Serbo; Aktoret: Sokol Saraçi, Perika Gjezi, Hajrie Rondo, Sotiraq Çili</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-04 05:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Gjurmë të bardha">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Ekrem Kryeziu, Ramiz Kelmendi; Regjia: Ekrem Kryeziu; Aktorët: Avdi Hasani, Hadi Shehu, Drita Krasniqi, Çun Lajci...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-04 06:40:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Njeriu i mirë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Telo dhe Vera, dy të rinj të dashuruar, para se të finalizojnë dashurinë e tyre, kalojnë nëpër intrigat e thurura nga vëllai i Verës, Kiço. Ky i fundit, duke qenë egoist dhe karrierist, nuk mund të pranojë martesën e së motrës me Telon, një punëtor i ndershëm që transferohet të punojë në një fshat të thellë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-04 07:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Ne kufi te dy legjendave">Film fshqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet zhvillohen në kënetën e Nusekanës për të cilën flitet edhe në një legjendë. Në këtë kantier vijnë për të kryer praktikën mësimore dy studente të vitit të parë të agronomies Eda me Borën. Pasioni për profesionin i mobilizon vajzat të ambientohen me jetën. Midis Borës dhe Fanit agronom i ri lindin shkëndijat e dashurisë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-04 08:55:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Taulanti kërkon një motër">Film shqiptar.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Taulanti 4 vjeçar, fëmija i vetëm i një familjeje intelektuale, nuk mund ta durojë më vetminë. Ai do një motër. Por sa më shumë ngulmon Taulanti, aq më shumë e neglizhon mamaja e tij këtë kërkesë, pasi nuk do që të rrezikojë karrierën e saj artistike. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-04 10:10:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Fjalë pa fund">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bardhyli dhe Madalena janë një çift i sapomartuar. Ata jetojnë të lumtur dhe në harmoni, deri në momentin kur Bardhyli ndikohet nga fjalët e komshinjve të panjohur. Midis bashkëshortëve fillojnë zënkat dhe zemërimi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-04 11:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Plagë të vjetra">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjini, një plak malësor shtrohet në spitalin e Tiranës për të hequr nga shpatulla një plumb që i ka mbetur si suvenir nga një gjakmarrje e vjetër. Por kur mëson se operacionin do ta kryejë dr. Vera, ai heziton nga mungesa e besimit në aftësitë e grave. Vera, në këtë kohë, po përjeton një dramë familjare për shkak të vendimit që mori i shoqi, Naimi, pvr të punuar në miniervn e Kurbneshit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-04 13:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Kur njihesh në internet">Teatri në ekran</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Kiço Londo. Aktoret: Roland Saro, Orsi Vangjeli, Ermira Hysaj, Esela Pysqyli, Alesia Xhemalaj, Ergys Çekrezi, etj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-04 14:35:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Fejesa e Blertes">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Blerta, kapitene e skuadrës së volejbollit, dashuron Mirin, shoferin e kooperativës. Por Miri quhet edhe nipi i kryetares së kooperativës, që është në Tiranë. Huan Suka, një ngatërrestar dhe servil, bind të atin e Blertës që ta fejojë atë me nipin e kryetares. Këtu nisin ngatërresat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-04 15:55:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Dhe vjen një ditë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Llano, drejtor dikasteri, ka probleme profesionale dhe shoqërore. Kritika e gazetës lokale, në të cilën i tërhiqet vëmendje për punën e tij, kthehet në problem. Ai mendon se në të mund të ketë dorë shoku i tij i fëmijërisë, Gori. Gjatë ballafaqimit me të, ai kupton se dikush tjetër fshihet pas kësaj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-04 17:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Rrethimi i vogel">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një veteriner nga fshati emërohet si kryetar komiteti në qytet. Për herë të parë ai do të përballet me kërkesat e rrethit të ngushtë familjar dhe miqësor për t'i favorizuar dhe bërë ndere. Por me personalitetin e tij, ai do t'u bëjë ballë e do të marrë vendime të drejta. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-04 19:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Përrallë nga e kaluara">Film shqiptar.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekranizim i komedisë "14 vjeç dhëndër" nga Andon Zako Çajupi. Historia e martesës së Gjinos 14-vjeçar me Marigonë 28-vjeçare. Me ndihmën e të dashurit të saj, Trimit, Marigoja hakmerret me të gjithë ata që sajuan këtë martesë të pazakontë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-04 20:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Karnavalet">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Komedia e parë muzikore shqiptare. Në ditët e karnavaleve, shërbyesja Nasta dhe Loni vënë në lojë tregtarin Nikollaq Jorganxhi, dhe të shoqen, Olimbinë. Ky është momenti ku ata nxjerrin në pah individët e zbrazët, materialistë dhe injorantë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-04 21:55:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Gjurmë të bardha">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Ekrem Kryeziu, Ramiz Kelmendi; Regjia: Ekrem Kryeziu; Aktorët: Avdi Hasani, Hadi Shehu, Drita Krasniqi, Çun Lajci...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-04 23:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Taulanti kërkon një motër">Film shqiptar.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Taulanti 4 vjeçar, fëmija i vetëm i një familjeje intelektuale, nuk mund ta durojë më vetminë. Ai do një motër. Por sa më shumë ngulmon Taulanti, aq më shumë e neglizhon mamaja e tij këtë kërkesë, pasi nuk do që të rrezikojë karrierën e saj artistike. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-05 01:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Plagë të vjetra">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjini, një plak malësor shtrohet në spitalin e Tiranës për të hequr nga shpatulla një plumb që i ka mbetur si suvenir nga një gjakmarrje e vjetër. Por kur mëson se operacionin do ta kryejë dr. Vera, ai heziton nga mungesa e besimit në aftësitë e grave. Vera, në këtë kohë, po përjeton një dramë familjare për shkak të vendimit që mori i shoqi, Naimi, pvr të punuar në miniervn e Kurbneshit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-09-05 02:30:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Ne kufi te dy legjendave">Film fshqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet zhvillohen në kënetën e Nusekanës për të cilën flitet edhe në një legjendë. Në këtë kantier vijnë për të kryer praktikën mësimore dy studente të vitit të parë të agronomies Eda me Borën. Pasioni për profesionin i mobilizon vajzat të ambientohen me jetën. Midis Borës dhe Fanit agronom i ri lindin shkëndijat e dashurisë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-09-05 03:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Fjalë pa fund">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bardhyli dhe Madalena janë një çift i sapomartuar. Ata jetojnë të lumtur dhe në harmoni, deri në momentin kur Bardhyli ndikohet nga fjalët e komshinjve të panjohur. Midis bashkëshortëve fillojnë zënkat dhe zemërimi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2022-09-05 05:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Guri i besës">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet zhvillohen në vitet '30, në zonën e Rubikut, e njohur për pasurinë e tokës me bakër. Përfaqësuesit e firmës italiane, që kishte marrë përsipër ngritjen e kësaj industrie, ndeshen me revoltën e minatorëve të zonës, të cilët kërkojnë përmirësimin e kushteve dhe rritjen e pagës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2022-09-05 06:15:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Operacioni Zjarri">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një oficer i lartë i shërbimeve inteligjente shqiptare do të infiltrohet në grupet ilegale që veprojnë për interesat e agjencive të huaja dhe do të dekonspirojë aktivitetin e tyre kriminal. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2022-09-05 07:40:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Qyteti më i ri në botë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fatmiri i vogël, prindërit e të cilit kanë punuar në një kantier ndërtimi, ëndërron të ndërtojë edhe vetë një qytet. Për këtë i ndihmon kujdestarja e kopshtit dhe një punëtor që u sjell të gjithë shokëve të tij vegla pune. Ndërtohet kështu, brenda oborrit të një kopshti, qyteti më i ri i botës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2022-09-05 08:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Familja ime">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Teto Kalina mbetet vetëm pas vdekjes së të shoqit. Nipi ka detyrë të kujdeset për të. Së bashku me rregullat e ngurta, ajo sjell në shtëpinë e re traditat dhe zakonet e vjetra që bien ndesh me jetën e familjes së re.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2022-09-05 09:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Në fillim të verës">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti '42. Në një qytet bregdetar, bëhen planet dhe penetrimet e illegalëve për të hedhur në erë një depo ushtarake me municione. Jaho Labi, që hyn në punë si hamall, dhe vajza e Riza Korrës, Vera, të cilën i ati kërkon ta mbajë të mbyllur, lidhen me njerëzit e lëvizjes komuniste, ndërsa toger Gurabardhi që ka punuar pranë Italianëve, e ndihmon të gjithë grupin të arrijë qëllimin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2022-09-05 11:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Shëmbja e idhujve">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekranizim i romanit me të njëjtin titull. Mësuesi i fshatit ka përballë një kryeplak fanatik, priftin Engjëll dhe një kapter policie që i shkaktojnë shumë vështirësi në punën e tij për edukimin e fëmijëve. Malësorët e varfër gjënden midis dilemave pasi ata kanë qënë të detyruar tu nënshtrohen bestytnive dhe pushtetit të dekompozuar. Kryeplaku dhe kapteri bëjnë plane për të vrarë mësuesin.
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2022-09-05 13:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Berberi i Seviljes">Teatër</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Eric Vigner. Aktorë: Roland Trebicka, Luiza Xhuvani, Marko Bitraku, Neritan Liçajn, etj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2022-09-05 14:25:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Njerëz në rrymë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arsen Morina po kalon momente dramatike. Ai mezi reagon ndaj dilemës se ç'do të ndodhë me familjen dhe gruan e tij, Ana, të cilët janë në rrezik. Arseni nuk ka ndërmend të vegjetojë. Ai përpiqet të jetë aktiv në jetë duke kaluar tragjedi të vogla e të mëdha. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2022-09-05 15:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Një djalë dhe një vajzë ">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Anila dhe Artani janë në prag të provimit të maturës. Ata jetojnë në të njëjtin pallat dhe kanë hyrë në moshën e ëndrrave të mëdha. Dashuritë e krijuara dhe keqkuptimet që lindin, i përballin ata me problemet e jetës në një moshë delikate.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2022-09-05 17:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Kur hapen dyert e jetës">Film shqiptar.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bardhi, një mjek i ri emërohet të punojë në një fshat të largët malor. Ai ia del mbanë me sukses gjatë një operacioni të vështirë, me gjithë mungesën e mjeteve më elementare për kryerjen e operacionit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2022-09-05 19:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Trishtimi i zonjës Shnajder">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Piro Milkani. Historia e një të riu, i cili u dashurua në Çeki, por që prishja e bllokut komunist në atë kohë, e detyroi që të largohej nga dashuria e tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2022-09-05 20:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Fije që priten">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një agjent i huaj zbret në aeroportin e Rinasit dhe menjëherë nis kërkimet për të aktivizuar një agjent tjetër, Markon, me të cilin ka bashkëpunuar pranë gjermanëve gjatë luftës. Plani i tyre është hedhja në erë e një uzinë të madhe. Për këtë u duhet të marrin të dhëna nga Besa, e cila ka humbur disa dokumenta dhe ndihet e kërcënuar. Por plani i tyre dështon.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2022-09-05 22:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Operacioni Zjarri">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një oficer i lartë i shërbimeve inteligjente shqiptare do të infiltrohet në grupet ilegale që veprojnë për interesat e agjencive të huaja dhe do të dekonspirojë aktivitetin e tyre kriminal. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2022-09-06 00:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Shëmbja e idhujve">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekranizim i romanit me të njëjtin titull. Mësuesi i fshatit ka përballë një kryeplak fanatik, priftin Engjëll dhe një kapter policie që i shkaktojnë shumë vështirësi në punën e tij për edukimin e fëmijëve. Malësorët e varfër gjënden midis dilemave pasi ata kanë qënë të detyruar tu nënshtrohen bestytnive dhe pushtetit të dekompozuar. Kryeplaku dhe kapteri bëjnë plane për të vrarë mësuesin.
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2022-09-06 01:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Njerëz në rrymë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arsen Morina po kalon momente dramatike. Ai mezi reagon ndaj dilemës se ç'do të ndodhë me familjen dhe gruan e tij, Ana, të cilët janë në rrezik. Arseni nuk ka ndërmend të vegjetojë. Ai përpiqet të jetë aktiv në jetë duke kaluar tragjedi të vogla e të mëdha. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2022-09-06 03:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Një djalë dhe një vajzë ">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Anila dhe Artani janë në prag të provimit të maturës. Ata jetojnë në të njëjtin pallat dhe kanë hyrë në moshën e ëndrrave të mëdha. Dashuritë e krijuara dhe keqkuptimet që lindin, i përballin ata me problemet e jetës në një moshë delikate.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2022-09-06 04:25:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Monumenti">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xha Llambi, një lulishtar plak, kujdeset në mes të luftës për lulet. Nazistët i kërkojnë atij disa kurora lulesh për të vrarët e tyre. Lulishtari e përgatit kurorën e madhe, por e vendos brenda lulishtes ku është vrarë një partizan i ri. Kur vijnë gjermanët për të marrë kurorat, nis një betejë tjetër ku merr pjesë edhe lulishtari.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2022-09-06 05:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Kronikë e një nate">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Trupat SS mbledhin popullin e një qyteti bregdetar në një amfiteatër ku me ndihmën e bashkëpunëtorëve zbuluan disa nga guerilasit. Megjithatë ata që arritën të shpëtonin organizuan revoltën brenda amfiteatrit deri sa arritën të vritnin komandantin nazist.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2022-09-06 06:25:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Furtuna">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet fillojnë me pushtimin fashist dhe përfundojnë me çlirimin e Shqipërisë. Zana dhe Beni, i plagosur, kalojnë situata të vështira si ilegalë në qytet dhe pastaj në burg. Ata dashurohen dhe dalin në mal... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2022-09-06 08:10:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Skënderbeu">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një film epik mbi jetën e heroit kombëtar Gjergj Kastrioti Skënderbeu. Ai bashkon princërit shqiptarë duke u martuar me Donika Kastriotin dhe duke organizuar Besëlidhjen e Lezhës, ndërsa përballet me tradhtinë e Hamza Kastriotit, nipit të tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2022-09-06 10:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Këshilltarët">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fundi i vitit 1943. Të gjithë anëtarët e këshillit antifashist, të pranishëm në një ceremoni dasme në fshat, arrestohen. Gjermanët kanë arrestuar edhe dhëndrin. Këshilltarët vihen nën presion për të nënshkruar një deklaratë kundër këshillit antifashist, si kusht i vetëm për lirimin e tyre. Ata refuzojnë dhe ndërkohë planifikojnë arratisjen e dhëndrit në rast të një ekzekutimi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2022-09-06 11:05:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Dasëm e çuditshme">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>1943.Në frymën e fundit partizani Gani u kërkon shokëve të sigurohen që vajza e tij Sherka të martohet në datën e caktuar. Por kur fillon dasma ata zbulojnë që dhëndëri është bashkëpunëtor me pushtuesit. Sherka vendos të anullojë dasmën dhe bashkohet me shokët e të atit në luftën për liri.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2022-09-06 11:45:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Ilegalët">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lëvizja Antifashiste në qytet ka marrë përmasa të mëdha. Ndërkohë një emisar i SIM-it, Zbulimi Informativ i Ushtrisë Italiane, nën petkun e inxhinier Tostit, kërkon të depërtojë në radhët e njësiteve guerile.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2022-09-06 13:05:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Hënat e fundme">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Milto Kutali. Interpretojnë: Bajram Dosti, Mariana Kondi dhe Klajdi Zeqa. Në dramën ndërthuren shumë bukur ndjenjat e brezit të ri me brezin e vjetër. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2022-09-06 14:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Ura pranë kështjellës">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjatë regjimit zogist, ura ishte një pjesë e rëndësishme për banorët e asaj krahine. Historia e saj lidhej me të shkuarën, duke u bërë shënjestër e armiqve. Kështu ishte e nevojshme edhe mbrojtja e saj, ku i takonte familjes përkatëse ta mbronin dhe restauronin atë brez pas brezi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2022-09-06 15:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Rruga e lirisë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një grup vajzash dhe grash partizane, nisen në Beratin e çliruar për të marrë pjesë në Kongresin e parë të Gruas Antifashiste. Atyre u duhet të kalojnë mes një rruge të vështirë nëpër zona ende të pushtuara.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2022-09-06 16:20:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Përtej mureve të gurta">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasi mbush 12 vjeç, Asimeja e re detyrohet të rrijë e mbyllur në shtëpi. Familja e saj e fejon me një të ri, të cilin Asimeja nuk e kishte njohur kurrë më parë. Gjatë luftës, një partizane e plagosur, për të cilën Asimeja do të kujdeset, i ndryshon jetën asaj. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2022-09-06 17:25:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Yjet e netëve të gjata">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tafili, djali i nënë Pashakos, vritet nga fashistët. Pushtuesit, të ndihmuar nga spiunët, bëjnë bastisje në fshatin e Pashakos, dhe e thërrasin atë dhe djemtë e tjerë të saj, që të bëjnë identifikimin e ilegalit, por asnjë nga familja dhe fshati nuk dorëzohen përballë fashistëve dhe dhimbjes. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2022-09-06 19:05:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Tomka dhe shokët e tij">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tomka është një djalë i vogël që i pëlqen të luajë me top së bashku me shokët e tij. Por fushën e futbollit e marrin nazistët që kanë hyrë në qytet. Tomka, nën kujdesin e të rriturve, fillon të organizojë aksione kundër kampit ushtarak që është dislokuar në fushën e tyre të dikurshme të lojës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2022-09-06 20:25:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Koha e pelikulës">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ky dokumentar kushtuar regjisores së filmit Xhanfize Keko na çon në udhëtimin e saj mistik.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2022-09-06 21:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Nje vonese e vogel">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Heronjtë e filmit janë një grup fëmijësh: Besiana, Dorina, Ermali dhe Kliti, te cilët në 7 Mars, ditën e  festës se mësuesit, nisen për në shtëpinë e mësueses së tyre, duke nisur kështu një rrugëtim plot aventura e situata të këndshme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2022-09-06 22:15:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Furtuna">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet fillojnë me pushtimin fashist dhe përfundojnë me çlirimin e Shqipërisë. Zana dhe Beni, i plagosur, kalojnë situata të vështira si ilegalë në qytet dhe pastaj në burg. Ata dashurohen dhe dalin në mal... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2022-09-06 23:55:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Rruga e lirisë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një grup vajzash dhe grash partizane, nisen në Beratin e çliruar për të marrë pjesë në Kongresin e parë të Gruas Antifashiste. Atyre u duhet të kalojnë mes një rruge të vështirë nëpër zona ende të pushtuara.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2022-09-07 01:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Skëterrë 43">Film shqiptar.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Revoltë në një kamp përqëndrimi fashist në vitin 1943, kundër metodave barbare, terrorit. Të burgosurit kryengritës si: profesori, piktori, Hekurani, Ariani, Mira, Shpresa, organizohen dhe mbajnë lidhje të vazhdueshme me rezistencën jashtë kampit. Me rezistencë të fortë, ata arrijnë të shkatërrojnë skëterrën fashiste.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2022-09-07 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Skënderbeu">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një film epik mbi jetën e heroit kombëtar Gjergj Kastrioti Skënderbeu. Ai bashkon princërit shqiptarë duke u martuar me Donika Kastriotin dhe duke organizuar Besëlidhjen e Lezhës, ndërsa përballet me tradhtinë e Hamza Kastriotit, nipit të tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2022-09-07 05:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Dëshmorët e monumenteve">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në ngjarje të vërteta të ndodhura gjatë Luftës së Parë Botërore. Një ekspeditë austro-hungareze disponon informacione dhe ngre një zonë arkeologjike në qytetin e vjetër të Apollonisë. Ekspertët e kësaj ekspedite duan të grabisin monumente të lashta, por fshatarët e zonës, të udhëhequr nga mësuesi, luftojnë për t'i mbrojtur. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2022-09-07 06:20:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Misioni përtej detit">Film shqipta</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Është fundi i luftës dhe katër partizanë zbarkojnë në një ishull grek përtej detit. Ata kanë mision për të kapur dikë, emri fals i të cilit mban mbi supe krime të rënda. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2022-09-07 07:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Gracka">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në ngjarje reale, sipas skenarit të Neshat Tozajt, pasqyrim i situatës në vitet '50 të grupeve diversioniste që shkelnin hera-herës kufirin shqiptar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2022-09-07 09:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Gëzhoja e vjetër">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pandi është rekrutuar nga agjentët e huaj të kundërspiunazhit për të kërkuar informacione në lidhje me një uzinë ushtarake ku punon shoku i tij, Serveti. Për të arritur qëllimet e tij, Pandi e kërcënon Servetin me një informacion që di për të shkuarën e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2022-09-07 10:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Flutura në kabinën time">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Toma i mbetur jetim e i rritur nga xhaxhai dhe e shoqja, punon shofer në fshat. I ri rebel dhe i sertë nga natyra. Atij i hyn në zemër Flutura, mësuesja e biologjisë e ardhur nga qyteti. Një aksident do të ndryshojë jetën e të dyve. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2022-09-07 12:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Lundrimi i parë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në ekuipazhin e anijes "Shqiponja" ka kohë që zien debati për gjetjen dhe studimin e zonave të gjuetisë së peshkut. Mes debateve fillon punën Petriti, një oficer i ri marine. Ai përkrah kapiten Borakun që ngulmon në futjen e metodave të reja për kapjen e peshkut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2022-09-07 13:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Quo Vadis">Teatër</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Serafin Fanku. Aktorë: Vangjel Toçe, Robert Ndreni, Tinka Kurti, etj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2022-09-07 14:25:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Vitet e pritjes">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarja vendoset në vitet 1920 dhe ka në fokus fatet e grave kur burrat kanë emigruar. Mes paragjykimit, stigmatizimit dhe barrës së mbajtjes së familjeve, gruaja paraqitet pothuaj e vetme, që vuan përçmimin e shoqërisë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2022-09-07 15:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Pas Fasadës">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ëndrra e shqiptarëve të izoluar për të udhëtuar jashtë për specializime vë përballë njeri tjetrit dy shokë pune.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2022-09-07 16:40:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Asgjë  nuk harrohet">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasja e një emigranti të rikthyer, do të zbulojë gjurmët e një masakre të kryer gjatë luftës. Ajo që nisi si një vrasje me qëllim grabitjen, do të zbulojë pas shumë vitesh, njerëzit që kishin arritur jo vetëm të fshiheshin, por edhe të zhduknin gjurmët e masakrës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2022-09-07 18:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Kur ndahesh nga shokët ">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Namiku, brenda një kohe të shkurtër sjell shqetësime në atmosferën e gëzueshme të një grupi saldatorësh. Kjo reflektohet edhe në jetën e tij private dhe familjare, por sidomos në marrëdhëniet me vjehrrin e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2022-09-07 19:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Johan Padam dhe Amerikat">Teatë r</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Monodrama e autorit të njohur Dario Fo vjen në skenë me regji të Milto Kutalit dhe nën interpretimin e aktorit të njohur Arben Derhemi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="109" start_time="2022-09-07 20:20:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Rrethi i kujtesës">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasi është torturuar në kampet naziste të përqendrimit, Margarita Begolli kthehet në atdhe pas 20 vjetësh, me kujtesën e humbur. Për të do të kujdesen shokët e luftës, mbesa dhe mjekë të përkushtuar. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="110" start_time="2022-09-07 22:05:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Dëshmorët e monumenteve">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në ngjarje të vërteta të ndodhura gjatë Luftës së Parë Botërore. Një ekspeditë austro-hungareze disponon informacione dhe ngre një zonë arkeologjike në qytetin e vjetër të Apollonisë. Ekspertët e kësaj ekspedite duan të grabisin monumente të lashta, por fshatarët e zonës, të udhëhequr nga mësuesi, luftojnë për t'i mbrojtur. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="111" start_time="2022-09-07 23:25:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Gëzhoja e vjetër">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pandi është rekrutuar nga agjentët e huaj të kundërspiunazhit për të kërkuar informacione në lidhje me një uzinë ushtarake ku punon shoku i tij, Serveti. Për të arritur qëllimet e tij, Pandi e kërcënon Servetin me një informacion që di për të shkuarën e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="112" start_time="2022-09-08 00:55:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Vitet e pritjes">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarja vendoset në vitet 1920 dhe ka në fokus fatet e grave kur burrat kanë emigruar. Mes paragjykimit, stigmatizimit dhe barrës së mbajtjes së familjeve, gruaja paraqitet pothuaj e vetme, që vuan përçmimin e shoqërisë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="113" start_time="2022-09-08 03:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Flutura në kabinën time">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Toma i mbetur jetim e i rritur nga xhaxhai dhe e shoqja, punon shofer në fshat. I ri rebel dhe i sertë nga natyra. Atij i hyn në zemër Flutura, mësuesja e biologjisë e ardhur nga qyteti. Një aksident do të ndryshojë jetën e të dyve. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="114" start_time="2022-09-08 04:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Quo Vadis">Teatër</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Serafin Fanku. Aktorë: Vangjel Toçe, Robert Ndreni, Tinka Kurti, etj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="115" start_time="2022-09-08 05:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Udha e shkronjave">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mësues Dhaskal Todri  kishte lënë gjithë pasurinë e tij për të sjellë në Shqipëri një ngarkesë me shkronja tunxhi. Me kthimin në atdhe, armiqtë e tij s' ishin të kënaqur. Karvanxhiu i thjeshtë që e shoqëronte ngarkesën nuk arrin ta kuptojë dot patriotin, se përse kishte kaq shumë vlerë e gjithë kjo. Mësues Todri s' pati mundësinë të arrijë në vendlindje pasi armiqtë e gjuhës shqipe e vrasin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="116" start_time="2022-09-08 06:25:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Mëngjese lufte">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lufta e Dytë Botërore. Jashtë luftës së madhe antifashiste që bëri populli shqiptar nën udhëheqjen e Partisë Komuniste nuk mbeten as fëmijët. Gurin, Piron, Milon dhe Tomin i bashkojnë lodrat e tyre fëmijrore. Ky gëzim i pakët i tyre herë pas here trazohet dhe prishet nga hija e rëndë e ushtarëve pushtues. Ata e kuptojnë se s'është më koha e lodrave. Edhe ata duhet të bëjnë diçka. Të paktën, të gjejnë mënyrën për t'i rrëmbyer armë dhe veshje armikut të urryer. Përmes kësaj urrejtjeje dhe lufte at</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="117" start_time="2022-09-08 07:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Rrugë të bardha">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Deda, një djalë i ri me entuziazmin e moshës dhe dashuri për punën, endet përgjatë linjës telefonike duke kërkuar shkëputjen. Njerëzit që jetojnë në zona të thella malore presin me padurim të rregullohet linja e t'i urojnë njëri-tjetrit Vitin e Ri.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="118" start_time="2022-09-08 09:20:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Bardhësi">Film shqiptar.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dimri i vështirë i 1985 frymëzoi kineastët të realizonin këtë film. Dy histori ndjekin linjat e filmit: ajo e një vajze malësore që ndjek një kurs për infermiere në Tiranë dhe ka ngecur atje për shkak të motit të egër si dhe historinë e një grupi pilotësh që ndërmarrin një udhëtim të pazakontë në veri për një dërgesë të vështirë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="119" start_time="2022-09-08 10:10:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Në prag të jetës">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy të rinj Ardi dhe Rina e pëlqejnë njëri - tjetrin. Ata janë në hapat e parë të jetës së tyre si të rritur. Filmi trajton probleme sociale rolin e shoqërisë në edukimin dhe përgatitjen e të rinjve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="120" start_time="2022-09-08 11:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Përse bie kjo daulle">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshte historia e dy te rinjve vullnetare qe dashurohen gjate ndertimit te nje hekurudhe dhe vendosin te martohen. Por babai i vajzes, malesor e ka fejuar vajzen pa pelqimin e saj dhe vjen ne ceremoni per ta vrare, por....</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="121" start_time="2022-09-08 13:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Trojanët">Teatër</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia; Vangjelis Theudoropulos. Interpretojnë: Margarita Xhepa, Rajmonda Bulku, Luiza Xhuvani, Guljelm Radoja, Ema Andrea, Neritan Licaj, Arben Derhemi</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="122" start_time="2022-09-08 14:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Vajzat me kordele të kuqe">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta, nxënëse në shkollën e vajzave, është anëtare e grupit ilegal dhe ngre në shkollën e saj grupin e të rejave antifashiste. Gjatë një feste, mësuesit fashistë duan të detyrojnë nxënësit të këndojnë himnin fashist. Kjo shkakton një nga demonstratat më të mëdha në kryeqytet, gjatë së cilës Jeta humb jetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="123" start_time="2022-09-08 16:10:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Koncert në  vitin 1936">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vizita e dy artisteve për të mbajtur një koncert në qytetin e Lushnjës gjatë kohës së monarkisë shqiptare, trondit jetën e një qyteti tejet konservator.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="124" start_time="2022-09-08 17:45:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Apasionata">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Motivi kryesor i sonatës së famshme "Apasionata" të Bethovenit, nga një punë diplome, bëhet lajtmotiv në dashurinë e Mirës, studente e pianos, dhe Arturit, student i pikturës, i cili nuk është vërtet i dhënë pas pikturës, por e bën shkollën prej presionit të të atit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="125" start_time="2022-09-08 19:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Amanet">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Namik Ajazi, Skenari: Ruzhdi Pulaha. Aktorët: Myzafer Ziflaj, Eva Alikaj dhe Amos Zaharia. Rrëfen historinë e Mentor Hasës një funksionari të lartë të Sigurimit të Shtetit, i cili nga 'përgjues' e gjen vetën tek të përgjuarit.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="126" start_time="2022-09-08 20:40:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mali i harrum">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mali i harruar është një film me metrazh artistik shqiptar 2018, i shkruar, drejtuar dhe prodhuar nga Ardit Sadiku. Rrëfimi përqendrohet në një kolonel në pension të ushtrisë shqiptare, i cili e gjen veten papritur të mashtruar nga djali i tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="127" start_time="2022-09-08 22:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Muri i gjallë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Filmi bazohet dhe e zhvillon subjektin e një legjende të njohur të sakrificës në kështjellën e Rozafës, si një interpretim i lirë i asaj që njerëzit kanë ruajtur në shekuj. Tre vëllezër të martuar vendosin të sakrifikojnë në kështjellë gruan që do t'u shpjerë drekën, në mënyrë që muri të mos rrëzohet përsëri në tokë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="128" start_time="2022-09-08 23:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Përse bie kjo daulle">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshte historia e dy te rinjve vullnetare qe dashurohen gjate ndertimit te nje hekurudhe dhe vendosin te martohen. Por babai i vajzes, malesor e ka fejuar vajzen pa pelqimin e saj dhe vjen ne ceremoni per ta vrare, por....</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="129" start_time="2022-09-09 01:15:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Trojanët">Teatër</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia; Vangjelis Theudoropulos. Interpretojnë: Margarita Xhepa, Rajmonda Bulku, Luiza Xhuvani, Guljelm Radoja, Ema Andrea, Neritan Licaj, Arben Derhemi</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="130" start_time="2022-09-09 02:50:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Apasionata">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Motivi kryesor i sonatës së famshme "Apasionata" të Bethovenit, nga një punë diplome, bëhet lajtmotiv në dashurinë e Mirës, studente e pianos, dhe Arturit, student i pikturës, i cili nuk është vërtet i dhënë pas pikturës, por e bën shkollën prej presionit të të atit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="131" start_time="2022-09-09 04:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Bardhësi">Film shqiptar.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dimri i vështirë i 1985 frymëzoi kineastët të realizonin këtë film. Dy histori ndjekin linjat e filmit: ajo e një vajze malësore që ndjek një kurs për infermiere në Tiranë dhe ka ngecur atje për shkak të motit të egër si dhe historinë e një grupi pilotësh që ndërmarrin një udhëtim të pazakontë në veri për një dërgesë të vështirë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="132" start_time="2022-09-09 05:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Guximtarët">Film shqiptar.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Iliri është një fëmijë i llastuar. Ai nuk i duron dot më përkëdheljet e së ëmës dhe vendos të provojë veten gjatë një udhëtimi me një grup alpinistësh të rinj në malet e Shqipërisë. Kjo bën që ta shohë jetën nga një tjetër këndvështrim.  
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="133" start_time="2022-09-09 06:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Pas gjurmëve">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Periudha e pas luftës. Fëmijët vërejnë një banor të ri xha Lipen në lagjen ku jetojnë. Sapo ai vendoset në këtë lagje një tjetër person endet andej duke shitur plaçka të vjetra. Gjatë pushtimit plaçkaxhiu ka asistuar në arrestimin e xhaxhait të Luanit. Luani dhe fëmijët e tjerë zbulojnë se të dy burrat po përpiqen të hedhin në erë centralin elektrik të qytetit. Fëmijët lajmërojnë organet e sigurimit të shtetit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="134" start_time="2022-09-09 08:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Cirku në fshat">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjatë vizitës së një trupe cirku në një fshat, shfaqja jo vetëm do të argëtojë fshatarët, por edhe do të nxjerrë në pah disa të meta dhe burokraci të drejtuesve. Mes humorit dhe akrobacive, do të zërë vend edhe dashuria e dy të rinjve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="135" start_time="2022-09-09 09:15:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Cuca e maleve">Film muzikor.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Dhimier Anagnosti; Kompozitor: Nikolla Zoraqi; Koreograf: Agron Aliaj. Interpreton Trupa e Baletit te Teatrit te Operas dhe Baletit. Prodhim i vitit 1974.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="136" start_time="2022-09-09 10:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Brazdat">Film shqiptar </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i vitit 1973. Marta eshte nje vajze e re e cila fiton simpatine e te gjitheve kur vendos te behet traktoriste. Ne fillim i shoqi e inkurajon, por me pas familja do te kete probleme. I shoqi do te jepet shume pas interesave vetjake.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="137" start_time="2022-09-09 12:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Tokë e përgjakur">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet zhvillohen në tri kohë të ndryshme: në fillim vritet Miti, babai i Gjergjit të vogël, në mbrojtje të tokës që arrin ta marrë beu. Pastaj bëhet protagonist Gjergji, që ndeshet në mullirin e fshatit me forcat italiane, ku vritet edhe beu, edhe mullisi i fshatit. Në pjesën e tretë tregohet për reformën agrare dhe kthimin e tokës te djali i Mitit, Gjergji.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="138" start_time="2022-09-09 13:05:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Darka e gabuar">Teatër</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia:Fatos Haxhiraj. Interpretojnë: Ndriçim Xhepa, Bujar Asqeriu, Vasjan Lami dhe Artan Imami.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="139" start_time="2022-09-09 15:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Kur hapen dyert e jetës">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bardhi, një mjek i ri emërohet të punojë në një fshat të largët malor. Ai ia del mbanë me sukses gjatë një operacioni të vështirë, me gjithë mungesën e mjeteve më elementare për kryerjen e operacionit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="140" start_time="2022-09-09 16:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Qortimet e vjeshtes">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vitet '30. Në këtë kohë idetë komuniste progresive po hynin në Shqipëri. Kujtimi një student revolucionar donte të ndryshonte jetën e të vuajturve nën regjimin e Mbretit Zog. Përmes objektivit të aparatit të tij fotografik ai sheh atmosferën e rëndë të kohës varfërinë e njerëzve të thjeshtë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="141" start_time="2022-09-09 18:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Kur ndahesh nga shokët ">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Namiku, brenda një kohe të shkurtër sjell shqetësime në atmosferën e gëzueshme të një grupi saldatorësh. Kjo reflektohet edhe në jetën e tij private dhe familjare, por sidomos në marrëdhëniet me vjehrrin e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="142" start_time="2022-09-09 19:05:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Pharmakon">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me regji dhe skenar nga Joni Shanaj. Aktorë: Niko Kanxheri, Klevis Bega, Olta Gixhari etj...  Drama psikologjike e një djalë të ri te kohëve moderne dhe marrëdhënia e tij e ndërlikuar me babanë egoist e të dëshiruar për pushtet...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="143" start_time="2022-09-09 21:15:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Yje mbi Drin">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasi largohen specialistët e huaj, inxhinier Lulëzimi ngarkohet të punojë për ndërtimin e hidrocentralit të Fierzës. Lulëzimi përpiqet të gjejë zgjidhje teknike për të ndërtuar vepra të prodhimit të energjisë, jo vetëm në Shqipëri, por edhe në Ballkan.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="144" start_time="2022-09-09 22:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Cuca e maleve">Film muzikor.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Dhimier Anagnosti; Kompozitor: Nikolla Zoraqi; Koreograf: Agron Aliaj. Interpreton Trupa e Baletit te Teatrit te Operas dhe Baletit. Prodhim i vitit 1974.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="145" start_time="2022-09-10 00:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Brazdat">Film shqiptar </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i vitit 1973. Marta eshte nje vajze e re e cila fiton simpatine e te gjitheve kur vendos te behet traktoriste. Ne fillim i shoqi e inkurajon, por me pas familja do te kete probleme. I shoqi do te jepet shume pas interesave vetjake.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="146" start_time="2022-09-10 01:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Kur hapen dyert e jetës">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bardhi, një mjek i ri emërohet të punojë në një fshat të largët malor. Ai ia del mbanë me sukses gjatë një operacioni të vështirë, me gjithë mungesën e mjeteve më elementare për kryerjen e operacionit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="147" start_time="2022-09-10 03:10:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Qortimet e vjeshtes">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vitet '30. Në këtë kohë idetë komuniste progresive po hynin në Shqipëri. Kujtimi një student revolucionar donte të ndryshonte jetën e të vuajturve nën regjimin e Mbretit Zog. Përmes objektivit të aparatit të tij fotografik ai sheh atmosferën e rëndë të kohës varfërinë e njerëzve të thjeshtë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="148" start_time="2022-09-10 04:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Një i tretë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Film me metrazh të shkurtër bazuar në tregimin me të njëjtin titull të Dritëro Agollit. Një skulptor merr frymëzim nga një djalosh i ri dhe fillon të gdhendë portretin e tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="149" start_time="2022-09-10 05:00:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Rrugicat që kërkonin diell">Film shqiptar.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i vitit 1975. Nebi Surreli jeton me te emen ne nje varferi te plote duke shperndare qymyr. Ne kete bote gati te nendheshme njerezore, ai njihet me ilegalet e luftes dhe nis te hedhe trakte derisa merr pjese edhe ne nje aksion.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="150" start_time="2022-09-10 07:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Thesari">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndihmat e mëdha në të holla të mbledhur nga populli në shërbim të luftës i besohen Kiços për t'i ruajtur. Mbas çlirimit askush nuk po kujtohej për atë thesar por Kiçoja i kërkoi vetë ata që ia kishin besuar dhe thesari u dorëzua i paprekur.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="151" start_time="2022-09-10 08:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Debatik">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tre vjet pas pushtimit fashist fëmijët krijojnë organizatën e fëmijëve anti-fashistë që e quajtën Debatik (Djemtë e Bashkuar, Anëtarë të Ideve Komuniste). Coli, një djal i varfër jetim, pranohet në Debatik. Ai arrin të lajmeroj mësuesin komunist që është në kurth por vritet gjatë këtij aksioni. Xha Demiri e gjen të vdekur dhe e merr në karrocën e vet.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="152" start_time="2022-09-10 09:15:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Shoku ynë Tili">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tili është një nxënës i vështirë që bëhet problem për familjen dhe shkollën dhe i sjell shqetësime sidomos mësuese Besës. Fëmijë si Tili kërkojnë një kujdes të veçantë, durim dhe takt, në mënyrë që të shfaqin më të mirën e tyre. Filmi trajton probleme sociale që kërkojnë vullnet dhe këmbëngulje si nga shkolla ashtu edhe nga familja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="153" start_time="2022-09-10 10:35:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Edhe keshtu edhe ashtu">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Teoriku Apostol Sako shkruan artikuj dhe jep leksione mbi dashurinë e lirë të rinisë në një kohë kur një konflikt i madh ndodh në familjen tij. E bija, Alma, studente e inxhinierisë, dashuron një këngëtar atëherë kur i ati do ta martojë me një diplomat. Konflikti zgjidhet përmes situatave komike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="154" start_time="2022-09-10 11:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Një jetë më shumë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjatë një bombardimi Çaku humb prindërit dhe shpëtohet nga një partizan. Bashkë me një shok të tijin që imitonte Çaplinin dhe ëndërronte të bëhej artist një ditë Çaku kërkon partizanin që i shpëtoi jetën derisa e gjejnë. Ky takim dhe dashuria e kujdesi për femijët e luftës ndryshon jetën endacake të Çakut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="155" start_time="2022-09-10 13:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Sot 8 dite">Teater</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Komedia nxjerr në pah pafytyrësinë, vrazhdësinë dhe  imoralitetin e shtresës së lartë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="156" start_time="2022-09-10 14:30:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Çifti i lumtur">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy të rinj që vijnë nga besime të ndryshme fetare vendosin të martohen me njëri-tjetrin. Pasi kërkojnë lejen e prindërve, ata hasin në rezistencën e babait të djalit, i cili nuk pranon. Situatat komike do të demaskojnë, sipas propagandës së kohës, kotësinë e besimit fetar. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="157" start_time="2022-09-10 15:40:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Si gjithë të tjerët">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vullneti, i rritur në shtëpinë fëmijës, sapo ka mbaruar ushtrinë dhe duhet të zgjidhë një sërë problemesh. Për këtë ai gjen mbështetje tek drejtoresha e shtëpisë së fëmijës dhe tek Nasho, ustai i repartit ku ai punonte para ushtrisë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="158" start_time="2022-09-10 16:40:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Telefoni i një mëngjesi">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Neritani, një gazetar i njohur, vendos të shkruajë një artikull kritik për një nga fermat më të mëdha të kryeqytetit. Ai gjendet nën presionin e kolegëve, familjarëve dhe ish të dashurës, për të mos e botuar shkrimin. Pavarësisht përpjekjeve, shkrimi botohet dhe drejtori i fermës dënohet për deklarim të shifrave fiktive te prodhimit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="159" start_time="2022-09-10 17:50:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Nxënësit e klasës sime">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nora transferohet si mësuese në gjimnazin e një qyteti bregdetar. Nxënësi i saj, Edi, njëkohësisht edhe djali i një funksionari të lartë, kërkon notë të lartë e të pamerituar në matematikë, duke i krijuar asaj shqetësim. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="160" start_time="2022-09-10 19:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Letra ere">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Niko, nje ish profesor 50 vjecar, tashme i papune ne Shqiperine post komuniste. Familja e tij jeton me parate qe i dergon i biri, Mikeli nga Italia, i cili prej disa kohesh nuk eshte bere me i gjalle. Pse? Niko niset per ne Torino, ku e pret nje e vertete shokuese.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="161" start_time="2022-09-10 20:35:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Përtej detit">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në qendër të filmit është një ish fotograf lufte i cili ka pësuar traumë nga imazhet që ka parë gjatë periudhës që fotografonte, vendos të jetojë i izoluar në pyjet në jug të Italisë. Pas disa kohësh vendos që të rikthehet në Ballkan dhe në Shqipëri takon një vajzë Shqiptare i cila do të arratiset në Itali.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="162" start_time="2022-09-10 22:25:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Rrugicat që kërkonin diell">Film shqiptar.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i vitit 1975. Nebi Surreli jeton me te emen ne nje varferi te plote duke shperndare qymyr. Ne kete bote gati te nendheshme njerezore, ai njihet me ilegalet e luftes dhe nis te hedhe trakte derisa merr pjese edhe ne nje aksion.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="163" start_time="2022-09-11 00:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Edhe keshtu edhe ashtu">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Teoriku Apostol Sako shkruan artikuj dhe jep leksione mbi dashurinë e lirë të rinisë në një kohë kur një konflikt i madh ndodh në familjen tij. E bija, Alma, studente e inxhinierisë, dashuron një këngëtar atëherë kur i ati do ta martojë me një diplomat. Konflikti zgjidhet përmes situatave komike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="164" start_time="2022-09-11 02:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Shoku ynë Tili">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tili është një nxënës i vështirë që bëhet problem për familjen dhe shkollën dhe i sjell shqetësime sidomos mësuese Besës. Fëmijë si Tili kërkojnë një kujdes të veçantë, durim dhe takt, në mënyrë që të shfaqin më të mirën e tyre. Filmi trajton probleme sociale që kërkojnë vullnet dhe këmbëngulje si nga shkolla ashtu edhe nga familja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="165" start_time="2022-09-11 03:20:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Një jetë më shumë">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjatë një bombardimi Çaku humb prindërit dhe shpëtohet nga një partizan. Bashkë me një shok të tijin që imitonte Çaplinin dhe ëndërronte të bëhej artist një ditë Çaku kërkon partizanin që i shpëtoi jetën derisa e gjejnë. Ky takim dhe dashuria e kujdesi për femijët e luftës ndryshon jetën endacake të Çakut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="166" start_time="2022-09-11 04:25:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Thesari">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndihmat e mëdha në të holla të mbledhur nga populli në shërbim të luftës i besohen Kiços për t'i ruajtur. Mbas çlirimit askush nuk po kujtohej për atë thesar por Kiçoja i kërkoi vetë ata që ia kishin besuar dhe thesari u dorëzua i paprekur.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

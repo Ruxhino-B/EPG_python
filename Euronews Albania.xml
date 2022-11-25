@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Euronews Albania">
+    <event id="0" start_time="2022-09-05 13:00:00" duration="14400">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e pasdites në Euronews Albania
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-05 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Edicioni Qëndror ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edicioni qëndror i lajmeve, drejtuar nga gazetarja Bruna Cifligu, me tema të thelluara nga gazetarët e Euronews Albania, të ftuar në studio dhe lidhje direkte. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-05 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e mbremjes në Euronews Albania
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-05 19:00:00" duration="18000">
+      <short_event_descriptor lang="alb" name="Euronews Tonight">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e mbrëmjes në Euronews Albania
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-06 00:00:00" duration="18000">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e mbremjes në Euronews Albania
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-06 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dokumentar">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentare të huaja me tema investigative, ekonomike, teknologji, kulturë, etj
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-06 06:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e mëngjesit në Euronews Albania
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-06 07:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e paradites në Euronews Albania
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-06 10:00:00" duration="18000">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni i drekës në Euronews
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-06 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e pasdites në Euronews Albania
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-06 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SOT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nën autorësinë e gazetares Jonida Shehu, SOT sjell një hapësirë pa qëndrime, por me pikëpamje e këndvështrime të njërëzve, të vendimmarrësve, dhe të atyre që do jetojnë pasojat e këtyre vendimeve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-06 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Edicioni Qëndror ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edicioni Qendror i lajmeve, drejtuar nga Ilir Kazaferi, me tema të thelluara nga gazetarët e Euronews Albania, të ftuar në studio dhe lidhje direkte. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-06 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="NOW me Erla Mëhilli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajme të thelluara, debat, intervista dhe përballje ekskluzive, nën drejtimin e Erla Mëhilli
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-06 21:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="BALKAN TALKS">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Analizë politike, konflikte rajonale, anëtarësimi në BE, negociata, liritë fetare, grupe etnike e shumë të tjera analizohen nëpërmjet intervistave me aktorët më të rëndësishëm të rajonit, në Balkan Talks
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-06 21:30:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Euronews Tonight">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e mbrëmjes në Euronews Albania
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-07 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SOT">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nën autorësinë e gazetares Jonida Shehu, SOT sjell një hapësirë pa qëndrime, por me pikëpamje e këndvështrime të njërëzve, të vendimmarrësve, dhe të atyre që do jetojnë pasojat e këtyre vendimeve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-07 02:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="NOW me Erla Mëhilli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajme të thelluara, debat, intervista dhe përballje ekskluzive, nën drejtimin e Erla Mëhilli
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-07 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Goodmorning Albanians ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Një mëngjes vibrant, me dozën e nevojshme të informacionit dhe argëtimit, për t'a nisur
+ditën mbarë, me energjinë dhe optimizmin e duhur, nen moderimin e Kloida Gjuzi dhe Greta Topjana"
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-07 07:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e paradites në Euronews Albania
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-07 10:00:00" duration="18000">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni i drekës në Euronews
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-07 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e pasdites në Euronews Albania
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-07 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SOT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nën autorësinë e gazetares Jonida Shehu, SOT sjell një hapësirë pa qëndrime, por me pikëpamje e këndvështrime të njërëzve, të vendimmarrësve, dhe të atyre që do jetojnë pasojat e këtyre vendimeve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-07 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Edicioni Qëndror ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edicioni Qendror i lajmeve, drejtuar nga Ilir Kazaferi, me tema të thelluara nga gazetarët e Euronews Albania, të ftuar në studio dhe lidhje direkte. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-07 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="NOW me Erla Mëhilli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajme të thelluara, debat, intervista dhe përballje ekskluzive, nën drejtimin e Erla Mëhilli
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-07 21:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Euronews Tonight">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e mbrëmjes në Euronews Albania
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-08 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SOT">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nën autorësinë e gazetares Jonida Shehu, SOT sjell një hapësirë pa qëndrime, por me pikëpamje e këndvështrime të njërëzve, të vendimmarrësve, dhe të atyre që do jetojnë pasojat e këtyre vendimeve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-08 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="NOW me Erla Mëhilli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajme të thelluara, debat, intervista dhe përballje ekskluzive, nën drejtimin e Erla Mëhilli
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-08 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e pasdites në Euronews Albania
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-08 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Goodmorning Albanians ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Një mëngjes vibrant, me dozën e nevojshme të informacionit dhe argëtimit, për t'a nisur
+ditën mbarë, me energjinë dhe optimizmin e duhur, nen moderimin e Kloida Gjuzi dhe Greta Topjana"
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-08 07:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e paradites në Euronews Albania
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-08 10:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni i drekës në Euronews
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-08 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni i drekës në Euronews
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-08 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e pasdites në Euronews Albania
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-08 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SOT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nën autorësinë e gazetares Jonida Shehu, SOT sjell një hapësirë pa qëndrime, por me pikëpamje e këndvështrime të njërëzve, të vendimmarrësve, dhe të atyre që do jetojnë pasojat e këtyre vendimeve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-08 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Edicioni Qëndror ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edicioni Qendror i lajmeve, drejtuar nga Ilir Kazaferi, me tema të thelluara nga gazetarët e Euronews Albania, të ftuar në studio dhe lidhje direkte. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-08 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="NOW me Erla Mëhilli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajme të thelluara, debat, intervista dhe përballje ekskluzive, nën drejtimin e Erla Mëhilli
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-08 21:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e mbremjes në Euronews Albania
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-09 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SOT">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nën autorësinë e gazetares Jonida Shehu, SOT sjell një hapësirë pa qëndrime, por me pikëpamje e këndvështrime të njërëzve, të vendimmarrësve, dhe të atyre që do jetojnë pasojat e këtyre vendimeve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-09 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="NOW me Erla Mëhilli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajme të thelluara, debat, intervista dhe përballje ekskluzive, nën drejtimin e Erla Mëhilli
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-09 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Euronews Tonight">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e mbrëmjes në Euronews Albania
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-09 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Goodmorning Albanians ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Një mëngjes vibrant, me dozën e nevojshme të informacionit dhe argëtimit, për t'a nisur
+ditën mbarë, me energjinë dhe optimizmin e duhur, nen moderimin e Kloida Gjuzi dhe Greta Topjana"
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-09 07:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e paradites në Euronews Albania
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-09 10:00:00" duration="18000">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni i drekës në Euronews
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-09 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e pasdites në Euronews Albania
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-09 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SOT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nën autorësinë e gazetares Jonida Shehu, SOT sjell një hapësirë pa qëndrime, por me pikëpamje e këndvështrime të njërëzve, të vendimmarrësve, dhe të atyre që do jetojnë pasojat e këtyre vendimeve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-09 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Edicioni Qëndror ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edicioni Qendror i lajmeve, drejtuar nga Ilir Kazaferi, me tema të thelluara nga gazetarët e Euronews Albania, të ftuar në studio dhe lidhje direkte. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-09 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Barometer">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text> Barometri politik në Euronews Albania çdo të Enjte, sjell një sondazh të besueshëm, të paanshëm, profesional, me një analizë të mirëfilltë rreth opinionit të popullit mbi cështje të ndryshme në vendin tonë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-09 21:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Euronews Tonight">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e mbrëmjes në Euronews Albania
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-10 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SOT">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nën autorësinë e gazetares Jonida Shehu, SOT sjell një hapësirë pa qëndrime, por me pikëpamje e këndvështrime të njërëzve, të vendimmarrësve, dhe të atyre që do jetojnë pasojat e këtyre vendimeve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-10 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Barometer">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text> Barometri politik në Euronews Albania çdo të Enjte, sjell një sondazh të besueshëm, të paanshëm, profesional, me një analizë të mirëfilltë rreth opinionit të popullit mbi cështje të ndryshme në vendin tonë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-10 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Euronews Tonight">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e mbrëmjes në Euronews Albania
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-12 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Goodmorning Albanians ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Një mëngjes vibrant, me dozën e nevojshme të informacionit dhe argëtimit, për t'a nisur
+ditën mbarë, me energjinë dhe optimizmin e duhur, nen moderimin e Kloida Gjuzi dhe Greta Topjana"
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-12 07:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e paradites në Euronews Albania
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-12 10:00:00" duration="18000">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni i drekës në Euronews
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-12 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Euronews Now ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e pasdites në Euronews Albania
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-12 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SOT">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nën autorësinë e gazetares Jonida Shehu, SOT sjell një hapësirë pa qëndrime, por me pikëpamje e këndvështrime të njërëzve, të vendimmarrësve, dhe të atyre që do jetojnë pasojat e këtyre vendimeve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-12 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Edicioni Qëndror ">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edicioni Qendror i lajmeve, drejtuar nga Ilir Kazaferi, me tema të thelluara nga gazetarët e Euronews Albania, të ftuar në studio dhe lidhje direkte. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-12 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="NOW me Erla Mëhilli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajme të thelluara, debat, intervista dhe përballje ekskluzive, nën drejtimin e Erla Mëhilli
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-12 21:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Euronews Tonight">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet e mbrëmjes në Euronews Albania
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-13 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SOT">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nën autorësinë e gazetares Jonida Shehu, SOT sjell një hapësirë pa qëndrime, por me pikëpamje e këndvështrime të njërëzve, të vendimmarrësve, dhe të atyre që do jetojnë pasojat e këtyre vendimeve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-09-13 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="NOW me Erla Mëhilli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajme të thelluara, debat, intervista dhe përballje ekskluzive, nën drejtimin e Erla Mëhilli
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-09-13 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Euronews Tonight ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni i mbrëmjes në Euronews
+</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

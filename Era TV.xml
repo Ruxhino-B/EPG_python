@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Era TV">
+    <event id="0" start_time="2022-05-31 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Era TV">Era TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Era TV</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-05-31 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Era TV">Era TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Era TV</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-05-31 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Era TV">Era TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Era TV</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-06-02 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Era TV">Era TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Era TV</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

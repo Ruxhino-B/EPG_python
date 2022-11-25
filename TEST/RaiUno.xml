@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="RaiUno">
+    <event id="0" start_time="2022-09-20 11:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Telegiornale" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-20 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Oggi è un altro giorno" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-20 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Il Paradiso delle Signore" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-20 15:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="La vita in diretta " />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-20 16:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name=" Reazione a catena" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-20 18:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Telegiornale" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-20 18:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Soliti Ignoti" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-20 19:20:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sophia" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-20 21:20:00" duration="6900">
+      <short_event_descriptor lang="alb" name=" Porta a Porta" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-20 23:15:00" duration="2400">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-20 23:55:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Cose Nostre" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-21 01:10:00" duration="10200">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-21 04:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-21 04:30:00" duration="12000">
+      <short_event_descriptor lang="alb" name="Unomattina" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-21 07:50:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Storie italiane" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-21 09:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name=" E' sempre mezzogiorno" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-21 11:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Telegiornale" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-21 12:00:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Oggi è un altro giorno" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-21 14:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Il Paradiso delle Signore" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-21 15:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="La vita in diretta " />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-21 16:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name=" Reazione a catena" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-21 18:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Telegiornale" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-21 18:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Soliti Ignoti" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-21 19:20:00" duration="7500">
+      <short_event_descriptor lang="alb" name=" Il Commissario Montalbano" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-21 21:25:00" duration="6600">
+      <short_event_descriptor lang="alb" name=" Porta a Porta" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-21 23:15:00" duration="2100">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-21 23:50:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Overland 19" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-22 00:50:00" duration="11400">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-22 04:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-22 04:30:00" duration="12000">
+      <short_event_descriptor lang="alb" name="Unomattina" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-22 07:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Storie italiane" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-22 09:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name=" E' sempre mezzogiorno" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-22 11:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Telegiornale" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-22 12:00:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Oggi è un altro giorno" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-22 14:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Il Paradiso delle Signore" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-22 15:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="La vita in diretta " />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-22 16:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name=" Reazione a catena" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-22 18:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Telegiornale" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-22 18:30:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Soliti Ignoti" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-22 19:25:00" duration="7800">
+      <short_event_descriptor lang="alb" name=" Porta a Porta" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-22 21:35:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Una casa tutta nostra" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-22 22:10:00" duration="2100">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-22 22:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sottovoce" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-22 23:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Cinematografo" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-23 00:15:00" duration="9900">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-23 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-23 04:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-23 04:30:00" duration="12000">
+      <short_event_descriptor lang="alb" name="Unomattina" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-23 07:50:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Storie italiane" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-23 09:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name=" E' sempre mezzogiorno" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-23 11:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Telegiornale" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-23 12:00:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Oggi è un altro giorno" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-23 14:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Il Paradiso delle Signore" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-23 15:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="La vita in diretta " />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-23 16:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name=" Reazione a catena" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-23 18:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Telegiornale" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-23 18:30:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Uefa Nations League 2022-2023" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-23 21:00:00" duration="4200">
+      <short_event_descriptor lang="alb" name="TV7" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-23 22:10:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Techetechetè " />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-23 23:20:00" duration="2100">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-09-23 23:55:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Sottovoce" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-09-24 01:15:00" duration="9900">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2022-09-24 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Wild Italy" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2022-09-24 05:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Tg1" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2022-09-24 05:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Il Caffe di Raiuno" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2022-09-24 06:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Tg1" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2022-09-24 06:35:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Unomattina in famiglia" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2022-09-24 07:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name=" Visita di Papa Francesco " />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2022-09-24 09:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="A Sua immagine" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2022-09-24 10:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Linea verde" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2022-09-24 11:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Telegiornale" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2022-09-24 12:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lineablu" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2022-09-24 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Passaggio a Nord-Ovest" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2022-09-24 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="A Sua immagine" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2022-09-24 15:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Italiasi!" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2022-09-24 16:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name=" Reazione a catena" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2022-09-24 18:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Telegiornale" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2022-09-24 18:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Soliti Ignoti" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2022-09-24 19:20:00" duration="18300">
+      <short_event_descriptor lang="alb" name="Arena 60,70,80" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2022-09-25 00:25:00" duration="9300">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2022-09-25 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="RaiNews24" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

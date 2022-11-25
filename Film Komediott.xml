@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="FILM KOMEDI">
+		<Event id="0" start_time="2022-08-31 00:10:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Të shenjuar në lindje"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Birthmarked "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Toni Collette. Dy shkencëtarë të respektuar vendosin të rrisin 3 fëmijë ndryshe nga predispozitat e tyre gjenetike, për të vërtetuar se edukimi është më i fuqishëm se natyra. Por eksperimentet nuk shkojnë gjithmonë sipas parashikimeve...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-08-31 01:40:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Çmimi">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Il premio aka The Prize"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Gigi Proietti, Alessandro Gassman, Rocco Papaleo. Pasi vlerësohet me çmim "Nobel" për letërsinë, një shkrimtar i moshuar bashkë me dy fëmijët dhe asistentin e tij të çuditshëm, nisin një udhëtim plot të parpiturash drejt Stokholmit</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-08-31 03:15:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Superbabai">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Delivery Man"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Vince Vaughn, Chris Pratt. Një njeri që s'ka arritur shumë në jetë, merr lajmin se nga gjithë dhurimet e tij në klinikën e fertilitetit, ai është baba i 533 fëmijëve dhe vihet në dilemë nëse duhet të identifikohet apo jo.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-08-31 04:55:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Thuaj s'është kështu">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Say It Isn't So"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Chris Klein, Heather Graham. Xhilli njihet dhe dashurohet me një vajzë që duket se është gruaja e jetës së tij. Por ëndrrat e tij shkaterrohen 6 muaj më vonë kur zbulon se ajo mund të jetë e motra.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-08-31 06:30:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Zeniti i Shangait">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Shanghai Noon"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Princesha e bukur Pei Pei eshte rrembyer. Gjurmet e rrembyesve shkojne ne Nevaden e larget. Chon Wang, roja perandorake eshte gati te shkoje deri ne fund te botes qe t'ia ktheje Pei Pei te atit Perandor!</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-08-31 08:15:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Ushtari Megan, bjonde dhe e rrezikshme">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Major Movie Star "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jessica Simpson, Vivica Fox, Steve Guttenberg. Një aktore e famshme, humbet pothuajse gjithçka brenda ditës. Në përpjekje për të ndryshuar jetën e saj, ajo regjistrohet në ushtri. Por në kampin e stërvitjes, fama nuk të hyn aspak në punë</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-08-31 09:55:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Djem dhe vajza">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Boys And Girls"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>F. Prinze Jr, C. Forlani. Xhenifer dhe Rajen njihen prej shumë kohësh. Në kolegj ata bëhen shokë të ngushtë, dalin, flasin dhe ngushëllojnë njëri-tjetrin. Pastaj për çudi ata kalojnë një natë bashkë... Kjo ndryshon çdo gjë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-08-31 11:30:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Dadoja 1">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Babysitting 1"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Philippe Lacheau, Alice David. Një çift lë si dado një koleg të burrit, pa e ditur se atë ditë ai do të organizojë një festë të çmendur që e kthen shtëpinë e tyre përmbys dhe të nesërmen askush nuk e di ku ndodhen...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-08-31 12:55:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Bota mbi komo">Aldo, Giovanni e Giacomo</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Il Cosmo Sul Como "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Aldo, Giovanni dhe Giacomo, në një tjetër komedi të papërsëritshme. Këtë herë ata do të na sjellin aventurat në kohë të një njeriu dhe dy dishepujve të tij...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-08-31 14:30:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Dashuria s'ka rregulla">Komedi, sport</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Leatherheads"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>George Clooney, Renee Zellweger, John Krasinski. Në mesin e viteve 1920, një legjendë e futbollit amerikan, bind një të ri të talentuar që ta ndihmojë të ngrejnë lart sportin. Ndërkohë që të dy janë në garë për një gazetare bukuroshe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-08-31 16:20:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Të shkatërrosh një bankë"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Breaking the Bank"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Charles Bunbury, ka marrë në drejtim bankën 200 vjeçare Tuftons, e cila është trashëgimi e familjes së gruas së tij.  Duke qënë i paaftë dhe me konkurrencën  e pamëshirshme të bankave japoneze dhe amerikane në treg, ai rrezikon te humbase jo vetëm bankën por edhe gruan e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-08-31 18:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Ekstrakti">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Extract"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jason Bateman, Mila Kunis, Kristen Wiig. Pas një aksidenti të pazakontë në punë, pronari i një fabrike ekstraktesh bimore përballet me një mal problemesh si në jetën personale ashtu edhe në atë profesionale...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-08-31 19:30:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Misioni në 22 Jump Street">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="22 Jump Street"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jonah Hill, Channing Tatum. Pasi mbaruan shkollën e mesme, policët Shmid dhe Xhenko do të shkojnë në universitet me një mision të ri. Ndërkohë që kërkojnë të kapin shënjestrën e tyre ata do të kalojnë lloj-lloj ngatërresash e çmendurish.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-08-31 21:15:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Polic në Provë">Komedi, aksion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Ride Along 2014 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ice Cube, Kevin Hart. Beni, roje sigurie me aspirata per t'u bërë polic, kërkon aprovimin e vëllait të të dashurës, Xhejmsit, për t'u martuar. Por Xhejmsi është një detektiv i vërtetë që mendon se çdo aprovim duhet fituar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-08-31 22:50:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Fanatikët">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fanboys "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dan Fogler, Jay Baruchel. Një grup fanatikësh të filmit 'Lufta e yjeve' ndërmarrin një udhëtim përmes gjithë Amerikës, për të realizuar dëshirën e fundit të mikut të tyre, i cili kërkon ta shohë filmin përpara se të dalë në kinema.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-09-01 00:20:00" duration="4200">
+			<short_event_descriptor lang="alb" name="Henku dhe Asha">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Hank and Asha"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një studente indiane në Prage dhe një njujorkez i vetmuar komunikojne duke i dërguar njëri-tjetrit videomesazhe. Korrespondenca e pazakontë thellon lidhjen e tyre dhe ata duhet të vendosin nëse ka ardhur momenti të takohen</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-09-01 01:30:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Gara vazhdon..."></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Candy Jar "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dy yjet e ekipit të debatit të shkollës së mesme, të cilët vështirë se mund të bien dakord për ndonjë gjë, janë të gatshëm të bëjnë gjithçka, në mënyrë që të pranohen në universitetin e ëndrrave të tyre.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-09-01 03:05:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Nuk jemi engjëj">Komedi, krim</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="We're No Angels"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Robert De Niro, Sean Penn, Demi Moore. Dy të arratisur, gjejnë strehim në një kishë duke pretenduar se janë priftërinj. Tani s'mbetet gjë tjetër veçse të 'luten' që policia të mos i zbulojë, derisa të gjejnë një zgjidhje përfundimtare...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-09-01 04:50:00" duration="5400">
+			<short_event_descriptor lang="alb" name="DEBS">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="DEBS"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sara Foster. Emi, Maksi, Xheneti e Dominik janë rekrutuar nga Qeveria për aftësitë e tyre të pashoqe për të mashtruar. Madje ato do te hyjne në një Akademi sekrete ku do te kombinojne aftesite e tyre për një mision me rëndësi.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-09-01 06:20:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Të përjashtuarit">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Outcasts"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dy gjimnaziste peshkope planifikojnë hakmarrjen e tyre pasi bien viktimë e shakasë poshtëruese të një prej studenteve me popullore të shkollës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-09-01 07:55:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Thjesht shokë">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Just Friends"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ryan Reynolds, Amy Smart. Kur i shprehu dashurinë shoqes së tij në gjimnaz, Chris mori një përgjigje që i theu zemrën. Por që atëhere kanë rrjedhur vite, Chris është pjese e botës Hollivudiane, dhe pamja e tij e jashtme ka ndryshuar.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-09-01 09:30:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Boris: Oguri i mirë">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Boris  il film "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Rene Rerretti është një regjisor televiziv, i cili përpiqet të bëjë kalimin nga ekrani i vogël, në ekranin e madh, por shpejt kupton se bota e kinemasë është më e ashpër se ajo e televizionit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-01 11:15:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Kaçurrelat">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Permanent"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Patricia Arquette. Një 13-vjeçare ëndërron të bëjë flokët permanent që të përshtatet në shkollën e re. Kur prindërit e dërgojnë t'i rregullojë flokët në një shkollë parukerie për të kursyer para, gjerat shkojnë jashtëzakonisht keq.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-01 12:45:00" duration="5700">
+			<short_event_descriptor lang="alb" name="50 takime të para">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="50 First Dates"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Adam Sandler, Drew Barrymore. Henry Roth është veteriner dhe vdes për shoqerine e femrave, por një ditë ai do ta lërë pas kraheve jetën prej playboy-i sepse bie në dashuri me Lucy-n, e cila vuan shpesh nga humbja e kujteses.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-01 14:20:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Dilema">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Dilemma"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Vince Vaughn, Kevin James, Winona Ryder, Jennifer Connelly. Pasi sheh gruan e shokut të tij me një burrë tjetër, një njeri përpiqet të gjejë mënyrën më të mirë për të nxjerrë në shesh sekretin...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-01 16:10:00" duration="6000">
+			<short_event_descriptor lang="alb" name="E dua Hakebin">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="I Heart Huckabees"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ata jane burre e grua dhe dedektive krejt te ndryshem nga dedektivet e tjere. Ata merren me çeshtje ekzistenciale! Nga ato çeshtje qe te lene pa gjume gjithe naten..siç eshte çeshtja e Albertit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-01 17:50:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Dashuri dasmë përsëritje"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Love Wedding Repeat "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sam Claflin, Olivia Munn. Xheku dëshiron që dasma e motrës së tij të shkojë në mënyrë të përkryer. Fatkeqësisht, fati s'është në anën e tij pasi ai duhet të merret me ish të dashurën e çmendur, me një të paftuar që kërcënon të tregojë një sekret dhe me Dinën, gruan e ëndrrave të tij. Kur një ilaç gjumëvënës hidhet në gotën e gabuar, Xheku e gjen veten duke përjetuar versione të ndryshme të dasmës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-01 19:30:00" duration="6000">
+			<short_event_descriptor lang="alb" name="2500 vjet më parë">Komedia Italiane</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="SPQR 2000 e 1/2 anni fa"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Christian De Sica, Massimo Boldi, Leslie Nielsen. Roma para 2500 vjetësh ishte djepi i kulturës, dijes dhe zhvillimit. Por kishte edhe shumë gjëra që s'shkonin dhe për çudi nuk ndryshonte shumë nga ditët e sotme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-01 21:10:00" duration="7500">
+			<short_event_descriptor lang="alb" name="Mbrëmja e maturës">Komedi, muzikal, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The prom"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Meryl Streep, James Corden, Nicole Kidman. Një grup aktorësh të famshëm të Broadway, nisen drejt një qyteti të vogël për të ndihmuar një vajzë adoleshente, të cilës i mohohet e drejta të shkojë në mbrëmjen e maturës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-01 23:15:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Klubi i librit">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Book Club"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Diane Keaton, Jane Fonda, Candice Bergen, Mary Steenburgen. Jetët e katër mikeshave të vjetra kthehen përmbys pasi lexojnë librin e shumëpërfolur '50 hijet e Greit' në klubin e tyre të librit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-02 00:55:00" duration="7200">
+			<short_event_descriptor lang="alb" name="Boomerang">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Boomerang"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>I suksesshëm në karrierë dhe akoma më shumë me seksin e kundërt, jeta për Markusin(Eddie Murphy) po shkonte më së miri. Por kur në kompani vjen një shefe e re (Robin Givens) ai trajtohet njësoj siç ka trajtuar femrat në jetën e tij...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-02 02:55:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Të dua për vdekje">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="I Love You To Death"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>K.Kline, K.Reeves. Xhoi është pronari i një picerie dhe është martuar me Rozaline, por s'është aspak besnik. Pasi e shoqja zbulon tradhtinë e tij, ajo i kërkon ndihmë të ëmës, shokut të saj të ngushtë dhe 2 të droguarve për t'u hakmarrë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-02 04:35:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Nëntë muaj">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Nine Months"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Hugh Grant, Julianne Moore. Jeta e qetë e pa nderlikime e një çifti të dashuruarish do të tronditet nga një lajm i papritur: ajo është shtatzënë. Nga ky çast një varg peripecish do t'i shoqerojnë gjatë nëntë muaj pritjeje.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-02 06:15:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Bukuria që vret">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Drop Dead Gorgeous"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kristin Allen. Një nënë e obsesionuar nuk do ndalet para asgjeje vetëm qe e bija të fitoje konkursin e bukurise.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-02 07:50:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Ti më çmend">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Drive Me Crazy"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Melissa Joan Hart, Adrian Grenier. Ata janë miq të ngushtë! Ata grinden! Ata gënjejnë njëri tjetrin... por  në fund bien në dashuri. Një vajzë, sapo e ndarë nga i dashuri, kërkon një shoqërues për në mbrëmjen e fundvitit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-02 09:25:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Dashuri dhe ndarje"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Someone Great "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Gina Rodriguez. Menjëherë pas një ndarjeje të papritur dhe të dhimbshme, një e re ëndërrimtare përgatitet për një fillim të ri sfidues. Por, përpara se të përqafojë jetën e re, atë e pret një aventurë e fundit me mikeshat e saj të vjetra.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-02 11:00:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Si zogu në kafaz">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bird On A Wire "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mel Gibson, Goldie Hawn. Një natë të bukur pas 15 vjetësh Merien Greivs zbulon se dashuria e saj e dikurshme... në të vërtetë s'kishte vdekur. Tani atyre u duhet të rifitojnë kohën e humbur, dhe t'u shpëtojnë disa tipave të rrezikshëm.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-02 12:50:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Zonjat mahnitëse">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Absolutely Fabulous: The Movie"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jennifer Saunders, Joanna Lumley. 2 mikeshat mahnitëse përndiqen nga media dhe policia pasi shkaktojnë 1 aksident në 1 event mode. Ato fshihen në Jug të Francës dhe bëjnë çmos që të jetojnë përgjithmonë jetën e luksit, edhe pse pa para.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-02 14:20:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Ekipi i Lazerit">Fantashkencë, komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Lazer Team "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pasi gjejnë vendin ku është përplasur një anije kozmike jashtëtokësorësh, katër shokë të papërgjeshëm duhet të përdorin një kostum alien, për të shpëtuar botën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-02 16:00:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Banda e rebelëve">Komedi, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Wild Hogs"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tim Allen, Martin Lawrence, John Travolta. Të lodhur nga jeta e qetë në periferi, katër miq ndërmarrin një udhëtim me motoçikleta, duke filluar kështu një aventurë që s'kanë për ta harruar kurrë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-02 17:40:00" duration="6600">
+			<short_event_descriptor lang="alb" name="27 fustane">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="27 Dresses"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Katherine Heigl, James Marsden. Një vajzë që ka ruajtur me fanatizëm 27 fustane, për të gjitha herët që ka qënë shoqëruese e nuses, tërheq vëmendjen e një gazetari. Por në prag të dasmës së 28, ajo përballet me dilemën më të madhe...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="41" start_time="2022-09-02 19:30:00" duration="5700">
+			<short_event_descriptor lang="alb" name="I papërshkueshmi 2"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bulletproof 2 "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Agjenti special Jack Carter caktohet të shkatërrojë një familje të fuqishme kriminale. Ai detyrohet të marrë identitetin e Archie Moses, një kriminel që ka lidhje kyçe me rastin dhe njëkohësisht miku i tij, me të cilin nuk është ndarë dhe aq mirë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="42" start_time="2022-09-02 21:05:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Një fundjavë legjendare"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="A Good Old Fashioned Orgy"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>30-vjeçari Erik, i cili për vite me rradhe ka organiuzar festa të çmendura ne shtëpinë e babait të tij, vendos të bëjë një festë të fundit të paharrueshme, kur mëson se shtëpia do të shitet: një orgji.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="43" start_time="2022-09-02 22:40:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Janë thjesht fantazma">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sono Solo Fantasmi "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Christian De Sica. Tre vëllezër të mbetur trokë, vendosin të shfrytëzojnë bestytninë e fortë të italianëve jugorë për të bërë para, duke u shtirur si gjuetarë fantazmash. Por telashet nisin kur shfaqet fantazma e babait të tyre, që di vetëm të shpërdorjë paratë...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="44" start_time="2022-09-03 00:15:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Jemi ekuipazhi Zero">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Troop Zero "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mckenna Grace, Viola Davis. Xhorxha 1977. Përpjekja e guximshme e një vajze çapkëne për të realizuar ëndrën e saj, do ta çojë atë në një aventurë të paharrueshme dhe në lidhjen e miqësive që zgjasin një jetë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="45" start_time="2022-09-03 01:50:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Gjithë fiksimet e Bobit">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="What About Bob"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bill Murray, Richard Dreyfuss. Një psikiatër humbet kontrollin kur një nga pacientët e tij më problematike, plot me fiksime, por dhe një manipulator i llahtarshëm, i ngjitet pas kur ai shkon me pushime së bashku me familjen.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="46" start_time="2022-09-03 03:30:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Maratonë martesash">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Marrying Man"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nje plejboi milioner në prag te marteses me te bijen e njeriut me te fuqishem ne Hollivud takon papritur vajzen e endrrave te tij, nje kengetare. Eshte magjepsje me shikim te pare! Alec Baldwin dhe Kim Basinger ne nje romance te paharrueshme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="47" start_time="2022-09-03 05:25:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Fantoci del në pension">Komedia Italiane</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Fantozzi Va In Pensione "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Paolo Villaggio. Pas shumë vitesh si punëtor i palodhur, Fantocit i ka ardhur koha të dalë në pension. Por mërzia nuk e lë të qetë dhe ai është i vendosur të gjejë një pasion të ri edhe pse në çdo gjë që bën... dështon.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="48" start_time="2022-09-03 07:05:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Terapia e zemëratës">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Anger Management"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Sandler luan rolin e nje biznesmeni i cili denohet gabimisht per te ndjekur nje program terapie per menaxhimin e ndjenjave te zemerimit, ku ka te beje me nje instruktor agresiv.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="49" start_time="2022-09-03 08:45:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Organizatorja e dasmave">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Wedding Planner "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jennifer Lopez, Matthew McConaughey. Ajo eshte organizatorja me e mire e dasmave, ambicioze, e zellshme...por kesaj radhe fati do t'ia punoje, pasi do te dashurohet me dhendrin per te cilin po pergatit dasmen me te madhe te karrieres se saj.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="50" start_time="2022-09-03 10:30:00" duration="7800">
+			<short_event_descriptor lang="alb" name="Spanglisht">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Spanglish"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>A.Sandler, T.Leoni. Flor mbërrin bashkë me të bijën nga Meksika në SHBA për një jetë me të mirë. Takon kuzhinierin Klaski, një shef me nam që e punëson në shtëpinë e tij. Por, si të merret vesh për të thënë ato që do?</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="51" start_time="2022-09-03 12:40:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Zgjidh familjen tende">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Being Frank "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ndërsa feston pushimet e shkollës, një 17-vjeçar tronditet kur sheh të atin e sertë me një grua tjetër. Jeta e tij merr shuplakën përfundimtare kur mëson se babai i tij ka një familje tjetër, në qytet tjetër...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="52" start_time="2022-09-03 14:30:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Pranimi">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Admission"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tina Fey, Paul Rudd. Pranuesja e aplikimeve në shkollën prestigjioze Princeton, ka punuar gjithmonë sipas rregullave. Takimi me një nga shokët e klasës do t'i rrezikojë karrierën, por do t'i japë edhe mundësinë të gjejë lumturinë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="53" start_time="2022-09-03 16:15:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Një javë në vend të Zotit">Jim Carrey</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Bruce Almighty"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Të gjitha padrejtësitë e kësaj bote i bien vetëm prezantuesit televiziv Bruce Nolan. Fajëson Zotin për gjithçka dhe Ai vendos ta sfidojë. T'i kalojë atij fuqite e veta për të parë nëse bota do të jete më e mirë?!</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="54" start_time="2022-09-03 17:55:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Dashuri apo para">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="For Love or Money "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Marku ka jetën e përkryer: do të bëhet milioner dhe vajza që ka dashuruar që në fëmijëri ka pranuar të bëhet gruaja e tij. Por kur zbulon se ajo e do vetëm për pasurinë, ai thur një plan për të parë se çfarë është e gatshme të durojë ajo për para...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="55" start_time="2022-09-03 19:30:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Varfanjakët e pasur">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Poveri ma ricchi"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Christian De Sica, Enrico Brignano. Jeta e varfër por shumë e lumtur e familjes Tuçi, do të ndryshojë përgjithmonë kur ata fitojnë lotarinë. Që të mos përndiqen nga miq dhe familjarë, ata vendosin të arratisen...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="56" start_time="2022-09-03 21:05:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Lojëra shokësh">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Buddy Games"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Josh Duhamel. Pas një shkëputjeje pesëvjeçare, Bobi ribashkon pesë miqtë e tij për "Lojërat e shokëve", një garë e çmendur sfidash absurde fizike dhe mendore ku fituesi do të fusë në xhep 150,000 dollarë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="57" start_time="2022-09-03 22:40:00" duration="5502">
+			<short_event_descriptor lang="alb" name="Jackass Përgjithmonë"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Jackass Forever"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pas 11 vitesh, Johnny Knoxville dhe skuadra e 'Jackass' rikthehet! Shokët e çmendur, tani janë me flokë të bardha, por jo më të zgjuar se më parë. Ndiqni sfida e tyre të reja, rrengjet gazmore jashtëzakonisht absurde dhe shpesh herë shumë të rrezikshme.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>

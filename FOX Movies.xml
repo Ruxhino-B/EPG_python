@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="FOX Movies">
+    <event id="0" start_time="2022-09-06 09:30:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Gjeniu">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fitues i 2 çmimeve Oskar. Në Universitetin më të mirë të Amerikes, mendja më e ndritur është një djalë që pastron dyshemetë, i cili s'përballet dot me jetën dhe me dashurinë për një vajzë të pasur. Në ndihmë do t'i vijë psikologu i tij...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-06 11:50:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Mercenarët">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sylvester Stallone, Jason Statham, Jet Li, Mickey Rourke, Steve Austin, Arnold Schwarzenegger. Nje skuadër mercenarësh qe dërgohen për të përmbysur regjimin e një diktatori, kuptojnë se kanë rënë pre e një kurthi që mund t'ju marrë jetën...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-06 13:55:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Lidhja e përkryer">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>K.Quinlan, L.Heuring. Nëna e një gruaje të re të sapo ndarë, bën çmos që e bija ta rigjejë lumturinë, duke bërë një lajmërim në kërkim të një vetmitari për të, por personi që i përgigjet lajmerimit duket i prerë për atë vetë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-06 15:45:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Ndeshja e burgut">Komedi, sport</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti i prodhimit: 2005. A.Sandler, C.Rock. Një ish lojtar futbolli, i akuzuar për ngarje të makinës në gjendje të dehur, futet në burg. Aty krijon një skuadër amatore. Gardianët s'e dinë ç'i pret kur të dyja palët përballen në një ndeshje futbolli am</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-06 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-06 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mercenarët 2">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sylvester Stallone, Bruce Willis, Jean-Claude Van Damme, Arnold Schwarzenegger, Chuck Norris. Aktoret më të dashur të aksionit, rikthehen në një film të papërsëritshëm. Nje mision në dukje i lehtë, do të kthehet në luftë për jetë a vdekje. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-06 21:00:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Gara e vdekjes ">Aksion, fantashkencë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jason Statham. Në botën e së ardhmes, një ish-kampion i shpejtësisë, i burgosur për një krim që s'e ka kryer, do të përballet me kriminelët më të këqinj të vendit në një garë te dhunshme me makina për të fituar lirinë e tij.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-06 23:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Ngarkesa e Çmuar">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mark-Paul Gosselaar, Claire Forlani, Bruce Willis. Pas nje vjedhjeje shumë fitimprurëse që nuk shkon sipas planit, një grabitës profesionist dhe ish e dashura e tij, vihen nën shënjestrën e një krimineli të pushtetshëm...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-07 00:40:00" duration="11100">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-07 03:45:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-07 04:45:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Tekniku i kabllorit">Komedi, Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për Stiven Kovaks tarifa e televizorit kabllor arriti majat. Tani ai ka një shok që i ka dalë jashtë kontrollit, një mik që nuk pranon ta lësh pas dore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-07 06:35:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lojëra të rënda">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>M.McConaughey, M Jovovich. Aventurat e papërmbajtshme të një grupi adoleshentësh në ditën e fundit të shkollës. Veç të tjerave është dhe dita kur festohet largimi i studentëve më të 'lashtë' dhe mberritja e atyre më të rinj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-07 08:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Arma e Zhveshur 33 e 1/3">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Frank Drebin edhe pse ne pension, do të ndihmoje Skuadrën e Policisë të depërtojë në një bandë terroristësh që planifikojnë të shpërthejnë një bombë në Academy Awards.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-07 10:15:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Shiko kush flet">Komedi familjare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje femije fare i vogel do te flase! Ai do te na thote me gojen e tij se çfare mendon per boten jashte barkut te mamit, per njerezit dhe boten qe e rrethon.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-07 12:10:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mercenarët 2">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sylvester Stallone, Bruce Willis, Jean-Claude Van Damme, Arnold Schwarzenegger, Chuck Norris. Aktorët më të dashur të aksionit, rikthehen në një film të papërsëritshëm. Nje mision në dukje i lehtë, do të kthehet në luftë per jetë a vdekje. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-07 14:10:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Dashuri nën Ylber">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lucy nuk ishte e sigurt nëse do të gjente dashurinë e vërtetë, derisa Jack shpërngulet në qytet me vajzën e tij Sophie. Së bashku ata i mësojnë asaj se nuk është kurrë vonë për të filluar ndjekjen e ylberit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-07 15:50:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Një polic në kopësht">Aksion, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arnold Schwarzenegger, Penelope Ann Miller. Ne shkollën fillore Astoria vjen një mësues i ri, që duket ndryshe nga mësuesit e tjerë. Ai është një detektiv me një mision sekret: të gjejë një nënë dhe të birin, para se t'i gjejë vrasësi...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-07 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-07 19:00:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Mercenarët 3">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sylvester Stallone, Jason Statham, Harrison Ford, Arnold Schwarzenegger, Mel Gibson. Skuadra e mercenarëve, do te përballet me një armik të njohur. Një nga ish krijuesit e skuadrës, është i vendosur për t'i elimuar të gjithë...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-07 21:30:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Ekuilibri">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>C.Bale. Në një të ardhme fashiste ku çdo lloj emocioni është i ndaluar, librat, arti, muzika s'duhet të ekzistojne, dhe kush ndien denohet me vdekje, një nga anëtarët më të lartë te qeverise do të ngrihet në lufte kundër vete sistemit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-07 23:40:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Korsia">Krim, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ben Affleck, Samuel L. Jackson. Një avokat dhe një punonjës sigurimesh, pësojnë një përplasje të vogël me makinë dhe zënka e tyre e momentit kthehet në një 'luftë' të vazhdueshme, që mund të shkatërrojë jetët e të dyve... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-08 01:20:00" duration="9600">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-08 04:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Biznesi i ëmbëlsirave">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Maddie, e cila  zotëron një pasticeri të vogël, merr investime nga një bankier, por romanca që lind mes tyre ndërlikohet nga kthimi i papritur i të dashurit të saj të parë, Nate.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-08 05:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Arma e Zhveshur: Dosjet e Policisë">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti i prodhimit: 1988. I paperseritshmi Leslie Nielsen ne rolin e nje polici qe do te beje çdo gje per te frenuar nje komplot te fshehte politik per te vrare Mbretereshen Elizabete.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-08 07:15:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Ndeshja e burgut">Komedi, sport</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti i prodhimit: 2005. A.Sandler, C.Rock. Një ish lojtar futbolli, i akuzuar për ngarje të makinës në gjendje të dehur, futet në burg. Aty krijon një skuadër amatore. Gardianët s'e dinë ç'i pret kur të dyja palët përballen në një ndeshje futbolli am</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-08 09:25:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Spiuni fqinjë ">Aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Agjenti sekret Bob Ho është mësuar të përballet gjithmonë me rrezikun. Por tani do të ndërmarrë misionin më të vështirë të karierës: të kujdeset për 3 fëmijë.
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-08 11:15:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Mercenarët 3">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sylvester Stallone, Jason Statham, Harrison Ford, Arnold Schwarzenegger, Mel Gibson. Skuadra e mercenarëve, do te përballet me një armik të njohur. Nje nga ish krijuesit e skuadrës, është i vendosur për t'i elimuar të gjithë...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-08 13:40:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Dashuri dhe kërcim">Dramë romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Richard Gere, Jennifer Lopez. Një njeri i suksesshëm dhe familjar, ndjehet i përhumbur e bosh. Por gjithçka ndryshon kur ai shikon një vajzë të bukur në dritaren e një studioje kërcimi dhe regjistrohet për të marrë mësime.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-08 15:45:00" duration="8400">
+      <short_event_descriptor lang="alb" name="40 vjeç i virgjër">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Steve Carell, Catherine Keener. 40 vjeçari Andy Stitzer kishte bërë plot gjëra në jetë. Kishte një punë të mirë; nje apartament të lezetshëm; kishte shokë e miq. Vetëm një gjë s'kish bërë deri tani...s'kish bërë kurrë seks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-08 18:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-08 19:00:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Ridiku">Aksion, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me Vin Diesel, Karl Urban, Jodi Molla. Kapitulli më i fundit i sages mjaft të suksesshme te Ridikut. Pasi tradhtohet dhe plagoset rëndë, Ridiku duhet të luftojë për mbijetesë kundër alienëve dhe armiqve të tij të betuar.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-08 21:20:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Rrëmbimi 3">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liam Neeson, Forest Whitaker. I akuzuar padrejtësisht per vrasjen e gruas se tij, ish agjenti Brajan Mills rikthehet edhe njëherë të fundit dhe duke përdorur 'aftësitë e tij të veçanta' përpiqet të vendosë drejtësi sipas mënyrës së tij...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-08 23:20:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Sprova e shtratit">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy miq që kanë kohë pa bërë seks, vendosin të bëjnë seks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-09 00:55:00" duration="11100">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-09 04:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Arma e Zhveshur 2 1/2">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Togeri Frank Drebin zbulon se i fejuari i ish-të dashurës së tij është e përfshirë në një komplot për të rrëmbyer një shkencëtar që mbron energjinë diellore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-09 05:40:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Lidhja e përkryer">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>K.Quinlan, L.Heuring. Nëna e një gruaje të re të sapo ndarë, bën çmos që e bija ta rigjejë lumturinë, duke bërë një lajmërim në kërkim të një vetmitari për të, por personi që i përgigjet lajmerimit duket i prerë për atë vetë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-09 07:25:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Një polic në kopësht">Aksion, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arnold Schwarzenegger, Penelope Ann Miller. Ne shkollën fillore Astoria vjen një mësues i ri, që duket ndryshe nga mësuesit e tjerë. Ai është një detektiv me një mision sekret: të gjejë një nënë dhe të birin, para se t'i gjejë vrasësi...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-09 09:40:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Loraksi ">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në një qytet ku gjithçka është plastike, një djalë 12 vjeçar, për t'i plotësuar dëshirën një vajze që pëlqen, duhet të gjejë një pemë të vërtetë... 
+ 
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-09 11:20:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Rrëmbimi 3">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liam Neeson, Forest Whitaker. I akuzuar padrejtësisht per vrasjen e gruas se tij, ish agjenti Brajan Mills rikthehet edhe njëherë të fundit dhe duke përdorur 'aftësitë e tij të veçanta' përpiqet të vendosë drejtësi sipas mënyrës së tij...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-09 13:35:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Doktori i grave">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Richard Gere, Helen Hunt. Një gjinekolog i njohur, i rrethuar nga gratë si në punë ashtu edhe në shtëpi, bie në dashuri me një profesioniste golfi, ndërkohë që bashkëshortja e tij fillon të sillet si fëmijë dhe e bija përgatitet për martesë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-09 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Fati im">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lindsey Lohan, Chris Pine. Jeta e një vajze te re, fatlume në gjithçka që bënte, do te ndryshojë në një çast kur në një festë me maska, ajo puth një djalosh të panjohur me fatin më të keq në botë... 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-09 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-09 19:00:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Aventurat e Ridikut">Aventurë, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>V.Diesel. U bënë 5 vjet që Ridiku endet nga 1 planet në tjetrin për t'u shpetuar gjuetarëve të shpërblimit te vendosur mbi kokën e tij. Tani ndodhet në planetin Helion, i pushtuar nga forcat e Lordit Marshall që do te asgjesoje racen njerëzore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-09 21:20:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Të vrasësh Karterin">Aksion, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Para shumë vitesh, Xhek Karter braktisi shtëpinë e vet në Siatëll për të punuar si mbledhës i borxheve për mafinë në një kazino të Vegasit. Kthehet për ta varrosur vëllanë e vet Riçi, i cili vdiqi në aksident gjatë stuhisë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-09 23:20:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Gara e vdekjes ">Aksion, fantashkencë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jason Statham. Në botën e së ardhmes, një ish-kampion i shpejtësisë, i burgosur për një krim që s'e ka kryer, do të përballet me kriminelët më të këqinj të vendit në një garë te dhunshme me makina për të fituar lirinë e tij.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-10 01:15:00" duration="9900">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-10 04:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Loraksi ">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në një qytet ku gjithçka është plastike, një djalë 12 vjeçar, për t'i plotësuar dëshirën një vajze që pëlqen, duhet të gjejë një pemë të vërtetë... 
+ 
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-10 05:35:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Shiko kush flet">Komedi familjare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje femije fare i vogel do te flase! Ai do te na thote me gojen e tij se çfare mendon per boten jashte barkut te mamit, per njerezit dhe boten qe e rrethon.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-10 07:25:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Doktori i grave">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Richard Gere, Helen Hunt. Një gjinekolog i njohur, i rrethuar nga gratë si në punë ashtu edhe në shtëpi, bie në dashuri me një profesioniste golfi, ndërkohë që bashkëshortja e tij fillon të sillet si fëmijë dhe e bija përgatitet për martesë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-10 09:45:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Terminali">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me Tom Hanks, Catherine Zeta-Jones, Stanley Tucci . Bazuar në historinë e vërtetë të një njeriu, që jetoi për 18 vjet i bllokuar në terminalin nr 1, të aeroportit të Parisit.           </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-10 12:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Macet dhe qentë">Film vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Qeni Badi ose agjenti 1364 Alkabadi rrëmbehet nga një bandë macesh dhe misioni i tij për të ndihmuar pronarin e tij shkencëtar dështon. Komanda e qenve vendos ta zëvendësojë me një qen të stërvitur karshi maceve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-10 14:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Breshkat adoleshente ninxha">Aksion, aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2014. Megan Fox, William Fichtner etj. E keqja mbizotëron kudo në Nju Jork, ndërkohë që një kriminel i pashpirt ka gjithçka nën kontroll... Breshkat Ninxha duhet të bashkojnë forcat me një gazetare  në përpjekje për të shpëtuar qytetin ...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-10 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mercenarët">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sylvester Stallone, Jason Statham, Jet Li, Mickey Rourke, Steve Austin, Arnold Schwarzenegger. Nje skuadër mercenarësh qe dërgohen për të përmbysur regjimin e një diktatori, kuptojnë se kanë rënë pre e një kurthi që mund t'ju marrë jetën...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-10 18:00:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Ligjërisht bjonde">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Reese Witherspoon, Luke Wilson. Një bjonde natyrale, shkon në Harvard për të rifituar zemrën e ish të dashurit dhe zbulon se talenti i saj ne fushën ligjore, tejkalon parashikimet dhe paragjykimet e çdokujt... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-10 20:05:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Top Gun">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tom Cruise. Një djalë i ri e gjaknxehtë, shkon të mësojë artin e luftimit ajror në shkollën më të mirë për pilotë luftarake. Nje gabim do t'i kushtojë shumë, por ai do të gjeje forcat të ringrihet dhe të tregoje se është vertet me i miri.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-10 22:15:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Rrëmbimi 3">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liam Neeson, Forest Whitaker. I akuzuar padrejtësisht per vrasjen e gruas se tij, ish agjenti Brajan Mills rikthehet edhe njëherë të fundit dhe duke përdorur 'aftësitë e tij të veçanta' përpiqet të vendosë drejtësi sipas mënyrës së tij...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-11 00:20:00" duration="13200">
+      <short_event_descriptor lang="alb" name="Ekuilibri">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>C.Bale. Në një të ardhme fashiste ku çdo lloj emocioni është i ndaluar, librat, arti, muzika s'duhet të ekzistojne, dhe kush ndien denohet me vdekje, një nga anëtarët më të lartë te qeverise do të ngrihet në lufte kundër vete sistemit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-11 04:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Spiuni fqinjë ">Aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Agjenti sekret Bob Ho është mësuar të përballet gjithmonë me rrezikun. Por tani do të ndërmarrë misionin më të vështirë të karierës: të kujdeset për 3 fëmijë.
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-11 05:40:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Flinstonët në Viva Rok Vegas">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Flintstones dhe Rubbles do të shkoinë në Rock Vegas, ku Wilma Slaghoople përndiqet nga playboy Chip Rockefeller.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-11 07:30:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Shkatërrimi">Aksion, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tom Cruise, Morgan Freeman. Në te ardhmen, kur Toka është shkatërruar nga nje racë jashtëtokësorësh, Xhek Harper - veteran i ngarkuar me misionin e nxjerrjes së burimeve të mbetura nga toka, fillon të dyshojë për misionin dhe veten e tij.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-09-11 09:50:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Gjeniu">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fitues i 2 çmimeve Oskar. Në Universitetin më të mirë të Amerikes, mendja më e ndritur është një djalë që pastron dyshemetë, i cili s'përballet dot me jetën dhe me dashurinë për një vajzë të pasur. Në ndihmë do t'i vijë psikologu i tij...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-09-11 12:20:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Macet dhe qentë: Hakmarrja e Kitit">Animacion, aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lufta e vazhdueshme midis qenve dhe maceve ndërpritet në momentin kur u duhet të bashkojnë forcat për të penguar një mace mashtruese me planet e saj të liga për pushtim.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2022-09-11 13:55:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Breshkat Ninxha">Aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ata jane kater ninxha te vertete, por breshka. Quhen: Donatelo, Rafael, Mikelanxhelo dhe Leonardo. Iu pelqejne shume picat dhe jane ne sherbim te drejtesise.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2022-09-11 16:05:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mercenarët 2">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sylvester Stallone, Bruce Willis, Jean-Claude Van Damme, Arnold Schwarzenegger, Chuck Norris. Aktorët më të dashur të aksionit, rikthehen në një film të papërsëritshëm. Nje mision në dukje i lehtë, do të kthehet në luftë per jetë a vdekje. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2022-09-11 18:05:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Ligjërisht bjonde 2">Komedi </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Reese Witherspoon. Vazhdojnë perpjekjet e bjondes së këndshme të Beverli Hills-it, për t'u afirmuar si një avokate e zonja në botën diskriminuese të bruneve inteligjente.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2022-09-11 20:00:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Kalorës dhe ditë">Aksion, aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>June është një vajzë nga perëndimi i mesëm që e gjen veten të përfshirë në një komplot ndërkombëtar pasi hasi (rastësisht?) Milner i cili rezulton të jetë një super spiun në një mision. June do ta gjejë veten të katapultuar në një aventurë që është me të vërtetë e papritur për të: një udhëtim i rrezikshëm nëpër botë, duke ndjekur agjentin e fshehtë të pagabueshëm, për të mbrojtur një shpikje që mund të provojë të jetë zgjidhja për të gjitha problemet e energjisë në planet.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2022-09-11 22:15:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Ridiku">Aksion, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me Vin Diesel, Karl Urban, Jodi Molla. Kapitulli më i fundit i sages mjaft të suksesshme te Ridikut. Pasi tradhtohet dhe plagoset rëndë, Ridiku duhet të luftojë për mbijetesë kundër alienëve dhe armiqve të tij të betuar.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2022-09-12 00:35:00" duration="12300">
+      <short_event_descriptor lang="alb" name="Aventurat e Ridikut">Aventurë, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>V.Diesel. U bënë 5 vjet që Ridiku endet nga 1 planet në tjetrin për t'u shpetuar gjuetarëve të shpërblimit te vendosur mbi kokën e tij. Tani ndodhet në planetin Helion, i pushtuar nga forcat e Lordit Marshall që do te asgjesoje racen njerëzore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2022-09-12 04:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2022-09-12 04:45:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Arma e Zhveshur 33 e 1/3">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Frank Drebin edhe pse ne pension, do të ndihmoje Skuadrën e Policisë të depërtojë në një bandë terroristësh që planifikojnë të shpërthejnë një bombë në Academy Awards.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2022-09-12 06:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Dashuri nën Ylber">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lucy nuk ishte e sigurt nëse do të gjente dashurinë e vërtetë, derisa Jack shpërngulet në qytet me vajzën e tij Sophie. Së bashku ata i mësojnë asaj se nuk është kurrë vonë për të filluar ndjekjen e ylberit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2022-09-12 08:00:00" duration="8100">
+      <short_event_descriptor lang="alb" name="40 vjeç i virgjër">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Steve Carell, Catherine Keener. 40 vjeçari Andy Stitzer kishte bërë plot gjëra në jetë. Kishte një punë të mirë; nje apartament të lezetshëm; kishte shokë e miq. Vetëm një gjë s'kish bërë deri tani...s'kish bërë kurrë seks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2022-09-12 10:15:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Ligjërisht bjonde">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Reese Witherspoon, Luke Wilson. Një bjonde natyrale, shkon në Harvard për të rifituar zemrën e ish të dashurit dhe zbulon se talenti i saj ne fushën ligjore, tejkalon parashikimet dhe paragjykimet e çdokujt... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2022-09-12 12:10:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Aventurat e Ridikut">Aventurë, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>V.Diesel. U bënë 5 vjet që Ridiku endet nga 1 planet në tjetrin për t'u shpetuar gjuetarëve të shpërblimit te vendosur mbi kokën e tij. Tani ndodhet në planetin Helion, i pushtuar nga forcat e Lordit Marshall që do te asgjesoje racen njerëzore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2022-09-12 14:25:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Dashuri nën dritën e hënës">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2022-09-12 16:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Gënjeshtari">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Avokati Rid po ngjit shkallet e suksesit me nga nje genjeshter here pas here. Ajo qe e ben ate te suksesshem si avokat, e ben nje baba te paparashikueshem.Derisa nje dite...djali i tij fik qirinjte e ditelindjes me nje deshire...Babai i tij te mos g</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2022-09-12 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2022-09-12 19:00:00" duration="8700">
+      <short_event_descriptor lang="alb" name="xxx">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vin Diesel, Asia Argento. Xander Cage është një atlet i sporteve ekstreme i rekrutuar nga qeveria me një mision special. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2022-09-12 21:25:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Sinjali i urrejtjes">Fantashkencë, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2014. Niku dhe dy miqtë e tij futen në një vend të izoluar, të joshur nga një gjeni kompjuterash. Kur papritur errësohet gjithçka, Niku zgjohet dhe e gjen veten në një makth të gjallë nga i cili duhet të shpëtojë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2022-09-12 23:15:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Të vrasësh Karterin">Aksion, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Para shumë vitesh, Xhek Karter braktisi shtëpinë e vet në Siatëll për të punuar si mbledhës i borxheve për mafinë në një kazino të Vegasit. Kthehet për ta varrosur vëllanë e vet Riçi, i cili vdiqi në aksident gjatë stuhisë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2022-09-13 01:10:00" duration="10200">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2022-09-13 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ndeshja e burgut">Komedi, sport</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti i prodhimit: 2005. A.Sandler, C.Rock. Një ish lojtar futbolli, i akuzuar për ngarje të makinës në gjendje të dehur, futet në burg. Aty krijon një skuadër amatore. Gardianët s'e dinë ç'i pret kur të dyja palët përballen në një ndeshje futbolli am</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2022-09-13 06:00:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Dashuri dhe kërcim">Dramë romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Richard Gere, Jennifer Lopez. Një njeri i suksesshëm dhe familjar, ndjehet i përhumbur e bosh. Por gjithçka ndryshon kur ai shikon një vajzë të bukur në dritaren e një studioje kërcimi dhe regjistrohet për të marrë mësime.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2022-09-13 08:05:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Fati im">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lindsey Lohan, Chris Pine. Jeta e një vajze te re, fatlume në gjithçka që bënte, do te ndryshojë në një çast kur në një festë me maska, ajo puth një djalosh të panjohur me fatin më të keq në botë... 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2022-09-13 10:00:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Ligjërisht bjonde 2">Komedi </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Reese Witherspoon. Vazhdojnë perpjekjet e bjondes së këndshme të Beverli Hills-it, për t'u afirmuar si një avokate e zonja në botën diskriminuese të bruneve inteligjente.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2022-09-13 11:55:00" duration="8700">
+      <short_event_descriptor lang="alb" name="xxx">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vin Diesel, Asia Argento. Xander Cage është një atlet i sporteve ekstreme i rekrutuar nga qeveria me një mision special. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2022-09-14 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Një polic në kopësht">Aksion, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arnold Schwarzenegger, Penelope Ann Miller. Ne shkollën fillore Astoria vjen një mësues i ri, që duket ndryshe nga mësuesit e tjerë. Ai është një detektiv me një mision sekret: të gjejë një nënë dhe të birin, para se t'i gjejë vrasësi...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2022-09-14 06:00:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Doktori i grave">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Richard Gere, Helen Hunt. Një gjinekolog i njohur, i rrethuar nga gratë si në punë ashtu edhe në shtëpi, bie në dashuri me një profesioniste golfi, ndërkohë që bashkëshortja e tij fillon të sillet si fëmijë dhe e bija përgatitet për martesë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2022-09-14 08:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Gënjeshtari">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Avokati Rid po ngjit shkallet e suksesit me nga nje genjeshter here pas here. Ajo qe e ben ate te suksesshem si avokat, e ben nje baba te paparashikueshem.Derisa nje dite...djali i tij fik qirinjte e ditelindjes me nje deshire...Babai i tij te mos g</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2022-09-14 10:00:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Breshkat adoleshente ninxha">Aksion, aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2014. Megan Fox, William Fichtner etj. E keqja mbizotëron kudo në Nju Jork, ndërkohë që një kriminel i pashpirt ka gjithçka nën kontroll... Breshkat Ninxha duhet të bashkojnë forcat me një gazetare  në përpjekje për të shpëtuar qytetin ...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2025-09-05 11:50:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Mercenarët">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sylvester Stallone, Jason Statham, Jet Li, Mickey Rourke, Steve Austin, Arnold Schwarzenegger. Nje skuadër mercenarësh qe dërgohen për të përmbysur regjimin e një diktatori, kuptojnë se kanë rënë pre e një kurthi që mund t'ju marrë jetën...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2025-09-05 14:40:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Biznesi i ëmbëlsirave">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Maddie, e cila  zotëron një pasticeri të vogël, merr investime nga një bankier, por romanca që lind mes tyre ndërlikohet nga kthimi i papritur i të dashurit të saj të parë, Nate.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2025-09-05 16:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Arma e Zhveshur 33 e 1/3">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Frank Drebin edhe pse ne pension, do të ndihmoje Skuadrën e Policisë të depërtojë në një bandë terroristësh që planifikojnë të shpërthejnë një bombë në Academy Awards.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2025-09-05 18:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2025-09-05 18:55:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Mercenarët">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sylvester Stallone, Jason Statham, Jet Li, Mickey Rourke, Steve Austin, Arnold Schwarzenegger. Nje skuadër mercenarësh që dërgohen për të përmbysur regjimin e një diktatori, kuptojnë se kanë rënë pre e një kurthi që mund t'ju marrë jetën...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2025-09-05 21:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Sprova e shtratit">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy miq që kanë kohë pa bërë seks, vendosin të bëjnë seks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2025-09-05 22:35:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Kumbari III">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fuqia e vertete nuk dhurohet, ajo duhet marre. I gjithe pushteti ne toke, nuk mund te ndryshoje fatin e paracaktuar. 7 kandidatura oskar. Me aktoret Al Pacino, Andy Garcia, Diane Keaton).</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2025-09-06 01:35:00" duration="8700">
+      <short_event_descriptor lang="alb" name="The Gifted 2">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndjek prindër të zakonshëm që marrin arratinë me familjen e tyre pasi zbulojnë aftësitë mutante të fëmijëve të tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2025-09-06 04:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Jeta pa Dikun">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Filmi përqendrohet në marrëdhëniet që zhvillohen midis një sulmuesi jokompetent dhe një gruaje që vret aksidentalisht të dashurin e saj kur zbulon se po e lë atë për një grua tjetër.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2025-09-06 05:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shkëlqimi">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një këngëtare e re takohet me një dixhei i cili e ndihmon  te futet në biznesin e muzikës, por marrëdhënia e tyre ndërlikohet kur ajo fillon të ketë sukses.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2025-09-06 07:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Arma e Zhveshur 2 1/2">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Togeri Frank Drebin zbulon se i fejuari i ish-të dashurës së tij është e përfshirë në një komplot për të rrëmbyer një shkencëtar që mbron energjinë diellore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2025-09-06 09:30:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Gjeniu">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fitues i 2 çmimeve Oskar. Në Universitetin më të mirë të Amerikes, mendja më e ndritur është një djalë që pastron dyshemetë, i cili s'përballet dot me jetën dhe me dashurinë për një vajzë të pasur. Në ndihmë do t'i vijë psikologu i tij...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2025-09-06 13:55:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Mercenarët">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sylvester Stallone, Jason Statham, Jet Li, Mickey Rourke, Steve Austin, Arnold Schwarzenegger. Nje skuadër mercenarësh qe dërgohen për të përmbysur regjimin e një diktatori, kuptojnë se kanë rënë pre e një kurthi që mund t'ju marrë jetën...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

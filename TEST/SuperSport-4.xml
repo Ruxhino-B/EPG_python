@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport-4">
+    <event id="0" start_time="2022-03-11 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lille-St Etienne  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2021-2022. Sfide e vlefshme per javen e 28-te nga stadiumi "Pierre-Mauroy" ne Villenueve. Komenti: Anarildo Alia</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

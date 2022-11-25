@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Discovery Central Europe">
+    <event id="0" start_time="2022-04-05 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="test">test</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>asdasd</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-04-05 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="test">test</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>test</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

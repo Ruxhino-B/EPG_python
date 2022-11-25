@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Top Channel HD" id="2902"> </channel>
+  <channel name="BANG-BANG" id="2909"> </channel>
+  <channel name="CUFO TV" id="2910"> </channel>
+  <channel name="JUNIOR TV" id="2911"> </channel>
+  <channel name="Nickleodeon" id="2913"> </channel>
+  <channel name="GOLD HD" id="2914"> </channel>
+  <channel name="MAX HD" id="2915"> </channel>
+  <channel name="Klan Music" id="2882"> </channel>
+</WIDECAST_DVB>

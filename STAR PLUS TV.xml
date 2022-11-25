@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="STAR PLUS TV">
+    <event id="0" start_time="2022-09-06 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-06 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-07 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-07 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-07 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-08 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-08 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-08 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-09 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-09 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-09 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-10 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-10 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-10 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-11 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-11 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-11 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-12 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-12 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-12 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-13 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-13 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-13 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-14 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-14 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-14 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-15 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-15 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-15 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-16 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-16 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-16 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-17 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-17 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-17 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-18 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-18 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-18 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-19 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-19 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-19 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-20 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-20 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-20 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-21 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-21 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-21 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-22 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-22 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-22 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-23 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-23 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-23 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-24 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-24 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-24 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-25 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-25 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-25 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-26 05:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-09-26 13:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-09-26 21:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="STAR PLUS TV">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programe dhe emisione te ndryshme</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

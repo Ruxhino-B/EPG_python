@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="FilmBox Premium HD">
+    <event id="0" start_time="2022-09-20 10:25:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Rrefimet">Dramë, Mister, Thriller.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Takimi i G8 mbahet në hotelin luksoz në bregun gjerman. Ekonomistët më të fuqishëm të botës takohen të marrin vendime të rëndësishme që do ta ndikojnë rëndë ekonominë botërore. Njëri nga mysafirët është murgu misterioz italian të cilin e ka ftuar Daniel Rosheja, drejtori i FNM-së. Ai kërkon rrëfimin e fshehtë nga murgu atë natë. Mëngjesin tjetër Reoshenë e gjejnë të vdekur.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2022-09-20 12:10:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Krokodilat e Suburbia 3">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në ditëlindjen e Hannesit asgjë nuk shkon siç duhet. Grindet me të dashurën, Marian, sepse në vend që të kalojë me të momente romantike, preferon të bëhet pjesë e aventurave zbavitëse me pjesën tjetër të Krokodilëve, ashtu si në kohët e vjetra. Shokë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2022-09-20 13:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Bernie">Komedi, Kriminal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Bernie"është një komedi e zezë mbi lidhjen pedante, por të pëlqyer prej të gjithëve, të asistentit të një agjensie funeralesh (Jack Black) me  të zonjën e shtëpisë, me karakter dominues (Shirley MacLaine). </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2022-09-20 15:15:00" duration="7200">
+      <short_event_descriptor lang="alb" name="The viral factor">Aksion, Dramë, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Oficeri ndërkombëtar i sigurimit, Xhoni, ka detyrë të rrezikshme të përcjellë shkencëtar-kriminel në shtetin tjetër, por e tradhton Shoni, një nga bashkëpunëtorët e tij më të afërt, i cili e qit me armë në kokë dhe e zë peng shkencëtarin. Kur Xhoni z</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2022-09-20 17:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Pasi që ik">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shkruar nga Claire Lemaréchal, kjo dramë është një përshtatje e  "Le courage d'une mère" ("Guximi i një nëne"), libri i shkruar nga Marie-Laure Picat &amp; Anne Berthod. Vendi u prek në atë kohë nga historia e kësaj nëne që po vdiste nga kanceri e cila ndërmori një betejë kundër administratës Francëze për t'i mbajtur fëmijët e saj bashkë në një mjedis familjar pas vdekjes së saj.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2022-09-20 19:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Te huaj te persosur">Komedi, Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një mbrmje të ngrohtë verore, një çift i dashuruar, Rokoja, kirurg plastik dhe Eva, psikiatre, presin miqtë e tyre të mirë të kalojnë bashkë një mbrmje të këndshme. Gjithçka kalon mirë derisa u bie ndër mend një lojë e ngjashme me rulet rus: do të vënë celularë mbi tryezë, do t'i zëvendësojnë dhe do të pranojnë të gjitha thirrje publikisht. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2022-09-20 20:35:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Fushat e Londres">Kriminal, Mister, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Femra fatale me aftësi parashikuese Nikola Siks ka jetuar me një parandjenjë të keqe mbi vdekjen e saj të afërt nga vrasja. Ajo fillon një lidhje dashurie të ngatërruar me tre burra krejtësisht të ndryshëm: një prej të cilëve ajo e di se do të jetë vrasësi i saj.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2022-09-20 22:20:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Drejtesi">Western</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Është viti 1868 dhe lufta ka tre vjet që ka përfunduar. Kryebashkiaku i korruptuar dhe një grup kriminelësh gjakatarë kthejnë një minierë të braktisur të vjetër në një fortesë ushtarake ku po presin një luftë civile. Kur marshalli amerikan Xhejms Makord vjen në qytet dhe mëson që ia kanë vrarë vëllain, kërkimi për vrasësin e çon atë në një luftë për qëllime shumë më të rëndësishme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2022-09-20 23:50:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Ushtari universal">Dimension i ri</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në një botë pa qeveri, Unisols mbijetohet duke luftuar anarkinë dhe për të ndërtuar një rend të ri sunduar nga Unisols, tëharrje jashtë të dobëtit dhe testimin e luftëtarë të fortë të tyre në brutal, luftë për jetë a vdekje-
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2022-09-21 01:40:00" duration="6900">
+      <short_event_descriptor lang="alb" name="AGULISE AMERIKANE">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në një qytet të Kalifornisë në shkretëtirë, Itan Inglenbrink është narkoman ekscentrik, agorafobik dhe është i pushtuar me kopshtin e vet. Kjo komedi e errët ndjek ditët e fundit të jetës së tij në kërkim për kuptim, para se të bëhet shumë vonë. Në prag të përjashtimit nga apartamenti, ai mbjell shpejt bima të ndryshme, duke shpresuar se do të fitojë në garën "Kopshti i vitit" dhe që do t'i fitojë 100.000 dollarë, që ta paguajë përfundimisht qiranë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2022-09-21 03:35:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Ted-Aventurieri i humbur">Vizatimor, Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Duke u përpjekur të bëhet aventurier, Tad Xhonsi kërkon një qytet të humbur në këtë komedi 3D spektakolare, e cila do t'ju shëtisë nga Xhungla e Amazonit deri te majat e Maleve Ande.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2022-09-21 05:05:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Projekt Dinozaur">Aventurë, Melodramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Projekti Dinozaur tregon historinë e ekspeditës të një ati e një biri në Kongo, të cilët ndiqen nga një ekip dokumentarësh televizivë. Pasi që të gjithë pjesëmarrësit humbasin, regjistrimet e mbetura shfaqin imazhe befasuese të dinozaurëve që mendohe</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2022-09-21 06:25:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Shume larg, shume afer">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një grup engjëjsh në kryeqytetin gjerman ndjekin me dëshirë jetët e njerëzve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2022-09-21 08:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Qeni polic">Aventure, Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur babai i Robit u vra gjatë shërbimit policor, djali e ndjeu veten të vetmuar dhe të lënë mënjanë. Kur një ditë, Robi gjeti mikun e vjetër të babait, Marlowe, qenin e policisë, djali iu lut nënës së tij për ta mbajtur kafshën në shtëpi. Robi miqëso</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2022-09-21 10:20:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Syri i stuhise">Horror, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një thriller i përqendruar në një grua të re bashkë me vëllain e saj të vogël autik, të cilët janë bllokuar në një shtëpi me një tigër grabitqar gjatë një uragani.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2022-09-21 11:45:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Kampioni ">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në botën super të ngarkuar të garave të pistave, një gabim i vetëm bën që jeta e dy burrave të ndryshojë përgjithmonë. Njëri duhet të luftojë për familjen e tij, tjetri duhet të luftojë për të falur.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2022-09-21 13:40:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Koko para Shanelit">Biografi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një portret magjepës i legjendares Coco Chanel, diktatores revolucionare të modës.  Ishte pikërisht ajo që i lejoi gratë të mbanin flokët të prera shkurt, bizhuteri artificiale, si dhe pantallona. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2022-09-21 15:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="LIBRI MAGJIK SPAIDERUIK">Aksion, Aventura, Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sapo u transferuan në një godinë të shkatërruar në pronësi të familjes Spaideruik, dy vëllezërit binjakë Xhered dhe Simon Greis, së bashku me nënën dhe motrën e tyre Mellori, e gjejnë veten të tërhequr në një botë alternative plot me zana dhe krijesa të tjera.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2022-09-21 17:05:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Asteriksi ne lojerat olimpike">Aventure, Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjatë Lojërave Olimpike, Bruti, djali i adoptuar i Çezarit, do të luftojë për zemrën e princeshës së bukur, Irina. Për Irinën ka humbur kokën edhe një nga galët, Romantiksi. Miqtë e tij, me në krye Asteriksin dhe Obeliksin, do të bëjnë çfarë është e </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2022-09-21 19:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Nderhyrje burrash">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Spenser është një romantik i pashpresë, i lënduar emocionalisht aq shumë që heq dorë nga luftrat në MMA, gjëja e vetme ku ishte në të vërtetë i mirë. Miku i tij më i mirë e shpie në shtëpinë e vet familjare në bregdet, kur provon ta kthejë në jetë duke e njohur me vajza të tjera.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2022-09-21 20:40:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Torte">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kler Simons një grua me humor të hidhur tërhiqet shumë nga vetëvrasja e një gruaje në grupin e saj të dhimbjes kronike. Ndërsa zbulon detajet e vetëvrasjes së Ninës dhe krijon një marrëdhënie prekëse me bashkëshortin e Ninës, ajo ndeshet me tragjetin</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2022-09-21 22:20:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Grabitja e fundit">Aksion, Horror, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një grabitje e bankës merr të keqen kur del që një nga pengjet është vrasës i kërkuar serial.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2022-09-21 23:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="C'ke bere biri im">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>I frymëzuar me një krim të vërtetë, një njeri fillon të përjetojë gjërat që do ta bëjnë ta vrasë nënën e tij me shpatë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2022-09-22 01:20:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Lufta u krye">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pas bombardimit të Kosovës më 1999, familja Rahmani me tre fëmijë emigron në Zvicër. Pas shumë vitesh në shtëpi të re, deportim i mundëshëm e pret familjen.        "Askush nuk krenohet me statusin e imigrantit, por s'kam turp nga vetja", thotë Rasim, zoti i shtëpisë dhe ish mësimdhënës i muzikës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2022-09-22 03:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Histori dashurie e Krishtlindjeve">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sharlota Marton është drejtore e re falimentuese e cila ëndërron të zgjerojë horizontet, si në fushë biznesi, ashtu edhe në fushë private. Në fund të dhjetorit, kompania jurudike e Sharlotës nga Parisi e dërgon në Suedi që ta mbyllë një kompani franc</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2022-09-22 05:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Lokali">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fatet e një grupi në dukje të rastësishëm të huajsh, të cilët bien në kontakt me një figurë misterioze, për të cilën ata besojnë se ka fuqinë për të përmbushur çdo dëshirë, në këmbim të së cilës ata duhet të kryejnë një detyrë që ai u cakton.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2022-09-22 06:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Rrefimet">Dramë, Mister, Thriller.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Takimi i G8 mbahet në hotelin luksoz në bregun gjerman. Ekonomistët më të fuqishëm të botës takohen të marrin vendime të rëndësishme që do ta ndikojnë rëndë ekonominë botërore. Njëri nga mysafirët është murgu misterioz italian të cilin e ka ftuar Daniel Rosheja, drejtori i FNM-së. Ai kërkon rrëfimin e fshehtë nga murgu atë natë. Mëngjesin tjetër Reoshenë e gjejnë të vdekur.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2022-09-22 08:30:00" duration="6600">
+      <short_event_descriptor lang="alb" name="hajdi">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"E shumëdashura Haidi vjen në ekranin e madh! 
+Me më shumë se 50 milion libra të shitura në mbarë botën dhe të përkthyera në më shumë se 50 gjuhë, Haidi është tashmë një yll botëror. 
+Një histori që të ngroh zemrën mbi fëmijërinë dhe miqësinë për t</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2022-09-22 10:20:00" duration="6300">
+      <short_event_descriptor lang="alb" name="KLUBI BUENA VISTA">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kudër mblodhi së bashku disa nga emrat më të mëdhenj nga historia e muzikës kubane për të bashkëpunuar në albumin më të shitur dhe fitues të çmimit Gremi, albumi Klubi Buena Vista. Ky dokumentar revolucionar, i frymëzuar nga albumi, përfshin pjesëmarrje nga interpretuesit legjendar Rai dhe Hoakim Kudër, Ibrahim Ferrer, Ruben Gonzales, Eliades Oka, Omara Portuondo, Kompaj Segundo dhe shumë muzikantë të tjerë të njohur kuban.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2022-09-22 12:05:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Delikatese">Komedi, Romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nathalie e bukur, pas vdekjës së burrit rrëmbehet nga vrulli i punës. Pas njëfarë kohe, miqësohet me Markusin, një vartës i saj. Marrdhënia thellohet. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2022-09-22 13:55:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Te gjitha rruget cojne ne Rome">Komedi, Romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Megi është një nënë e vetme dhe profesore në një fakultet në Nju Jork. Duke u përpjekur të rregullojë marrëdhënien me Samërin, bijen e saj adoleshente, Megi shkon në një fshat të Toskanës, ku ka kaluar shumë kohë kur ishte e re. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2022-09-22 15:25:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Mbrëmë">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori fillon me një çift i cili ndahet për një natë, kur bashkëshorti shkon në udhëtim biznesi me një kolege të cilën e pëlqen. Derisa ai provon të mos bjerë në tundim, bashkëshortja e tij takon ish të dashurin e saj.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2022-09-22 16:55:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Jeta e eksploratorit Amundsen">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta dhe fakte mbi eksploruesin norvegjez Roald Amundsen, njeriu i parë që mbërriti në Polin e Jugut.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2022-09-22 19:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Osiris">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>I vendosur në një kohë të kolonizimit ndërplanetar, Saj Lombrok (Kellan Lutz), një ish-infermiere që tani është një person me një të kaluar problematike, formon një aleancë të paparashikuar me Kein Somerville (Daniel MacPherson), një toger që punon për kontraktuesin ushtarak jashtëtokësor Eksor. Në një garë me kohën, ata u nisën për të shpëtuar vajzën e vogël të Keinit, Indin (Teagan Croft), ne mes të një krize globale të afërt të shkaktuar po nga Eksor.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2022-09-22 20:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mallkimi">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Elli është kujdesur për vëllain e saj më të ri Xhimi që nga vdekja e prindërve të tyre. Një natë pasi e merr nga një festë ata përfshihen në një aksident automobilistik në Mullholland. Ndërsa përpiqet të shpëtojë një grua nga makina tjetër një krijesë e sulmon dhe e vret atë, duke dëmtuar edhe Ellin dhe Xhimin. Pas disa kërkimeve Xhimi e kupton se krijesa mund të ishte vetëm një njeri-ujk.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2022-09-22 22:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Banda majtiste">Kriminal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Banda e krahut të majtë" është një histori krimi për një bandë të njohur kriminelësh dhe një polic i cili rrezikoi gjithçka për t'i kapur. Banda përbëhej nga aktivistë të krahut të majtë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2022-09-22 23:05:00" duration="16800">
+      <short_event_descriptor lang="alb" name="Deri në fund të botës">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në vitin 1999, jeta e Claire ndryshoi përgjithmonë pasi i mbijetoi një aksidenti me makinë. Ajo shpëton Semin dhe fillon të udhëtojë nëpër botë me të. Shkrimtari Eugjen i ndjek pas dhe shkruan historinë e tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2022-09-23 03:45:00" duration="6600">
+      <short_event_descriptor lang="alb" name="NDËRMARRJE DHE LAVDI ">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasi u zhvendos disa kohë më parë nga shtëpia e rehatshme në Vermont për në veri të shtetit Nju Jork, familja e Benxhamin Stidit po përpiqet për të gjetur vend për vetvete në strukturat shoqërore të Palmirës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2022-09-23 05:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Shtepia e ndare">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Benjamin Steed e la jetën e fermës në Vermont dhe u shpërngul pak kohë më pare me familjen në qytezën Palmyr, në pjesën veriore të shtetit të Nju Jorkut. Duke provuar të gjejë vendin e tij në strukturat e ngurta shoqërore, të krijuara në vendbanimin </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2022-09-23 07:10:00" duration="6000">
+      <short_event_descriptor lang="alb" name="NDËRMARRJE DHE LAVDI SIONI AMERIKAN">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në nëntor të vitit 1833, autoritet e shtetit Missouri, hodhen perden e heshtjes mbi faktin e përndjekjes dhe dëbimit nga shtëpitë, në mes të natës, të qindra banorëve paqësorë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2022-09-23 08:50:00" duration="7200">
+      <short_event_descriptor lang="alb" name="The viral factor">Aksion, Dramë, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Oficeri ndërkombëtar i sigurimit, Xhoni, ka detyrë të rrezikshme të përcjellë shkencëtar-kriminel në shtetin tjetër, por e tradhton Shoni, një nga bashkëpunëtorët e tij më të afërt, i cili e qit me armë në kokë dhe e zë peng shkencëtarin. Kur Xhoni z</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2022-09-23 10:50:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Pasi që ik">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shkruar nga Claire Lemaréchal, kjo dramë është një përshtatje e  "Le courage d'une mère" ("Guximi i një nëne"), libri i shkruar nga Marie-Laure Picat &amp; Anne Berthod. Vendi u prek në atë kohë nga historia e kësaj nëne që po vdiste nga kanceri e cila ndërmori një betejë kundër administratës Francëze për t'i mbajtur fëmijët e saj bashkë në një mjedis familjar pas vdekjes së saj.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2022-09-23 12:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Shto edhe Hanin">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Karolina Morgan entuziazmohet kur motra e saj, Bet, sjell në vizitë të bijën e saj të njohur, Hani Halovejin. Por kur Bet shkon papritmas në rehabilitim, Karolina është e detyruar ta ftojë Hanin në shtëpinë e vet në periferi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2022-09-23 14:10:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Syri i stuhise">Horror, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një thriller i përqendruar në një grua të re bashkë me vëllain e saj të vogël autik, të cilët janë bllokuar në një shtëpi me një tigër grabitqar gjatë një uragani.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2022-09-23 15:35:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Ambasadori i Bernes">Drame</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një tregim imagjinar i sulmit të vitit 1958 kundër ambasadës hungareze në Bernë. Bazuar në një histori të vërtetë për pasojat e revolucionit hungarez të vitit 1956.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2022-09-23 16:55:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Shkrimtari fantazem">Mister, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një shkrimtar fantazëm i punësuar për të përfunduar kujtimet e një ish kryeministri Britanik zbulon secret që e venë vetë jetën e tij në rrezik.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2022-09-23 19:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Pasqyrime">Kriminal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur agjenti I Evropolit, Tom Brindël, e kërkojnë në Barcelonë, Spanjë, ta gjejë vrasësin serial i njohur si "Pigmalion", ai zbulon një kuriozitet të veçantë. ADN-ja e gjetur afër trupit në vendndodhjen e fundit, përshtatet me ADN-ën të ushtarit të ri</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2022-09-23 20:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Uji i zi">Aventura, Horror, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjatë pushimit në Australinë veriore, Grejsi, i burri i saj Adam dhe motra e saj e re Li, vendosin të provojnë të peshkojnë në një pellgovinë lokale. Udhëheqësi i tyre Xhim e ka një varkë të vogël me të cilën i udhëheq turistët buzë lumit deri në një</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2022-09-23 22:10:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Vajza e zhdukur">Dramë, Mister, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një shkrimtar i revistës "Nju Jork" kthehet në qytetin e lumit Misuri me gruan e tij të pasur dhe akuzohet për vrasjen e saj pasi ajo u zhduk në mënyrë të mistershme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2022-09-24 00:35:00" duration="5400">
+      <short_event_descriptor lang="alb" name="KRIME SADISTE">Thriller, Kriminal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tadek, një oficer policie që gjen ngjashmëri midis vrasjes së një polici dhe një krimi të rrëfyer në një libër nga shkrimtari Kristov Kozlou. Kur Tadeku fillon të gjurmojë Kozlounë dhe të dashurën e tij, një punëtore misterioze e një klubi seksi nëntokësor, fiksimi i tij do të rritet dhe do të zbresë në botën nëntokësore të seksit, gënjeshtrave dhe korrupsionit për të gjetur të vërtetën e tmerrshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2022-09-24 02:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Hije e djegur">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çarli, një fatkq i vetmuar, i fiksuar pas një striptiste ruse, ndeshet me një njeri të pastrehë të verbër, i cili është shëmbëlltyra e tij perfekte. I hutuar dhe i intriguar nga zbulimi, Çarli e fton burrin në jetën e tij.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2022-09-24 03:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Njeriu ranor">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një mëngjes, Beno gjen rërë në shtratin e tij. Pa marrë parasyh që provon të injorojë këtë, shpejt kupton që atë rërë del nga ai vetë. Ditë pas dite, sasia e rërës është më e madhe dhe koha e tij kalon shpejt. Në fund nuk ka zgjedhje dhe kërkon ndihm</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2022-09-24 05:10:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Jeta e eksploratorit Amundsen">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta dhe fakte mbi eksploruesin norvegjez Roald Amundsen, njeriu i parë që mbërriti në Polin e Jugut.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2022-09-24 07:15:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Ted-Aventurieri i humbur">Vizatimor, Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Duke u përpjekur të bëhet aventurier, Tad Xhonsi kërkon një qytet të humbur në këtë komedi 3D spektakolare, e cila do t'ju shëtisë nga Xhungla e Amazonit deri te majat e Maleve Ande.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2022-09-24 08:45:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Kejt Dhe Liopold">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Keit dhe vëllai i saj aktor jetojnë në Nju Jork në shekullin e 21. Ish i dashuri i saj, Stuarti që jeton në apartamentin sipër saj gjen një vend afër Urës Bruklin ku ka një hapësirë në kohë. Ai kthehet pas në kohë në vitet 1800 dhe bënë një foto të vendit. Leopoldi, një burrë që jetonte në 1870-ën, u mahnit nga kamera e Stuartit dhe vendosi ta ndjek dhe ata përfunduan që të dy në këtë shekull. Leopoldi nuk di asgjë për vendin ku ndodhet tani. Atë e ndihmon Çarli, i cili mendon se Leopoldi është </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2022-09-24 10:40:00" duration="6600">
+      <short_event_descriptor lang="alb" name="KOKO PARA SHANELIT">Biografi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një portret magjepës i legjendares Coco Chanel, diktatores revolucionare të modës.  Ishte pikërisht ajo që i lejoi gratë të mbanin flokët të prera shkurt, bizhuteri artificiale, si dhe pantallona. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2022-09-24 12:30:00" duration="6300">
+      <short_event_descriptor lang="alb" name="TREGIMI I LISBONËS">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjizori Friedrik Monro ka probleme me përfundimin e një filmi pa zë për Lisbonën. Ai telefonon mikun e tij, inxhinierin e zërit Fillip Uinter, që ta ndihmojë. Ndërsa Uinter arrin në Lisbonë disa javë më vonë, Monro është zhdukur por ka lënë filmin e papërfunduar. Uinter vendos të qëndrojë, sepse ai është i hipnotizuar nga qyteti dhe nga këngëtarja portugeze Tereza, si dhe fillon të regjistrojë tingullin e filmit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2022-09-24 14:15:00" duration="5700">
+      <short_event_descriptor lang="alb" name="KËPUCAR">Komedi, Fantazi </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Kobler" flet për këpucar, brez të katërt në punë familjare, që gjen makinë të fshehtë magjike për qepje, në bodrum të babait të tij. Makina i mundëson që të jetojë jetët e të gjithë njerëzve që kanë këpucët e tij.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2022-09-24 15:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Vampiret">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy femra lugetër në Njujork në kohën e sotme moderne janë ballafaquar me mundësitë të pakta të lidhjes dashurore.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2022-09-24 17:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Fjalët ">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shkrimtari ballafaqohet me sekretin e errët. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2022-09-24 19:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Cmenduri">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një grua e re shtrohet në mënyrë të pavullnetshme në një institucion mendor, ku përballet me frikën e saj më të madhe, por a është kjo situatë reale apo produkt i trillimeve të saj?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2022-09-24 20:35:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Rregullat nuk vlejne per ty">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një histori e përqendruar në një lidhje jashtëmartesore që Houard Hju kishte në vitet e fundit të jetës së tij me një grua më të re.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2022-09-24 22:40:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Të pavdekshëm">Aksion, Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Konor dhe Dankën Mekllod, të dy të pavdekshëm, duhet të bashkojnë forcat kundër Kell, në të pavdekshmi të keq i cili është bërë shumë i fortë për tu përballur vetëm.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2022-09-25 00:20:00" duration="11100">
+      <short_event_descriptor lang="alb" name="Gjueti parash">Dramë, Sport, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Brandon Lang e dashuron për futbollin. Fakti që ka një gju të lënduar e pengon atë të luaj me profesionistët, por aftësitë e tij e bëjnë atë një parashikues shumë të mirë të rrjedhës së lojës. Duke qenë se kishte nevojë për para ai largohet nga Las Vegas për të shkuar në Manhatan për të punuar për Uolter Ambrasin si këshilltar kumari. Uolter ka një grua të dashur, një vajzë dhe një biznes të suksesshëm, por ka një zemër të dobët, beson se është një mjeshtër manipulimi dhe ka një ves që mezi e mb</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2022-09-25 03:25:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Shume larg, shume afer">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një grup engjëjsh në kryeqytetin gjerman ndjekin me dëshirë jetët e njerëzve.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2022-09-25 05:50:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Safari ne Afrike">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shikoni luanët të gjuajnë foka në bregdetin e Namibisë, bëni banja dielli me elefantët në deltën Okavango, ecni përmes 15 milion lakuriqësh nate në Kansaka gjatë migrimit më të madh në Tokë, ose shikoni luanët të gjiten nëpër pemë në Tanzani. Safari </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2022-09-25 07:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Rrefimet">Dramë, Mister, Thriller.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Takimi i G8 mbahet në hotelin luksoz në bregun gjerman. Ekonomistët më të fuqishëm të botës takohen të marrin vendime të rëndësishme që do ta ndikojnë rëndë ekonominë botërore. Njëri nga mysafirët është murgu misterioz italian të cilin e ka ftuar Daniel Rosheja, drejtori i FNM-së. Ai kërkon rrëfimin e fshehtë nga murgu atë natë. Mëngjesin tjetër Reoshenë e gjejnë të vdekur.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2022-09-25 09:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="hajdi">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"E shumëdashura Haidi vjen në ekranin e madh! 
+Me më shumë se 50 milion libra të shitura në mbarë botën dhe të përkthyera në më shumë se 50 gjuhë, Haidi është tashmë një yll botëror. 
+Një histori që të ngroh zemrën mbi fëmijërinë dhe miqësinë për t</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2022-09-25 10:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Viti kur Dolli Parton ishte ne">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Elizabet Alison Grej është një 11 vjeçare e zakonshme periferie në pritje që adoleshenca të mbërrijë kur zbulon se e gjithë jeta e saj ka qënë një gënjeshtër. Me vetëm imagjinatën si udhëheqje, ajo largohet fshehurazi për të zbuluar të vërtetën. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2022-09-25 12:25:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Mbrëmë">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori fillon me një çift i cili ndahet për një natë, kur bashkëshorti shkon në udhëtim biznesi me një kolege të cilën e pëlqen. Derisa ai provon të mos bjerë në tundim, bashkëshortja e tij takon ish të dashurin e saj.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2022-09-25 13:55:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Asteriks dhe Obeliks ne Britani">Aventura, Vizatimor, Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Asteriks kalon kanalin për të ndihmuar kushuririn e tij të dytë, Antiklimaksin, të rrëzojë Jul Çezarin dhe të pushtojë Romanët.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2022-09-25 15:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Lokali">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fatet e një grupi në dukje të rastësishëm të huajsh, të cilët bien në kontakt me një figurë misterioze, për të cilën ata besojnë se ka fuqinë për të përmbushur çdo dëshirë, në këmbim të së cilës ata duhet të kryejnë një detyrë që ai u cakton.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2022-09-25 17:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Te gjitha rruget cojne ne Rome">Komedi, Romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Megi është një nënë e vetme dhe profesore në një fakultet në Nju Jork. Duke u përpjekur të rregullojë marrëdhënien me Samërin, bijen e saj adoleshente, Megi shkon në një fshat të Toskanës, ku ka kaluar shumë kohë kur ishte e re. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2022-09-25 19:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Aloha">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një kontraktues i famshëm ushtarak kthehet në vendin e triumfeve të tij më të mëdha në karrierë dhe rilidhet me një dashuri të kohëve të mëparshme, por papritur ai bie në dashuri me një vartëse nga Forcat Ajrore.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2022-09-25 20:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Zhigolo">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fioravante vendos të bëhet një donxhuan profesionist, si një mënyrë për të fituar para për të ndihmuar mikun e tij të varfër, Mërin. Me Mërin që vepron si "menaxheri" i tij, dyshja shpejt e gjen veten të kapur nga rrymat e dashurisë dhe parasë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2022-09-25 22:15:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mallkimi">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Elli është kujdesur për vëllain e saj më të ri Xhimi që nga vdekja e prindërve të tyre. Një natë pasi e merr nga një festë ata përfshihen në një aksident automobilistik në Mullholland. Ndërsa përpiqet të shpëtojë një grua nga makina tjetër një krijesë e sulmon dhe e vret atë, duke dëmtuar edhe Ellin dhe Xhimin. Pas disa kërkimeve Xhimi e kupton se krijesa mund të ishte vetëm një njeri-ujk.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2022-09-25 23:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="11:11:11">Horror, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pas vdekjes tragjike të gruas dhe fëmijës së tij, autori i famshëm amerikan Xhozef Kron udhëton nga Shtetet e Bashkuara për në Barcelonë, Spanjë, për t'u bashkuar me vëllain e tij të largët Samuelin dhe babain në shtratin e vdekjes, Riçardin. Sidoqof</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2022-09-26 01:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Humbur në  Firence">Aventurë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një djalosh amerikan zemërthyer përfshihet në Firence në Sportin e rrezikshëm vendas dhe me një grua joshëse.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2022-09-26 03:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="IKBALI DHE FORMULA SEKRETE">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ikbali është një djalë simpatik 13 vjeçar, me imagjinatë dhe argëtues, diçka e cila, sipas babait të tij, nuk mjafton për t'i siguruar dikujt sukses në botë. Por kur Ikbali, vëllai i tij i vogël Tariku (11 vjeç) dhe shoku i tyre Sill, shpërthejnë aksidentalisht shkollën e tyre, babai i tij është problemi më i vogël. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2022-09-26 04:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Te gjitha rruget cojne ne Rome">Komedi, Romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Megi është një nënë e vetme dhe profesore në një fakultet në Nju Jork. Duke u përpjekur të rregullojë marrëdhënien me Samërin, bijen e saj adoleshente, Megi shkon në një fshat të Toskanës, ku ka kaluar shumë kohë kur ishte e re. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2022-09-26 06:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Ted-Aventurieri i humbur">Vizatimor, Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Duke u përpjekur të bëhet aventurier, Tad Xhonsi kërkon një qytet të humbur në këtë komedi 3D spektakolare, e cila do t'ju shëtisë nga Xhungla e Amazonit deri te majat e Maleve Ande.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2022-09-26 07:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Dy prej nesh">Komedi, Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jean-Christian Ranu (Daniel Auteuil) është një llogaritar pak tuhaf, i cili jeton pa plane. Nga ana tjetër, Gilles Gabriel (Alain Chabat) është këngëtar i muzikës pop, i cili në kohën e vet, i  pati pesë minutat e tij. Askujt nuk do t'ia merrte mendj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2022-09-26 08:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Magji vdekjeprurese">Thriller, Romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në turne nëpër Britani më 1926, Hari Hudini e nis një lidhje të pasionuar me një profete që synon ta mashtrojë magjibërësin e shkëlqyer.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2022-09-26 10:30:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Pasi që ik">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shkruar nga Claire Lemaréchal, kjo dramë është një përshtatje e  "Le courage d'une mère" ("Guximi i një nëne"), libri i shkruar nga Marie-Laure Picat &amp; Anne Berthod. Vendi u prek në atë kohë nga historia e kësaj nëne që po vdiste nga kanceri e cila ndërmori një betejë kundër administratës Francëze për t'i mbajtur fëmijët e saj bashkë në një mjedis familjar pas vdekjes së saj.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2022-09-26 12:15:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Luftetari">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aisha shkon në shkollën e mesme dhe babai i saj, që ka ardhur në Danimarkë si emigrant nga Turqia, është e bindur se ajo do të bëhet mjeke. Aisha, në fakt, preferon të ushtrohet në Sportet luftarake, sesa të bëjë mësimet. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2022-09-26 13:55:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Lokali">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fatet e një grupi në dukje të rastësishëm të huajsh, të cilët bien në kontakt me një figurë misterioze, për të cilën ata besojnë se ka fuqinë për të përmbushur çdo dëshirë, në këmbim të së cilës ata duhet të kryejnë një detyrë që ai u cakton.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2022-09-26 15:40:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Endrra">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>El somni (Ëndrra) është një film i shquar i drejtuar nga Franc Aleu, i cili tregon procesin krijues të mbi 40 artistëve ndërkombëtarë të cilët morën pjesë në një darkë të organizuar si një opera me dymbëdhjetë pjata, me krijime gastronomike të vëllezërve Roka, nga restoranti El Seller de Kan Roka.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2022-09-26 17:05:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Kejt Dhe Liopold">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Keit dhe vëllai i saj aktor jetojnë në Nju Jork në shekullin e 21. Ish i dashuri i saj, Stuarti që jeton në apartamentin sipër saj gjen një vend afër Urës Bruklin ku ka një hapësirë në kohë. Ai kthehet pas në kohë në vitet 1800 dhe bënë një foto të vendit. Leopoldi, një burrë që jetonte në 1870-ën, u mahnit nga kamera e Stuartit dhe vendosi ta ndjek dhe ata përfunduan që të dy në këtë shekull. Leopoldi nuk di asgjë për vendin ku ndodhet tani. Atë e ndihmon Çarli, i cili mendon se Leopoldi është </text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><WIDECAST_DVB>
+	<channel name="MAX HD">
+		<Event id="0" start_time="2022-09-20 07:45:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Mbreti Majmun 3">Aksion, fantazi, aventurë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Monkey King 3 2018"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Aaron Kwok. Mbreti Majmun dhe shkokët e tij kapen robër nga mbretëresha e një vendi që popullohet vetëm nga femra, e cila beson se prania e udhëtarëve paralajmëron shkatërrimin e botës së tyre</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="1" start_time="2022-09-20 09:40:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Sekretet që mbajmë">Dramë, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Secrets We Keep "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Noomi Rapace. Në Amerikën e pas Luftës II Botërore, një emigrante e mbijetuar e holokaustit, rrëmben fqinjin gjerman dhe kërkon hakmarrje për krimet e tmerrshme të luftës që ajo beson se ai bëri ndaj saj...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="2" start_time="2022-09-20 11:20:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Pijedashësit">Komedi, dramë, sport</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Drinking Buddies"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Olivia Wilde, Jake Johnson. Luka dhe Kejti janë kolegë që kalojnë darkat duke pirë dhe flirtuar, dhe të dy janë të lidhur... me persona të tjerë. Një fundjavë me të dashurit reciprokë vërteton se kush duhet të jetë me kë dhe kush jo!</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="3" start_time="2022-09-20 12:55:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Shumë vështirë për të vrarë">Aksion, krim, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="End of a Gun"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Steven Seagal, Jade Ewen. Një ish-agjent i DEA-s, pranon të ndihmojë një grua misterioze dhe joshëse, për të grabitur 2 milione dollarë nga një kriminel i rrezikshëm.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="4" start_time="2022-09-20 14:25:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Magjistari i rrugës">Dramë, fantashkencë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sleight"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Për t'u kujdesur për motrën e tij më të vogël, një i ri, iluzionist rruge, fillon të shpërndajë drogë. Por kur e motra rrëmbehet, ai detyrohet të përdorë aftësitë e tij për të shpëtuar atë dhe veten.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="5" start_time="2022-09-20 15:55:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Një fundjavë në Napa"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Wine Country"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Amy Poehler. Mosha ështe veç një numër për 6 shoqe të ngushta dhe me rastin e 50-vjetorit të njërës prej tyre, ato bashkohen për një udhëtim në Napa. Por nën efektin e alkoolit, hatërmbetje të vjetra fillonë të dalin në sipërfaqe...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="6" start_time="2022-09-20 17:40:00" duration="8400">
+			<short_event_descriptor lang="alb" name="Si bubullimë">Krim</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The place beyond the pines"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ryan Gosling, Bradley Cooper. Në përpjekje për t'u kujdesur për fëmijën e tij të porsalindur, një dublant me motor, fillon të grabisë banka. Një veprim që do ta përballë me një polic të ri, ku pasojat do të ndikojnë edhe në të ardhmen.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="10"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="7" start_time="2022-09-20 20:00:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Ata që mbeten">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Rest Of Us "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nënë e vetme strehon pa dëshirë gruan e dytë të ish-burrit të saj dhe vajzën e tyre, pasi vdekja e tij e parakoshme i lë të pastreha. Nën të njëjtën çati, ato duhet të luftojnë me hidhërimin dhe ndjenjat e ndërlikuara për njëra-tjetrën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="8" start_time="2022-09-20 21:25:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Masakra e Teksasit 7">Horror</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Texas Chainsaw"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Alexandra Daddario, Scott Eastwood. Shumë vite pas masakrës së Teksasit, një vajzë e re dhe miqtë e saj shkojnë në një shtëpi që ajo sapo e ka trashëguar, pa e ditur se aty i pret një tmerr i vërtetë dhe tortura çnjerëzore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="9" start_time="2022-09-20 23:00:00" duration="7800">
+			<short_event_descriptor lang="alb" name="Mbreti i tregtarëve të drogës">Aksion, krim</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Chasing The Dragon aka Chui Lung"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Bazuar në jetën e vërtetë të gangsterit Ng Sek-ho. Një emigrant nga Kina hyn ilegalisht në Hong Kongun e kolonizuar nga britanikët në 1963-shin dhe nga hiçi, arrin të bëhet një ndër lordët më të pamëshirshëm të drogës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="10" start_time="2022-09-21 01:10:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Robin Hudi i fundit">Biografi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The last of Robin Hood"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kevin Kline, Dakota Fanning, Susan Sarandon. Vitet e fundit të aktorit Hollivudian, Errol Flynn dhe romanca e tij e zjarrtë me një aktore shumë të re se ai në moshë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="11" start_time="2022-09-21 02:45:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Sëpata 3">Horror</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Hatchet 3"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Legjenda e Viktor Kraulit, vazhdon ende. Ndërkohë që disa njerëz shkojnë në moçalin vdekjeprurës për të tërhequr viktimat, Meribethi vajza që i mbijetoi sulmit makabër, përpiqet të zbulojë sekretin që do t'i japë fund përgjithmonë masakrës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="12" start_time="2022-09-21 04:10:00" duration="5700">
+			<short_event_descriptor lang="alb" name="7 Xhuxhat 1">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Seven dwarves "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një version shumë ndryshe i një prej historive më të njohura të vëllezërve Grim. 7 xhuxhat, të cilët s'janë dhe aq xhuxha nuk do të lënë gur pa lëvizur për të shpëtuar Borëbardhën nga mbretëresha shpirtkeqe...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">9</parental_rating_descriptor>
+		</Event>
+		<Event id="13" start_time="2022-09-21 05:45:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Gropa">Thriller, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The hole"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Dy vëllezër dhe fqinja e tyre simpatike, zbulojnë një gropë misterioze në bodrumin e shtëpisë dhe shumë shpejt kuptojnë se kjo është porta që lidhet me horroret e botës së përtejme...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="14" start_time="2022-09-21 07:20:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Princat e patinazhit">Parodi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Blades Of Glory"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Will Ferrell, Jon Heder. Parodi e filmave "Dashuri në akull". Dy rivalë meshkuj në patinazh, përleshen me njëri-tjetrin dhe përjashtohen nga garat. Tre vjet më vonë në përpjekje për t'u rikthyer, e vetmja mënyrë është të garojnë si çift.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="15" start_time="2022-09-21 08:55:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Ngritja e luftëtarit Hije">Aksion, aventurë, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Rise Of The Shadow Warrior aka SAGA Cur"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Danielle Chuchran, Richard McWilliams. Një gjuetare kukudhësh, një luftëtar dhe një ork, formojnë një aleancë të pazakontë, në pëpjekje për të ndalur ardhjen mbi tokë të  'Zotit të vdekjes'...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="16" start_time="2022-09-21 10:40:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Me këtë unazë">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="With This Ring"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regina Hall, Jill Scott, Eve. Pasi marrin pjesë në dasmën luksoze të një shoqeje, tre gra bëjnë një pakt, që secila prej tyre të martohet brenda vitit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="17" start_time="2022-09-21 12:10:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Kur thyhet një degë">Thriller psikologjik</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="When the Bough Breaks"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Morris Chestnut, Regina Hall, Jaz Sinclair. Martesa e një çifti vihet në rrezik kur vajza që kanë përzgjedhur si surrogatja e fëmijës se tyre, kërkon të ketë burrin dhe fëmijën brenda saj për vete...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="18" start_time="2022-09-21 14:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Shtëpia e tim eti">Parodi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Casa De Mi Padre "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Parodi e telenovelave spanjolle dhe filmave Western. Will Ferrell, në rolin e një kauboji meksikan, hap një mal me telashe kur bie në dashuri me të fejuarën e të vëllait dhe nis një luftë me kriminelin më të rrezikshëm të zonës...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="19" start_time="2022-09-21 15:30:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Të kapësh fundin">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Smashed"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Mary Elizabeth Winstead, Aaron Paul. Lidhja e një çifti të dashuruar pas njëri-tjetrit dhe alkoolit, vihet në rrezik, kur gruaja vendos që të mos pijë më...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="20" start_time="2022-09-21 16:50:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Marinsi 6">Aksion, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Marine 6 Close Quarters "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Yjet e wrestling Shawn Michaels, Becky Lych. Xheik Karter dhe nje tjeter ish-marins, Luk Traper,bashkojne forcat per te shpetuuar nje vajze te rrembyer nga nje grup kriminilesh nderkometare</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text>Jake Carter and another former Marine, Luke Trapper, join forces to rescue a kidnapped girl from a gang of international criminals.</text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="21" start_time="2022-09-21 18:15:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Gara e madhe">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The big year "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jack Black.  Në përpjekje për të ndryshuar jetët e tyre të mërzitshme, tre vëzhgues amatorë te zogjve, fillojnë një garë se kush do të shohë më shumë zogj brenda një viti. Por shumë shpejt gara miqësore, kthehet në një mision qesharak...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="22" start_time="2022-09-21 20:00:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Çdo minutë vlen">Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Dying of the Light "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Nicolas Cage.  Një agjent veteran i C.I.A-s, urdhërohet të dalë në pension. Por kur nje terrorist i pashpirt del sërish në skenë, ai rikthehet në misionin më të rrezikshëm anti - terrorizëm...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="23" start_time="2022-09-21 21:35:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Unë jam Leri">Horror</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Come play"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Prindërit e një djali me autizëm që gjen ngushëllim vetëm tek tableti i tij, përpiqen dëshpërimisht të shpëtojnë të voglin e tyre nga "Leri", përbindëshi prapa ekranit që përdor teknologjinë për të hyrë në botën tonë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="24" start_time="2022-09-21 23:10:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Faji">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Blame"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Abigeli nis të ketë besim në vetvete kur përzgjidhet të aktrojë në një pjesë teatrale. Kur raporti i saj me regjisorin e kalon kufirin profesional, lidhja e tyre bëhet munduese dhe xhelozia shkatërron ekuilibrat e jetës së saj</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="25" start_time="2022-09-22 00:50:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Shteg i përgjakur">Aksion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="True Justice Blood Alley aka Blood Alle "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Steven Seagal. Me premtimin se do të marrë informacion për përgjegjësit e eliminimit të skuadrës, Elijah Kane fillon një mision të ri për C.I.A. Por ndërkohë që heton, ai zbulon një komplot të rrezikshëm të trafikut të organeve njerëzore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="26" start_time="2022-09-22 02:20:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Karamelet e djallit">Horror</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Devils Candy"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një piktor dhe familja e tij besojnë se kanë blerë shtëpinë e ëndrave të tyre, por kur ai pushtohet nga një forcë misterioze, ata duhet të luftojnë që të shpëtojnë shpirtrat e tyre.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="27" start_time="2022-09-22 03:40:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Dy të shthurur në Harvard">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="How High"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Method Man, Abba Babatude. Një dite dy djem, Silas dhe Xhamal vendosin të tymosin dicka magjike që do të mund t'i ndihmoje ata në provimin e fundit në kolegj.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="28" start_time="2022-09-22 05:15:00" duration="9300">
+			<short_event_descriptor lang="alb" name="2012">Aksion, aventurë, fantashkencë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="2012"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>John Cusack, Amanda Peet. Më 21.12.2012, ngjarje apokaliptike do shkatërrojnë botën dhe do të rrezikojnë ekzistencën e njerëzimit. Kjo është përpjekja e një grupi të mbijetuarish, që kërkojnë të gjejnë zgjidhje para se të jetë vonë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="29" start_time="2022-09-22 07:50:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Streetdance 1">Kërcim, muzikë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Streetdance 1"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Për t'u përgatitur për një përballje në kërcimin e rrugës, një grup të rinjsh detyrohen të ndajnë sallën e provave me një grup baleti. Edhe pse stilet e kërcimit janë shumë ndryshe, ata fillojnë të bashkëpunojnë për të realizuar ëndrrat...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="30" start_time="2022-09-22 09:30:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Fëmijët tanë">Kinemaja Italiane</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="I nostri ragazzi "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Regjia: Ivano di Mateo. Dy vëllezër përballen me dilemën e dështimit si prindër kur në internet shfaqet një video shqetësuese me protagonistë fëmijët e tyre. Fitues i katër çmimeve në Festivalin e Venecias.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="31" start_time="2022-09-22 11:05:00" duration="5100">
+			<short_event_descriptor lang="alb" name="Të guximshmit">Aksion</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="He Who Dares"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Tom Knight, Simon Phillips, Christina Bellavia. Një skuadër speciale ushtarësh, përpiqet të shpëtojë vajzën e Kryeministrit, e cila është rrëmbyer nga një grup terrorist dhe mbahet e mbyllur në një ndërtesë plot kurthe e të papritura.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="32" start_time="2022-09-22 12:30:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Dashuri dhe telashe">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Jumping The Broom"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Paula Patton, Laz Alonso. Sabrina dhe Xhejson, kanë vendosur të martohen. Të dy janë afroamerikanë, por familjet e tyre janë shumë ndryshe nga njëra-tjetra dhe kur ato takohen gjithçka kthehet përmbys...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="33" start_time="2022-09-22 14:25:00" duration="8100">
+			<short_event_descriptor lang="alb" name="Njeriu i jashtëzakonshëm Merimangë">Aksion, aventurë, fantazi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Amazing Spider Man"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Andrew Garfield, Rhys Ifans, Emma Stone. Kjo është historia e patreguar e 'Njeriut Merimangë'... Pasi gjen nje valixhe të lënë nga babai i tij, Piter Parker do të kërkojë me ngulm të zbulojë arsyen e zhdukjes së prindërve të tij..</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="34" start_time="2022-09-22 16:40:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Kujtimet e erreta">Mister, Thriller psikologjik</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Regression"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Ethan Hawke, Emma Watson. Një detektiv heton rastin e një vajze që akuzon të atin për një krim të tmerrshëm. Kur ai pranon krimin edhe pse nuk e kujton, një psikolog thërritet për ndihme, por zbulon 1 mister rrënqethës mbarëkombetar</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="35" start_time="2022-09-22 18:25:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Po sikur">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="What if"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Daniel Radcliffe, Zoe Kazan. I zhgënjyer nga romanca të dështuara, një djalë njihet me një vajzë, me të cilën miqësohet menjëherë. Edhe pse ajo jeton me të dashurin, të dy e kuptojnë se s'mund t'i shamngen tërheqjes ndaj njëri-tjetrit.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="36" start_time="2022-09-22 20:00:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Fundi">Aksion, dramë, mister, fantashkencë, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="How It Ends"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Theo James, Forest Whitaker. Kur një apokalips misterioz shkakton frikë dhe përçarje mes njerëzve, një burrë dhe vjehrri i tij udhëtojnë përgjatë një vendi të zhytur në kaos për të shpëtuar gruan e tij shtatzënë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="37" start_time="2022-09-22 21:50:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Bija e Ujkut"></short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Daughter of the Wolf"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pasi i biri rrëmbehet, në vend që të kërkojë ndihmë, një ushatarake veterane merr peng njërin prej rrëmbyesve dhe e detyron të ndërmarrin një udhëtim të rrezikshëm, për të shpëtuar djalin nga kthetrat e liderit misterioz të bandës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="38" start_time="2022-09-22 23:20:00" duration="5700">
+			<short_event_descriptor lang="alb" name="I forti">SportLife</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Goon"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Seann Scott, Jay Baruchel. Edhe pse shumë ndryshe nga familja e tij e shkolluar, edhe pse nuk ia thotë shumë nga sporti i hokejit, një i ri që di t'i përdorë shumë mirë grushtat, pranohet në skuadrën e qytetit..</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="39" start_time="2022-09-23 00:55:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Kur të zgjohet">Horror, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="After She Wakes "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>2019. Pas vdekjes aksidentale të të birit, një nënë dhe vajza e saj, të cilat po përjetojnë hidhërimin e pangushëllueshëm, fillojnë të vuajnë nga ndërprerje të shpeshta dhe frikshme të gjumit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="40" start_time="2022-09-23 02:15:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Korrieri">Aksion, krim, mister, thriler</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Courier"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jeffrey Dean Morgan, Mickey Rourke. 1 milion dollarë, vetëm për të dorëzuar një valixhe misterioze. Një 'korrier' specialist merr përsipër misionin, por dorëzimi duhet t'i bëhet një krimineli të pashpirt, që askush nuk e di ku ndodhet...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="41" start_time="2022-09-23 03:50:00" duration="4500">
+			<short_event_descriptor lang="alb" name="Gjahtar shpërblimesh për Krishtlindje">Aksion, komedi, krim, romancë, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Christmas Bounty"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Francia Raisa, Mike 'The Miz' Mizanin. Një ish gjahtare shpërblimesh,  kthehet në shtëpi për Krishtlindje dhe vendos të kryejë një punë të fundit. Por kur i fejuari e surprizon, ajo e ka të vërshtirë të fshehë të kaluarën...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="42" start_time="2022-09-23 05:05:00" duration="6900">
+			<short_event_descriptor lang="alb" name="Futboll Shaolin">Arte Marciale, sport</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Shaolin Soccer"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Pas një gabimi që i kushton karrierën, një ish futbollist takon një student kung-fuje shaolin që po përpiqet të përhapë artin e kung-fusë. Ish futbollisti bashkohet me 5 vëllezërit e tij dhe u mëson atyre futbollin dhe kung-funë shaoline.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="43" start_time="2022-09-23 07:00:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Moderne dhe gënjeshtare">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Confessions Of A Shopaholic"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Isla Fisher, Hugh Dancy. Një vajzë që nuk u reziston dot blerjeve nëpër dyqane dhe është e mbytur në borxhe, fillon punë si gazetare në një revistë, ku i duhet të shkruajë sesi të kursesh para nga blerjet e tepërta...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="44" start_time="2022-09-23 08:45:00" duration="6600">
+			<short_event_descriptor lang="alb" name="Sunshine Misioni i shpresës">Fantashkencë, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Sunshine"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Cillian Murphy, Rose Byrne, Chris Evans. Në të ardhmen e afërt, Dielli po vdes dhe Toka bashkë me të. Një ekip astronautësh që janë nisur drejt Diellit, me shpresën për ta rindezur janë mundësia e fundit për mbijetesën e njerëzimit...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="45" start_time="2022-09-23 10:35:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Plumbi i vrasësit">Aksion, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Assassin's Bullet aka Sofia"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Christian Slater, Donald Sutherland, Elika Portnoy. Dikush po zhduk një e nga një terroristët me prioritet të lartë të qeverisë amerikane dhe ish agjenti i F.B.I-së, Robert Diggs, ngarkohet me misionin e vështirë të zbulimit të së vërtetës.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="46" start_time="2022-09-23 12:05:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Heroi i kafshëve">Komedi romantike</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Zookeeper"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Kevin James, Rosario Dawson. Kafshët e një kopshti zoologjik, vendosin të zbulojnë se mund të flasin me njerëzit, në mënyrë që të ndihmojnë kujdestarin e tyre për të gjetur dashurinë dhe për të mos u larguar për një punë tjetër 'më të mirë'...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="6"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="47" start_time="2022-09-23 13:45:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Konvergjenca">Aksion, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Convergence"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një dektektiv policie dërgohet në një spital thuajse të zbrazët, pasi plagoset në një sulm terrorist. Atje, i vetëm, ai duhet të përballet me armiq të një tjeter lloji, ndërsa lufton të zbulojë identitetin e terroristit para se të jetë tepër vonë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="48" start_time="2022-09-23 15:25:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Nën shenjestër 2">Aksion, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Hard Target 2"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një mjeshtër i arteve marciale (Scott Adkins), merr një ofertë të majme për një dyluftim të fundit, por me të mbëritur kupton se është futur në kurth për të qënë shënjestra e një gjuetie njerëzore.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="49" start_time="2022-09-23 17:10:00" duration="4800">
+			<short_event_descriptor lang="alb" name="Ata që mbeten">Dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Rest Of Us "></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një nënë e vetme strehon pa dëshirë gruan e dytë të ish-burrit të saj dhe vajzën e tyre, pasi vdekja e tij e parakoshme i lë të pastreha. Nën të njëjtën çati, ato duhet të luftojnë me hidhërimin dhe ndjenjat e ndërlikuara për njëra-tjetrën.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="50" start_time="2022-09-23 18:30:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Amityville: Zgjimi">Horror</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Amityville The Awakening"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Jennifer Jason Leigh, Bella Thorne. Bela dhe familja e saj shpërngulen në një shtëpi të re. Por kur fenomene të frikshme fillojnë të ndodhin, ajo kupton se nëna e saj nuk po i tregon të vërtetën dhe ata janë shpërngulur në shtëpinë famëkeqe.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">10</parental_rating_descriptor>
+		</Event>
+		<Event id="51" start_time="2022-09-23 20:00:00" duration="5400">
+			<short_event_descriptor lang="alb" name="Profesionisti">Aksion, Thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="The Hunter's Prayer"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Një vrasës me pagesë krijon një aleancë të paparashikuar me një nga objektivat e tij: një vajzë e re që kërkon të hakmarret për vrasjen e familjes së saj.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="7"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="52" start_time="2022-09-23 21:30:00" duration="6000">
+			<short_event_descriptor lang="alb" name="Plani i Megit">Romancë, komedi, dramë</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Maggie's Plan"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Greta Gerwig, Ethan Hawke, Julianne Moore. E vendosur për t'u bërë me fëmijë, nje vajzë e gjen veten në një trekëndësh dashurie me një profesor dhe bashkëshorten e tij.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="53" start_time="2022-09-23 23:10:00" duration="6300">
+			<short_event_descriptor lang="alb" name="Nata e djallit - Kapitulli 2">Horror</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Insidious Chapter 2"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Në kapitullin e dytë të "Nata e djallit", familja e përndjekur Lambert, përpiqet të zbulojë sekretin misterioz që i ka lidhur me botën e përtejme dhe po i torturon çdo ditë.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+		<Event id="54" start_time="2022-09-24 00:55:00" duration="5700">
+			<short_event_descriptor lang="alb" name="Vetëm Zoti fal">Krim, thriller</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Only God Forgives"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>Xhulian, një njeri i respektuar në botën kriminale të Bangkokut, drejton një klub boksi, bashkë me vëllain e tij. Por kur i vëllai vritet, Xhulian fillon një fushatë hakmarrjeje që nuk dihet se ku do të ndalet...</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="0"/>
+			<parental_rating_descriptor country_code="alb">15</parental_rating_descriptor>
+		</Event>
+		<Event id="55" start_time="2022-09-24 02:30:00" duration="5220">
+			<short_event_descriptor lang="alb" name="Bariu i dhive">Komedi</short_event_descriptor>
+			<short_event_descriptor lang="eng" name="Goats"></short_event_descriptor>
+			<extended_event_descriptor lang="alb">
+				<text>David Duchovny, Vera Farmiga, Graham Phillips. Ndërkohë që përgatitet  për vitin e parë të shkollës larg familjes, një 15 vjeçar përballet me vështirësitë e ndarjes nga nëna hipi dhe 'Bariu i dhive', njeriu që për të ka qenë si një baba.</text>
+			</extended_event_descriptor>
+			<extended_event_descriptor lang="eng">
+				<text></text>
+			</extended_event_descriptor>
+			<content_descriptor nibble1="1" nibble2="1"/>
+			<parental_rating_descriptor country_code="alb">12</parental_rating_descriptor>
+		</Event>
+	</channel>
+</WIDECAST_DVB>
